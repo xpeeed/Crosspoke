@@ -1,0 +1,227 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Crosspoke questions dataset",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "datasetVersion",
+    "language",
+    "releaseReady",
+    "categories",
+    "questions"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "1.4"
+    },
+    "datasetVersion": {
+      "type": "string"
+    },
+    "language": {
+      "const": "de-DE"
+    },
+    "releaseReady": {
+      "type": "boolean"
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "targetCount"
+        ],
+        "properties": {
+          "id": {
+            "enum": [
+              "GEO",
+              "HIS",
+              "FOD",
+              "SCI",
+              "TEC",
+              "SPO",
+              "ECO",
+              "ENT",
+              "HUM",
+              "CUR"
+            ]
+          },
+          "name": {
+            "type": "string"
+          },
+          "targetCount": {
+            "type": "integer",
+            "minimum": 30
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "categoryId",
+          "category",
+          "subcategory",
+          "question",
+          "answerValue",
+          "unit",
+          "hint1",
+          "hint2",
+          "source",
+          "referenceDate",
+          "qualityStatus",
+          "hintReviewStatus",
+          "playtestStatus",
+          "editorialNote",
+          "revision",
+          "questionContext",
+          "answerExplanation",
+          "additionalSources",
+          "hintReviewNote"
+        ],
+        "properties": {
+          "categoryId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "category": {
+            "type": "string",
+            "minLength": 1
+          },
+          "subcategory": {
+            "type": "string",
+            "minLength": 1
+          },
+          "question": {
+            "type": "string",
+            "minLength": 1
+          },
+          "unit": {
+            "type": "string",
+            "minLength": 1
+          },
+          "hint1": {
+            "type": "string",
+            "minLength": 1
+          },
+          "hint2": {
+            "type": "string",
+            "minLength": 1
+          },
+          "editorialNote": {
+            "type": "string",
+            "minLength": 1
+          },
+          "id": {
+            "type": "string",
+            "pattern": "^(GEO|HIS|FOD|SCI|TEC|SPO|ECO|ENT|HUM|CUR)-[0-9]{4,}$"
+          },
+          "answerValue": {
+            "type": "number"
+          },
+          "source": {
+            "type": "object",
+            "required": [
+              "name",
+              "url",
+              "checkedOn"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "checkedOn": {
+                "type": "string",
+                "format": "date"
+              }
+            },
+            "additionalProperties": false
+          },
+          "referenceDate": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "qualityStatus": {
+            "enum": [
+              "draft",
+              "source_checked",
+              "approved",
+              "retired"
+            ]
+          },
+          "hintReviewStatus": {
+            "enum": [
+              "pending",
+              "passed",
+              "needs_revision"
+            ]
+          },
+          "playtestStatus": {
+            "enum": [
+              "pending",
+              "passed",
+              "needs_revision"
+            ]
+          },
+          "revision": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "hint2Previous": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Archivierte ursprüngliche Fassung v0.1; niemals im Spiel anzeigen."
+          },
+          "hint2V02": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Archivierte Fassung v0.2; niemals im Spiel anzeigen."
+          },
+          "questionContext": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "minLength": 1,
+            "description": "Optionaler erklärender Kontext ohne zusätzliche Lösungshinweise. Bei null kein Button."
+          },
+          "answerExplanation": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Erst nach Aufdeckung der Antwort anzeigen. Quellenlink aus source."
+          },
+          "hint1V06": {
+            "type": "string",
+            "minLength": 1
+          },
+          "additionalSources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "hintReviewNote": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,204 @@
+
+> crosspoke-table-mode@0.2.0 test
+> npm run build && node --test tests/*.test.cjs
+
+
+> crosspoke-table-mode@0.2.0 build
+> tsc -p tsconfig.json
+
+TAP version 13
+# Subtest: dataset v0.7: 30 questions and ten categories; release denied
+ok 1 - dataset v0.7: 30 questions and ten categories; release denied
+  ---
+  duration_ms: 4.773711
+  type: 'test'
+  ...
+# Subtest: reject duplicate question ID
+ok 2 - reject duplicate question ID
+  ---
+  duration_ms: 0.796643
+  type: 'test'
+  ...
+# Subtest: reject nonfinite answer and wrong category
+ok 3 - reject nonfinite answer and wrong category
+  ---
+  duration_ms: 0.647621
+  type: 'test'
+  ...
+# Subtest: reject draft and retired from prototype selection
+ok 4 - reject draft and retired from prototype selection
+  ---
+  duration_ms: 0.283503
+  type: 'test'
+  ...
+# Subtest: valid setup and preset bounds
+ok 5 - valid setup and preset bounds
+  ---
+  duration_ms: 9.283603
+  type: 'test'
+  ...
+# Subtest: blind ladder for each preset including beyond configured levels
+ok 6 - blind ladder for each preset including beyond configured levels
+  ---
+  duration_ms: 0.354105
+  type: 'test'
+  ...
+# Subtest: phases hide future clues and archived editorial data
+ok 7 - phases hide future clues and archived editorial data
+  ---
+  duration_ms: 1.229195
+  type: 'test'
+  ...
+# Subtest: normal finish counts once and changes blinds only on next hand
+ok 8 - normal finish counts once and changes blinds only on next hand
+  ---
+  duration_ms: 2.013174
+  type: 'test'
+  ...
+# Subtest: no premature finish
+ok 9 - no premature finish
+  ---
+  duration_ms: 1.906026
+  type: 'test'
+  ...
+# Subtest: early fold does not expose future hints or eliminate players
+ok 10 - early fold does not expose future hints or eliminate players
+  ---
+  duration_ms: 1.159016
+  type: 'test'
+  ...
+# Subtest: early fold optional solution
+ok 11 - early fold optional solution
+  ---
+  duration_ms: 0.994646
+  type: 'test'
+  ...
+# Subtest: all-in only if no more bets possible; no implicit hand completion
+ok 12 - all-in only if no more bets possible; no implicit hand completion
+  ---
+  duration_ms: 0.864031
+  type: 'test'
+  ...
+# Subtest: finish last player; no extra question
+ok 13 - finish last player; no extra question
+  ---
+  duration_ms: 0.784997
+  type: 'test'
+  ...
+# Subtest: invalid eliminations rejected
+ok 14 - invalid eliminations rejected
+  ---
+  duration_ms: 2.013447
+  type: 'test'
+  ...
+# Subtest: report alone does not replace; skip preserves hand and blinds
+ok 15 - report alone does not replace; skip preserves hand and blinds
+  ---
+  duration_ms: 0.734317
+  type: 'test'
+  ...
+# Subtest: pause, resume, recover do not count closed-browser or paused time
+ok 16 - pause, resume, recover do not count closed-browser or paused time
+  ---
+  duration_ms: 1.077954
+  type: 'test'
+  ...
+# Subtest: no repeats in 30 hands; explicit repeat confirmation
+ok 17 - no repeats in 30 hands; explicit repeat confirmation
+  ---
+  duration_ms: 26.645686
+  type: 'test'
+  ...
+# Subtest: new session prefers never seen questions
+ok 18 - new session prefers never seen questions
+  ---
+  duration_ms: 0.996855
+  type: 'test'
+  ...
+# Subtest: least recently shown selection after pool used
+ok 19 - least recently shown selection after pool used
+  ---
+  duration_ms: 1.189505
+  type: 'test'
+  ...
+# Subtest: all questions blocked yields explicit empty state
+ok 20 - all questions blocked yields explicit empty state
+  ---
+  duration_ms: 0.525701
+  type: 'test'
+  ...
+# Subtest: telemetry off preserves local reports without creating events
+ok 21 - telemetry off preserves local reports without creating events
+  ---
+  duration_ms: 0.794599
+  type: 'test'
+  ...
+# Subtest: outbox acknowledgement only removes confirmed IDs
+ok 22 - outbox acknowledgement only removes confirmed IDs
+  ---
+  duration_ms: 1.411772
+  type: 'test'
+  ...
+# Subtest: duplicate command and stale state
+ok 23 - duplicate command and stale state
+  ---
+  duration_ms: 1.01301
+  type: 'test'
+  ...
+# Subtest: storage controller restores phase; competing commands do not both commit
+ok 24 - storage controller restores phase; competing commands do not both commit
+  ---
+  duration_ms: 2.321975
+  type: 'test'
+  ...
+# Subtest: question snapshot stays unchanged after new dataset revision
+ok 25 - question snapshot stays unchanged after new dataset revision
+  ---
+  duration_ms: 2.169355
+  type: 'test'
+  ...
+# Subtest: failed storage commit not returned as successful action
+ok 26 - failed storage commit not returned as successful action
+  ---
+  duration_ms: 1.399669
+  type: 'test'
+  ...
+# Subtest: UI home/setup/phase sequence uses actual engine; reveal gates and explanations
+ok 27 - UI home/setup/phase sequence uses actual engine; reveal gates and explanations
+  ---
+  duration_ms: 35.276645
+  type: 'test'
+  ...
+# Subtest: pause hides question, resume preserves phase; abandon returns home
+ok 28 - pause hides question, resume preserves phase; abandon returns home
+  ---
+  duration_ms: 9.253373
+  type: 'test'
+  ...
+# Subtest: all-in, elimination and finish summary
+ok 29 - all-in, elimination and finish summary
+  ---
+  duration_ms: 5.552331
+  type: 'test'
+  ...
+# Subtest: report and skip maintain hand and block reported question
+ok 30 - report and skip maintain hand and block reported question
+  ---
+  duration_ms: 7.520848
+  type: 'test'
+  ...
+# Subtest: early fold optional answer and hand completion
+ok 31 - early fold optional answer and hand completion
+  ---
+  duration_ms: 9.831059
+  type: 'test'
+  ...
+1..31
+# tests 31
+# suites 0
+# pass 31
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 177.124508

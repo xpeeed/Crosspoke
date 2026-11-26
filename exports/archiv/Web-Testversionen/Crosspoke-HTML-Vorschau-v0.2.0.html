@@ -1,0 +1,1357 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#101b29"><title>Crosspoke – Table Mode</title><style>:root{color-scheme:dark;--bg:#101b29;--panel:#192b3e;--panel2:#22364a;--line:#35485d;--gold:#e8c47c;--gold2:#f3d69d;--text:#f4f6fa;--muted:#aebdcd;--error:#ffb4a8;--radius:16px;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 50% 0%,#25384c 0%,#101b29 55%);color:var(--text);min-height:100dvh;display:flex;flex-direction:column}button,a{touch-action:manipulation}button{font:inherit;cursor:pointer;min-height:44px;border:1px solid transparent;border-radius:10px;padding:.75rem 1rem;font-weight:650}button:disabled{opacity:.45;cursor:default}button:focus-visible,a:focus-visible,summary:focus-visible,select:focus-visible{outline:3px solid #f6dfab;outline-offset:3px}a{color:var(--gold)}.skip-link{position:absolute;left:-10000px}.skip-link:focus{left:12px;top:10px;z-index:20}.top{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:16px clamp(14px,4vw,48px);border-bottom:1px solid var(--line);background:#101b29e8}.brand{color:var(--gold);font-weight:800;font-size:clamp(1rem,2.5vw,1.5rem);letter-spacing:.1em;text-decoration:none;white-space:nowrap}.suit{font-size:1.35em;margin-right:.15em}.top-actions{display:flex;align-items:center;gap:8px}.test-tag,.eyebrow{font-size:.7rem;letter-spacing:.13em;font-weight:750;color:var(--muted)}.test-tag{border:1px solid var(--line);padding:5px 7px;border-radius:5px}.ghost,.secondary{background:transparent;color:var(--text);border-color:var(--line)}.ghost:hover,.secondary:hover{background:var(--panel2)}.small{font-size:.85rem;min-height:40px;padding:.5rem .65rem}.primary{background:var(--gold);color:#101b29;border-color:var(--gold)}.primary:hover{background:var(--gold2)}.danger{color:var(--error);border-color:#815e59}main{width:min(1050px,100%);margin:auto;flex:1;padding:clamp(15px,3vw,38px);outline:none}.loading,.center{text-align:center}.screen{display:grid;gap:20px;max-width:820px;margin:auto}.hero{text-align:center;padding:clamp(25px,7vw,78px) 0 14px}.hero h1{font-size:clamp(2.5rem,9vw,5.8rem);letter-spacing:-.05em;line-height:1;margin:.35em 0;color:var(--gold)}h1,h2,h3,p{margin:0}p{line-height:1.6}.muted{color:var(--muted)}.panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:clamp(16px,3vw,28px)}.actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}.actions>*{flex:1 1 160px}.home-actions{max-width:430px;margin:auto;display:grid;gap:12px;width:100%}.preset-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.preset{background:var(--panel);color:var(--text);border:1px solid var(--line);text-align:left;padding:18px;display:grid;gap:7px;border-radius:var(--radius)}.preset[aria-pressed=true]{border:2px solid var(--gold);padding:17px;background:#293747}.preset strong{font-size:1.15rem;color:var(--gold)}.preset .stack{font-size:1.65rem;font-weight:750}.preset small{color:var(--muted);font-weight:450}.players{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.players button{flex:1;background:var(--panel2);color:var(--text);border-color:var(--line)}.players button[aria-pressed=true]{background:var(--gold);color:var(--bg)}.game-screen{display:grid;gap:14px}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;display:grid;gap:5px}.stat span{font-size:.78rem;color:var(--muted)}.stat strong{font-size:clamp(1rem,2.5vw,1.5rem);font-variant-numeric:tabular-nums}.progress{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}.step{display:grid;gap:6px;text-align:center;color:var(--muted);font-size:.83rem}.step:before{content:"";height:5px;border-radius:5px;background:var(--line)}.step.done:before,.step.current:before{background:var(--gold)}.step.current{color:var(--gold);font-weight:750}.question-panel{text-align:center;padding:clamp(20px,4vw,44px);display:grid;gap:14px}.question-panel h1{font-size:clamp(1.6rem,4vw,3rem);line-height:1.22;letter-spacing:-.025em;overflow-wrap:anywhere}.unit{font-size:1rem;color:var(--gold);font-weight:600}.hint-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.hint{display:grid;gap:8px;background:var(--panel2);border-radius:12px;padding:16px;line-height:1.5}.hint .eyebrow{color:var(--gold)}.answer{border:1px solid var(--gold);background:linear-gradient(130deg,#273a4b,#192b3e);text-align:center;display:grid;gap:10px}.answer-value{font-weight:800;color:var(--gold);font-size:clamp(2rem,6vw,4.1rem);overflow-wrap:anywhere;font-variant-numeric:tabular-nums}.answer .unit{font-size:1.1rem}details{text-align:left;background:#101b2966;border-radius:10px;padding:0 12px;color:var(--muted)}summary{cursor:pointer;padding:12px 0;color:var(--text);font-weight:600}details p{padding:0 0 12px}details a{display:inline-block;margin-bottom:10px;overflow-wrap:anywhere}.instruction{text-align:center;color:var(--muted);font-size:.94rem;line-height:1.5}.utility{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}.utility button{font-size:.85rem;min-height:40px;padding:.5rem .8rem}.primary-action{width:100%;font-size:1.1rem;min-height:52px}.error{border:1px solid #815e59;background:#482f34;color:var(--error);padding:14px;border-radius:12px;line-height:1.5}footer{padding:14px 20px;border-top:1px solid var(--line);display:flex;justify-content:space-between;color:var(--muted);font-size:.72rem}dialog{max-width:min(560px,calc(100vw - 24px));width:100%;background:#192b3e;color:var(--text);border:1px solid var(--line);border-radius:16px;padding:22px}dialog::backdrop{background:#060d17bb}.dialog-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:14px}.dialog-actions{display:flex;gap:10px;justify-content:flex-end;margin-top:20px}.dialog-actions button{flex:1}select{background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:12px;width:100%;font:inherit;margin-top:8px}.dialog-body{display:grid;gap:14px}.rules-text{max-height:55dvh;overflow:auto;display:grid;gap:12px}.rules-text ol{margin:0;padding-left:22px;line-height:1.6}#toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);max-width:min(620px,90vw);background:#34485d;color:white;border:1px solid #71859d;padding:12px 18px;border-radius:10px;box-shadow:0 8px 20px #0005;z-index:5;display:none}#toast.visible{display:block}.finish-number{font-size:3rem;color:var(--gold);font-weight:800}.status-line{display:flex;justify-content:space-between;align-items:center;gap:10px}.status-line .muted{font-size:.8rem}.screen h1:not(.hero h1){font-size:clamp(1.6rem,4vw,2.5rem)}@media(max-width:600px){.top{padding:10px 12px}.top-actions{gap:4px}.test-tag{display:none}#fullscreen span{display:none}.preset-grid{grid-template-columns:1fr}.preset{grid-template-columns:1fr 1fr;align-items:center}.preset small{grid-column:1/-1}.stats{grid-template-columns:repeat(2,1fr)}.hint-grid{grid-template-columns:1fr}.step{font-size:.72rem}.players button{flex:1 1 20%}footer span{display:none}.dialog-actions{flex-wrap:wrap}.question-panel{padding:20px 14px}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important}}@media(min-width:1400px){main{width:min(1300px,100%)}.question-panel h1{font-size:3.4rem}.hint{font-size:1.2rem}.stat strong{font-size:1.8rem}} 
+
+.preview-notice{background:#25384c;color:#f1dfb9;padding:10px 16px;text-align:center;font-size:13px}</style></head><body><a class="skip-link" href="#main">Zum Spiel</a><header class="top"><a class="brand" href="#home" aria-label="Crosspoke Startseite"><span class="suit">♠</span> CROSSPOKE</a><div class="top-actions"><span class="test-tag">PROTOTYP</span><button id="fullscreen" class="ghost small" aria-label="Vollbild umschalten">⛶ <span>Vollbild</span></button><button id="rules" class="ghost small">Regeln</button></div></header><div class="preview-notice">HTML-Vorschau · Spielstand nur bis zum Neuladen · keine Veröffentlichung</div><main id="main" tabindex="-1"><div class="loading">Crosspoke wird geladen …</div></main><footer>TABLE MODE · v0.2.0 <span>Physische Chips. Echte Schätzungen.</span></footer><dialog id="modal" aria-labelledby="modal-title"><form id="modal-form"><div class="dialog-head"><h2 id="modal-title"></h2><button class="ghost small" type="button" data-close aria-label="Schließen">✕</button></div><div id="modal-content"></div><div class="dialog-actions"><button type="button" class="secondary" data-close>Abbrechen</button><button type="submit" class="primary" id="modal-confirm">Bestätigen</button></div></form></dialog><div id="toast" role="status" aria-live="polite"></div><script>function previewUUID(){const b=new Uint8Array(16);crypto.getRandomValues(b);b[6]=(b[6]&15)|64;b[8]=(b[8]&63)|128;const s=Array.from(b,x=>x.toString(16).padStart(2,"0")).join("");return `${s.slice(0,8)}-${s.slice(8,12)}-${s.slice(12,16)}-${s.slice(16,20)}-${s.slice(20)}`;}
+(()=>{'use strict';const modules={"./quiz":function(require,module,exports){
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.CATEGORIES = void 0;
+exports.importDataset = importDataset;
+exports.eligible = eligible;
+exports.selectQuestion = selectQuestion;
+exports.questionView = questionView;
+exports.CATEGORIES = ['GEO', 'HIS', 'FOD', 'SCI', 'TEC', 'SPO', 'ECO', 'ENT', 'HUM', 'CUR'];
+const record = (x) => !!x && typeof x === 'object' && !Array.isArray(x);
+const str = (x) => typeof x === 'string' && x.trim().length > 0;
+const url = (x) => { try {
+    return str(x) && ['https:', 'http:'].includes(new URL(x).protocol);
+}
+catch {
+    return false;
+} };
+const check = (ok, msg) => { if (!ok)
+    throw new Error('DATA_INVALID: ' + msg); };
+// Runtime guard for fields the engine consumes; full JSON Schema checked separately.
+function importDataset(raw, mode) {
+    check(record(raw), 'object expected');
+    const d = raw;
+    check(d.schemaVersion === '1.4' && str(d.datasetVersion) && d.language === 'de-DE' && typeof d.releaseReady === 'boolean', 'metadata');
+    check(Array.isArray(d.categories) && Array.isArray(d.questions), 'arrays');
+    const ds = d;
+    check(ds.categories.length === 10 && new Set(ds.categories.map(c => c.id)).size === 10, 'categories unique');
+    for (const c of ds.categories)
+        check(record(c) && exports.CATEGORIES.includes(c.id) && str(c.name) && Number.isInteger(c.targetCount) && c.targetCount >= 30, 'category');
+    const ids = new Set();
+    for (const q of ds.questions) {
+        check(record(q), 'question object');
+        check(str(q.id) && /^(GEO|HIS|FOD|SCI|TEC|SPO|ECO|ENT|HUM|CUR)-\d{4,}$/.test(q.id) && !ids.has(q.id), 'id ' + q.id);
+        ids.add(q.id);
+        check(q.id.startsWith(q.categoryId + '-') && ds.categories.some(c => c.id === q.categoryId && c.name === q.category), 'category mapping ' + q.id);
+        for (const k of ['subcategory', 'question', 'unit', 'hint1', 'hint2', 'answerExplanation'])
+            check(str(q[k]), k + ' ' + q.id);
+        check(Number.isFinite(q.answerValue) && Number.isInteger(q.revision) && q.revision >= 1, 'value/revision ' + q.id);
+        check(record(q.source) && str(q.source.name) && url(q.source.url) && str(q.source.checkedOn) && /^\d{4}-\d{2}-\d{2}$/.test(q.source.checkedOn), 'source ' + q.id);
+        check(q.referenceDate === null || typeof q.referenceDate === 'string', 'reference date');
+        check(q.questionContext === null || str(q.questionContext), 'context');
+        check(Array.isArray(q.additionalSources) && q.additionalSources.every(url), 'additionalSources');
+        check(['draft', 'source_checked', 'approved', 'retired'].includes(q.qualityStatus), 'quality');
+        for (const status of [q.hintReviewStatus, q.playtestStatus])
+            check(['pending', 'passed', 'needs_revision'].includes(status), 'review status');
+    }
+    const pool = eligible(ds, mode);
+    check(pool.length > 0, 'no eligible questions');
+    if (mode === 'release') {
+        check(ds.releaseReady, 'release not ready');
+        for (const c of ds.categories)
+            check(pool.filter(q => q.categoryId === c.id).length >= c.targetCount, 'release target ' + c.id);
+    }
+    return structuredClone(ds);
+}
+function eligible(d, mode) { return d.questions.filter(q => q.qualityStatus === 'approved' || (mode === 'test' && q.qualityStatus === 'source_checked')); }
+function selectQuestion(d, mode, history, seen, blocked, random, allowRepeat = false) {
+    const allowed = eligible(d, mode).filter(q => !blocked.includes(q.id));
+    if (!allowed.length)
+        return { kind: 'empty' };
+    let pool = allowed.filter(q => !seen.includes(q.id));
+    if (!pool.length) {
+        if (!allowRepeat)
+            return { kind: 'repeat_confirmation' };
+        pool = allowed;
+    }
+    const fresh = pool.filter(q => !history[q.id]);
+    if (fresh.length)
+        pool = fresh;
+    else {
+        const oldest = Math.min(...pool.map(q => history[q.id].lastShownAt));
+        pool = pool.filter(q => history[q.id].lastShownAt === oldest);
+    }
+    const r = random();
+    if (!Number.isFinite(r) || r < 0 || r >= 1)
+        throw Error('INVALID_RANDOM');
+    return { kind: 'selected', question: structuredClone(pool[Math.floor(r * pool.length)]) };
+}
+function questionView(q, phase) { const p = ['question', 'hint1', 'hint2', 'answer', 'settled'].indexOf(phase); return { id: q.id, category: q.category, question: q.question, unit: q.unit, context: q.questionContext, ...(p >= 1 ? { hint1: q.hint1 } : {}), ...(p >= 2 ? { hint2: q.hint2 } : {}), ...(p === 3 ? { answerValue: q.answerValue, answerExplanation: q.answerExplanation, source: q.source, additionalSources: q.additionalSources } : {}) }; }
+
+},"./game":function(require,module,exports){
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.initialState = exports.PRESETS = void 0;
+exports.blinds = blinds;
+exports.reduce = reduce;
+exports.view = view;
+const quiz_1 = require("./quiz");
+exports.PRESETS = { Quick: { stack: 1000, handsPerLevel: 3 }, Standard: { stack: 2000, handsPerLevel: 3 }, 'Deep Stack': { stack: 4000, handsPerLevel: 4 } };
+const LADDER = [[25, 50], [50, 100], [100, 200], [200, 400], [300, 600], [500, 1000], [750, 1500], [1000, 2000], [1500, 3000], [2000, 4000], [3000, 6000]];
+function blinds(preset, completedHands) { if (!Object.hasOwn(exports.PRESETS, preset) || !Number.isSafeInteger(completedHands) || completedHands < 0)
+    throw Error('INVALID_BLINDS'); const n = exports.PRESETS[preset].handsPerLevel, i = Math.floor(completedHands / n); const b = LADDER[Math.min(i, LADDER.length - 1)]; const factor = 2 ** Math.max(0, i - LADDER.length + 1); if (!Number.isSafeInteger(b[1] * factor))
+    throw Error('BLIND_OVERFLOW'); return { level: i + 1, small: b[0] * factor, big: b[1] * factor, handsUntilIncrease: n - completedHands % n }; }
+const initialState = () => ({ schemaVersion: 1, version: 0, game: null, history: {}, outbox: [], reports: [], lastCommandId: null });
+exports.initialState = initialState;
+const requireIt = (ok, why) => { if (!ok)
+    throw Error(why); };
+function reduce(previous, cmd, env) {
+    if (previous.lastCommandId === cmd.id)
+        return previous;
+    requireIt(previous.schemaVersion === 1, 'UNSUPPORTED_SAVE');
+    requireIt(cmd.expectedVersion === previous.version, 'STALE_STATE');
+    requireIt(!!cmd.id, 'COMMAND_ID_REQUIRED');
+    const s = structuredClone(previous), a = cmd.action, now = env.now();
+    let g = s.game;
+    const emit = (type, details) => { if (!env.telemetry || !g)
+        return; s.outbox.push({ eventId: env.id(), sessionId: g.id, handId: g.hand.id, questionId: g.hand.question.id, questionRevision: g.hand.question.revision, datasetVersion: g.datasetVersion, mode: g.mode, preset: g.preset, initialPlayers: g.initialPlayers, activePlayers: g.activePlayers, phase: g.hand.phase, elapsedMs: g.activeElapsedMs, timestamp: now, eventSchemaVersion: 1, type, details }); };
+    const setNext = (allowRepeat = false) => { if (!g)
+        throw Error('NO_GAME'); const sel = (0, quiz_1.selectQuestion)(env.dataset, g.mode, s.history, g.seen, g.blocked, env.random, allowRepeat); if (sel.kind !== 'selected') {
+        g.waiting = sel.kind;
+        g.pendingNext = true;
+        return;
+    } g.datasetVersion = env.dataset.datasetVersion; g.hand = { id: env.id(), question: sel.question, phase: 'question', reason: 'normal' }; g.pendingNext = false; g.waiting = null; g.seen.push(sel.question.id); const h = s.history[sel.question.id]; s.history[sel.question.id] = { shownCount: (h?.shownCount ?? 0) + 1, lastShownAt: now }; emit('question_shown'); };
+    const active = () => { requireIt(g?.status === 'active', 'GAME_NOT_ACTIVE'); return g; };
+    const playing = () => { const x = active(); requireIt(!x.pendingNext, 'WAITING_FOR_QUESTION'); return x; };
+    if (a.type === 'ackEvents') {
+        s.outbox = s.outbox.filter(e => !a.ids.includes(e.eventId));
+    }
+    else if (a.type === 'start') {
+        requireIt(!g || g.status === 'finished' || g.status === 'abandoned', 'ACTIVE_GAME_EXISTS');
+        requireIt(Object.hasOwn(exports.PRESETS, a.preset) && Number.isInteger(a.players) && a.players >= 2 && a.players <= 8, 'INVALID_SETUP');
+        const sel = (0, quiz_1.selectQuestion)(env.dataset, env.mode, s.history, [], [], env.random);
+        if (sel.kind !== 'selected')
+            throw Error('NO_QUESTIONS');
+        g = { id: env.id(), mode: env.mode, datasetVersion: env.dataset.datasetVersion, preset: a.preset, initialPlayers: a.players, activePlayers: a.players, completedHands: 0, status: 'active', hand: { id: env.id(), question: sel.question, phase: 'question', reason: 'normal' }, seen: [sel.question.id], blocked: [], startedAt: now, activeElapsedMs: 0, lastTickAt: now, pendingNext: false, waiting: null };
+        s.game = g;
+        const h = s.history[sel.question.id];
+        s.history[sel.question.id] = { shownCount: (h?.shownCount ?? 0) + 1, lastShownAt: now };
+        emit('game_started');
+        emit('question_shown');
+    }
+    else {
+        requireIt(g, 'NO_GAME');
+        g = g;
+        // Heartbeat bounds unobserved time; recover explicitly excludes closed-browser time.
+        if (g.status === 'active' && a.type !== 'recover') {
+            g.activeElapsedMs += Math.max(0, Math.min(now - g.lastTickAt, 15000));
+            g.lastTickAt = now;
+        }
+        switch (a.type) {
+            case 'recover':
+                g.lastTickAt = now;
+                break;
+            case 'heartbeat':
+                active();
+                break;
+            case 'pause':
+                active();
+                g.status = 'paused';
+                emit('game_paused');
+                break;
+            case 'resume':
+                requireIt(g.status === 'paused', 'NOT_PAUSED');
+                g.status = 'active';
+                g.lastTickAt = now;
+                emit('game_resumed');
+                break;
+            case 'abandon':
+                requireIt(a.confirmed && (g.status === 'active' || g.status === 'paused'), 'ABANDON_NOT_ALLOWED');
+                g.status = 'abandoned';
+                emit('game_abandoned');
+                break;
+            case 'advance': {
+                const x = playing();
+                const phases = ['question', 'hint1', 'hint2', 'answer'];
+                const i = phases.indexOf(x.hand.phase);
+                requireIt(i >= 0 && i < 3, 'NO_FURTHER_PHASE');
+                x.hand.phase = phases[i + 1];
+                emit('phase_revealed');
+                break;
+            }
+            case 'earlyFold': {
+                const x = playing();
+                requireIt(a.confirmed && x.hand.phase !== 'settled', 'EARLY_FOLD_NOT_ALLOWED');
+                x.hand.reason = 'early_fold';
+                x.hand.foldedAt = x.hand.phase;
+                x.hand.phase = 'settled';
+                break;
+            }
+            case 'showEarlyAnswer': {
+                const x = playing();
+                requireIt(x.hand.reason === 'early_fold' && x.hand.phase === 'settled' && !x.hand.earlyAnswerViewed, 'EARLY_ANSWER_NOT_ALLOWED');
+                x.hand.earlyAnswerViewed = true;
+                emit('early_answer_viewed');
+                break;
+            }
+            case 'allIn': {
+                const x = playing();
+                requireIt(a.noFurtherBets && x.hand.phase !== 'settled' && x.hand.phase !== 'answer', 'ALL_IN_NOT_ALLOWED');
+                x.hand.reason = 'all_in';
+                const phases = ['question', 'hint1', 'hint2', 'answer'];
+                for (const phase of phases.slice(phases.indexOf(x.hand.phase) + 1)) {
+                    x.hand.phase = phase;
+                    emit('phase_revealed', { runout: true });
+                }
+                break;
+            }
+            case 'finishHand': {
+                const x = playing();
+                requireIt(a.confirmed && (x.hand.phase === 'answer' || x.hand.phase === 'settled'), 'HAND_NOT_READY');
+                requireIt(Number.isInteger(a.eliminated) && a.eliminated >= 0 && a.eliminated < x.activePlayers, 'INVALID_ELIMINATION');
+                requireIt(x.hand.reason !== 'early_fold' || a.eliminated === 0, 'FOLD_CANNOT_ELIMINATE');
+                x.activePlayers -= a.eliminated;
+                x.completedHands++;
+                emit('hand_completed', { reason: x.hand.reason, completedHands: x.completedHands });
+                if (a.eliminated)
+                    emit('players_eliminated', { count: a.eliminated });
+                x.hand.phase = 'settled';
+                if (x.activePlayers === 1) {
+                    x.status = 'finished';
+                    emit('game_finished', { completedHands: x.completedHands });
+                }
+                else {
+                    x.pendingNext = true;
+                    setNext();
+                }
+                break;
+            }
+            case 'report':
+                playing();
+                requireIt(['wrong_value', 'unclear', 'hint', 'other'].includes(a.reason), 'INVALID_REPORT');
+                s.reports.push({ sessionId: g.id, questionId: g.hand.question.id, revision: g.hand.question.revision, reason: a.reason, phase: g.hand.phase, timestamp: now });
+                emit('question_reported', { reason: a.reason });
+                if (!g.blocked.includes(g.hand.question.id))
+                    g.blocked.push(g.hand.question.id);
+                break;
+            case 'skip': {
+                const x = playing();
+                requireIt(a.confirmedRefund && x.hand.phase !== 'settled', 'REFUND_REQUIRED');
+                if (!x.blocked.includes(x.hand.question.id))
+                    x.blocked.push(x.hand.question.id);
+                emit('question_skipped');
+                x.pendingNext = true;
+                setNext();
+                break;
+            }
+            case 'next':
+                requireIt(active().pendingNext, 'NO_PENDING_HAND');
+                setNext(a.allowRepeat);
+                break;
+            case 'contextOpened':
+                requireIt(playing().hand.question.questionContext, 'NO_CONTEXT');
+                emit('context_opened');
+                break;
+            case 'explanationOpened': {
+                const x = playing();
+                requireIt(x.hand.phase === 'answer' || x.hand.earlyAnswerViewed, 'ANSWER_HIDDEN');
+                emit('explanation_opened');
+                break;
+            }
+        }
+    }
+    s.version++;
+    s.lastCommandId = cmd.id;
+    return s;
+}
+function view(s) { const g = s.game; if (!g)
+    return { version: s.version, game: null }; return { version: s.version, game: { id: g.id, status: g.status, preset: g.preset, mode: g.mode, initialPlayers: g.initialPlayers, activePlayers: g.activePlayers, completedHands: g.completedHands, handNumber: g.completedHands + (g.status === 'finished' ? 0 : 1), blinds: blinds(g.preset, g.status === 'finished' ? Math.max(0, g.completedHands - 1) : g.completedHands), phase: g.hand.phase, reason: g.hand.reason, waiting: g.waiting, activeElapsedMs: g.activeElapsedMs, question: !g.pendingNext && g.status !== 'paused' ? (0, quiz_1.questionView)(g.hand.question, g.hand.earlyAnswerViewed ? 'answer' : g.hand.foldedAt ?? (g.hand.phase === 'settled' ? 'answer' : g.hand.phase)) : null } }; }
+
+},"./storage":function(require,module,exports){
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Controller = exports.IndexedDbStorage = exports.MemoryStorage = void 0;
+const game_1 = require("./game");
+const quiz_1 = require("./quiz");
+function validateState(raw) { const s = raw; if (!s || s.schemaVersion !== 1 || !Number.isSafeInteger(s.version) || s.version < 0 || !s.history || !Array.isArray(s.outbox) || !Array.isArray(s.reports) || !('game' in s))
+    throw Error('UNSUPPORTED_OR_CORRUPT_SAVE'); if (s.game && (!s.game.hand?.question || !['active', 'paused', 'finished', 'abandoned'].includes(s.game.status) || !Array.isArray(s.game.seen) || !Array.isArray(s.game.blocked)))
+    throw Error('CORRUPT_GAME'); return s; }
+class MemoryStorage {
+    state = (0, game_1.initialState)();
+    async load() { return structuredClone(this.state); }
+    async commit(expectedVersion, next) { if (this.state.version !== expectedVersion)
+        throw Error('STALE_STATE'); this.state = structuredClone(next); }
+}
+exports.MemoryStorage = MemoryStorage;
+class IndexedDbStorage {
+    db;
+    constructor(db) {
+        this.db = db;
+    }
+    static open(name = 'crosspoke-core-v1') { return new Promise((resolve, reject) => { const req = indexedDB.open(name, 1); req.onupgradeneeded = () => { if (!req.result.objectStoreNames.contains('state'))
+        req.result.createObjectStore('state'); }; req.onerror = () => reject(req.error); req.onblocked = () => reject(Error('STORAGE_BLOCKED')); req.onsuccess = () => resolve(new IndexedDbStorage(req.result)); }); }
+    close() { this.db.close(); }
+    load() { return new Promise((resolve, reject) => { const tx = this.db.transaction('state', 'readonly'); const req = tx.objectStore('state').get('root'); req.onerror = () => reject(req.error); req.onsuccess = () => { try {
+        resolve(req.result === undefined ? (0, game_1.initialState)() : validateState(req.result));
+    }
+    catch (e) {
+        reject(e);
+    } }; tx.onabort = () => reject(tx.error ?? Error('STORAGE_ABORT')); }); }
+    commit(expectedVersion, next) { return new Promise((resolve, reject) => { const tx = this.db.transaction('state', 'readwrite'); const store = tx.objectStore('state'); const req = store.get('root'); let failure; req.onsuccess = () => { try {
+        const current = req.result === undefined ? (0, game_1.initialState)() : validateState(req.result);
+        if (current.version !== expectedVersion)
+            throw Error('STALE_STATE');
+        store.put(next, 'root');
+    }
+    catch (e) {
+        failure = e;
+        tx.abort();
+    } }; tx.oncomplete = () => resolve(); tx.onabort = () => reject(failure ?? tx.error ?? Error('STORAGE_ABORT')); tx.onerror = () => { failure ??= tx.error; }; }); }
+}
+exports.IndexedDbStorage = IndexedDbStorage;
+class Controller {
+    storage;
+    env;
+    constructor(storage, env) {
+        this.storage = storage;
+        this.env = { ...env, dataset: (0, quiz_1.importDataset)(env.dataset, env.mode) };
+    }
+    async load() { return this.storage.load(); }
+    async dispatch(cmd) { const prior = await this.storage.load(); const next = (0, game_1.reduce)(prior, cmd, this.env); if (next !== prior)
+        await this.storage.commit(prior.version, next); return next; }
+}
+exports.Controller = Controller;
+
+},"./index":function(require,module,exports){
+"use strict";
+var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    var desc = Object.getOwnPropertyDescriptor(m, k);
+    if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
+      desc = { enumerable: true, get: function() { return m[k]; } };
+    }
+    Object.defineProperty(o, k2, desc);
+}) : (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    o[k2] = m[k];
+}));
+var __exportStar = (this && this.__exportStar) || function(m, exports) {
+    for (var p in m) if (p !== "default" && !Object.prototype.hasOwnProperty.call(exports, p)) __createBinding(exports, m, p);
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+__exportStar(require("./game"), exports);
+__exportStar(require("./quiz"), exports);
+__exportStar(require("./storage"), exports);
+
+}},cache={};function require(n){if(cache[n])return cache[n].exports;const m={exports:{}};cache[n]=m;modules[n](require,m,m.exports);return m.exports;}const C=require('./index');const DATA={
+  "schemaVersion": "1.4",
+  "datasetVersion": "0.7",
+  "language": "de-DE",
+  "releaseReady": false,
+  "categories": [
+    {
+      "id": "GEO",
+      "name": "Geografie",
+      "targetCount": 30
+    },
+    {
+      "id": "HIS",
+      "name": "Geschichte",
+      "targetCount": 30
+    },
+    {
+      "id": "FOD",
+      "name": "Food & Drinks",
+      "targetCount": 30
+    },
+    {
+      "id": "SCI",
+      "name": "Wissenschaft & Natur",
+      "targetCount": 30
+    },
+    {
+      "id": "TEC",
+      "name": "Technologie",
+      "targetCount": 30
+    },
+    {
+      "id": "SPO",
+      "name": "Sport",
+      "targetCount": 30
+    },
+    {
+      "id": "ECO",
+      "name": "Wirtschaft",
+      "targetCount": 30
+    },
+    {
+      "id": "ENT",
+      "name": "Film & Musik",
+      "targetCount": 30
+    },
+    {
+      "id": "HUM",
+      "name": "Mensch & Psychologie",
+      "targetCount": 30
+    },
+    {
+      "id": "CUR",
+      "name": "Kurioses Wissen",
+      "targetCount": 30
+    }
+  ],
+  "questions": [
+    {
+      "id": "GEO-0001",
+      "categoryId": "GEO",
+      "category": "Geografie",
+      "subcategory": "Architektur",
+      "question": "Wie hoch ist der Eiffelturm seit 2022 einschließlich Antenne?",
+      "answerValue": 330,
+      "unit": "m",
+      "hint1": "Ein Stapel aus 2.000 üblichen 330-ml-Getränkedosen wäre noch zu niedrig.",
+      "hint2": "Die zweite Aussichtsplattform liegt auf 115 Metern Höhe. Darüber befinden sich noch eine weitere Aussichtsplattform und die Antenne.",
+      "source": {
+        "name": "Tour Eiffel – Chiffres clés",
+        "url": "https://www.toureiffel.paris/fr/le-monument/chiffres-cle",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2022",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "330 m; übliche 330-ml-Dosen grob 12–15 cm; Fußballfeld etwa 100 m, zweite Untergrenze ggf. zu eng. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. Zusatzreferenz: https://www.toureiffel.paris/de/monument/zahlen | Revision 4: Antwortformat präzisiert. Vorher: Wie hoch ist der Eiffelturm seit der Antennenerweiterung 2022 einschließlich Antenne? Antwort: 330 m. Umrechnungsfaktor zum bisherigen Wert: 1. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie hoch ist der Eiffelturm seit der Antennenerweiterung 2022 einschließlich Antenne in Metern? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: konkreter, anschaulicher Dosenvergleich mit ausreichender Unschärfe. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Der Turm ist höher als drei typische Fußballfelder lang sind.",
+      "hint2V02": "Die gesuchte Höhe liegt zwischen 250 und 400 Metern.",
+      "questionContext": "Gesucht ist die Gesamthöhe in Metern nach der Antennenerweiterung 2022.",
+      "answerExplanation": "Der Turm entstand für die Pariser Weltausstellung 1889. Durch Funk- und Fernsehantennen wuchs er im Laufe der Zeit weiter; 2022 kam eine neue Antenne hinzu, mit der er 330 Meter erreicht. Die zweite Plattform liegt bei rund 115 Metern. Er war bei seiner Eröffnung das höchste Bauwerk der Welt.",
+      "additionalSources": [
+        "https://www.toureiffel.paris/en/news/history-and-culture/300-330-meters-story-towers-height",
+        "https://www.toureiffel.paris/en/the-monument/history"
+      ],
+      "hintReviewNote": "Beibehalten: konkreter, anschaulicher Dosenvergleich mit ausreichender Unschärfe."
+    },
+    {
+      "id": "GEO-0002",
+      "categoryId": "GEO",
+      "category": "Geografie",
+      "subcategory": "Architektur",
+      "question": "Wie lang ist die Golden Gate Bridge zwischen ihren Widerlagern?",
+      "answerValue": 2737,
+      "unit": "m",
+      "hint1": "Als die Brücke 1937 eröffnet wurde, hatte sie die längste freie Spannweite aller Hängebrücken weltweit. Dieser Rekord hielt bis 1964.",
+      "hint2": "Der Abstand zwischen den beiden Haupttürmen beträgt rund 1.280 Meter. Die Seitenabschnitte und Zufahrten kommen hinzu.",
+      "source": {
+        "name": "Golden Gate Bridge – Facts & Figures",
+        "url": "https://www.goldengate.org/exhibits/facts-and-figures-about-the-bridge/",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Vergleich hypothetisch; Turmhöhe laut Quelle. Turn eher schwach. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | Revision 4: Antwortformat präzisiert. Vorher: Wie lang ist die Golden Gate Bridge einschließlich der Zufahrtsabschnitte zwischen den Widerlagern? Antwort: 2737 m. Umrechnungsfaktor zum bisherigen Wert: 1. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie lang ist die Golden Gate Bridge einschließlich der Zufahrtsabschnitte zwischen den Widerlagern in Metern? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: belegte historische Rekordstellung statt beliebiger Einkaufswagen. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Brücke überspannt die Meerenge zwischen San Francisco und Marin County; die beiden Türme ragen 227 m über das Wasser.",
+      "hint2V02": "Allein der Abstand zwischen den beiden Haupttürmen beträgt rund 1.280 Meter. Die Zufahrten und Seitenabschnitte kommen hinzu.",
+      "questionContext": "Die Widerlager sind die Enden der Brückenkonstruktion. Die Zufahrtsabschnitte zwischen diesen Punkten zählen mit.",
+      "answerExplanation": "Die Gesamtlänge zwischen den Widerlagern beträgt rund 2.737 Meter. Davon entfallen 1.280 Meter allein auf den Abschnitt zwischen den Haupttürmen. Erst die Verrazzano-Narrows Bridge in New York übertraf 1964 deren freie Spannweite. Die Länge des Gesamtbauwerks und die freie Spannweite sind unterschiedliche Maße.",
+      "additionalSources": [
+        "https://www.goldengate.org/bridge/history-research/statistics-data/faqs/",
+        "https://www.goldengate.org/exhibits/facts-and-figures-about-the-bridge/"
+      ],
+      "hintReviewNote": "Ersetzt: belegte historische Rekordstellung statt beliebiger Einkaufswagen.",
+      "hint1V06": "Eine Schlange aus 1.000 Einkaufswagen wäre bei einem Meter Platz pro Wagen noch nicht lang genug."
+    },
+    {
+      "id": "GEO-0003",
+      "categoryId": "GEO",
+      "category": "Geografie",
+      "subcategory": "Ozeane",
+      "question": "Wie tief sind die Weltmeere im Durchschnitt (NOAA, 2010)?",
+      "answerValue": 3682,
+      "unit": "m",
+      "hint1": "Selbst ein Turm aus einer Million übereinandergestapelter 2-Euro-Münzen wäre zu kurz.",
+      "hint2": "Die tiefsten Stellen der Weltmeere liegen mehr als zehn Kilometer unter der Wasseroberfläche. Die durchschnittliche Tiefe beträgt weniger als die Hälfte davon (bezogen auf rund elf Kilometer).",
+      "source": {
+        "name": "NOAA – Ocean depth",
+        "url": "https://oceanexplorer.noaa.gov/ocean-fact/ocean-depth/",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2010",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Münzdicke ca. 2,2 mm, also 2,2 km. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | Revision 4: Antwortformat präzisiert. Vorher: Wie tief sind die Weltmeere im Durchschnitt nach der NOAA-Schätzung von 2010? Antwort: 3682 m. Umrechnungsfaktor zum bisherigen Wert: 1. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie tief sind die Weltmeere im Durchschnitt nach der NOAA-Schätzung von 2010 in Metern? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: ungewöhnliche Münzstapel-Größenordnung. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die mittlere Tiefe ist deutlich geringer als die tiefsten Stellen, die mehr als 10 km erreichen.",
+      "hint2V02": "Die durchschnittliche Tiefe liegt zwischen drei und fünf Kilometern.",
+      "questionContext": "Gesucht ist die mittlere Tiefe in Metern laut der NOAA-Schätzung von 2010, nicht die maximale Tiefe.",
+      "answerExplanation": "Die NOAA nennt 3.682 Meter mittlere Ozeantiefe, basierend auf einer Schätzung von 2010 mittels Satellitendaten. Rund 70 Prozent der Erdoberfläche sind von Ozeanen bedeckt. Dennoch war im Juni 2024 erst etwa ein Viertel des Meeresbodens hochauflösend kartiert. Deshalb bleibt auch die mittlere Tiefe eine Schätzung.",
+      "additionalSources": [
+        "https://oceanexplorer.noaa.gov/ocean-fact/ocean-depth/",
+        "https://origin.oceanexplorer.noaa.gov/ocean-fact/explored/"
+      ],
+      "hintReviewNote": "Beibehalten: ungewöhnliche Münzstapel-Größenordnung."
+    },
+    {
+      "id": "HIS-0001",
+      "categoryId": "HIS",
+      "category": "Geschichte",
+      "subcategory": "Raumfahrtgeschichte",
+      "question": "Wie viele Stunden dauerte Apollo 11 vom Start bis zur Wasserung?",
+      "answerValue": 195,
+      "unit": "Stunden",
+      "hint1": "Bei drei Stunden Film pro Tag bräuchtest du mehr als einen Monat Kinoabende, um so viel Zeit vor dem Bildschirm zu verbringen.",
+      "hint2": "Armstrong und Aldrin verbrachten knapp 22 Stunden auf der Mondoberfläche. Der Flug zum Mond und der Rückflug nahmen jeweils mehrere Tage in Anspruch.",
+      "source": {
+        "name": "NASA – Apollo 11 Mission Overview",
+        "url": "https://www.nasa.gov/missions/apollo/apollo-11/apollo-11-mission-overview/",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "1969",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "195 h 18 min 35 s, auf ganze Stunden gerundet. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Stunden dauerte Apollo 11 vom Start bis zur Wasserung (auf ganze Stunden gerundet)? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: Kinoabende als nachvollziehbarer Zeitvergleich. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Mission startete am 16. Juli 1969 und endete noch im selben Monat.",
+      "hint2V02": "Armstrong und Aldrin verbrachten knapp 22 Stunden auf dem Mond. Die gesamte Mission dauerte mehr als fünf, aber weniger als zehn Tage.",
+      "questionContext": "Gezählt wird die gesamte Mission einschließlich Hinflug, Mondaufenthalt und Rückflug. Der Referenzwert ist auf ganze Stunden gerundet.",
+      "answerExplanation": "Apollo 11 startete am 16. Juli 1969 mit Neil Armstrong, Buzz Aldrin und Michael Collins. Während Armstrong und Aldrin auf dem Mond landeten, blieb Collins in der Mondumlaufbahn. Die Mission endete am 24. Juli mit der Wasserung im Pazifik. NASA dokumentiert eine Dauer von 195 Stunden, 18 Minuten und 35 Sekunden.",
+      "additionalSources": [
+        "https://www.nasa.gov/missions/apollo/apollo-11/apollo-11-mission-overview/"
+      ],
+      "hintReviewNote": "Beibehalten: Kinoabende als nachvollziehbarer Zeitvergleich."
+    },
+    {
+      "id": "HIS-0002",
+      "categoryId": "HIS",
+      "category": "Geschichte",
+      "subcategory": "Deutschland",
+      "question": "Wie lang war die Berliner Mauer um West-Berlin insgesamt?",
+      "answerValue": 155,
+      "unit": "km",
+      "hint1": "Selbst 20.000 hintereinander geparkte Kleinwagen mit je rund vier Metern Länge hätten dafür nicht gereicht.",
+      "hint2": "Rund 43 Kilometer der Mauer verliefen zwischen Ost- und West-Berlin. Hinzu kam die Grenze zwischen West-Berlin und dem umliegenden DDR-Gebiet.",
+      "source": {
+        "name": "Stiftung Berliner Mauer",
+        "url": "https://www.stiftung-berliner-mauer.de/de/themen/die-berliner-mauer",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "80 km Untergrenze; Turn erklärt Bezugsgröße. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | Revision 4: Antwortformat präzisiert. Vorher: Wie lang war die Berliner Mauer insgesamt, die West-Berlin umschloss? Antwort: 155 km. Umrechnungsfaktor zum bisherigen Wert: 1. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie lang war die Berliner Mauer insgesamt, die West-Berlin umschloss, in Kilometern? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: konkrete Länge je Auto und bewusst grobe Untergrenze. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Mauer verlief nicht nur durch das Stadtzentrum, sondern umschloss ganz West-Berlin.",
+      "hint2V02": "Der gesuchte Gesamtverlauf ist länger als 100 Kilometer, aber kürzer als 200 Kilometer.",
+      "questionContext": "Gesucht ist die Gesamtlänge in Kilometern, einschließlich des Abschnitts zum umliegenden DDR-Gebiet.",
+      "answerExplanation": "Die Berliner Mauer umschloss West-Berlin vom 13. August 1961 bis zum Mauerfall am 9. November 1989. Die Stiftung Berliner Mauer nennt eine Gesamtlänge von 155 km. Davon trennten ungefähr 43 km die beiden Stadthälften; der größere Rest verlief am Stadtrand. Die Grenzanlagen waren mehr als nur eine einzelne Mauer.",
+      "additionalSources": [
+        "https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall",
+        "https://www.lpb-bw.de/mauerbau"
+      ],
+      "hintReviewNote": "Beibehalten: konkrete Länge je Auto und bewusst grobe Untergrenze."
+    },
+    {
+      "id": "HIS-0003",
+      "categoryId": "HIS",
+      "category": "Geschichte",
+      "subcategory": "Schifffahrt",
+      "question": "Wie lang war die Titanic über alles (auf ganze Meter gerundet)?",
+      "answerValue": 269,
+      "unit": "m",
+      "hint1": "Bei ihrer Jungfernfahrt war die Titanic das größte Schiff der Welt, allerdings nur wenig größer als ihr Schwesterschiff Olympic.",
+      "hint2": "Die Titanic war rund 28 Meter breit und mehr als achtmal so lang wie breit.",
+      "source": {
+        "name": "Wikipedia – Titanic (Schiff), technische Daten",
+        "url": "https://de.wikipedia.org/wiki/Titanic_(Schiff)",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "1912",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "269,04 m; Sekundärquelle, Museumsquelle vor Freigabe bevorzugen. Bananen ca. 15–20 cm. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. Zusatzreferenz: https://www.titanicverein.de/die-geschichte-im-uberblick/zahlen-und-daten/datenblatt-titanic/ | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie lang war die RMS Titanic über alles, auf ganze Meter gerundet? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: historischer Rekord statt Bananenkette; zweiter Hinweis liefert den Maßstab. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Der Ozeandampfer war länger als zwei Fußballfelder von jeweils ungefähr 100 m.",
+      "hint2V02": "Die Titanic war länger als 250 Meter, aber kürzer als 350 Meter.",
+      "questionContext": "Über alles bezeichnet die Gesamtlänge des Schiffes vom vordersten bis zum hintersten Punkt.",
+      "answerExplanation": "Die Titanic war rund 269 Meter lang und fuhr am 10. April 1912 von Southampton Richtung New York ab. Sie gehörte zur Olympic-Klasse, deren Schiffe ähnlich groß waren. Das Wrack wurde 1985 in etwa 3.810 Metern Wassertiefe entdeckt.",
+      "additionalSources": [
+        "https://www.encyclopedia-titanica.org/titanic/",
+        "https://avpreservation.si.edu/spotlight/titanic?page=0"
+      ],
+      "hintReviewNote": "Ersetzt: historischer Rekord statt Bananenkette; zweiter Hinweis liefert den Maßstab.",
+      "hint1V06": "Ein Zug aus 1.000 hintereinandergelegten Bananen wäre bei gewöhnlichen Bananen noch kürzer."
+    },
+    {
+      "id": "FOD-0001",
+      "categoryId": "FOD",
+      "category": "Food & Drinks",
+      "subcategory": "Pizza",
+      "question": "Welche Fläche hatte die Rekordpizza von 2023 in Los Angeles?",
+      "answerValue": 1296.72,
+      "unit": "m²",
+      "hint1": "Für diese eine Pizza wurden mehr als eine halbe Million Salamischeiben verwendet.",
+      "hint2": "Für die Rekordpizza wurden mehr als sechs Tonnen Teig und knapp vier Tonnen Käse verarbeitet.",
+      "source": {
+        "name": "Guinness World Records – Largest pizza",
+        "url": "https://www.guinnessworldrecords.com/world-records/largest-pizza?fb_comment_id=1000620773287543_1034018819947738",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2023-01-19",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "5.000 Kartons = 800 m²; Teig 6.193 kg. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. Zusatzreferenz: https://www.guinnessworldrecords.de/world-records/largest-pizza | Revision 4: Antwortformat präzisiert. Vorher: Welche Fläche hatte die am 19. Januar 2023 in Los Angeles gebackene Rekordpizza? Antwort: 1296.72 m². Umrechnungsfaktor zum bisherigen Wert: 1. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Welche Fläche in Quadratmetern hatte die am 19. Januar 2023 in Los Angeles gebackene Rekordpizza? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: echte, ungewöhnliche Zutatenmenge statt fiktiver Kartons. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Für die Pizza wurden mehr als sechs Tonnen Teig verarbeitet.",
+      "hint2V02": "Die Pizza bedeckte mehr als ein Zehntel, aber weniger als ein Viertel eines Hektars. Ein Hektar entspricht 10.000 m².",
+      "questionContext": "Gemeint ist die am 19. Januar 2023 gebackene Rekordpizza. Gesucht ist die gesamte Fläche in Quadratmetern.",
+      "answerExplanation": "Airrack und Pizza Hut realisierten die 1.296,72 Quadratmeter große Pizza in Los Angeles. Rund 6,2 Tonnen Teig und 4 Tonnen Käse wurden zusammen mit rund 630.000 Salamischeiben verarbeitet. Die Pizza wurde abschnittsweise gegart; Guinness verlangt bei Lebensmittelrekorden die anschließende Verteilung zum Verzehr.",
+      "additionalSources": [
+        "https://www.guinnessworldrecords.com/news/2023/1/youtuber-airrack-claims-slice-of-history-with-worlds-largest-pizza-735637",
+        "https://www.guinnessworldrecords.com/world-records/largest-pizza"
+      ],
+      "hintReviewNote": "Ersetzt: echte, ungewöhnliche Zutatenmenge statt fiktiver Kartons.",
+      "hint1V06": "Darauf hätten locker mehr als 5.000 Pizzakartons von je 40 × 40 cm nebeneinander Platz gehabt."
+    },
+    {
+      "id": "FOD-0002",
+      "categoryId": "FOD",
+      "category": "Food & Drinks",
+      "subcategory": "Brot",
+      "question": "Wie lang war das Rekordbaguette von 2024 in Suresnes?",
+      "answerValue": 140.53,
+      "unit": "m",
+      "hint1": "Für das Baguette wurde eigens ein beweglicher Backofen gebaut, der am Teig entlangfuhr.",
+      "hint2": "Der vorherige Weltrekord aus dem Jahr 2019 lag bereits bei mehr als 100 Metern.",
+      "source": {
+        "name": "Guinness World Records – Longest baguette",
+        "url": "https://www.guinnessworldrecords.com/world-records/longest-baguette",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2024-05-05",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Armlänge grob unter 1 m; Turn grobe Untergrenze. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. Zusatzreferenz: https://www.guinnessworldrecords.com/news/commercial/2024/5/french-bakers-reclaim-world-record-for-longest-baguette-769587 | Revision 4: Antwortformat präzisiert. Vorher: Wie lang war das am 5. Mai 2024 in Suresnes gebackene Rekordbaguette? Antwort: 140.53 m. Umrechnungsfaktor zum bisherigen Wert: 1. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie lang war das am 5. Mai 2024 in Suresnes gebackene Rekordbaguette in Metern? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: echte kuriose Herstellungstechnik statt zufälliger Armvergleich. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Das Baguette übertraf die Länge eines typischen Fußballfeldes.",
+      "hint2V02": "Das Baguette war länger als 120 Meter, aber kürzer als 200 Meter.",
+      "questionContext": "Gemeint ist das am 5. Mai 2024 in Suresnes gebackene Baguette, gemessen in Metern.",
+      "answerExplanation": "18 Bäcker begannen um drei Uhr morgens. Mit dem mobilen Ofen formten und backten sie das Brot über elf Stunden hinweg. Es musste in einem einzigen Stück bleiben, um anerkannt zu werden. Mit 140,53 Metern holte Frankreich den Rekord von Italien zurück; das Brot wurde anschließend verteilt.",
+      "additionalSources": [
+        "https://www.guinnessworldrecords.com/news/commercial/2024/5/french-bakers-reclaim-world-record-for-longest-baguette-769587"
+      ],
+      "hintReviewNote": "Ersetzt: echte kuriose Herstellungstechnik statt zufälliger Armvergleich.",
+      "hint1V06": "Es war länger als eine Reihe aus 100 ausgestreckten erwachsenen Menschenarmen."
+    },
+    {
+      "id": "FOD-0003",
+      "categoryId": "FOD",
+      "category": "Food & Drinks",
+      "subcategory": "Schokolade",
+      "question": "Wie viele Tonnen wog die Rekord-Schokoladentafel von Thorntons (2011)?",
+      "answerValue": 5.7925,
+      "unit": "t",
+      "hint1": "Aus ihr hätte man weit über 30.000 gewöhnliche 100-Gramm-Tafeln machen können.",
+      "hint2": "Die Schokoladentafel wog mehr als zwei gewöhnliche Pkw, aber weniger als ein voll beladener 12-Tonnen-Lkw.",
+      "source": {
+        "name": "Guinness World Records – Largest chocolate bar by weight",
+        "url": "https://www.guinnessworldrecords.com/world-records/largest-chocolate-bar",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2011-10-07",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "3.000 kg Untergrenze; Turn breite Spanne. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | Revision 4: Antwortformat präzisiert. Vorher: Wie viel wog die am 7. Oktober 2011 von Thorntons hergestellte Rekord-Schokoladentafel? Antwort: 5792.5 kg. Umrechnungsfaktor zum bisherigen Wert: 1000. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Tonnen wog die am 7. Oktober 2011 von Thorntons hergestellte Rekord-Schokoladentafel? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: direkter Vergleich mit einem üblichen Produkt. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Tafel wog mehr als ein typischer Pkw, aber weniger als ein voll beladener 12-Tonnen-Lkw.",
+      "hint2V02": "Die Tafel wog zwischen vier und acht Tonnen. Eine Tonne entspricht 1.000 Kilogramm.",
+      "questionContext": "Gemeint ist die am 7. Oktober 2011 hergestellte einzelne Tafel, nicht die Verpackung.",
+      "answerExplanation": "Die britische Firma Thorntons stellte die 5.792,5 Kilogramm schwere Tafel am 7. Oktober 2011 in Alfreton her. Rein rechnerisch hätten sich daraus 57.925 normale Tafeln à 100 Gramm schneiden lassen. Wer jeden Tag eine davon essen würde, käme damit fast 159 Jahre aus.",
+      "additionalSources": [
+        "https://www.guinnessworldrecords.com/world-records/largest-chocolate-bar"
+      ],
+      "hintReviewNote": "Beibehalten: direkter Vergleich mit einem üblichen Produkt."
+    },
+    {
+      "id": "SCI-0001",
+      "categoryId": "SCI",
+      "category": "Wissenschaft & Natur",
+      "subcategory": "Astronomie",
+      "question": "Wie viele Tausend Kilometer ist der Mond im Mittel von der Erdmitte entfernt?",
+      "answerValue": 384.4,
+      "unit": "Tsd. km",
+      "hint1": "Mit einem Auto, das ohne Pause 100 km/h fährt, wäre man länger als 100 Tage unterwegs.",
+      "hint2": "Ein Lichtsignal legt rund 300.000 Kilometer pro Sekunde zurück. Vom Mond zur Erde braucht es etwas mehr als eine Sekunde.",
+      "source": {
+        "name": "NASA – How Far Away Is the Moon?",
+        "url": "https://spaceplace.nasa.gov/moon-distance/en/",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Untergrenze 240.000 km; obere Grenze 1 Mio. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | Revision 4: Antwortformat präzisiert. Vorher: Wie weit ist der Mond im Mittel vom Erdmittelpunkt entfernt? Antwort: 384400 km. Umrechnungsfaktor zum bisherigen Wert: 1000. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Tausend Kilometer ist der Mond im Mittel vom Erdmittelpunkt entfernt? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: konkrete Autogeschwindigkeit und grobe Zeituntergrenze. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Entfernung schwankt im Laufe der Mondumlaufbahn; der Mittelwert liegt deutlich unter einer Million Kilometern.",
+      "hint2V02": "Ein Lichtsignal legt in einer Sekunde rund 300.000 Kilometer zurück. Vom Mond zur Erde braucht es im Mittel mehr als eine, aber weniger als zwei Sekunden.",
+      "questionContext": "Gesucht ist die mittlere Entfernung von Erdmittelpunkt zu Mondmittelpunkt, nicht der Abstand zwischen den Oberflächen.",
+      "answerExplanation": "Die mittlere Entfernung beträgt laut NASA 384.400 km. Weil die Mondbahn nicht kreisförmig ist, verändert sie sich. Reflektoren, die bei Apollo-Missionen auf dem Mond hinterlassen wurden, erlauben genaue Messungen mit Lasern. Sie zeigen, dass sich der Mond jährlich knapp vier Zentimeter von der Erde entfernt.",
+      "additionalSources": [
+        "https://science.nasa.gov/moon/facts/",
+        "https://science.nasa.gov/solar-system/moon/five-things-to-know-about-the-moon/"
+      ],
+      "hintReviewNote": "Beibehalten: konkrete Autogeschwindigkeit und grobe Zeituntergrenze."
+    },
+    {
+      "id": "SCI-0002",
+      "categoryId": "SCI",
+      "category": "Wissenschaft & Natur",
+      "subcategory": "Planeten",
+      "question": "Wie viele Erdstunden dauert ein Jupiter-Tag?",
+      "answerValue": 9.9,
+      "unit": "Stunden",
+      "hint1": "Wer auf Jupiter ein Wochenende lang schläft, verpasst dort gleich mehrere Sonnenaufgänge.",
+      "hint2": "Der Jupiter dreht sich schneller um seine eigene Achse als jeder andere Planet des Sonnensystems. Ein Tag dauert dort weniger als halb so lange wie auf der Erde.",
+      "source": {
+        "name": "NASA – Planetary Fact Sheet",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "9,9 h; vereinfachter Vergleich der Rotationsperioden, keine Aussage über konkrete Beobachtungsbedingungen. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. Zusatzreferenz: https://science.nasa.gov/jupiter/jupiter-facts/ | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Erdstunden dauert auf Jupiter ein Tag (Rotation, auf eine Nachkommastelle gerundet)? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: überraschender Vergleich mit dem Wochenende; keine genaue Zahl von Sonnenaufgängen. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Ein Jupiter-Tag dauert weniger als halb so lange wie ein Tag auf der Erde.",
+      "hint2V02": "Ein Jupiter-Tag dauert zwischen sechs und zwölf Erdstunden.",
+      "questionContext": "Gemeint ist eine Rotation um die eigene Achse, auf eine Nachkommastelle gerundet, nicht ein Umlauf um die Sonne.",
+      "answerExplanation": "Jupiter dreht sich in rund 9,9 Erdstunden einmal um seine Achse. Ein Umlauf um die Sonne dauert dagegen fast zwölf Erdjahre. Die schnelle Rotation trägt zur Bildung der charakteristischen Wolkenbänder und starken Winde bei. Daher sind Tag und Jahr dort völlig anders als bei uns.",
+      "additionalSources": [
+        "https://science.nasa.gov/jupiter/jupiter-facts/"
+      ],
+      "hintReviewNote": "Beibehalten: überraschender Vergleich mit dem Wochenende; keine genaue Zahl von Sonnenaufgängen."
+    },
+    {
+      "id": "SCI-0003",
+      "categoryId": "SCI",
+      "category": "Wissenschaft & Natur",
+      "subcategory": "Wasser",
+      "question": "Wie viel Prozent des Erdwassers sind Süßwasser (USGS-Schätzung)?",
+      "answerValue": 2.5,
+      "unit": "Prozent",
+      "hint1": "Ein Großteil des Süßwassers der Erde steckt in Eis und Gletschern und ist deshalb nicht unmittelbar als Trinkwasser verfügbar.",
+      "hint2": "Mehr als 95 Prozent des gesamten Wassers auf der Erde sind Salzwasser.",
+      "source": {
+        "name": "USGS – Where is Earth’s Water?",
+        "url": "https://www.usgs.gov/water-science-school/science/where-earths-water",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Putzeimer als ca. 10 L verstanden; keine exakte Umrechnung. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viel Prozent des gesamten Wassers auf der Erde sind Süßwasser, laut USGS-Schätzung? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: echter überraschender Verteilungsfakt; die Prozentanteile erst nach Auflösung. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Ein erheblicher Teil des Süßwassers ist in Eis und Gletschern gebunden.",
+      "hint2V02": "Mehr als 95 Prozent des gesamten Wassers auf der Erde sind Salzwasser.",
+      "questionContext": "Gezählt wird das gesamte Wasser der Erde einschließlich Eis, Gletschern und Grundwasser.",
+      "answerExplanation": "Nach USGS sind ungefähr 2,5 Prozent des gesamten Erdwassers Süßwasser. Davon sind rund 69 Prozent in Eis und permanentem Schnee gespeichert, etwa 30 Prozent liegen als Grundwasser vor. Nur ein kleiner Rest befindet sich unter anderem in Seen, Flüssen und der Atmosphäre. Süßwasser ist daher nicht dasselbe wie unmittelbar verfügbares Trinkwasser.",
+      "additionalSources": [
+        "https://www.usgs.gov/water-science-school/science/how-much-water-there-earth"
+      ],
+      "hintReviewNote": "Ersetzt: echter überraschender Verteilungsfakt; die Prozentanteile erst nach Auflösung.",
+      "hint1V06": "In einer fiktiven Badewanne mit 100 Litern Erdwasser wäre der Süßwasseranteil kleiner als ein halber Putzeimer."
+    },
+    {
+      "id": "TEC-0001",
+      "categoryId": "TEC",
+      "category": "Technologie",
+      "subcategory": "Gaming",
+      "question": "Wie viele Millionen Geräte der Nintendo-DS-Familie wurden insgesamt verkauft?",
+      "answerValue": 154.02,
+      "unit": "Mio. Geräte",
+      "hint1": "Wenn jedes Gerät einen eigenen Platz in einem Stadion mit 50.000 Sitzen bekäme, bräuchte man weit mehr als 1.000 Stadien.",
+      "hint2": "Von der Nintendo-3DS-Familie wurden rund 76 Millionen Geräte verkauft. Der Nintendo DS war deutlich erfolgreicher.",
+      "source": {
+        "name": "Nintendo – Dedicated Video Game Sales Units",
+        "url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2026-11-26",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "DS 154,02 Mio.; 3DS ca. 76 Mio.; Vergleichsstadien hypothetisch. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Millionen Nintendo-DS-Konsolen (alle Modellvarianten der DS-Familie) wurden laut Nintendo insgesamt verkauft? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: quantifizierter Stadionvergleich, grobe Untergrenze. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die DS-Familie verkaufte sich deutlich häufiger als die Nintendo-3DS-Familie.",
+      "hint2V02": "Von der Nintendo-3DS-Familie wurden rund 76 Millionen Geräte verkauft. Beim Nintendo DS waren es mehr als 50 Millionen Geräte zusätzlich.",
+      "questionContext": "Alle Varianten der DS-Familie zählen mit. Die spätere Nintendo-3DS-Familie ist nicht enthalten.",
+      "answerExplanation": "Nintendo weist für die DS-Familie insgesamt 154,02 Millionen verkaufte Geräte aus. Die späteren 3DS-Geräte zählen nicht dazu und erreichten 75,94 Millionen. Für die DS-Familie meldet Nintendo außerdem rund 949 Millionen verkaufte Spiele – im Mittel gut sechs Spiele je verkauftem Gerät. Die Hardware- und Softwarezahlen sind getrennte Größen.",
+      "additionalSources": [
+        "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html"
+      ],
+      "hintReviewNote": "Beibehalten: quantifizierter Stadionvergleich, grobe Untergrenze."
+    },
+    {
+      "id": "TEC-0002",
+      "categoryId": "TEC",
+      "category": "Technologie",
+      "subcategory": "Forschungstechnik",
+      "question": "Wie lang ist der LHC-Beschleunigerring am CERN in Kilometern?",
+      "answerValue": 26.659,
+      "unit": "km",
+      "hint1": "Mit gewöhnlichen statt supraleitenden Magneten müsste der Beschleuniger laut CERN für dieselbe Energie ungefähr 120 Kilometer lang sein.",
+      "hint2": "Ein Marathon ist rund 42 Kilometer lang. Der Beschleunigerring ist deutlich kürzer.",
+      "source": {
+        "name": "CERN – Large Hadron Collider",
+        "url": "https://home.cern/science/accelerators/large-hadron-collider/",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Zahnbürsten etwa 15–20 cm; Marathon 42,195 km. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | Revision 4: Antwortformat präzisiert. Vorher: Wie lang ist der Ring des Teilchenbeschleunigers LHC am CERN (Umfang)? Antwort: 26659 m. Umrechnungsfaktor zum bisherigen Wert: 1000. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie lang ist der Ring des Teilchenbeschleunigers LHC am CERN (Umfang) in Kilometern? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: echte technische Alternative statt Zahnbürstenkette. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Der Ring ist kürzer als eine Marathonstrecke.",
+      "hint2V02": "Der Ring ist länger als 20 Kilometer, aber kürzer als 35 Kilometer.",
+      "questionContext": "LHC steht für Large Hadron Collider, einen Teilchenbeschleuniger. Gesucht ist der Umfang des Rings.",
+      "answerExplanation": "Der Ring des Large Hadron Collider misst 26,659 km. Die Teilchen werden mit starken Magneten auf ihrer Bahn gehalten. Um die nötige Feldstärke zu erreichen, werden die supraleitenden Magnete auf etwa minus 271 Grad Celsius gekühlt. CERN zufolge wäre mit herkömmlichen Magneten ein erheblich längerer Ring nötig.",
+      "additionalSources": [
+        "https://home.web.cern.ch/science/engineering/pulling-together-superconducting-electromagnets/",
+        "https://drupal-home.web.cern.ch/resources/faqs/facts-and-figures-about-lhc"
+      ],
+      "hintReviewNote": "Ersetzt: echte technische Alternative statt Zahnbürstenkette.",
+      "hint1V06": "Eine Reihe aus 100.000 gewöhnlichen Zahnbürsten wäre noch nicht lang genug, um den Ring zu umrunden."
+    },
+    {
+      "id": "TEC-0003",
+      "categoryId": "TEC",
+      "category": "Technologie",
+      "subcategory": "Computer",
+      "question": "Wie viele Millionen Zeichen konnte der IBM RAMAC von 1956 speichern?",
+      "answerValue": 5,
+      "unit": "Mio. Zeichen",
+      "hint1": "Die Speichereinheit war ungefähr so groß wie zwei Kühlschränke und wog mehr als eine Tonne.",
+      "hint2": "Die Festplatteneinheit bestand aus 50 Magnetplatten. Die Kapazität pro Platte lag im Durchschnitt bei mehr als 50.000 Zeichen.",
+      "source": {
+        "name": "IBM – RAMAC",
+        "url": "https://www.ibm.com/history/ramac",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "1956",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "IBM nennt 5 MB; historische Zeichencodierung, Frage explizit laut IBM. Turn noch zu schwach. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Megabyte Speicher bot der IBM RAMAC laut IBM bei seiner Vorstellung 1956? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: echtes Gewicht und Größe; Frage und Einheit auf historische Zeichenangabe korrigiert, Hinweis 2 angepasst. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend. Vorherige Frage/Einheit/Hinweis 2: Wie viele Megabyte Speicher hatte der IBM RAMAC von 1956? / MB / Eine gewöhnliche CD fasst rund 700 MB. Der RAMAC hatte weniger als ein Hundertstel dieser Speicherkapazität.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Kapazität war kleiner als die einer gewöhnlichen Audio-CD.",
+      "hint2V02": "Der Speicher fasste mehr als 1 MB, aber weniger als 10 MB.",
+      "questionContext": "Gemeint ist die historische Kapazitätsangabe der ursprünglichen 350-Festplatteneinheit in Zeichen, nicht die Umrechnung in heutige Megabyte.",
+      "answerExplanation": "Der IBM RAMAC war 1956 ein Vorreiter der Festplattenspeicherung. Die historische Kapazitätsangabe laut IBM lautet fünf Millionen Zeichen mit sieben Bits je Zeichen. Der Vergleich mit modernen Megabyte ist deshalb nicht eindeutig. Die Speichereinheit nutzte 50 große magnetische Platten. Der neue Bezug auf Zeichen vermeidet die Umrechnungsproblematik.",
+      "additionalSources": [
+        "https://www.ibm.com/history/ramac",
+        "https://www.computerhistory.org/storageengine/first-commercial-hard-disk-drive-shipped/"
+      ],
+      "hintReviewNote": "Ersetzt: echtes Gewicht und Größe; Frage und Einheit auf historische Zeichenangabe korrigiert, Hinweis 2 angepasst.",
+      "hint1V06": "Die Maschine nahm viel Platz in einem Raum ein, trotzdem würde ein einziges großes Smartphone-Foto heute unter Umständen nicht hineinpassen."
+    },
+    {
+      "id": "SPO-0001",
+      "categoryId": "SPO",
+      "category": "Sport",
+      "subcategory": "Fußball",
+      "question": "Wie viele Tore fielen bei der Männer-Fußball-WM 2022 ohne Elfmeterschießen?",
+      "answerValue": 172,
+      "unit": "Tore",
+      "hint1": "Das Finale allein ging 3:3 aus; der damalige Torrekord für eine gesamte Männer-WM wurde dadurch übertroffen.",
+      "hint2": "Das Turnier umfasste insgesamt 64 Spiele.",
+      "source": {
+        "name": "FIFA – World Cup Qatar 2022 summary",
+        "url": "https://publications.fifa.com/de/annual-report-2022/2022-at-a-glance/fifa-world-cup-qatar-2022-summary/",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2022",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "64 Spiele und 172 Tore; Schätzspanne bleibt offen. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Tore fielen bei der Fußball-WM der Männer 2022 in Katar insgesamt (ohne Elfmeterschießen)? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: tatsächlicher Turnierrekord statt Geburtstag; Hinweis 2 bleibt 64 Spiele. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Das Turnier umfasste 64 Spiele; im Finale fielen sechs Tore.",
+      "hint2V02": "Bei den 64 WM-Spielen fielen im Schnitt mehr als zwei, aber weniger als drei Tore pro Spiel.",
+      "questionContext": "Tore aus regulärer Spielzeit und Verlängerung zählen; Treffer im Elfmeterschießen nicht.",
+      "answerExplanation": "In Katar 2022 fielen 172 Tore in 64 Partien. Das waren im Mittel knapp 2,7 Treffer pro Spiel und ein Tor mehr als bei den früheren Rekordturnieren 1998 und 2014. Argentinien besiegte Frankreich im Finale nach einem 3:3 im Elfmeterschießen. Die Treffer im Elfmeterschießen zählen nicht zur Torstatistik.",
+      "additionalSources": [
+        "https://publications.fifa.com/en/annual-report-2022/tournaments-and-events/fifa-world-cup-quatar-2022/fifa-world-cup-qatar-2022-in-numbers/"
+      ],
+      "hintReviewNote": "Ersetzt: tatsächlicher Turnierrekord statt Geburtstag; Hinweis 2 bleibt 64 Spiele.",
+      "hint1V06": "Würde man pro Treffer eine Kerze anzünden, reichte die Zahl für mehr als einen 100. Geburtstag."
+    },
+    {
+      "id": "SPO-0002",
+      "categoryId": "SPO",
+      "category": "Sport",
+      "subcategory": "Leichtathletik",
+      "question": "Wie lang ist die offizielle Marathonstrecke in Kilometern?",
+      "answerValue": 42.195,
+      "unit": "km",
+      "hint1": "Eine Schlange aus 10.000 hintereinander abgestellten Kleinwagen könnte fast so lang sein.",
+      "hint2": "Die Strecke ist länger als 25 Meilen. Eine Meile entspricht rund 1,6 Kilometern.",
+      "source": {
+        "name": "World Athletics – Marathon",
+        "url": "https://worldathletics.org/disciplines/road-running/marathon",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Autos ca. 3–4 m; bekannte Antwort, geringe Schwierigkeit. Hinweisqualität im Test prüfen. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. Zusatzreferenz: https://worldathletics.org/disciplines/race-walks/marathon | Revision 4: Antwortformat präzisiert. Vorher: Wie lang ist die offiziell festgelegte Marathonstrecke? Antwort: 42.195 km. Umrechnungsfaktor zum bisherigen Wert: 1. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie lang ist die offiziell festgelegte Marathonstrecke in Kilometern? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: bildlicher Autovergleich, der nur ungefähr 40 km nahelegt. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Strecke entspricht mehr als vier 10-km-Läufen.",
+      "hint2V02": "Die Strecke ist länger als 40 Kilometer, aber kürzer als 50 Kilometer.",
+      "questionContext": null,
+      "answerExplanation": "Die offizielle Strecke misst exakt 42,195 Kilometer. Bei den Spielen 1908 in London wurde der Kurs zwischen Windsor und dem Stadion so angepasst, dass der Start und das Ziel den damaligen königlichen Wünschen entsprachen. 1921 wurde diese Länge international standardisiert. Zuvor waren Marathonstrecken nicht einheitlich lang.",
+      "additionalSources": [
+        "https://worldathletics.org/disciplines/relays/marathon"
+      ],
+      "hintReviewNote": "Beibehalten: bildlicher Autovergleich, der nur ungefähr 40 km nahelegt."
+    },
+    {
+      "id": "SPO-0003",
+      "categoryId": "SPO",
+      "category": "Sport",
+      "subcategory": "Olympia",
+      "question": "Wie viele Medaillenentscheidungen gab es bei Olympia Paris 2024?",
+      "answerValue": 329,
+      "unit": "Entscheidungen",
+      "hint1": "Die Spiele fanden so weit verstreut statt, dass die Surfwettbewerbe auf Tahiti im Pazifik ausgetragen wurden.",
+      "hint2": "Das olympische Programm umfasste insgesamt 32 Sportarten, darunter Leichtathletik und Schwimmen mit zahlreichen Einzelentscheidungen.",
+      "source": {
+        "name": "IOC – Paris 2024 sports calendar",
+        "url": "https://www.olympics.com/ioc/news/paris-2024-sports-calendar-released",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2024",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "329 Events; keine Medaillenzahl. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Medaillenentscheidungen gab es bei den Olympischen Sommerspielen 2024 in Paris? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: echter ungewöhnlicher Umfang der Spiele statt Wohnblock; Informationswert eher qualitativ. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Das Programm umfasste 32 Sportarten.",
+      "hint2V02": "In den 32 Sportarten gab es durchschnittlich zwischen acht und zwölf Medaillenentscheidungen pro Sportart.",
+      "questionContext": "Gemeint sind die Olympischen Sommerspiele. Jede Disziplin, in der ein Medaillensatz vergeben wurde, zählt als eine Entscheidung.",
+      "answerExplanation": "In Paris 2024 gab es 329 Medaillenentscheidungen in 32 Sportarten. Breaking feierte sein olympisches Debüt. Die Surfwettbewerbe wurden nicht in Paris, sondern auf Tahiti in Französisch-Polynesien ausgetragen. Eine Medaillenentscheidung ist dabei eine Disziplin mit einem Medaillensatz, nicht die Anzahl aller vergebenen Medaillen.",
+      "additionalSources": [
+        "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field",
+        "https://www.olympics.com.au/games/paris-2024/"
+      ],
+      "hintReviewNote": "Ersetzt: echter ungewöhnlicher Umfang der Spiele statt Wohnblock; Informationswert eher qualitativ.",
+      "hint1V06": "Würde jede Entscheidung ein eigenes Klingelschild bekommen, wäre selbst ein Wohnblock mit 200 Wohnungen zu klein."
+    },
+    {
+      "id": "ECO-0001",
+      "categoryId": "ECO",
+      "category": "Wirtschaft",
+      "subcategory": "Unternehmen",
+      "question": "Wie hoch war der weltweite LEGO-Umsatz 2023 in Milliarden dänischen Kronen?",
+      "answerValue": 65.9,
+      "unit": "Mrd. DKK",
+      "hint1": "Mit dieser Summe könnte man jedem Einwohner Dänemarks mehrere tausend dänische Kronen schenken.",
+      "hint2": "Der Nettogewinn der LEGO Group lag 2023 bei rund 13 Milliarden dänischen Kronen.",
+      "source": {
+        "name": "LEGO – Geschäftsergebnis 2023",
+        "url": "https://www.lego.com/en-at/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2023",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Dänemark grob 6 Mio. Einwohner; Gewinn 13,1 Mrd. DKK. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie hoch war der weltweite Jahresumsatz der LEGO Group 2023 in Milliarden dänischen Kronen? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: nachvollziehbare Umverteilung auf die Bevölkerung. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Der Umsatz stieg gegenüber 2022 um etwa zwei Prozent; der Gewinn lag bei rund 13 Milliarden Kronen.",
+      "hint2V02": "Der Jahresgewinn betrug rund 13 Milliarden dänische Kronen. Der Umsatz war mehr als viermal, aber weniger als siebenmal so hoch.",
+      "questionContext": "Umsatz ist die Summe der Erlöse, nicht der Gewinn nach Abzug der Kosten.",
+      "answerExplanation": "2023 nahm LEGO weltweit 65,9 Milliarden dänische Kronen ein. Trotz eines schwierigen Spielwarenmarkts wuchs der Umsatz gegenüber 2022 um zwei Prozent. Der Nettogewinn lag bei 13,1 Milliarden Kronen, also bei knapp einem Fünftel des Umsatzes. Das Unternehmen gewann Marktanteile hinzu.",
+      "additionalSources": [
+        "https://www.lego.com/en-us/aboutus/news/2024/march/lego-delivered-topline-growth-and-outpaced-market-in-2023"
+      ],
+      "hintReviewNote": "Beibehalten: nachvollziehbare Umverteilung auf die Bevölkerung."
+    },
+    {
+      "id": "ECO-0002",
+      "categoryId": "ECO",
+      "category": "Wirtschaft",
+      "subcategory": "Weltwirtschaft",
+      "question": "Wie groß war das weltweite nominale BIP 2023 laut WITS in Billionen US-Dollar?",
+      "answerValue": 106.93925,
+      "unit": "Bio. USD",
+      "hint1": "Für diese Summe könnte man rechnerisch jedem der rund acht Milliarden Menschen auf der Erde mehr als 5.000 Dollar geben.",
+      "hint2": "Allein die USA erwirtschafteten 2023 ein nominales Bruttoinlandsprodukt von rund 27 Billionen US-Dollar.",
+      "source": {
+        "name": "Weltbank – World Trade Summary 2023",
+        "url": "https://wits.worldbank.org/CountryProfile/en/Country/WLD/Year/2023/Summarytext",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2023",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "106.939.250 Millionen USD; Turn definiert Bezugsgröße, als Hinweis noch schwach. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. Zusatzreferenz: https://www.bea.gov/news/2024/gross-domestic-product-fourth-quarter-and-year-2023-second-estimate | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie groß war das nominale weltweite Bruttoinlandsprodukt 2023 laut WITS in Billionen US-Dollar? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: quantitativer Bezug zum Alltag; keine Gleichsetzung mit tatsächlicher Verteilung. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Gesucht ist der Jahreswert der globalen Wirtschaftsleistung zu laufenden Preisen, nicht das gesamte Weltvermögen.",
+      "hint2V02": "Auf rund acht Milliarden Menschen verteilt entspricht die weltweite Wirtschaftsleistung einem Jahreswert von mehr als 10.000, aber weniger als 20.000 US-Dollar pro Person.",
+      "questionContext": "Das Bruttoinlandsprodukt (BIP) misst die Wirtschaftsleistung eines Jahres. Gemeint ist der WITS-Wert in laufenden Preisen, ohne Inflationsbereinigung.",
+      "answerExplanation": "WITS nennt für 2023 rund 106,94 Billionen US-Dollar Wirtschaftsleistung. Das US-BIP allein lag in derselben Datenbank bei rund 27,72 Billionen Dollar, etwa einem Viertel der Weltsumme. Pro Person auf acht Milliarden Menschen verteilt wären das rechnerisch rund 13.400 Dollar; das ist weder ein Einkommen noch das Weltvermögen.",
+      "additionalSources": [
+        "https://wits.worldbank.org/CountryProfile/en/Country/USA/Year/2023"
+      ],
+      "hintReviewNote": "Beibehalten: quantitativer Bezug zum Alltag; keine Gleichsetzung mit tatsächlicher Verteilung."
+    },
+    {
+      "id": "ECO-0003",
+      "categoryId": "ECO",
+      "category": "Wirtschaft",
+      "subcategory": "Geld & Produktion",
+      "question": "Wie viele Milliarden Umlaufmünzen produzierte die US Mint im Fiskaljahr 2024?",
+      "answerValue": 5.61,
+      "unit": "Mrd. Münzen",
+      "hint1": "Würde jede Münze eine Sekunde lang aus einem Automaten rollen, liefe er länger als ein Menschenleben.",
+      "hint2": "Ein-Cent-Münzen machten mehr als 50 % der gesamten Produktion aus. Insgesamt wurden mehr als drei Milliarden Ein-Cent-Münzen hergestellt.",
+      "source": {
+        "name": "US Mint – Penny FAQs",
+        "url": "https://www.usmint.gov/news/media-kit/penny",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2024",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "5,61 Mrd. ≈ 178 Jahre; Penny 57 %. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Milliarden Umlaufmünzen produzierte die US Mint im US-Fiskaljahr 2024? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: überraschender und nachvollziehbarer Zeitvergleich. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Ein-Cent-Münze machte mehr als die Hälfte der Produktion aus.",
+      "hint2V02": "Ein-Cent-Münzen machten 57 Prozent der Produktion aus; insgesamt wurden mehr als drei Milliarden davon hergestellt.",
+      "questionContext": "Die US Mint ist die staatliche Münzprägestätte der USA. Gemeint sind Umlaufmünzen im US-Fiskaljahr, nicht Geldscheine oder Sammlermünzen.",
+      "answerExplanation": "Die US Mint stellte im Fiskaljahr 2024 rund 5,61 Milliarden Umlaufmünzen her. Darunter waren rund 3,2 Milliarden Ein-Cent-Münzen, obwohl jede nur einen Cent Nennwert besitzt. Bei einer Münze pro Sekunde würde die gesamte Produktion rechnerisch rund 178 Jahre dauern.",
+      "additionalSources": [
+        "https://www.usmint.gov/news/media-kit/penny"
+      ],
+      "hintReviewNote": "Beibehalten: überraschender und nachvollziehbarer Zeitvergleich."
+    },
+    {
+      "id": "ENT-0001",
+      "categoryId": "ENT",
+      "category": "Film & Musik",
+      "subcategory": "Fernsehen",
+      "question": "Wie viele Simpsons-Folgen waren bis zum Ende der 30. Staffel ausgestrahlt?",
+      "answerValue": 662,
+      "unit": "Folgen",
+      "hint1": "2016 lief im US-Fernsehen ein Simpsons-Marathon mehr als zwölf Tage am Stück, ohne andere Serien dazwischen.",
+      "hint2": "Die erste Staffel umfasste 13 Folgen. Viele spätere Staffeln hatten mehr als 20 Folgen.",
+      "source": {
+        "name": "Guinness World Records – Longest-running animated sitcom (2019)",
+        "url": "https://www.guinnessworldrecords.com/world-records/418771-longest-running-animated-sitcom-by-episode-count",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2019-05-12",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "662 Folgen; historische Grenze. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Folgen der Simpsons waren bis zum Ende der 30. Staffel am 12. Mai 2019 ausgestrahlt worden? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: realer TV-Marathon statt hypothetischer täglicher Folge. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Serie startete 1989; gefragt sind nur die ersten 30 Staffeln.",
+      "hint2V02": "Bei den ersten 30 Staffeln waren es im Durchschnitt mehr als 18, aber weniger als 26 Folgen pro Staffel.",
+      "questionContext": "Stichtag ist der 12. Mai 2019. Spätere Staffeln zählen nicht.",
+      "answerExplanation": "Die erste reguläre Folge wurde am 17. Dezember 1989 ausgestrahlt. Bis zum Ende der 30. Staffel am 12. Mai 2019 waren es 662 Folgen. Der Sender FXX strahlte 2016 sogar 600 Folgen in 300 Stunden am Stück aus. Das ist ein eigener Guinness-Rekord für eine TV-Franchise.",
+      "additionalSources": [
+        "https://www.guinnessworldrecords.com/records/hall-of-fame/The-Simpsons-Longest-running-animated-sitcom-number-of-episodes"
+      ],
+      "hintReviewNote": "Ersetzt: realer TV-Marathon statt hypothetischer täglicher Folge.",
+      "hint1V06": "Wer jeden Abend eine Folge schaut, wäre länger als ein Jahr beschäftigt."
+    },
+    {
+      "id": "ENT-0002",
+      "categoryId": "ENT",
+      "category": "Film & Musik",
+      "subcategory": "Musik",
+      "question": "Wie viele Millionen Exemplare von Michael Jacksons Thriller wurden weltweit laut Guinness mindestens verkauft?",
+      "answerValue": 67,
+      "unit": "Mio. Exemplare",
+      "hint1": "Wenn man für jedes Exemplar einen Zentimeter im Plattenregal einplant, wäre das Regal mehrere hundert Kilometer lang.",
+      "hint2": "Allein in den USA waren im August 2021 rund 34 Millionen Einheiten zertifiziert.",
+      "source": {
+        "name": "Guinness World Records – Best-selling album",
+        "url": "https://www.guinnessworldrecords.com/world-records/70133-best-selling-album?pubDate=20250826",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2021",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Quelle: mehr als 67 Mio., tatsächliche Verkaufszahl unsicher; explizit Untergrenze. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Millionen verkaufte Exemplare nennt Guinness für Michael Jacksons Thriller als weltweiten Schätzwert (auf die dort genannte Untergrenze bezogen)? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: anschaulicher Plattenregalvergleich, bewusst nur grobe Größenordnung. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Guinness nennt 34 Millionen zertifizierte Einheiten allein in den USA im August 2021.",
+      "hint2V02": "Allein in den USA waren im August 2021 rund 34 Millionen Einheiten zertifiziert. Der weltweite Guinness-Schätzwert ist höher, aber kleiner als 100 Millionen.",
+      "questionContext": "Gesucht ist die Untergrenze des weltweiten Guinness-Schätzwerts für das Album, nicht nur die US-Verkäufe.",
+      "answerExplanation": "Thriller erschien am 30. November 1982. Guinness nennt mehr als 67 Millionen weltweit verkaufte Exemplare; die genaue Zahl variiert je nach Quelle. Sieben der neun Albumtitel erreichten die US-Top-10, darunter Billie Jean und Beat It. Die US-Zertifizierung lag im August 2021 bei 34 Millionen Einheiten.",
+      "additionalSources": [
+        "https://www.guinnessworldrecords.com/world-records/70133-best-selling-album"
+      ],
+      "hintReviewNote": "Beibehalten: anschaulicher Plattenregalvergleich, bewusst nur grobe Größenordnung."
+    },
+    {
+      "id": "ENT-0003",
+      "categoryId": "ENT",
+      "category": "Film & Musik",
+      "subcategory": "Film",
+      "question": "Wie viele Stunden dauert der schwedische Experimentalfilm Logistics (2012)?",
+      "answerValue": 857,
+      "unit": "Stunden",
+      "hint1": "Der Film zeigt in Echtzeit den Weg eines Schrittzählers – rückwärts von einem Laden in Schweden bis zur Fabrik in China.",
+      "hint2": "Selbst bei 24 Stunden ununterbrochener Wiedergabe pro Tag dauert der Film länger als einen Monat mit 30 Tagen.",
+      "source": {
+        "name": "Guinness World Records – Longest film made",
+        "url": "https://www.guinnessworldrecords.com/world-records/69763-longest-film-made",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2012",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "857 h; 4 Wochen = 672 h. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Stunden dauert der schwedische Experimentalfilm Logistics aus dem Jahr 2012? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: reale absurde Filmidee mit nachvollziehbarem Bezug zur Dauer. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Der Film dauert länger als vier Wochen ununterbrochener Wiedergabe.",
+      "hint2V02": "Der Film dauert länger als einen Monat mit 30 Tagen, aber kürzer als zwei solche Monate – bei ununterbrochener Wiedergabe.",
+      "questionContext": null,
+      "answerExplanation": "Die Künstler Erika Magnusson und Daniel Andersson wollten sichtbar machen, wie viel Zeit in der Herstellung und im Transport eines Alltagsgegenstands steckt. Ihr Film Logistics begleitet die Lieferkette eines Schrittzählers in umgekehrter Reihenfolge. Die 857 Stunden entsprechen 35 Tagen und 17 Stunden ununterbrochener Wiedergabe.",
+      "additionalSources": [
+        "https://www.guinnessworldrecords.com/world-records/69763-longest-film-made"
+      ],
+      "hintReviewNote": "Ersetzt: reale absurde Filmidee mit nachvollziehbarem Bezug zur Dauer.",
+      "hint1V06": "Wer täglich einen Filmabend mit drei Stunden einplant, wäre mit diesem Film viele Monate beschäftigt."
+    },
+    {
+      "id": "HUM-0001",
+      "categoryId": "HUM",
+      "category": "Mensch & Psychologie",
+      "subcategory": "Anatomie",
+      "question": "Wie viele Knochen hat ein erwachsener Mensch (Standardzählung)?",
+      "answerValue": 206,
+      "unit": "Knochen",
+      "hint1": "Ein Baby besitzt mehr Knochen als ein Erwachsener – weil einige Knochen erst beim Heranwachsen zusammenwachsen.",
+      "hint2": "In jeder menschlichen Hand befinden sich 27 Knochen, einschließlich der Handwurzel.",
+      "source": {
+        "name": "NCBI Bookshelf – Physiology, Bone",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK441968/",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "Standardzählung; anatomische Variationen möglich. Turn wenig eingrenzend. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Knochen hat ein erwachsener Mensch nach der üblichen anatomischen Standardzählung? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: echter überraschender anatomischer Fakt statt Dominosteinen. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Einige Knochen wachsen im Laufe der Entwicklung zusammen; die Zahl ist deshalb bei Babys höher.",
+      "hint2V02": "Das Achsenskelett (Schädel, Wirbelsäule und Brustkorb) hat 80 Knochen. Die restlichen Knochen zählen zum Gliedmaßenskelett und sind mehr als 100, aber weniger als 150.",
+      "questionContext": "Gemeint ist die übliche anatomische Zählweise; individuelle Abweichungen sind möglich.",
+      "answerExplanation": "Die anatomische Standardzählung ergibt 206 Knochen. Babys haben häufig etwa 270, da einzelne Teile später verschmelzen. Die tatsächliche Zahl kann auch bei Erwachsenen variieren, beispielsweise durch zusätzliche kleine Knochen. Die Frage bezieht sich deshalb auf die Standardzählung.",
+      "additionalSources": [
+        "https://my.clevelandclinic.org/health/articles/25176-bones",
+        "https://www.hopkinsmedicine.org/health/wellness-and-prevention/anatomy-of-the-bone"
+      ],
+      "hintReviewNote": "Ersetzt: echter überraschender anatomischer Fakt statt Dominosteinen.",
+      "hint1V06": "Würde jeder Knochen gegen einen einzelnen Dominostein ausgetauscht, bräuchte man mehr als drei klassische 28er-Dominospiele."
+    },
+    {
+      "id": "HUM-0002",
+      "categoryId": "HUM",
+      "category": "Mensch & Psychologie",
+      "subcategory": "Gehirn",
+      "question": "Wie viele Milliarden Nervenzellen hat das menschliche Gehirn laut NIH-Schätzung?",
+      "answerValue": 86,
+      "unit": "Mrd. Nervenzellen",
+      "hint1": "Wenn jede Nervenzelle einen eigenen Sitz im Kino bekäme, könnten alle Menschen der Erde mehrfach einen Platz besetzen.",
+      "hint2": "Das Gehirn enthält weniger als 100 Milliarden Nervenzellen. Zum Vergleich: Auf der Erde leben rund acht Milliarden Menschen.",
+      "source": {
+        "name": "NIH – Scientists build largest maps to date of cells in human brain",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/scientists-build-largest-maps-date-cells-human-brain",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "86 Mrd. ist Schätzwert; Hinweis 1 mit grober Weltbevölkerung, Hinweis 2 obere Grenze. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Milliarden Nervenzellen enthält das menschliche Gehirn laut der häufig zitierten Schätzung des NIH? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Beibehalten: Bevölkerungskino als anschaulicher Vergleich; genauerer Kleinhirnfakt erst nach Auflösung. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Der Wert liegt unter 100 Milliarden; es handelt sich um eine Schätzung, nicht um eine individuell konstante Zahl.",
+      "hint2V02": "Die geschätzte Anzahl liegt zwischen 50 und 100 Milliarden Nervenzellen.",
+      "questionContext": "Nervenzellen heißen auch Neuronen. Gesucht ist eine Schätzung für das gesamte Gehirn, keine individuell gemessene Zahl.",
+      "answerExplanation": "Eine Studie von 2009 schätzte die durchschnittliche Neuronenzahl in untersuchten erwachsenen männlichen Gehirnen auf 86,1 Milliarden. Besonders bemerkenswert: Das Kleinhirn macht nur etwa ein Zehntel der Gehirnmasse aus, enthält aber ungefähr vier Fünftel der Nervenzellen. Die Zahl 86 Milliarden ist ein Mittelwert, kein fixer Wert für jeden Menschen.",
+      "additionalSources": [
+        "https://pubmed.ncbi.nlm.nih.gov/19226510/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6097530/"
+      ],
+      "hintReviewNote": "Beibehalten: Bevölkerungskino als anschaulicher Vergleich; genauerer Kleinhirnfakt erst nach Auflösung."
+    },
+    {
+      "id": "HUM-0003",
+      "categoryId": "HUM",
+      "category": "Mensch & Psychologie",
+      "subcategory": "Verdauung",
+      "question": "Wie lang ist der Dünndarm laut Cleveland Clinic?",
+      "answerValue": 6.7,
+      "unit": "m",
+      "hint1": "Ausgestreckt wäre der Dünndarm eines Erwachsenen länger als ein gewöhnlicher Pkw.",
+      "hint2": "Der Dickdarm ist ungefähr 1,5 Meter lang. Der Dünndarm ist trotz seines Namens deutlich länger.",
+      "source": {
+        "name": "Cleveland Clinic – Small Intestine",
+        "url": "https://my.clevelandclinic.org/health/articles/22135-small-intestine",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": null,
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "22 ft × 0,3048 = 6,7056 m; Messweise variabel; Quelle explizit genannt. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie lang ist der menschliche Dünndarm ungefähr nach der Angabe der Cleveland Clinic (in Metern, auf eine Nachkommastelle)? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: einfacherer, geläufiger Größenvergleich ohne zwei unbekannte Sofalängen. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 5,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Er ist der längste Abschnitt des Verdauungstrakts.",
+      "hint2V02": "Der Dünndarm ist länger als fünf Meter, aber kürzer als zehn Meter.",
+      "questionContext": "Gemeint ist die dort angegebene ungefähre Länge in Metern, auf eine Nachkommastelle gerundet.",
+      "answerExplanation": "Die Cleveland Clinic gibt die Länge mit ungefähr 22 Fuß an, umgerechnet 6,7 Meter. Der Name Dünndarm bezieht sich auf seinen Durchmesser, nicht auf seine Länge. Er besteht aus Zwölffingerdarm, Leerdarm und Krummdarm; dort wird ein Großteil der Nährstoffe aufgenommen.",
+      "additionalSources": [
+        "https://my.clevelandclinic.org/health/articles/22135-small-intestine"
+      ],
+      "hintReviewNote": "Ersetzt: einfacherer, geläufiger Größenvergleich ohne zwei unbekannte Sofalängen.",
+      "hint1V06": "Würde man ihn ausstrecken, wäre er länger als zwei gewöhnliche Sofas hintereinander."
+    },
+    {
+      "id": "CUR-0001",
+      "categoryId": "CUR",
+      "category": "Kurioses Wissen",
+      "subcategory": "Sammlungen",
+      "question": "Wie viele Tausend Gummienten umfasste Charlotte Lees Rekordsammlung am 6. November 2026?",
+      "answerValue": 12.209,
+      "unit": "Tsd. Enten",
+      "hint1": "Charlotte Lee besitzt mehr Gummienten, als eine deutsche Hochschule im Durchschnitt Studierende hat.",
+      "hint2": "Bereits im Jahr 2003 umfasste die Sammlung mehr als 1.400 verschiedene Gummienten. Bis zur gesuchten Messung wurde sie über zwei weitere Jahrzehnte vergrößert.",
+      "source": {
+        "name": "Guinness World Records – Largest collection of rubber ducks",
+        "url": "https://www.guinnessworldrecords.com/world-records/largest-collection-of-rubber-ducks",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2026-11-06",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "12.209 zum Stichtag; Rekord kann sich ändern. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | Revision 4: Antwortformat präzisiert. Vorher: Wie viele unterschiedliche Gummienten umfasste Charlotte Lees von Guinness erfasste Sammlung am 6. November 2026? Antwort: 12209 Enten. Umrechnungsfaktor zum bisherigen Wert: 1000. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie viele Tausend unterschiedliche Gummienten umfasste Charlotte Lees von Guinness erfasste Sammlung am 6. November 2026? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | Revision 6: Vorheriger Hinweis 1: Wenn jede Ente eine eigene Badewanne bekäme, könnte man mehrere tausend Badezimmer gleichzeitig blockieren. Neuer Vergleich belegt: 2.864.122 Studierende / 422 Hochschulen ≈ 6.787 (WS 2024/25); https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Hochschulen/Tabellen/studierende-insgesamt-bundeslaender.html und https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Hochschulen/Tabellen/hochschulen-hochschularten.html. Antworterklärung ergänzt; keine Endfreigabe. | v0.7: Beibehalten: belegter Vergleich zwischen unterschiedlichen Lebensbereichen. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 7,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Die Sammlung begann in den 1990ern und umfasste 2003 bereits über 1.400 Stück.",
+      "hint2V02": "Die Sammlung umfasst mehr als 10.000, aber weniger als 20.000 Gummienten.",
+      "questionContext": "Gezählt werden unterschiedliche Gummienten, die Guinness zu diesem Datum erfasst hat.",
+      "answerExplanation": "Charlotte Lee sammelte die 12.209 unterschiedlichen Gummienten laut Guinness über 33 Jahre. Zum Vergleich: Im Wintersemester 2024/25 waren in Deutschland 2.864.122 Menschen an 422 Hochschulen eingeschrieben, also im Schnitt rund 6.787 pro Hochschule. Ihre Sammlung war damit etwa 1,8-mal so groß wie diese durchschnittliche Studierendenzahl.",
+      "additionalSources": [
+        "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Hochschulen/Tabellen/studierende-insgesamt-bundeslaender.html",
+        "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Hochschulen/Tabellen/hochschulen-hochschularten.html"
+      ],
+      "hintReviewNote": "Beibehalten: belegter Vergleich zwischen unterschiedlichen Lebensbereichen."
+    },
+    {
+      "id": "CUR-0002",
+      "categoryId": "CUR",
+      "category": "Kurioses Wissen",
+      "subcategory": "Rekorde",
+      "question": "Aus wie vielen Tausend Teilen bestand das Rekordpuzzle von 2011 in Vietnam?",
+      "answerValue": 551.232,
+      "unit": "Tsd. Teile",
+      "hint1": "Für dieses Puzzle kamen 1.600 Studierende in einem Stadion zusammen, um gemeinsam Teile zu legen.",
+      "hint2": "Das fertig zusammengesetzte Puzzle bedeckte mehr als 300 Quadratmeter. Ein gewöhnliches Puzzleteil ist nur wenige Quadratzentimeter groß.",
+      "source": {
+        "name": "Guinness World Records – Most pieces in a jigsaw puzzle",
+        "url": "https://www.guinnessworldrecords.com/world-records/largest-jigsaw-puzzle-most-pieces",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2011-09-24",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "1.600 Studierende; Fläche 14,85 × 23,20 = 344,52 m². | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. | Revision 4: Antwortformat präzisiert. Vorher: Aus wie vielen Teilen bestand das am 24. September 2011 in Ho-Chi-Minh-Stadt fertiggestellte Rekordpuzzle? Antwort: 551232 Teile. Umrechnungsfaktor zum bisherigen Wert: 1000. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Aus wie vielen Tausend Teilen bestand das am 24. September 2011 in Ho-Chi-Minh-Stadt fertiggestellte Rekordpuzzle? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: reales außergewöhnliches Gemeinschaftsprojekt statt allgemeiner Zeituntergrenze. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Mehr als tausend Studierende beteiligten sich; das fertige Puzzle bedeckte über 300 m².",
+      "hint2V02": "Das Puzzle hatte mehr als eine Viertelmillion Teile, aber weniger als eine Million.",
+      "questionContext": "Gemeint ist das am 24. September 2011 in Ho-Chi-Minh-Stadt fertiggestellte Puzzle. Gezählt werden die Einzelteile.",
+      "answerExplanation": "Guinness dokumentiert 551.232 Teile und eine Fläche von rund 345 Quadratmetern (14,85 × 23,20 m). 1.600 Studierende der Wirtschaftsuniversität von Ho-Chi-Minh-Stadt arbeiteten zusammen. Einige übernachteten im Stadion, damit am nächsten Tag die Rekordurkunde live im Fernsehen überreicht werden konnte.",
+      "additionalSources": [
+        "https://www.guinnessworldrecords.com/news/2011/10/vietnam-puts-together-the-world%C3%A2%E2%82%AC%E2%84%A2s-largest-jigsaw-puzzle"
+      ],
+      "hintReviewNote": "Ersetzt: reales außergewöhnliches Gemeinschaftsprojekt statt allgemeiner Zeituntergrenze.",
+      "hint1V06": "Würdest du jede Sekunde ein Teil richtig einsetzen, wärst du selbst ohne Schlaf mehrere Tage beschäftigt."
+    },
+    {
+      "id": "CUR-0003",
+      "categoryId": "CUR",
+      "category": "Kurioses Wissen",
+      "subcategory": "Rekorde",
+      "question": "Wie lang waren Diana Armstrongs Fingernägel beim Guinness-Rekord 2022 insgesamt?",
+      "answerValue": 1306.58,
+      "unit": "cm",
+      "hint1": "Für das Lackieren eines einzigen ihrer Fingernägel werden laut Guinness mehrere Stunden und mehr als ein Fläschchen Nagellack benötigt.",
+      "hint2": "Der vorherige Weltrekord lag bei einer Gesamtlänge von rund 865 Zentimetern. Diana Armstrong übertraf ihn deutlich.",
+      "source": {
+        "name": "Guinness World Records – Longest fingernails on a pair of hands ever (female)",
+        "url": "https://www.guinnessworldrecords.com/world-records/longest-fingernails-%28female%29-ever",
+        "checkedOn": "2026-11-26"
+      },
+      "referenceDate": "2022-03-13",
+      "qualityStatus": "source_checked",
+      "playtestStatus": "pending",
+      "editorialNote": "13,0658 m; Vorrekord 865 cm. | Revision 2: Hinweis 2 konkretisiert; frühere Fassung im Feld hint2Previous. Neue Hinweispaar-Prüfung und Playtest ausstehend. | Revision 3: Hinweis 2 nach neuem Standard geprüft; alte Fassungen erhalten. Unabhängige vollständige Prüfung und Playtest offen. Zusatzreferenz: https://www.guinnessworldrecords.com/world-records/longest-fingernails-%28female%29-ever | Revision 4: Antwortformat präzisiert. Vorher: Wie lang waren die Fingernägel beider Hände von Diana Armstrong zusammen bei der Guinness-Messung am 13. März 2022? Antwort: 1306.58 cm. Umrechnungsfaktor zum bisherigen Wert: 1. Physikalischer bzw. absoluter Antwortwert unverändert. | v0.5: Frage redaktionell gestrafft; bisherige Fassung: Wie lang waren die Fingernägel beider Hände von Diana Armstrong zusammen bei der Guinness-Messung am 13. März 2022 in Zentimetern? | Fragekontext und Antworterklärung als optionale UX-Inhalte; unabhängige redaktionelle Faktenprüfung offen. | v0.7: Ersetzt: tatsächlicher Alltagsaufwand statt beliebiger Kleinwagen. Erweiterte Antworterklärung ergänzt; zusätzliche Quellenreferenzen vorhanden, vollständige unabhängige Faktenprüfung und Playtest ausstehend.",
+      "revision": 6,
+      "hintReviewStatus": "pending",
+      "hint2Previous": "Ihre Nägel waren insgesamt deutlich länger als der bisherige Rekord von 8,65 Metern.",
+      "hint2V02": "Die zusammengezählte Nagellänge übertraf den vorherigen Rekord von rund 865 cm um mehr als drei, aber weniger als sechs Meter.",
+      "questionContext": "Gemeint ist die Gesamtlänge aller Fingernägel beider Hände bei der Messung am 13. März 2022, in Zentimetern.",
+      "answerExplanation": "Die Gesamtlänge betrug 1.306,58 cm. Armstrong ließ ihre Nägel seit 1997 wachsen, nachdem ihre Tochter gestorben war; gemeinsames Nägellackieren war eine Erinnerung an sie. Guinness berichtet, dass eine Maniküre mit diesen Nägeln erheblichen Zeit- und Materialaufwand bedeutet.",
+      "additionalSources": [
+        "https://www.guinnessworldrecords.com/news/icons/diana-armstrong-longest-fingernails"
+      ],
+      "hintReviewNote": "Ersetzt: tatsächlicher Alltagsaufwand statt beliebiger Kleinwagen.",
+      "hint1V06": "Würde man alle Nägel aneinanderlegen, wäre die Reihe länger als zwei gewöhnliche Kleinwagen."
+    }
+  ]
+};
+const main=document.querySelector('#main'),modal=document.querySelector('#modal'),form=document.querySelector('#modal-form'),toast=document.querySelector('#toast');
+let state,controller,screen='home',preset='Standard',players=4,busy=false,modalAction=null,toastTimer,contextOpen=false,explainOpen=false,displayHand=null,showRule=false,lastAdvanceClick=0;
+const fmt=n=>new Intl.NumberFormat('de-DE',{maximumFractionDigits:12}).format(n),esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])),safeUrl=u=>{try{const x=new URL(u);return ['http:','https:'].includes(x.protocol)?esc(x.href):''}catch{return ''}};
+const duration=ms=>`${Math.floor(ms/60000)}:${String(Math.floor(ms/1000)%60).padStart(2,'0')}`;
+const btn=(label,action,cls='secondary',disabled=false)=>`<button type="button" class="${cls}" data-action="${action}" ${disabled?'disabled':''}>${label}</button>`;
+const ongoing=()=>state?.game&&['active','paused'].includes(state.game.status);
+function notify(msg){toast.textContent=msg;toast.classList.add('visible');clearTimeout(toastTimer);toastTimer=setTimeout(()=>toast.classList.remove('visible'),4500)}
+function errorText(e){const k=e?.message;return k==='STALE_STATE'?'Der Spielstand wurde in einem anderen Tab geändert. Die aktuelle Version wurde geladen.':k==='NO_QUESTIONS'?'Keine zulässige Frage verfügbar.':`Aktion nicht möglich. (${k||'Speicherfehler'})`}
+function changeScreen(next){screen=next;render();main.focus({preventScroll:true})}
+async function dispatch(action,{silent=false}={}){if(busy||!controller)return false;busy=true;if(!silent)main.setAttribute('aria-busy','true');try{state=await controller.dispatch({id:previewUUID(),expectedVersion:state.version,action});if(!silent)render();return true}catch(e){try{state=await controller.load()}catch{}render();notify(errorText(e));return false}finally{busy=false;main.removeAttribute('aria-busy')}}
+function stat(label,value){return `<div class="stat"><span>${label}</span><strong>${value}</strong></div>`}
+function stats(g){return `<div class="stats">${stat('Hand',fmt(g.handNumber))}${stat('Small / Big Blind',`${fmt(g.blinds.small)} / ${fmt(g.blinds.big)}`)}${stat('Spieler',`${g.activePlayers} / ${g.initialPlayers}`)}${stat('Blind-Level',`${g.blinds.level} · ↑ in ${g.blinds.handsUntilIncrease}`)}</div>`}
+function render(){if(!state)return;const g=C.view(state).game;if(screen==='game'&&g?.status==='finished')screen='finish';if(screen==='game'&&(!g||g.status==='abandoned'))screen='home';if(screen==='home'){main.innerHTML=`<section class="screen"><div class="hero"><span class="eyebrow">QUIZ × POKER</span><h1>CROSSPOKE<span class="suit">♠</span></h1><p class="muted">Schätze. Setze. Überrasche.</p></div><div class="home-actions">${ongoing()?btn('Partie fortsetzen','continue','primary'):btn('Neues Spiel','setup','primary')}${ongoing()?btn('Neue Partie starten','newGame'):''}${btn('Spielregeln','rules')}</div>${ongoing()?`<div class="panel center"><p>${esc(g.preset)} · Hand ${g.handNumber} · ${g.activePlayers} Spieler</p><p class="muted">Dein Spielstand bleibt bis zum Schließen oder Neuladen dieser Vorschau erhalten.</p></div>`:''}<p class="muted center">30 Testfragen · 2–8 Spieler · keine Registrierung</p></section>`;return}
+if(screen==='setup'){main.innerHTML=`<section class="screen"><div><span class="eyebrow">SPIELSTART</span><h1>Wähle dein Spiel</h1><p class="muted">Alle starten mit gleichen Chips und Blinds 25 / 50.</p></div><div class="preset-grid">${Object.entries(C.PRESETS).map(([n,v])=>`<button class="preset" data-preset="${esc(n)}" aria-pressed="${preset===n}"><strong>${esc(n)}</strong><span class="stack">${fmt(v.stack)}</span><small>Chips pro Person · Erhöhung alle ${v.handsPerLevel} Hände · ${n==='Quick'?'10–20':n==='Standard'?'15–30':'30+'} Min. Zielzeit</small></button>`).join('')}</div><div class="panel"><h2>Wie viele Spieler?</h2><div class="players">${Array.from({length:7},(_,i)=>`<button data-players="${i+2}" aria-pressed="${players===i+2}">${i+2}</button>`).join('')}</div></div><p class="instruction">Legt Chips, Dealer-Button und Zettel bereit. Kein Quizmaster nötig.</p><div class="actions">${btn('Zurück','home')}${btn('Spiel starten','start','primary')}</div></section>`;return}
+if(screen==='finish'){main.innerHTML=`<section class="screen center"><div class="hero"><span class="eyebrow">SPIEL BEENDET</span><h1>♠ Sieger!</h1><p>Der letzte verbliebene Spieler gewinnt.</p></div><div class="stats">${stat('Spielmodus',esc(g.preset))}${stat('Hände',g.completedHands)}${stat('Spieler zu Beginn',g.initialPlayers)}${stat('Aktive Zeit',duration(g.activeElapsedMs))}</div><div class="actions">${btn('Startseite','home')}${btn('Neue Partie','setup','primary')}</div></section>`;return}
+if(screen!=='game'||!g)return;
+if(displayHand!==state.game.hand.id){displayHand=state.game.hand.id;contextOpen=false;explainOpen=false}
+if(g.status==='paused'){main.innerHTML=`<section class="screen">${stats(g)}<div class="panel center"><div class="hero"><span class="eyebrow">PARTIE PAUSIERT</span><h1>Pause</h1><p class="muted">Die Frage und alle Hinweise bleiben ausgeblendet.</p></div>${btn('Spiel fortsetzen','resume','primary primary-action')}</div><div class="actions">${btn('Startseite','home')}${btn('Partie abbrechen','abandon','secondary danger')}</div></section>`;return}
+if(g.waiting){main.innerHTML=`<section class="screen">${stats(g)}<div class="panel center"><h1>${g.waiting==='repeat_confirmation'?'Fragenpool ausgeschöpft':'Keine Frage verfügbar'}</h1><p>${g.waiting==='repeat_confirmation'?'Alle geeigneten Fragen wurden in dieser Partie gezeigt. Möchtet ihr ältere Fragen erneut verwenden?':'Alle verbleibenden Fragen sind gesperrt. Ihr könnt die Partie abbrechen.'}</p></div><div class="actions">${g.waiting==='repeat_confirmation'?btn('Ältere Fragen wiederverwenden','repeat','primary'):''}${btn('Partie abbrechen','abandon','secondary danger')}${btn('Pause','pause')}</div></section>`;return}
+const q=g.question,fold=g.phase==='settled',revealed=q&&Object.hasOwn(q,'answerValue'),phase=fold?(revealed?3:['question','hint1','hint2','answer'].indexOf(state.game.hand.foldedAt)):['question','hint1','hint2','answer'].indexOf(g.phase);const context=q.context?`<details id="context-details" ${contextOpen?'open':''}><summary>Frage erklären</summary><p>${esc(q.context)}</p></details>`:'';const sources=revealed?[q.source.url,...q.additionalSources].filter((x,i,a)=>a.indexOf(x)===i).map((u,i)=>`<a href="${safeUrl(u)}" target="_blank" rel="noopener noreferrer">${i===0?esc(q.source.name):`Zusatzquelle ${i}`} ↗</a>`).join(' · '):'';
+const instruction=fold?'Pot an den verbliebenen Spieler vergeben. Danach Hand abschließen.':g.reason==='all_in'?'Keine weitere Setzrunde. Antworten vergleichen, Pot verteilen und Hand abschließen.':['Blinds setzen, Schätzungen verdeckt notieren und erste Setzrunde abschließen.','Zweite Setzrunde am Tisch abschließen.','Dritte Setzrunde am Tisch abschließen.','Letzte Setzrunde abschließen, Antworten vergleichen und Pot verteilen.'][phase];
+main.innerHTML=`<section class="game-screen">${stats(g)}<div class="status-line"><span class="eyebrow">${esc(g.preset)} · TABLE MODE</span><span class="muted" id="elapsed">${duration(g.activeElapsedMs)}</span></div><div class="progress" aria-label="Spielphase">${['Frage','Hinweis 1','Hinweis 2','Antwort'].map((s,i)=>`<div class="step ${i<phase?'done':i===phase?'current':''}" ${i===phase?'aria-current="step"':''}>${s}</div>`).join('')}</div><div class="panel question-panel"><span class="eyebrow">${esc(q.category)}</span><h1>${esc(q.question)}</h1><div class="unit">Gesuchte Einheit: ${esc(q.unit)}</div>${context}</div>${q.hint1||q.hint2?`<div class="hint-grid">${q.hint1?`<div class="hint"><span class="eyebrow">HINWEIS 1</span><p>${esc(q.hint1)}</p></div>`:''}${q.hint2?`<div class="hint"><span class="eyebrow">HINWEIS 2</span><p>${esc(q.hint2)}</p></div>`:''}</div>`:''}${revealed?`<div class="panel answer"><span class="eyebrow">RICHTIGE ANTWORT</span><div class="answer-value">${fmt(q.answerValue)}</div><div class="unit">${esc(q.unit)}</div><details id="explain-details" ${explainOpen?'open':''}><summary>Antwort erklären</summary><p>${esc(q.answerExplanation)}</p>${sources}</details></div>`:''}<p class="instruction">${instruction}</p>${fold&&!revealed?btn('Antwort optional anzeigen','earlyAnswer','secondary'):''}${btn(fold||phase===3?'Hand abschließen':['Hinweis 1 aufdecken','Hinweis 2 aufdecken','Antwort aufdecken'][phase],fold||phase===3?'finishHand':'advance','primary primary-action')}<div class="utility">${!fold&&phase<3?btn('All-in','allIn'):''}${!fold?btn('Nur noch ein Spieler in der Hand','fold'):''}${btn('Pause','pause')}${btn('Frage melden','report')}${!fold?btn('Frage überspringen','skip'):''}</div></section>`;
+for(const [id,key] of [['context-details','context'],['explain-details','explain']]){const el=document.getElementById(id);if(el)el.addEventListener('toggle',()=>{if(key==='context')contextOpen=el.open;else explainOpen=el.open})}}
+function openModal(title,body,confirm,action){modalAction=action;document.querySelector('#modal-title').textContent=title;document.querySelector('#modal-content').innerHTML=body;document.querySelector('#modal-confirm').textContent=confirm;modal.showModal()}
+function rules(){openModal('Spielregeln',`<div class="rules-text"><p>2–8 Spieler, physische Chips, Dealer-Button, Small/Big Blind. Alle spielen mit.</p><ol><li>Blinds setzen. Frage lesen und je eine unveränderliche Schätzung verdeckt aufschreiben.</li><li>Erste Setzrunde nach Pokerregeln.</li><li>Hinweis 1, zweite Setzrunde; Hinweis 2, dritte Setzrunde.</li><li>Antwort aufdecken, letzte Setzrunde.</li><li>Showdown: kleinste absolute Abweichung gewinnt den Pot. Gleichstand: Split Pot. Side Pots separat nach Berechtigung. Wer foldet, scheidet nur aus dieser Hand aus.</li><li>Chips verteilen, ausgeschiedene Spieler melden, Button weitergeben. Der letzte Spieler mit Chips gewinnt.</li></ol><p>All-in nur abkürzen, wenn keine weiteren Setzentscheidungen möglich sind. Sind Side-Pot-Setzrunden möglich, normal fortfahren.</p><p>Heads-up: Dealer setzt Small Blind, Gegner Big Blind; Dealer handelt vor den Hinweisen zuerst, danach der Big Blind. Fehlfragen: Einsätze zurückgeben und Frage ersetzen; Hand zählt nicht.</p><p class="muted">Testfragen können noch Fehler enthalten. Die Website erfasst keine individuellen Einsätze oder Schätzungen.</p></div>`,'Verstanden',async()=>{})}
+async function handle(action){if(busy)return;switch(action){case'home':changeScreen('home');break;case'setup':changeScreen('setup');break;case'continue':changeScreen('game');break;case'newGame':openModal('Laufende Partie abbrechen?','<p>Die bisherige Partie wird beendet. Die Fragenhistorie bleibt erhalten.</p>','Abbrechen & neu starten',async()=>{if(await dispatch({type:'abandon',confirmed:true}))changeScreen('setup')});break;case'start':if(await dispatch({type:'start',preset,players})){changeScreen('game')}break;case'advance':await dispatch({type:'advance'});break;case'pause':await dispatch({type:'pause'});break;case'resume':await dispatch({type:'resume'});break;case'earlyAnswer':await dispatch({type:'showEarlyAnswer'});break;case'fold':openModal('Hand vorzeitig beenden?','<p>Nur noch ein Spieler hat nicht gefoldet. Dieser gewinnt den Pot unabhängig von seiner Schätzung.</p>','Hand vorzeitig beenden',()=>dispatch({type:'earlyFold',confirmed:true}));break;case'allIn':openModal('All-in – keine weitere Setzrunde?','<p>Nur bestätigen, wenn niemand mehr setzen kann. Falls ein Side Pot noch bespielt werden kann, normal weiterspielen.</p>','Hinweise und Antwort zeigen',()=>dispatch({type:'allIn',noFurtherBets:true}));break;case'finishHand':{const max=state.game.hand.reason==='early_fold'?0:state.game.activePlayers-1;openModal('Hand abschließen',`<p>Pot wurde verteilt. Wie viele Spieler haben keine Chips mehr?</p><label>Ausgeschiedene Spieler<select id="eliminated">${Array.from({length:max+1},(_,i)=>`<option value="${i}">${i}</option>`).join('')}</select></label>`,'Hand abschließen',()=>dispatch({type:'finishHand',eliminated:Number(document.querySelector('#eliminated').value),confirmed:true}));break}case'report':openModal('Frage melden','<label>Was stimmt nicht?<select id="reason"><option value="wrong_value">Antwortwert fehlerhaft</option><option value="unclear">Frage unklar</option><option value="hint">Hinweis problematisch</option><option value="other">Sonstiges</option></select></label><p class="muted">Meldung bleibt während dieser Vorschau erhalten. Du kannst die Hand fortsetzen oder die Frage überspringen.</p>','Meldung speichern',async()=>{if(await dispatch({type:'report',reason:document.querySelector('#reason').value}))notify('Meldung für diese Vorschau erfasst.')});break;case'skip':openModal('Frage ersetzen?','<p>Gebt alle Einsätze einschließlich Blinds zurück. Die Hand zählt nicht; die Blinds bleiben gleich. Schätzungen neu aufschreiben.</p>','Einsätze zurückgegeben',()=>dispatch({type:'skip',confirmedRefund:true}));break;case'repeat':await dispatch({type:'next',allowRepeat:true});break;case'abandon':openModal('Partie abbrechen?','<p>Diese Partie wird als abgebrochen gespeichert.</p>','Partie abbrechen',async()=>{if(await dispatch({type:'abandon',confirmed:true}))changeScreen('home')});break;case'rules':rules();break}}
+main.addEventListener('click',e=>{const b=e.target.closest('button');if(!b||busy)return;if(b.dataset.preset){preset=b.dataset.preset;render();return}if(b.dataset.players){players=Number(b.dataset.players);render();return}if(b.dataset.action){if(b.dataset.action==='advance'){const now=Date.now();if(now-lastAdvanceClick<450)return;lastAdvanceClick=now}handle(b.dataset.action)}});
+form.addEventListener('submit',async e=>{e.preventDefault();if(busy)return;const action=modalAction;modal.close();await action?.()});modal.addEventListener('click',e=>{if(e.target.closest('[data-close]'))modal.close()});document.querySelector('.brand').addEventListener('click',e=>{e.preventDefault();if(!busy)changeScreen('home')});document.querySelector('#rules').addEventListener('click',rules);document.querySelector('#fullscreen').addEventListener('click',async()=>{try{if(document.fullscreenElement)await document.exitFullscreen();else if(document.documentElement.requestFullscreen)await document.documentElement.requestFullscreen();else notify('Vollbild wird von diesem Browser nicht unterstützt.')}catch{notify('Vollbild ist in diesem Browser nicht verfügbar.')}});
+(async()=>{try{const storage=new C.MemoryStorage();controller=new C.Controller(storage,{dataset:DATA,mode:'test',now:Date.now,id:()=>previewUUID(),random:Math.random,telemetry:false});state=await controller.load();if(ongoing())await dispatch({type:'recover'},{silent:true});render();setInterval(async()=>{if(!busy&&screen==='game'&&state.game?.status==='active'&&document.visibilityState==='visible'){await dispatch({type:'heartbeat'},{silent:true});const el=document.querySelector('#elapsed');if(el)el.textContent=duration(state.game.activeElapsedMs)}},5000);}catch(e){main.innerHTML=`<div class="error"><h2>Spielstand konnte nicht geladen werden</h2><p>${esc(e?.message||'Speicher nicht verfügbar')}. Bitte öffne die Vorschau in einem JavaScript-fähigen Browser.</p><button class="secondary" onclick="location.reload()">Erneut versuchen</button></div>`}})();
+
+})();</script></body></html>

@@ -1,0 +1,2 @@
+# Notion-Snapshot
+Abruf am 26.11.2026 über Notion-Connector. JSON bewahrt Antwortmetadaten; Markdown bewahrt den gelieferten Seitentext einschließlich Properties und vorhandenen historischen Abschnitten. `rows.json`/`fragenbestand.csv` enthalten 30 vollständige Datensätze aller abgefragten Spalten, ohne weitere Ergebnisse. Keine gemeldeten ausgelassenen Unterseiten. Kein nativer Notion-ZIP-Export; interne Versionshistorie und Kommentare sind nicht Bestandteil dieses Snapshots. Historische Hosting-Aussagen in Originaltexten sind durch den aktuellen Übergabestand überholt.
