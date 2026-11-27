@@ -1,4 +1,12 @@
-## Aktueller Teststand · 27.11.2026
+## Veröffentlichungsnachweis · 27.11.2026
+
+**Umgesetzt:** Crosspoke v0.2.3 / Fragen v0.9 mit 186 Testfragen. Notion enthält 188 Einträge, zwei bleiben zurückgestellt. GitHub-Spielcommit 9732442f23040b62070154e049252eeb5a5ab945; aktive Mac-Kopie inhaltsgleich. Sites-Quellcommit 5b72136b64ca2e1afb397cbfdfcd8bd1f4a568f6; HTML und JSON bytegleich mit dem geprüften Mac-/GitHub-Spielstand.
+
+**Sites: erfolgreich veröffentlicht (succeeded/ready).** Die bestehende Live-Seite zeigt bestätigt 186 Testfragen und Spielversion v0.2.3. Testlink: https://crosspoke-test.do-peter.chatgpt.site. Deployment appgprj_6b088e014a708191901daa5359dc984d~appgdep_ecf5a96c06e08191931d408971b046c7. Keine neue Site angelegt; bestehende Adresse und Zugang bewahrt. Zugang unverändert. Render nicht aktiv aktualisiert; GitHub-Spielcommit enthält [skip render].
+
+Prüfbericht: docs/PRUEFBERICHT-2026-11-27.md. Strukturierter Nachweis: docs/redaktion/2026-11-27-veroeffentlichung.json. Quellen-/Playtestgrenzen bleiben offen. Die nachstehenden älteren Statusangaben dokumentieren den Verlauf.
+
+## Vorbereitungsstand vor Veröffentlichung · 27.11.2026
 
 Spiel v0.2.3, Daten v0.9: 186 Testfragen aus 188 Notion-Einträgen. Zwei zurückgestellt: CUR-0012 (M&M-Hinweis) und CUR-0013 (Papierboot). Erste 30 Fragetexte/Antwortwerte/Einheiten erhalten; bereits dokumentierte Hinweisrevision 7 von HUM-0001 technisch nachgezogen. 19 Quellenfelder und 26 Antworterklärungen ergänzt, Spoilerhinweise und Rundungen korrigiert. Bedingte Genauigkeitsanzeige umgesetzt. Kein endgültiger Release, reale Playtests pending.
 

@@ -30,3 +30,5 @@ Kein realer Gruppen-Playtest, keine vollständige Safari-/iPhone-Hardwareprüfun
 Aktive Mac-Kopie: /Users/peterdo/Documents/ChatGPT/Codex-Gamification/Codex Crosspoke. Bestehende Site-ID bleibt erhalten. GitHub-Commits mit [skip render]; keine Render-Änderung. Erst nach verifiziertem Notion-Abgleich und bestandenem Synchronisationscheck veröffentlichen. Konkrete Commit-/Deploymentnachweise werden nach tatsächlichem Abschluss in HANDOVER.md und docs/ZUSAMMENFASSUNG.md ergänzt.
 
 Nachprüfung: Bei GEO-0008 auch die Antworterklärung vom früheren Eiffelturmvergleich auf den neuen hypothetischen Vergleich umgestellt; als zusätzliche Revision in Notion und im Vorher-/Nachher-Verlauf erhalten.
+
+Abschluss: Notion-Korrekturen und Mac/GitHub abgeglichen. Sites-Update mit demselben Spielstand erfolgreich veröffentlicht (succeeded/ready). Live-Browser bestätigt 186 Testfragen und v0.2.3. Details: docs/redaktion/2026-11-27-veroeffentlichung.json.

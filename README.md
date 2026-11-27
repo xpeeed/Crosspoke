@@ -2,7 +2,7 @@
 
 Table Mode **v0.2.3**, Fragenbestand **v0.9** (186 Testfragen, kein Release).
 
-- [Sites-Testversion](https://crosspoke-test.do-peter.chatgpt.site) – bestehender Zugang; vorige Veröffentlichung succeeded/ready, aktualisierter Teststand zur Veröffentlichung vorbereitet.
+- [Sites-Testversion](https://crosspoke-test.do-peter.chatgpt.site) – bestehender Zugang; v0.2.3 mit 186 Testfragen erfolgreich veröffentlicht (succeeded/ready) und im Live-Browser bestätigt.
 - [Notion](https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7)
 - [GitHub](https://github.com/xpeeed/Crosspoke)
 

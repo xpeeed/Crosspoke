@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-27",
+  "gameVersion": "0.2.3",
+  "datasetVersion": "0.9",
+  "notionRows": 188,
+  "testQuestions": 186,
+  "held": [
+    "CUR-0012",
+    "CUR-0013"
+  ],
+  "githubCommit": "9732442f23040b62070154e049252eeb5a5ab945",
+  "sitesSourceCommit": "5b72136b64ca2e1afb397cbfdfcd8bd1f4a568f6",
+  "sites": {
+    "id": "appgprj_6b088e014a708191901daa5359dc984d~appgdep_ecf5a96c06e08191931d408971b046c7",
+    "project_id": "appgprj_6b088e014a708191901daa5359dc984d",
+    "title": "Crosspoke – Testversion",
+    "version_id": "appgprj_6b088e014a708191901daa5359dc984d~appgver_eee35c9eecf0819186822aa5aed399c9",
+    "type": "publish",
+    "status": "succeeded",
+    "publication_stage": "ready",
+    "is_async_publication": true,
+    "url": "https://crosspoke-test.do-peter.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": "sediment://file_00000000f3e081f7a8db293322d4c7a9",
+    "provider_deployment_id": "release---826e1be24c048191b5092d1d7cd49654",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-27T19:19:34.118772+00:00"
+  },
+  "checks": {
+    "notionUpdatedRows": 156,
+    "propertiesVerified": 710,
+    "followup": "GEO-0008: Antworterklärung, Revision und Review ergänzt.",
+    "runtimePhaseProjections": 744,
+    "historicalTestsPassed": 31,
+    "browser": "Start, Setup, H1, H2, Antwort, Erklärung, nächste Hand, Skip; 390×844 inklusive Genauigkeitszeile",
+    "limits": "Kein realer Gruppen-Playtest, keine vollständige Geräte- oder unabhängige Quellen-Endabnahme"
+  },
+  "render": "Unverändert; GitHub-Commit enthält [skip render].",
+  "publicationHistory": [
+    {
+      "event": "requested",
+      "status": "pending",
+      "publication_stage": "publishing",
+      "updated_at": "2026-11-27T19:19:22.397358+00:00"
+    }
+  ],
+  "liveBrowserVerification": {
+    "date": "2026-11-27",
+    "visibleQuestionCount": 186,
+    "visibleGameVersion": "0.2.3",
+    "screenshot": "Crosspoke-Live-v0.2.3.jpg",
+    "ongoingGamePreserved": true
+  }
+}
