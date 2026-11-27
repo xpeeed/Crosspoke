@@ -1,4 +1,4 @@
-Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T19:53:10.921Z:
+Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T20:17:17.550Z:
 <page url="https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7" icon="♠️">
 <ancestor-path>
 <parent-page url="https://app.notion.com/p/3e5f73ae951f808b91dcdfa9d3932ac0" title="Gamifications"/>
@@ -200,5 +200,17 @@ Verifikation: 31/31 Node-Tests (26 Core + 5 UI-Integration mit MemoryStorage und
 Nutzerentscheidungen: Render bleibt vorerst Testumgebung. Während physischer Partie nur SB/BB anzeigen, keine Handnummer, Spieleranzahl, Blind-Level oder Timer. Frage, beide Hinweise und Antwort kompakter und zusammen sichtbar; optionale Erläuterungen bleiben. Hand abschließen ohne Eliminationsabfrage. Nur wenn Blinds steigen, vor nächster Hand Info-Dialog mit neuen SB/BB-Werten. Untere Sonderaktionsleiste entfernen; Aktionen über ! neben Regeln/Vollbild zugänglich. Spielerzahl im Setup bleibt; Ausscheiden am Tisch. Ergänzung zur Umsetzung: ! enthält All-in, Fold bis auf einen, Pause, Fragenmeldung/Skip, reguläres manuelles Partieende bei Sieger und Abbruch. Statistiken intern unverändert bis auf manuelles Spielende/keine Eliminationserfassung.
 
 Web-Testversion v0.2.2 als index.html im Repository main aktualisiert, Commit 95fe1acadbbc4f3711223b80b960a83e3c87f998. Lokal Syntaxprüfung und Chromium-Test per HTML-Injektion bei 390 × 844: drei Standard-Hände, kumulierte Hinweise/Antwort, Blind-Dialog 25/50 → 50/100, Menü, Pause, All-in, manuelles Ende bestanden; keine JS-Fehler. Lokale Dateinavigation und externer HTTP-Zugriff in Testumgebung blockiert; Safari und alle Textlängen noch nicht geprüft. Render-Auto-Deploy aktiviert; Live-Status dieser Revision separat prüfen. Fragenbank unverändert, kein Mac-Zugriff; Änderung am Webtest-Standalone, noch in vollständiges Core-/Web-Paket zu übernehmen.
+
+## Separate Bildervorschau · <date start="2026-11-27" />
+
+Auf Nutzerauftrag wurden für die 20 empfohlenen Motive aus den Zusatzfragen Bildentwürfe erstellt: 15 KI-Illustrationen und fünf eigene reduzierte Grafiken/Karten. Fünf zusätzliche Bildempfehlungen aus den ersten 30 Fragen gehören nicht zu dieser Auswahl.
+
+[20 Bildentwürfe durchklicken](https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/). Sites-Veröffentlichung beauftragt; letzte Rückmeldung pending/publishing. Noch keine erfolgreiche Live-Bereitstellung bestätigt. GitHub-Inhaltscommit: 9eeba224f3d8731fafc701bf228e7ebdb0d2666f. Sites-Quellcommit: 140833ba3958edcf6e08347b402f9cc31f16c717. Deployment: appgprj\_6b088e014a708191901daa5359dc984d\~appgdep\_5ff6671174708191afab6ba8951e776d. Die Vorschau zeigt Frage und Bild ohne Hinweise oder Lösungen. „Nur Bilder“ blendet die Frage aus; Navigation über Zurück/Weiter, Auswahl, Pfeiltasten oder Wischen.
+
+Alle Motive wurden zusammen mit Frage und beiden Hinweisen auf offensichtliche Lösungslecks geprüft. Insbesondere keine Maße, Kapazitäten, Montagehöhen, Wachstumsfolgen, Altershinweise oder abzählbaren Harfensaiten. Die Karten nutzen Natural-Earth-Geodaten ohne Staatsgrenzen und Maßstab. Konkrete Geräte, Markenprodukte und historische Fahrzeuge sind ausdrücklich Motivstudien; die genaue Modelltreue bleibt vor einer Übernahme in echte Spielrunden zu bestätigen. Keine abschließende zoologische oder redaktionelle Fachfreigabe behauptet.
+
+Die bestehenden 186 Spielrundenfragen, ihre Hinweise, Antworten und Revisionen bleiben unverändert. Bildentwürfe sind nur in der separaten Vorschau, noch nicht im Spiel. Die Bildprüfungsfelder der 20 Datensätze werden um Entwurfsstand und Vorschauverweis ergänzt. Originale Bildkonzepte bleiben als Verlauf erhalten.
+
+Prüfung: 20 von 20 Bilddateien im Browser geladen, Auswahl und Nur-Bilder-Modus sowie Wischen und Tastatur geprüft; Handyansicht 390×844 geprüft. Lokales ZIP zum Durchklicken vorhanden. Vollständige Prompts, Asset-Prüfsummen und Grenzen werden im Projekt dokumentiert. Render bleibt unverändert.
 </content>
 </page>
