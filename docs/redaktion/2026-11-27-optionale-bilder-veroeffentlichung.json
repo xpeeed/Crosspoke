@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-27",
+  "scope": "38 optional image candidates; separate preview only",
+  "questionCards": 38,
+  "imageCards": 31,
+  "verdicts": {
+    "sensible": 19,
+    "optional": 12,
+    "omit": 7
+  },
+  "gameVersion": "0.2.4",
+  "gameQuestions": 186,
+  "gameImagesUnchanged": 20,
+  "notionMetadataVerified": 38,
+  "githubCommit": "518e0e961ee5e7b6f272d347744468e2f13a8959",
+  "siteSource": "721c44ac82e5866b8f00fdb3cdc2a41d3c397dc8",
+  "deployment": {
+    "id": "appgprj_6b088e014a708191901daa5359dc984d~appgdep_f5a4db2ff38881919b3cff88724e1cc4",
+    "project_id": "appgprj_6b088e014a708191901daa5359dc984d",
+    "title": "Crosspoke – Testversion",
+    "version_id": "appgprj_6b088e014a708191901daa5359dc984d~appgver_ded5a9d3827c8191a1f880388042dff3",
+    "type": "publish",
+    "status": "pending",
+    "publication_stage": "publishing",
+    "is_async_publication": true,
+    "url": "https://crosspoke-test.do-peter.chatgpt.site",
+    "has_mcp": null,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": null,
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-27T20:59:44.028026+00:00"
+  },
+  "render": "unchanged"
+}

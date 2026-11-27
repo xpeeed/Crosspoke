@@ -1,3 +1,7 @@
+## Veröffentlichung der optionalen Bildervorschau beauftragt · 27.11.2026
+
+https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/ – letzter Status pending/publishing, neuer Live-Erfolg noch nicht bestätigt. Deployment appgprj_6b088e014a708191901daa5359dc984d~appgdep_f5a4db2ff38881919b3cff88724e1cc4. GitHub-Inhalt 518e0e961ee5e7b6f272d347744468e2f13a8959; Sites-Quelle 721c44ac82e5866b8f00fdb3cdc2a41d3c397dc8. Bei Statusnachfrage dieses Deployment prüfen, nicht erneut veröffentlichen. 38 Karten/31 Bildentwürfe, Empfehlungen 19/12/7. Bestehendes Spiel v0.2.4 unverändert; Render unverändert. Nachweis: docs/redaktion/2026-11-27-optionale-bilder-veroeffentlichung.json.
+
 ## Optionale Bildervorschau · 27.11.2026
 
 38 Kandidaten geprüft: 19 sinnvoll, 12 bei Bedarf, sieben besser ohne Bild. 31 Bildzuordnungen in separater Vorschau https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/ ; noch kein neuer Einbau. Aktives Spiel v0.2.4 mit 186 Fragen und 20 Bildern bytegleich erhalten. 38 Notion-Bildprüfungen ergänzt und verifiziert; bisherige Bildentscheidungen/Frageinhalte/Revisionen unverändert. UI-/Asset-Prüfung bestanden, Modell-/Architekturfreigaben für Motivstudien offen. Details: docs/PRUEFBERICHT-OPTIONALE-BILDER-2026-11-27.md. Neue Vorschau noch nicht veröffentlicht; vorheriges v0.2.4-Deployment inzwischen succeeded/ready. Render unverändert.

@@ -65,3 +65,7 @@ KI-Illustrationen sind Motivstudien. Produkt-/Modelltreue (u. a. Dobble, Münzpr
 | TEC-0017 | Bewegliche Minifigur | Sinnvoll | Bewegliche Arme/Beine grenzen den gemeinten Figurentyp ein. Kein historisches Erstset oder Jubiläum; gewöhnliche Figur. |
 
 Vollständige Wirkung auf H1/H2 sowie Einzelaspekte Q45–Q50: docs/redaktion/2026-11-27-optionale-bilder.json. Prompts und Provenienz: gleichnamige -prompts.json.
+
+## Veröffentlichung der optionalen Bildervorschau beauftragt · 27.11.2026
+
+https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/ – letzter Status pending/publishing, neuer Live-Erfolg noch nicht bestätigt. Deployment appgprj_6b088e014a708191901daa5359dc984d~appgdep_f5a4db2ff38881919b3cff88724e1cc4. GitHub-Inhalt 518e0e961ee5e7b6f272d347744468e2f13a8959; Sites-Quelle 721c44ac82e5866b8f00fdb3cdc2a41d3c397dc8. Bei Statusnachfrage dieses Deployment prüfen, nicht erneut veröffentlichen. 38 Karten/31 Bildentwürfe, Empfehlungen 19/12/7. Bestehendes Spiel v0.2.4 unverändert; Render unverändert. Nachweis: docs/redaktion/2026-11-27-optionale-bilder-veroeffentlichung.json.
