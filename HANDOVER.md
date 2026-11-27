@@ -1,3 +1,7 @@
+## Nutzerpräzisierung Bildnutzen · 27.11.2026
+
+Q45/Q46/Q48/Q50 in Notion und lokal aktualisiert: konkreter fragebezogener Nutzen Pflicht; Tierporträts grundsätzlich entbehrlich, gezielte Körperteil-/Vergleichsbilder möglich; Modell-/Variantenklärung und fokussierte Karten; qualitative Größenvergleiche erlaubt, keine Maße/Gewichte/exakte Bildlösung. Sechs ausdrückliche Ablehnungen auf Weglassen gesetzt, neun Bildprüfungsnotizen verifiziert. Ozeanien-Zoom und Straußenei-/Bowlingkugel-Vergleiche sind offene Überarbeitungsideen. Ursprüngliche 19/12/7-Galerieempfehlung teilweise überholt. Spiel v0.2.4, Bildassets und Sites in diesem Dokumentationsschritt unverändert; kein Deployment erforderlich. Render unverändert. Details: docs/redaktion/2026-11-27-bildregeln-nutzerfeedback.md. Testlink: https://crosspoke-test.do-peter.chatgpt.site .
+
 ## Veröffentlichung der optionalen Bildervorschau beauftragt · 27.11.2026
 
 https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/ – letzter Status pending/publishing, neuer Live-Erfolg noch nicht bestätigt. Deployment appgprj_6b088e014a708191901daa5359dc984d~appgdep_f5a4db2ff38881919b3cff88724e1cc4. GitHub-Inhalt 518e0e961ee5e7b6f272d347744468e2f13a8959; Sites-Quelle 721c44ac82e5866b8f00fdb3cdc2a41d3c397dc8. Bei Statusnachfrage dieses Deployment prüfen, nicht erneut veröffentlichen. 38 Karten/31 Bildentwürfe, Empfehlungen 19/12/7. Bestehendes Spiel v0.2.4 unverändert; Render unverändert. Nachweis: docs/redaktion/2026-11-27-optionale-bilder-veroeffentlichung.json.

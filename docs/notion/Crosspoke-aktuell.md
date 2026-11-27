@@ -1,4 +1,4 @@
-Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T21:00:18.312Z:
+Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T21:30:07.562Z:
 <page url="https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7" icon="♠️">
 <ancestor-path>
 <parent-page url="https://app.notion.com/p/3e5f73ae951f808b91dcdfa9d3932ac0" title="Gamifications"/>
@@ -9,6 +9,10 @@ Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424
 </properties>
 <iconMetadata>{"type":"emoji","emoji":"♠️"}</iconMetadata>
 <content>
+## Bildnutzen nach Nutzerdurchsicht präzisiert · <date start="2026-11-27" />
+
+Die <mention url="https://app.notion.com/p/425f73ae951f81e3aa4bf2a6f9c8d1c1">Fragenqualität</mention> enthält die strengere Auswahlregel: bloße Wiedererkennung genügt nicht; Tierbilder grundsätzlich nur mit relevantem Körperteil oder sinnvollem Vergleich. Modell-/Variantenbilder gezielt einsetzen; Karten auf relevanten Raum fokussieren. Qualitative Größenvergleiche ausdrücklich zulässig, jedoch keine Maße/Gewichte oder exakte Lösungsableitung. Nutzer lehnt sechs optionale Einzelbilder ab (2-Euro-Münze, Bodensee, Dom-Bauzeit, Concorde-Betriebsjahre, Biene, Elefant). Ozeanien-Zoom sowie Straußenei-/Bowlingkugel-Vergleich sind offene Überarbeitungsideen. Ursprüngliche 19/12/7-Einschätzung ist teilweise überholt; kein neuer Einbau oder Austausch von Spielbildern in diesem Dokumentationsschritt. Spiel v0.2.4 unverändert; Render unverändert.
+
 ## 38 optionale Bildkandidaten geprüft · <date start="2026-11-27" />
 
 19 sinnvolle Bildideen, 12 nur bei Bedarf, sieben besser ohne Bild. Separate [Vorschau zum Durchklicken](https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/) mit 31 Frage-Bild-Entwürfen und sieben begründeten Auslassungen erstellt; Veröffentlichung beauftragt, letzter Sites-Status pending/publishing (neuer Live-Erfolg noch nicht bestätigt). Deployment appgprj\_6b088e014a708191901daa5359dc984d\~appgdep\_f5a4db2ff38881919b3cff88724e1cc4; Sites-Quellcommit 721c44ac82e5866b8f00fdb3cdc2a41d3c397dc8; GitHub-Inhalt 518e0e961ee5e7b6f272d347744468e2f13a8959. Filter sowie Frage-und-Bild-/Nur-Bilder-Modus. Q45–Q50 jeweils mit beiden bestehenden Hinweisen geprüft; 38 Bildprüfungsfelder gespeichert und zurückgelesen. Keine Fragen, Hinweise, Antworten, Revisionen oder Bildentscheidungen geändert; kein Einbau der neuen Motive. Modell-/Architekturdetails bleiben bei entsprechenden Motivstudien vor Spielaufnahme abzugleichen.

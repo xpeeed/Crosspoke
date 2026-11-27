@@ -1,4 +1,4 @@
-Here is the result of "fetch" for the Page with URL https://app.notion.com/p/425f73ae951f81e3aa4bf2a6f9c8d1c1 as of 2026-11-27T16:59:41.803Z:
+Here is the result of "fetch" for the Page with URL https://app.notion.com/p/425f73ae951f81e3aa4bf2a6f9c8d1c1 as of 2026-11-27T21:29:15.911Z:
 <page url="https://app.notion.com/p/425f73ae951f81e3aa4bf2a6f9c8d1c1" icon="✅">
 <ancestor-path>
 <parent-page url="https://app.notion.com/p/424f73ae951f81248732f99ce212e6a6" title="Fragendatenbank"/>
@@ -90,12 +90,12 @@ Bei jeder Erstellung, Überarbeitung, Prüfung oder Freigabe einer Crosspoke-Fra
 
 Verbindliche Ergänzung auf Nutzerentscheidung vom <date start="2026-11-27" />. Bilder sind optional und werden je Frage auf ihren konkreten Nutzen geprüft.
 
-- Q45 – Orientierung statt Dekoration – Bereits bei der Frage darf ein gezieltes Bild minimale Orientierung geben und den gefragten Gegenstand verständlicher oder vorstellbarer machen. Keine rein dekorativen Bilder und keine Bildpflicht.
-- Q46 – Thematische Passung – Passende Alltagsgegenstände, Lebewesen oder sachliche Darstellungen sind zulässig. Bei einer Tierfrage kann beispielsweise das jeweilige Tier gezeigt werden; bei einer Flussfrage eine Karte mit eingezeichnetem Verlauf. Bild und Beschriftung müssen zum tatsächlich gefragten Gegenstand passen.
+- Q45 – Konkreter Nutzen statt bloßer Wiedererkennung – Ein Fragebild wird nur verwendet, wenn es für die konkrete Frage einen erkennbaren zusätzlichen Nutzen hat: eine relevante Variante oder ein bestimmtes Modell klären, einen gesuchten Körperteil sinnvoll veranschaulichen, eine hilfreiche räumliche Beziehung zeigen oder eine grobe qualitative Vergleichsvorstellung ermöglichen. Ein bereits vertrautes Tier, Objekt oder Bauwerk allein abzubilden genügt nicht. Vor Erstellung den Satz vervollständigen: „Das Bild hilft bei dieser Frage, weil …“. Fehlt ein konkreter Nutzen über den Fragetext hinaus, Bild weglassen. Keine Bildpflicht.
+- Q46 – Fragebezogene Motivwahl – Tiere grundsätzlich ohne Bild, sofern nicht ein relevanter Körperteil oder ein sinnvoller Vergleich die konkrete Schätzung unterstützt; reine Tierporträts bei Tragzeit, Flügelschlagfrequenz oder ähnlichen Zahlenfragen entfallen. Bei Objekten kann die eindeutige Variante oder das konkrete Modell entscheidend sein, etwa Automodell/Baujahr, Switch OLED, AA-Batterie oder bewegliche LEGO-Minifigur. Keine pauschale Freigabe aller Objektbilder. Bauwerke oder Fahrzeuge bei reinen Zeitspannen nicht bloß illustrieren; ein belegter Modell-/Zustandsvergleich ist nur sinnvoll, wenn er tatsächlich zusätzliche Orientierung gibt. Karten auf den relevanten Raum fokussieren; sachfremde Kontinente vermeiden. Ein Flussverlauf darf auf einer fokussierten Karte verortet werden, wenn dies die konkrete Frage verständlicher macht.
 - Q47 – Keine Lösungsangaben – Bilder dürfen keine Maß- oder Kapazitätsangaben enthalten. Dazu gehören insbesondere Längen, Höhen, Flächen, Gewichte, Mengen, Speichergrößen, Kilometerangaben und Maßstabsleisten. Auch Bildunterschriften und sichtbare Beschriftungen dürfen solche Angaben nicht verraten.
-- Q48 – Unbeabsichtigte Schätzhilfen – Größenverhältnisse, erkennbare Stückzahlen und Vergleichsobjekte im Bild prüfen. Das Bild darf die Lösung weder unmittelbar noch zu genau ableitbar machen. Thematisch passende Alltagsgegenstände und Lebewesen bleiben zulässig, sofern sie nur die beabsichtigte minimale Orientierung geben.
+- Q48 – Beabsichtigte grobe Vergleiche, keine exakte Bildlösung – Qualitative Größenvergleiche sind ausdrücklich zulässig, z. B. Straußenei neben Hühnerei oder Bowlingkugel neben einem passenden vertrauten Gegenstand. Sie sollen eine grobe Vorstellung ermöglichen; Vergleichsobjekte sind nicht pauschal verboten. Reale, sachlich plausible Proportionen und gemeinsame Perspektive verwenden; nichts für einen stärkeren Effekt vergrößern oder verkleinern. Größenrelation bedeutet nicht automatisch Gewichtsrelation; Material und Dichte berücksichtigen. Keine Maß-, Gewichts- oder Kapazitätsangaben (Q47), keine direkt abzählbare Antwort und keine aus Bild plus H1/H2 exakt oder zu eng berechenbare Lösung. Bild bereits als Bestandteil der Ausgangsfrage prüfen.
 - Q49 – Gesamte Spielrunde prüfen – Die Bildinformation gehört zur Ausgangsfrage und ist beim Prüfen von Einstiegshürde, Schwierigkeit, H1, H2 und Restunsicherheit mitzuberücksichtigen. Frage + Bild → H1 → H2 → Antwort einzeln durchspielen; beide Hinweise müssen weiterhin zusätzlichen Erkenntnisgewinn liefern. Ein Bild ersetzt keine notwendige eindeutige Formulierung oder sichtbare Antworteinheit.
-- Q50 – Sachliche und visuelle Qualität – Sachlich korrekte, eindeutig erkennbare Bilder verwenden; insbesondere Kartenverläufe und Tierarten prüfen. Herkunft und Nutzungsrechte klären. Darstellung auf Handy und gemeinsamem Bildschirm prüfen; das Bild darf Frage und aufgedeckte Hinweise nicht unnötig verdrängen. Vergrößerung darf keine zusätzlichen Lösungshinweise offenlegen.
+- Q50 – Sachliche und visuelle Qualität – Sachlich korrekte, eindeutig erkennbare Bilder verwenden; Modell-/Variantenmerkmale, Körperteile, Kartenverläufe und qualitative Vergleichsproportionen anhand geeigneter Referenzen prüfen. KI-Motivstudien nicht als exakte Produkt-, Architektur- oder historische Belege ausgeben. Keine erfundenen ersten/letzten Modelle oder Zustände. Karten so zuschneiden, dass der relevante Raum am Handy erkennbar ist; irrelevante Umgebung reduzieren, ohne Geografie irreführend zu verändern. Herkunft und Nutzungsrechte klären. Darstellung auf Handy und gemeinsamem Bildschirm prüfen; das Bild darf Frage und aufgedeckte Hinweise nicht unnötig verdrängen. Vergrößerung darf keine zusätzlichen Lösungshinweise offenlegen.
 
 Die Pflichtprüfung umfasst bei jeder Frage zusätzlich Q45–Q50; ohne Bild begründet nicht anwendbar. Vor einer Bildaufnahme in eine aktive Frage dieselben Freigabe- und Dokumentationsregeln wie für andere Inhaltsänderungen anwenden. Diese Ergänzung definiert die Prüfregeln; sie fügt bestehenden Fragen noch keine Bilder hinzu.
 
@@ -155,5 +155,27 @@ Bei Alltagsmaßen das konkrete Format bzw. Modell abgrenzen. Umfragefragen nenne
 ## Gewünschte Fragenfamilie · Zeitverschiebung
 
 Nutzerwunsch vom <date start="2026-11-27" />: Bei Zeitverschiebungsfragen Berlin als gemeinsame Referenz verwenden. Gegenüber steht eine halbwegs bekannte Stadt auf einem anderen Kontinent oder am Rand Europas. Einen konkreten Tag mit Jahr nennen und Richtung eindeutig formulieren; Sommer-/Winterzeit beider Städte sowie mögliche halbe/viertel Stunden tatsächlich prüfen. Zeitzonenregeln können sich ändern. Keine UTC-Differenz beider Städte oder exakte Uhrzeitpaarung als Hinweis geben, die die Lösung unmittelbar berechenbar macht. Eine Lagekarte darf Städte verorten, aber keine Uhrzeiten, UTC-/Gradangaben oder Zeitzonenbänder enthalten. Hinweise, Bild und Restunsicherheit weiterhin gemeinsam nach Q01–Q58 prüfen.
+
+## Bildauswahl nach Nutzerdurchsicht · <date start="2026-11-27" />
+
+Diese Nutzerpräzisierung verschärft Q45/Q46/Q48/Q50 und ersetzt die frühere Annahme, dass ein thematisch passendes Tierporträt oder bekanntes Objekt bereits genügend Orientierung bietet. Q47 (keine Maß-/Kapazitätsangaben) und Q49 (gesamte Runde einschließlich H1/H2 prüfen) bleiben verbindlich. Die bloße Vertrautheit eines Bildmotivs ist kein Mehrwert; vorhandenes Wissen um die richtige Zahl bleibt ausdrücklich erlaubt.
+
+<b>Verbindliche Auswahlfrage vor jeder Bilderstellung:</b> „Welchen konkreten zusätzlichen Nutzen hat dieses Bild für genau diese Frage?“ Zulässige Antworten sind eine notwendige Modell-/Variantenklärung, ein sinnvoll dargestellter gesuchter Körperteil, ein tatsächlich hilfreicher räumlicher Bezug oder eine sachlich plausible grobe Vergleichsrelation. „Zeigt das genannte Tier/Objekt“ reicht nicht.
+
+<b>Konkrete Nutzerbewertungen aus der optionalen Vorschau:</b>
+
+- ECO-0007 2-Euro-Münze: weglassen, bekannte Erscheinung ohne Zusatznutzen.
+- GEO-0011 Bodensee-Tiefe: weglassen, Umriss hilft bei Tiefe nicht.
+- HIS-0005 Bauzeit Kölner Dom: weglassen, Fassade hilft bei der Zeitspanne nicht.
+- HIS-0011 Concorde-Betriebsjahre: aktuelles Einzelbild weglassen. Ein belegter erster/letzter Modell- oder Zustandsvergleich wäre lediglich eine bedingte neue Idee, keine Behauptung unterschiedlicher Concorde-Modelle.
+- SCI-0006 Bienen-Flügelschlag und SCI-0007 Elefanten-Tragzeit: weglassen; Tier bekannt, Bild ohne konkrete Schätzhilfe.
+- GEO-0019 Ozeanien: näherer relevanter Ausschnitt vorgeschlagen; Amerika ist für diese Frage entbehrlich. Neue Karte noch nicht erstellt.
+- SCI-0014 Straußenei-Gewicht: Einzelbild nicht als passend freigegeben; neuer Vergleich mit Hühnerei sinnvoll zu prüfen. Proportionen belegen, keine Gewichte/Maße einblenden.
+- SPO-0011 Bowlingkugel-Gewicht: analog ein sinnvoller Vergleich statt isolierter Kugel; Vergleichsgegenstand und konkrete Ausführung noch offen.
+- LEGO, Batterie und Switch: Modell-/Variantenorientierung grundsätzlich passend; keine pauschale Einzelbildfreigabe oder Aufhebung der Detailprüfung.
+
+<b>Prüfablauf:</b> Nutzen vor Bildaufwand prüfen → passendes Motiv bzw. Vergleich wählen → sachliche Richtigkeit/Proportionen belegen → Frage + Bild → H1 → H2 auf zusätzlichen Nutzen und Restunsicherheit prüfen → Handyansicht prüfen → konkrete Bildfassung zur Auswahl vorlegen. Größe und Gewicht nicht gleichsetzen. Ohne ausreichenden Nutzen standardmäßig ohne Bild.
+
+Diese Entscheidung aktualisiert Qualitätsregeln und Bildmetadaten. Sie erstellt keine neuen Vergleichsbilder, ändert keine Frage/Hinweise/Lösung und entfernt nicht stillschweigend bereits freigegebene Spielbilder. Die ursprüngliche 19/12/7-Einschätzung der optionalen Vorschau ist redaktionelle Historie und durch die Nutzerbewertungen teilweise überholt.
 </content>
 </page>

@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-27",
+  "rules": [
+    {
+      "id": "Q45",
+      "before": "- Q45 – Orientierung statt Dekoration – Bereits bei der Frage darf ein gezieltes Bild minimale Orientierung geben und den gefragten Gegenstand verständlicher oder vorstellbarer machen. Keine rein dekorativen Bilder und keine Bildpflicht.",
+      "after": "- Q45 – Konkreter Nutzen statt bloßer Wiedererkennung – Ein Fragebild wird nur verwendet, wenn es für die konkrete Frage einen erkennbaren zusätzlichen Nutzen hat: eine relevante Variante oder ein bestimmtes Modell klären, einen gesuchten Körperteil sinnvoll veranschaulichen, eine hilfreiche räumliche Beziehung zeigen oder eine grobe qualitative Vergleichsvorstellung ermöglichen. Ein bereits vertrautes Tier, Objekt oder Bauwerk allein abzubilden genügt nicht. Vor Erstellung den Satz vervollständigen: „Das Bild hilft bei dieser Frage, weil …“. Fehlt ein konkreter Nutzen über den Fragetext hinaus, Bild weglassen. Keine Bildpflicht."
+    },
+    {
+      "id": "Q46",
+      "before": "- Q46 – Thematische Passung – Passende Alltagsgegenstände, Lebewesen oder sachliche Darstellungen sind zulässig. Bei einer Tierfrage kann beispielsweise das jeweilige Tier gezeigt werden; bei einer Flussfrage eine Karte mit eingezeichnetem Verlauf. Bild und Beschriftung müssen zum tatsächlich gefragten Gegenstand passen.",
+      "after": "- Q46 – Fragebezogene Motivwahl – Tiere grundsätzlich ohne Bild, sofern nicht ein relevanter Körperteil oder ein sinnvoller Vergleich die konkrete Schätzung unterstützt; reine Tierporträts bei Tragzeit, Flügelschlagfrequenz oder ähnlichen Zahlenfragen entfallen. Bei Objekten kann die eindeutige Variante oder das konkrete Modell entscheidend sein, etwa Automodell/Baujahr, Switch OLED, AA-Batterie oder bewegliche LEGO-Minifigur. Keine pauschale Freigabe aller Objektbilder. Bauwerke oder Fahrzeuge bei reinen Zeitspannen nicht bloß illustrieren; ein belegter Modell-/Zustandsvergleich ist nur sinnvoll, wenn er tatsächlich zusätzliche Orientierung gibt. Karten auf den relevanten Raum fokussieren; sachfremde Kontinente vermeiden."
+    },
+    {
+      "id": "Q48",
+      "before": "- Q48 – Unbeabsichtigte Schätzhilfen – Größenverhältnisse, erkennbare Stückzahlen und Vergleichsobjekte im Bild prüfen. Das Bild darf die Lösung weder unmittelbar noch zu genau ableitbar machen. Thematisch passende Alltagsgegenstände und Lebewesen bleiben zulässig, sofern sie nur die beabsichtigte minimale Orientierung geben.",
+      "after": "- Q48 – Beabsichtigte grobe Vergleiche, keine exakte Bildlösung – Qualitative Größenvergleiche sind ausdrücklich zulässig, z. B. Straußenei neben Hühnerei oder Bowlingkugel neben einem passenden vertrauten Gegenstand. Sie sollen eine grobe Vorstellung ermöglichen; Vergleichsobjekte sind nicht pauschal verboten. Reale, sachlich plausible Proportionen und gemeinsame Perspektive verwenden; nichts für einen stärkeren Effekt vergrößern oder verkleinern. Größenrelation bedeutet nicht automatisch Gewichtsrelation; Material und Dichte berücksichtigen. Keine Maß-, Gewichts- oder Kapazitätsangaben (Q47), keine direkt abzählbare Antwort und keine aus Bild plus H1/H2 exakt oder zu eng berechenbare Lösung. Bild bereits als Bestandteil der Ausgangsfrage prüfen."
+    },
+    {
+      "id": "Q50",
+      "before": "- Q50 – Sachliche und visuelle Qualität – Sachlich korrekte, eindeutig erkennbare Bilder verwenden; insbesondere Kartenverläufe und Tierarten prüfen. Herkunft und Nutzungsrechte klären. Darstellung auf Handy und gemeinsamem Bildschirm prüfen; das Bild darf Frage und aufgedeckte Hinweise nicht unnötig verdrängen. Vergrößerung darf keine zusätzlichen Lösungshinweise offenlegen.",
+      "after": "- Q50 – Sachliche und visuelle Qualität – Sachlich korrekte, eindeutig erkennbare Bilder verwenden; Modell-/Variantenmerkmale, Körperteile, Kartenverläufe und qualitative Vergleichsproportionen anhand geeigneter Referenzen prüfen. KI-Motivstudien nicht als exakte Produkt-, Architektur- oder historische Belege ausgeben. Keine erfundenen ersten/letzten Modelle oder Zustände. Karten so zuschneiden, dass der relevante Raum am Handy erkennbar ist; irrelevante Umgebung reduzieren, ohne Geografie irreführend zu verändern. Herkunft und Nutzungsrechte klären. Darstellung auf Handy und gemeinsamem Bildschirm prüfen; das Bild darf Frage und aufgedeckte Hinweise nicht unnötig verdrängen. Vergrößerung darf keine zusätzlichen Lösungshinweise offenlegen."
+    }
+  ],
+  "rowChanges": [
+    {
+      "id": "GEO-0011",
+      "pageId": "425f73ae-951f-8108-b939-db3a7aecc993",
+      "properties": {
+        "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann den gemeinten See klären, hilft aber nur wenig bei Tiefe.\nMotiv: Schlichter Bodenseeumriss.\nVermeiden: Keine Tiefenzonen, Isobathen, Höhenprofile oder vermaßte Vergleichsgebäude.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Obersee-Umriss als Teil des Bodensees; der Untersee ist nicht dargestellt. Klärt die Lage, hilft bei Tiefe jedoch wenig. Keine Tiefenfarben, Profile oder Isobathen.\nFrage + Bild → H1 → H2: H1 Fernsehturm und H2 mittlere Tiefe bleiben unverändert nützlich; Umriss verrät keine Tiefe.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzer lehnt den Bodensee-Umriss ab: keine hilfreiche Orientierung zur gesuchten Tiefe.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt.",
+        "Bildentscheidung": "Weglassen"
+      }
+    },
+    {
+      "id": "SCI-0006",
+      "pageId": "425f73ae-951f-810a-a446-ec9a3daf011e",
+      "properties": {
+        "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Honigbiene von Wespe oder Hummel unterscheiden.\nMotiv: Eine Honigbiene, Einzelaufnahme.\nVermeiden: Keine Zeitlupensequenz, Frequenzangabe oder Flügelspuren zum Abzählen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Honigbiene von Wespe/Hummel unterscheiden; stehende Flügel ohne Bewegungsfolge.\nFrage + Bild → H1 → H2: H1 Kolibri und H2 Minutenanzahl bleiben quantitative Hinweise; kein Frequenzcode oder abzählbare Flügelspuren.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0006. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzer lehnt das Bienenporträt zur Flügelschlagfrequenz ab: Tierbild ohne konkreten Nutzen. Tiere künftig grundsätzlich nur bei relevanten Körperteilen oder sinnvollen Vergleichen.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt.",
+        "Bildentscheidung": "Weglassen"
+      }
+    },
+    {
+      "id": "SPO-0011",
+      "pageId": "425f73ae-951f-8118-a441-d38d04e1f852",
+      "properties": {
+        "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Bowling von Kegeln unterscheiden.\nMotiv: Eine Bowlingkugel ohne Gewichtskennzeichnung.\nVermeiden: Keine Gewichtsnummer, Waage, Hanteln, Hand oder Kugelvergleich.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Drei Fingerlöcher grenzen Bowling ab; ohne Gewichtsnummer, Waage oder Vergleichsgegenstand.\nFrage + Bild → H1 → H2: H1 Reissack und H2 Hanteln bleiben Gewichtsreferenzen; Löcher sind nicht die gesuchte Anzahl.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SPO-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzer wünscht analog einen sinnvollen Vergleich statt isolierter Bowlingkugel. Vergleichsgegenstand/konkrete Bildfassung noch offen. Keine Gewichts-/Maßangaben; Größenrelation nicht mit Gewichtsrelation gleichsetzen.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt."
+      }
+    },
+    {
+      "id": "HIS-0005",
+      "pageId": "425f73ae-951f-8132-9e49-eac064e92a62",
+      "properties": {
+        "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann das Bauwerk bei wenig Vorwissen verständlicher machen.\nMotiv: Eindeutig erkennbarer Kölner Dom.\nVermeiden: Keine Bauphasengrafik, Jahreszahlen oder Jubiläumsbanner.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Domfassade kann bei unbekanntem Bauwerk helfen; keine Bauphasen, Jahreszahlen oder Jubiläumsbanner.\nFrage + Bild → H1 → H2: H1 Baupause und H2 Jahrhunderte bleiben zeitliche Referenzen; Bild enthält keinen historischen Zeitanker.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#HIS-0005. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzer lehnt die Domfassade zur Bauzeit ab: kein Nutzen für die Zeitspanne.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt.",
+        "Bildentscheidung": "Weglassen"
+      }
+    },
+    {
+      "id": "ECO-0007",
+      "pageId": "425f73ae-951f-815d-a478-d340660767d0",
+      "properties": {
+        "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann bei wenig Euro-Erfahrung den Gegenstand klären.\nMotiv: Eine isolierte 2-Euro-Münze.\nVermeiden: Keine Waage, anderen Münzen, Durchmesser- oder Gewichtsangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Identifiziert die Umlaufmünze; für die meisten bereits sehr vertraut. Die Wertzahl ist keine Gewichtsangabe. Detailtreue einer Prägung bleibt offen.\nFrage + Bild → H1 → H2: H1 und H2 nennen andere Münzgewichte; diese Münzen werden nicht mit abgebildet.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#ECO-0007. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzer lehnt das isolierte 2-Euro-Bild ab: jeder kennt das Aussehen, kein zusätzlicher Nutzen für das Gewicht.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt.",
+        "Bildentscheidung": "Weglassen"
+      }
+    },
+    {
+      "id": "HIS-0011",
+      "pageId": "425f73ae-951f-8196-90b4-c7b71471451e",
+      "properties": {
+        "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann das gemeinte Flugzeug von anderen Jets unterscheiden.\nMotiv: Eindeutige Concorde ohne Tafeln.\nVermeiden: Keine Betriebsjahre, Jubiläumsaufschriften oder Flugpläne.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Unverwechselbares Flugzeug identifizieren; keine Flugpläne, Jubiläen oder Jahreszahlen. Historisch orientierte Motivstudie.\nFrage + Bild → H1 → H2: H1 1970er-Jahre und H2 Betriebsende bleiben alleinige Zeitanker; Bild verrät keine Jahreszahl.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#HIS-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzer lehnt das einzelne Concorde-Bild für die Betriebsjahre ab. Erster/letzter Modell- oder Zustandsvergleich nur als bedingte, noch zu belegende Idee; keine unterschiedlichen Modelle behaupten.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt.",
+        "Bildentscheidung": "Weglassen"
+      }
+    },
+    {
+      "id": "SCI-0007",
+      "pageId": "425f73ae-951f-819f-866f-c046631d6644",
+      "properties": {
+        "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Erlaubte Tierorientierung, aber bei vertrautem Publikum entbehrlich.\nMotiv: Erwachsener Elefant ohne Baby oder Kalender.\nVermeiden: Keine Tragzeitangabe, Embryonalreihe oder Verhältnisgrafik Mensch–Elefant.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Erwachsenes Einzeltier passt thematisch, ist aber schon vertraut. Keine Kälber, Embryonen oder Kalender.\nFrage + Bild → H1 → H2: Die beiden menschlichen Schwangerschaftsvergleiche bleiben neu; keine Entwicklungsreihe.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0007. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzer lehnt das Elefantenbild zur Tragzeit ab: Tierbild ohne konkreten Nutzen. Tiere künftig grundsätzlich nur bei relevanten Körperteilen oder sinnvollen Vergleichen.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt.",
+        "Bildentscheidung": "Weglassen"
+      }
+    },
+    {
+      "id": "GEO-0019",
+      "pageId": "425f73ae-951f-8116-b9e0-e31e65f3f8da",
+      "properties": {
+        "Bildprüfung": "Grobe Lagekarte des Pazifiks ohne Einzelstaatsmarkierungen, Flaggen, Grenzlinien oder Maßstabsleiste. Ozeanien soll räumlich verständlicher werden.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Grobe Pazifiklage ohne Staatenpunkte, Grenzen oder Flaggen; keine Vollständigkeits- oder Zählkarte.\nFrage + Bild → H1 → H2: H1 EU-Mitglieder und H2 Mikronesien-Anteil bleiben zusätzliche Zählinformation; Inseln dürfen nicht als Staatenliste gelesen werden.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0019. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzervorschlag: relevanten Ozeanien-Ausschnitt näher zeigen; Amerika entbehrlich. Offene Kartenüberarbeitung, noch nicht umgesetzt oder neu freigegeben.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt."
+      }
+    },
+    {
+      "id": "SCI-0014",
+      "pageId": "425f73ae-951f-8136-a6eb-dc1aab709803",
+      "properties": {
+        "Bildprüfung": "Einzelnes Straußenei ohne Waage, Hand, Lineal oder Vergleichsei. Keine Größen- oder Gewichtsangaben im Bild.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Einzelnes Ei verdeutlicht den Gegenstand, ohne Hände, Hühnerei, Lineal oder Waage. Genaue Eigröße bleibt bewusst unbekannt.\nFrage + Bild → H1 → H2: H1 Hühnereigewicht und H2 Abmessungen bleiben neue Maßstäbe; kein Vergleichsobjekt vor H1.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0014. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.\n\nNutzerbewertung 27.11.2026 – maßgeblich vor früherer Vorschauempfehlung: Nutzer sieht Nutzen bei Straußenei neben Hühnerei als qualitativen Größenvergleich. Aktuelles Einzelbild damit nicht freigegeben; neue Vergleichsfassung offen. Proportionen belegen, keine Gewichte/Maße, kein exaktes Rechenleck mit H1/H2.\nQualitätsregeln Q45/Q46/Q48/Q50 entsprechend präzisiert. Keine Änderung von Frage, Hinweisen, Antwort, Einheit oder Revision; kein Spiel-/Asset-Einbau in diesem Arbeitsschritt."
+      }
+    }
+  ],
+  "scope": "documentation and image metadata only; no game or gallery asset change"
+}
