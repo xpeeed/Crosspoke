@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-27",
+  "gameVersion": "0.2.4",
+  "datasetVersion": "0.9",
+  "questions": 186,
+  "questionsWithImages": 20,
+  "githubContentCommit": "202fb7b4d049ce6772eec3dee0fb8ac8fa519454",
+  "sitesSourceCommit": "d2080386ac40cac57d00bd753ea1834f031e1844",
+  "deployment": {
+    "id": "appgprj_6b088e014a708191901daa5359dc984d~appgdep_a99c5162ed9081918fe9930912b09efc",
+    "project_id": "appgprj_6b088e014a708191901daa5359dc984d",
+    "title": "Crosspoke – Testversion",
+    "version_id": "appgprj_6b088e014a708191901daa5359dc984d~appgver_ecd01c7d42b88191ae91698af40e96c7",
+    "type": "publish",
+    "status": "pending",
+    "publication_stage": "publishing",
+    "is_async_publication": true,
+    "url": "https://crosspoke-test.do-peter.chatgpt.site",
+    "has_mcp": null,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": null,
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-27T20:29:12.522648+00:00"
+  },
+  "notionImageMetadataVerified": 20,
+  "checks": {
+    "imageLoads": "20/20 im tatsächlichen Standalone-Bildschirm mit lokaler deterministischer Testauswahl",
+    "phases": "Frage, H1, H2, Antwort mit Bild und Einheit",
+    "noImage": "Kein leerer Bildbereich",
+    "failure": "Meldung sichtbar; H1 bleibt bedienbar",
+    "pause": "Bild verborgen",
+    "viewport": "390×844 und Desktop",
+    "historicalTests": 31,
+    "questionContents": "Unverändert"
+  },
+  "render": "Unverändert"
+}

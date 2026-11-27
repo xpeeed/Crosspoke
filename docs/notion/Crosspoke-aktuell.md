@@ -1,4 +1,4 @@
-Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T20:25:40.844Z:
+Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T20:30:13.327Z:
 <page url="https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7" icon="♠️">
 <ancestor-path>
 <parent-page url="https://app.notion.com/p/3e5f73ae951f808b91dcdfa9d3932ac0" title="Gamifications"/>
@@ -9,6 +9,14 @@ Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424
 </properties>
 <iconMetadata>{"type":"emoji","emoji":"♠️"}</iconMetadata>
 <content>
+## Bilder im Spiel · v0.2.4 · <date start="2026-11-27" />
+
+Auf Nutzerfreigabe „Bau sie ein“ sind die 20 Motive in die zugehörigen Fragen integriert. Insgesamt bleiben es 186 Testfragen, davon 20 mit Bild. Bild ab Frage unter der Einheit sichtbar, bei H1/H2/Auflösung erhalten, in Pause verborgen. Bei Ladefehler bleibt die Frage spielbar; reine Textfragen haben keinen leeren Bildbereich. Fragetexte, Hinweise, Antworten und Fragenrevisionen unverändert; die separate Bildervorschau bleibt erhalten.
+
+20 Bildprüfungsfelder in der Datenbank ergänzt und zurückgelesen. Aktuelle Standalone mit allen 20 Bildern, Phasen, Textfrage, Ladefehler, Pause sowie Handy-/Desktopansicht geprüft; bestehende Import-/Synchronisationsprüfungen und 31 historische Tests bestanden. Vollständiger Prüfbericht: <code>docs/PRUEFBERICHT-BILDEINBAU-2026-11-27.md</code>. Keine vollständige reale Geräte-/Gruppen-Spielabnahme behauptet.
+
+[Crosspoke-Testversion](https://crosspoke-test.do-peter.chatgpt.site): Veröffentlichung von v0.2.4 beauftragt, letzte Rückmeldung pending/publishing; noch nicht als neuer Live-Erfolg bestätigt. GitHub-Inhaltscommit <code>202fb7b4d049ce6772eec3dee0fb8ac8fa519454</code>, Sites-Quellcommit <code>d2080386ac40cac57d00bd753ea1834f031e1844</code>. Deployment <code>appgprj_6b088e014a708191901daa5359dc984d~appgdep_a99c5162ed9081918fe9930912b09efc</code>. Bei Statusnachfrage dieses Deployment prüfen; keine doppelte Veröffentlichung. Mac und GitHub inhaltsgleich. Render unverändert.
+
 ## Aktueller Teststand · <date start="2026-11-27" />
 
 Standalone v0.2.4, Fragenbestand v0.9: <b>186 Testfragen</b>. <mention url="https://app.notion.com/p/424f73ae951f81efab83fcc7c8c0df38" type="database">Crosspoke – Fragenbestand</mention> enthält weiterhin 188 Einträge; CUR-0012 (offener M&M-Hinweis) und CUR-0013 (Papierboot ohne Modell/Zählregel) bleiben zurückgestellt und werden nicht im Spiel gezogen.

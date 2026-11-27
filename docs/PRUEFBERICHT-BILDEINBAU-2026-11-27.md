@@ -22,3 +22,7 @@ Bilder erscheinen unter Frage und Einheit bereits vor H1 und bleiben bei H1, H2 
 Keine reale Gruppen-Spielrunde, keine vollständige Safari-/iPhone-Hardwareabnahme oder neue unabhängige Motiv-/Modellfachprüfung. Bestehende MemoryStorage-Reload-Grenze unverändert. Bilder sind die vom Nutzer zum Einbau freigegebenen Motivstudien. Render unverändert, GitHub-Commit mit [skip render].
 
 Veröffentlichung auf bestehender Site vorbereitet; tatsächlichen Sites-Rückgabestatus im Abschlussnachweis dokumentieren.
+
+## Veröffentlichung v0.2.4 beauftragt · 27.11.2026
+
+20 Bilder im Spiel, 186 Fragen unverändert. Letzter Sites-Status: pending/publishing; noch kein bestätigter Live-Erfolg der neuen Version. URL: https://crosspoke-test.do-peter.chatgpt.site . Deployment: appgprj_6b088e014a708191901daa5359dc984d~appgdep_a99c5162ed9081918fe9930912b09efc. Sites-Quellcommit: d2080386ac40cac57d00bd753ea1834f031e1844. GitHub-Inhaltscommit: 202fb7b4d049ce6772eec3dee0fb8ac8fa519454. Bei Statusnachfrage dieses Deployment prüfen, nicht erneut veröffentlichen. Nachweis: docs/redaktion/2026-11-27-bildeinbau-veroeffentlichung.json. Render unverändert.
