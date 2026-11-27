@@ -1,0 +1,2304 @@
+{
+  "source": "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.xlsx?__blob=publicationFile&v=13",
+  "date": "2024-12-31",
+  "sha256": "4031aad68e4d97750ac8874e665545bc373b006e5a9f033d35256e08afac02c1",
+  "totalCities": 2059,
+  "uniqueKeys": 2059,
+  "bCount": 263,
+  "qCount": 4,
+  "bCities": [
+    {
+      "ordinal": 1,
+      "ars": "110000000000",
+      "name": "Berlin, Stadt",
+      "population": 3685265
+    },
+    {
+      "ordinal": 10,
+      "ars": "040110000000",
+      "name": "Bremen, Stadt",
+      "population": 586271
+    },
+    {
+      "ordinal": 16,
+      "ars": "059110000000",
+      "name": "Bochum, Stadt",
+      "population": 358676
+    },
+    {
+      "ordinal": 18,
+      "ars": "057110000000",
+      "name": "Bielefeld, Stadt",
+      "population": 331605
+    },
+    {
+      "ordinal": 19,
+      "ars": "053140000000",
+      "name": "Bonn, Stadt",
+      "population": 323336
+    },
+    {
+      "ordinal": 28,
+      "ars": "031010000000",
+      "name": "Braunschweig, Stadt",
+      "population": 252962
+    },
+    {
+      "ordinal": 67,
+      "ars": "040120000000",
+      "name": "Bremerhaven, Stadt",
+      "population": 118610
+    },
+    {
+      "ordinal": 68,
+      "ars": "055120000000",
+      "name": "Bottrop, Stadt",
+      "population": 118535
+    },
+    {
+      "ordinal": 73,
+      "ars": "053780004004",
+      "name": "Bergisch Gladbach, Stadt",
+      "population": 111361
+    },
+    {
+      "ordinal": 108,
+      "ars": "094610000000",
+      "name": "Bamberg",
+      "population": 77150
+    },
+    {
+      "ordinal": 117,
+      "ars": "120510000000",
+      "name": "Brandenburg an der Havel, Stadt",
+      "population": 74113
+    },
+    {
+      "ordinal": 120,
+      "ars": "055540008008",
+      "name": "Bocholt, Stadt",
+      "population": 73257
+    },
+    {
+      "ordinal": 122,
+      "ars": "094620000000",
+      "name": "Bayreuth",
+      "population": 72940
+    },
+    {
+      "ordinal": 145,
+      "ars": "053620008008",
+      "name": "Bergheim, Stadt",
+      "population": 61611
+    },
+    {
+      "ordinal": 162,
+      "ars": "082110000000",
+      "name": "Baden-Baden, Stadt",
+      "population": 56881
+    },
+    {
+      "ordinal": 163,
+      "ars": "064340001001",
+      "name": "Bad Homburg v. d. Höhe, Stadt",
+      "population": 56688
+    },
+    {
+      "ordinal": 172,
+      "ars": "071330006006",
+      "name": "Bad Kreuznach, Stadt",
+      "population": 54168
+    },
+    {
+      "ordinal": 175,
+      "ars": "057660008008",
+      "name": "Bad Salzuflen, Stadt",
+      "population": 53958
+    },
+    {
+      "ordinal": 185,
+      "ars": "081150003003",
+      "name": "Böblingen, Stadt",
+      "population": 51483
+    },
+    {
+      "ordinal": 193,
+      "ars": "057700004004",
+      "name": "Bad Oeynhausen, Stadt",
+      "population": 50620
+    },
+    {
+      "ordinal": 201,
+      "ars": "059780004004",
+      "name": "Bergkamen, Stadt",
+      "population": 49143
+    },
+    {
+      "ordinal": 210,
+      "ars": "053820012012",
+      "name": "Bornheim, Stadt",
+      "population": 48203
+    },
+    {
+      "ordinal": 215,
+      "ars": "082155003009",
+      "name": "Bruchsal, Stadt",
+      "population": 47784
+    },
+    {
+      "ordinal": 227,
+      "ars": "057580004004",
+      "name": "Bünde, Stadt",
+      "population": 46365
+    },
+    {
+      "ordinal": 234,
+      "ars": "053620012012",
+      "name": "Brühl, Stadt",
+      "population": 45555
+    },
+    {
+      "ordinal": 240,
+      "ars": "120600020020",
+      "name": "Bernau bei Berlin, Stadt",
+      "population": 44597
+    },
+    {
+      "ordinal": 245,
+      "ars": "081185002079",
+      "name": "Bietigheim-Bissingen, Stadt",
+      "population": 43556
+    },
+    {
+      "ordinal": 250,
+      "ars": "055540012012",
+      "name": "Borken, Stadt",
+      "population": 43035
+    },
+    {
+      "ordinal": 261,
+      "ars": "033530005005",
+      "name": "Buchholz in der Nordheide, Stadt",
+      "population": 41737
+    },
+    {
+      "ordinal": 269,
+      "ars": "064310002002",
+      "name": "Bensheim, Stadt",
+      "population": 41124
+    },
+    {
+      "ordinal": 274,
+      "ars": "033590010010",
+      "name": "Buxtehude, Hansestadt",
+      "population": 40886
+    },
+    {
+      "ordinal": 295,
+      "ars": "081195001008",
+      "name": "Backnang, Stadt",
+      "population": 38818
+    },
+    {
+      "ordinal": 310,
+      "ars": "146250020020",
+      "name": "Bautzen / Budyšin, Stadt",
+      "population": 37566
+    },
+    {
+      "ordinal": 314,
+      "ars": "055700008008",
+      "name": "Beckum, Stadt",
+      "population": 37133
+    },
+    {
+      "ordinal": 319,
+      "ars": "150820015015",
+      "name": "Bitterfeld-Wolfen, Stadt",
+      "population": 36592
+    },
+    {
+      "ordinal": 324,
+      "ars": "064400003003",
+      "name": "Bad Vilbel, Stadt",
+      "population": 35961
+    },
+    {
+      "ordinal": 328,
+      "ars": "084175002002",
+      "name": "Balingen, Stadt",
+      "population": 35623
+    },
+    {
+      "ordinal": 344,
+      "ars": "084265003021",
+      "name": "Biberach an der Riß, Stadt",
+      "population": 34576
+    },
+    {
+      "ordinal": 354,
+      "ars": "032410002002",
+      "name": "Barsinghausen, Stadt",
+      "population": 33941
+    },
+    {
+      "ordinal": 361,
+      "ars": "064400002002",
+      "name": "Bad Nauheim, Stadt",
+      "population": 32894
+    },
+    {
+      "ordinal": 382,
+      "ars": "032410003003",
+      "name": "Burgdorf, Stadt",
+      "population": 31051
+    },
+    {
+      "ordinal": 384,
+      "ars": "150890030030",
+      "name": "Bernburg (Saale), Stadt",
+      "population": 30992
+    },
+    {
+      "ordinal": 387,
+      "ars": "066320002002",
+      "name": "Bad Hersfeld, Kreisstadt",
+      "population": 30846
+    },
+    {
+      "ordinal": 392,
+      "ars": "082155002007",
+      "name": "Bretten, Stadt",
+      "population": 30274
+    },
+    {
+      "ordinal": 417,
+      "ars": "053340008008",
+      "name": "Baesweiler, Stadt",
+      "population": 29206
+    },
+    {
+      "ordinal": 429,
+      "ars": "082165002007",
+      "name": "Bühl, Stadt",
+      "population": 28608
+    },
+    {
+      "ordinal": 437,
+      "ars": "034590014014",
+      "name": "Bramsche, Stadt",
+      "population": 28220
+    },
+    {
+      "ordinal": 443,
+      "ars": "071310007007",
+      "name": "Bad Neuenahr-Ahrweiler, Stadt",
+      "population": 27961
+    },
+    {
+      "ordinal": 445,
+      "ars": "066330003003",
+      "name": "Baunatal, Stadt",
+      "population": 27929
+    },
+    {
+      "ordinal": 461,
+      "ars": "064400005005",
+      "name": "Butzbach, Friedrich-Ludwig-Weidig-Stadt",
+      "population": 27046
+    },
+    {
+      "ordinal": 499,
+      "ars": "059580012012",
+      "name": "Brilon, Stadt",
+      "population": 25424
+    },
+    {
+      "ordinal": 503,
+      "ars": "073390005005",
+      "name": "Bingen am Rhein, Stadt",
+      "population": 25384
+    },
+    {
+      "ordinal": 507,
+      "ars": "053620004004",
+      "name": "Bedburg, Stadt",
+      "population": 25316
+    },
+    {
+      "ordinal": 517,
+      "ars": "053820008008",
+      "name": "Bad Honnef, Stadt",
+      "population": 25061
+    },
+    {
+      "ordinal": 527,
+      "ars": "010620004004",
+      "name": "Bad Oldesloe, Stadt",
+      "population": 24846
+    },
+    {
+      "ordinal": 544,
+      "ars": "081285001007",
+      "name": "Bad Mergentheim, Stadt",
+      "population": 24023
+    },
+    {
+      "ordinal": 561,
+      "ars": "096720114114",
+      "name": "Bad Kissingen, GKSt",
+      "population": 23223
+    },
+    {
+      "ordinal": 567,
+      "ars": "064360001001",
+      "name": "Bad Soden am Taunus, Stadt",
+      "population": 23103
+    },
+    {
+      "ordinal": 581,
+      "ars": "081255002006",
+      "name": "Bad Rappenau, Stadt",
+      "population": 22703
+    },
+    {
+      "ordinal": 587,
+      "ars": "150860015015",
+      "name": "Burg, Stadt",
+      "population": 22585
+    },
+    {
+      "ordinal": 588,
+      "ars": "160635051003",
+      "name": "Bad Salzungen, Stadt",
+      "population": 22557
+    },
+    {
+      "ordinal": 595,
+      "ars": "064400004004",
+      "name": "Büdingen, Stadt",
+      "population": 22411
+    },
+    {
+      "ordinal": 605,
+      "ars": "083155001006",
+      "name": "Bad Krozingen, Stadt",
+      "population": 21755
+    },
+    {
+      "ordinal": 612,
+      "ars": "057740016016",
+      "name": "Büren, Stadt",
+      "population": 21593
+    },
+    {
+      "ordinal": 640,
+      "ars": "084365002009",
+      "name": "Bad Waldsee, Stadt",
+      "population": 20838
+    },
+    {
+      "ordinal": 647,
+      "ars": "064350006006",
+      "name": "Bruchköbel, Stadt",
+      "population": 20509
+    },
+    {
+      "ordinal": 653,
+      "ars": "032410004004",
+      "name": "Burgwedel, Stadt",
+      "population": 20379
+    },
+    {
+      "ordinal": 659,
+      "ars": "100450112112",
+      "name": "Blieskastel, Stadt",
+      "population": 20197
+    },
+    {
+      "ordinal": 662,
+      "ars": "147290050050",
+      "name": "Borna, Stadt",
+      "population": 20131
+    },
+    {
+      "ordinal": 673,
+      "ars": "010550004004",
+      "name": "Bad Schwartau, Stadt",
+      "population": 19954
+    },
+    {
+      "ordinal": 675,
+      "ars": "081255001005",
+      "name": "Bad Friedrichshall, Stadt",
+      "population": 19853
+    },
+    {
+      "ordinal": 678,
+      "ars": "091730112112",
+      "name": "Bad Tölz, St",
+      "population": 19826
+    },
+    {
+      "ordinal": 685,
+      "ars": "032520003003",
+      "name": "Bad Pyrmont, Stadt",
+      "population": 19722
+    },
+    {
+      "ordinal": 693,
+      "ars": "091710112112",
+      "name": "Burghausen, St",
+      "population": 19558
+    },
+    {
+      "ordinal": 695,
+      "ars": "031530002002",
+      "name": "Bad Harzburg, Stadt",
+      "population": 19489
+    },
+    {
+      "ordinal": 703,
+      "ars": "053780008008",
+      "name": "Burscheid, Stadt",
+      "population": 19272
+    },
+    {
+      "ordinal": 704,
+      "ars": "032570009009",
+      "name": "Bückeburg, Stadt",
+      "population": 19221
+    },
+    {
+      "ordinal": 705,
+      "ars": "073320002002",
+      "name": "Bad Dürkheim, Stadt",
+      "population": 19159
+    },
+    {
+      "ordinal": 708,
+      "ars": "057620004004",
+      "name": "Bad Driburg, Stadt",
+      "population": 19080
+    },
+    {
+      "ordinal": 711,
+      "ars": "150850055055",
+      "name": "Blankenburg (Harz), Stadt",
+      "population": 18970
+    },
+    {
+      "ordinal": 728,
+      "ars": "053740004004",
+      "name": "Bergneustadt, Stadt",
+      "population": 18628
+    },
+    {
+      "ordinal": 732,
+      "ars": "033570008008",
+      "name": "Bremervörde, Stadt",
+      "population": 18564
+    },
+    {
+      "ordinal": 734,
+      "ars": "091870117117",
+      "name": "Bad Aibling, St",
+      "population": 18497
+    },
+    {
+      "ordinal": 738,
+      "ars": "059700004004",
+      "name": "Bad Berleburg, Stadt",
+      "population": 18400
+    },
+    {
+      "ordinal": 739,
+      "ars": "010600005005",
+      "name": "Bad Segeberg, Stadt",
+      "population": 18399
+    },
+    {
+      "ordinal": 745,
+      "ars": "053660004004",
+      "name": "Bad Münstereifel, Stadt",
+      "population": 18297
+    },
+    {
+      "ordinal": 746,
+      "ars": "091720114114",
+      "name": "Bad Reichenhall, GKSt",
+      "population": 18288
+    },
+    {
+      "ordinal": 749,
+      "ars": "082250014014",
+      "name": "Buchen (Odenwald), Stadt",
+      "population": 18226
+    },
+    {
+      "ordinal": 755,
+      "ars": "097720125125",
+      "name": "Bobingen, St",
+      "population": 17905
+    },
+    {
+      "ordinal": 757,
+      "ars": "084375005100",
+      "name": "Bad Saulgau, Stadt",
+      "population": 17889
+    },
+    {
+      "ordinal": 759,
+      "ars": "064310005005",
+      "name": "Bürstadt, Stadt",
+      "population": 17804
+    },
+    {
+      "ordinal": 760,
+      "ars": "100450111111",
+      "name": "Bexbach, Stadt",
+      "population": 17793
+    },
+    {
+      "ordinal": 761,
+      "ars": "083375005096",
+      "name": "Bad Säckingen, Stadt",
+      "population": 17767
+    },
+    {
+      "ordinal": 762,
+      "ars": "071370203203",
+      "name": "Bendorf, Stadt",
+      "population": 17726
+    },
+    {
+      "ordinal": 763,
+      "ars": "064320002002",
+      "name": "Babenhausen, Stadt",
+      "population": 17695
+    },
+    {
+      "ordinal": 778,
+      "ars": "066350003003",
+      "name": "Bad Wildungen, Stadt",
+      "population": 17364
+    },
+    {
+      "ordinal": 783,
+      "ars": "032520002002",
+      "name": "Bad Münder am Deister, Stadt",
+      "population": 17261
+    },
+    {
+      "ordinal": 785,
+      "ars": "057740008008",
+      "name": "Bad Lippspringe, Stadt",
+      "population": 17252
+    },
+    {
+      "ordinal": 796,
+      "ars": "097780116116",
+      "name": "Bad Wörishofen, St",
+      "population": 16933
+    },
+    {
+      "ordinal": 799,
+      "ars": "034560001001",
+      "name": "Bad Bentheim, Stadt",
+      "population": 16798
+    },
+    {
+      "ordinal": 801,
+      "ars": "081255003013",
+      "name": "Brackenheim, Stadt",
+      "population": 16774
+    },
+    {
+      "ordinal": 802,
+      "ars": "160640003003",
+      "name": "Bad Langensalza, Stadt",
+      "population": 16717
+    },
+    {
+      "ordinal": 809,
+      "ars": "032510007007",
+      "name": "Bassum, Stadt",
+      "population": 16604
+    },
+    {
+      "ordinal": 810,
+      "ars": "084250141141",
+      "name": "Blaustein, Stadt",
+      "population": 16581
+    },
+    {
+      "ordinal": 815,
+      "ars": "083155002015",
+      "name": "Breisach am Rhein, Stadt",
+      "population": 16487
+    },
+    {
+      "ordinal": 826,
+      "ars": "010620006006",
+      "name": "Bargteheide, Stadt",
+      "population": 16245
+    },
+    {
+      "ordinal": 830,
+      "ars": "057620016016",
+      "name": "Brakel, Stadt",
+      "population": 16193
+    },
+    {
+      "ordinal": 833,
+      "ars": "066350002002",
+      "name": "Bad Arolsen, Stadt",
+      "population": 16050
+    },
+    {
+      "ordinal": 841,
+      "ars": "071400501501",
+      "name": "Boppard, Stadt",
+      "population": 15771
+    },
+    {
+      "ordinal": 848,
+      "ars": "072320018018",
+      "name": "Bitburg, Stadt",
+      "population": 15554
+    },
+    {
+      "ordinal": 852,
+      "ars": "057660016016",
+      "name": "Blomberg, Stadt",
+      "population": 15485
+    },
+    {
+      "ordinal": 857,
+      "ars": "010600004004",
+      "name": "Bad Bramstedt, Stadt",
+      "population": 15439
+    },
+    {
+      "ordinal": 858,
+      "ars": "096730114114",
+      "name": "Bad Neustadt a.d.Saale, St",
+      "population": 15434
+    },
+    {
+      "ordinal": 872,
+      "ars": "034610002002",
+      "name": "Brake (Unterweser), Stadt",
+      "population": 15200
+    },
+    {
+      "ordinal": 881,
+      "ars": "084360010010",
+      "name": "Bad Wurzach, Stadt",
+      "population": 14942
+    },
+    {
+      "ordinal": 903,
+      "ars": "093760119119",
+      "name": "Burglengenfeld, St",
+      "population": 14569
+    },
+    {
+      "ordinal": 924,
+      "ars": "065330003003",
+      "name": "Bad Camberg, Stadt",
+      "population": 14268
+    },
+    {
+      "ordinal": 951,
+      "ars": "120690017017",
+      "name": "Beelitz, Stadt",
+      "population": 13879
+    },
+    {
+      "ordinal": 956,
+      "ars": "097775748121",
+      "name": "Buchloe, St",
+      "population": 13815
+    },
+    {
+      "ordinal": 962,
+      "ars": "064350002002",
+      "name": "Bad Soden-Salmünster, Stadt",
+      "population": 13719
+    },
+    {
+      "ordinal": 979,
+      "ars": "130735353010",
+      "name": "Bergen auf Rügen, Stadt",
+      "population": 13457
+    },
+    {
+      "ordinal": 998,
+      "ars": "083260003003",
+      "name": "Bad Dürrheim, Stadt",
+      "population": 13149
+    },
+    {
+      "ordinal": 999,
+      "ars": "059700028028",
+      "name": "Bad Laasphe, Stadt",
+      "population": 13148
+    },
+    {
+      "ordinal": 1004,
+      "ars": "130720006006",
+      "name": "Bad Doberan, Stadt",
+      "population": 13079
+    },
+    {
+      "ordinal": 1008,
+      "ars": "032540005005",
+      "name": "Bad Salzdetfurth, Stadt",
+      "population": 13037
+    },
+    {
+      "ordinal": 1011,
+      "ars": "033510004004",
+      "name": "Bergen, Stadt",
+      "population": 12991
+    },
+    {
+      "ordinal": 1012,
+      "ars": "065340004004",
+      "name": "Biedenkopf, Stadt",
+      "population": 12969
+    },
+    {
+      "ordinal": 1013,
+      "ars": "066320003003",
+      "name": "Bebra, Stadt",
+      "population": 12945
+    },
+    {
+      "ordinal": 1022,
+      "ars": "033580008008",
+      "name": "Bad Fallingbostel, Stadt",
+      "population": 12783
+    },
+    {
+      "ordinal": 1026,
+      "ars": "084155005078",
+      "name": "Bad Urach, Stadt",
+      "population": 12751
+    },
+    {
+      "ordinal": 1029,
+      "ars": "084255002020",
+      "name": "Blaubeuren, Stadt",
+      "population": 12719
+    },
+    {
+      "ordinal": 1030,
+      "ars": "010510011011",
+      "name": "Brunsbüttel, Stadt",
+      "population": 12692
+    },
+    {
+      "ordinal": 1033,
+      "ars": "057620008008",
+      "name": "Beverungen, Stadt",
+      "population": 12669
+    },
+    {
+      "ordinal": 1040,
+      "ars": "095750112112",
+      "name": "Bad Windsheim, St",
+      "population": 12446
+    },
+    {
+      "ordinal": 1043,
+      "ars": "057740040040",
+      "name": "Bad Wünnenberg, Stadt",
+      "population": 12418
+    },
+    {
+      "ordinal": 1054,
+      "ars": "066340001001",
+      "name": "Borken (Hessen), Stadt",
+      "population": 12268
+    },
+    {
+      "ordinal": 1055,
+      "ars": "081185001007",
+      "name": "Besigheim, Stadt",
+      "population": 12267
+    },
+    {
+      "ordinal": 1062,
+      "ars": "084170013013",
+      "name": "Burladingen, Stadt",
+      "population": 12124
+    },
+    {
+      "ordinal": 1072,
+      "ars": "055580008008",
+      "name": "Billerbeck, Stadt",
+      "population": 11945
+    },
+    {
+      "ordinal": 1077,
+      "ars": "120640044044",
+      "name": "Bad Freienwalde (Oder), Stadt",
+      "population": 11877
+    },
+    {
+      "ordinal": 1081,
+      "ars": "032575403006",
+      "name": "Bad Nenndorf, Stadt",
+      "population": 11686
+    },
+    {
+      "ordinal": 1092,
+      "ars": "081365002010",
+      "name": "Bopfingen, Stadt",
+      "population": 11560
+    },
+    {
+      "ordinal": 1093,
+      "ars": "064390002002",
+      "name": "Bad Schwalbach, Kreisstadt",
+      "population": 11532
+    },
+    {
+      "ordinal": 1094,
+      "ars": "150880020020",
+      "name": "Bad Dürrenberg, Solestadt",
+      "population": 11521
+    },
+    {
+      "ordinal": 1110,
+      "ars": "059620008008",
+      "name": "Balve, Stadt",
+      "population": 11240
+    },
+    {
+      "ordinal": 1118,
+      "ars": "120690020020",
+      "name": "Bad Belzig, Stadt",
+      "population": 11118
+    },
+    {
+      "ordinal": 1122,
+      "ars": "130760014014",
+      "name": "Boizenburg/ Elbe, Stadt",
+      "population": 11048
+    },
+    {
+      "ordinal": 1123,
+      "ars": "065320003003",
+      "name": "Braunfels, Stadt",
+      "population": 11045
+    },
+    {
+      "ordinal": 1135,
+      "ars": "094780165165",
+      "name": "Bad Staffelstein, St",
+      "population": 10821
+    },
+    {
+      "ordinal": 1145,
+      "ars": "097740121121",
+      "name": "Burgau, St",
+      "population": 10670
+    },
+    {
+      "ordinal": 1146,
+      "ars": "034590004004",
+      "name": "Bad Iburg, Stadt",
+      "population": 10652
+    },
+    {
+      "ordinal": 1147,
+      "ars": "146255207040",
+      "name": "Bischofswerda, Stadt",
+      "population": 10576
+    },
+    {
+      "ordinal": 1152,
+      "ars": "010560002002",
+      "name": "Barmstedt, Stadt",
+      "population": 10470
+    },
+    {
+      "ordinal": 1153,
+      "ars": "092780118118",
+      "name": "Bogen, St",
+      "population": 10453
+    },
+    {
+      "ordinal": 1156,
+      "ars": "010580034034",
+      "name": "Büdelsdorf, Stadt",
+      "population": 10417
+    },
+    {
+      "ordinal": 1158,
+      "ars": "145225102060",
+      "name": "Burgstädt, Stadt",
+      "population": 10413
+    },
+    {
+      "ordinal": 1159,
+      "ars": "082355008079",
+      "name": "Bad Wildbad, Stadt",
+      "population": 10388
+    },
+    {
+      "ordinal": 1162,
+      "ars": "071325009006",
+      "name": "Betzdorf, Stadt",
+      "population": 10363
+    },
+    {
+      "ordinal": 1163,
+      "ars": "150880065065",
+      "name": "Braunsbedra, Stadt",
+      "population": 10352
+    },
+    {
+      "ordinal": 1169,
+      "ars": "091760114114",
+      "name": "Beilngries, St",
+      "population": 10218
+    },
+    {
+      "ordinal": 1177,
+      "ars": "031590003003",
+      "name": "Bad Lauterberg im Harz, Stadt",
+      "population": 10164
+    },
+    {
+      "ordinal": 1185,
+      "ars": "071415010006",
+      "name": "Bad Ems, Stadt",
+      "population": 10030
+    },
+    {
+      "ordinal": 1188,
+      "ars": "083260005005",
+      "name": "Blumberg, Stadt",
+      "population": 10003
+    },
+    {
+      "ordinal": 1194,
+      "ars": "064350001001",
+      "name": "Bad Orb, Stadt",
+      "population": 9934
+    },
+    {
+      "ordinal": 1196,
+      "ars": "160625054066",
+      "name": "Bleicherode, Stadt",
+      "population": 9920
+    },
+    {
+      "ordinal": 1202,
+      "ars": "160650003003",
+      "name": "Bad Frankenhausen/Kyffhäuser, Stadt",
+      "population": 9715
+    },
+    {
+      "ordinal": 1210,
+      "ars": "147290070070",
+      "name": "Brandis, Stadt",
+      "population": 9654
+    },
+    {
+      "ordinal": 1214,
+      "ars": "071315003006",
+      "name": "Bad Breisig, Stadt",
+      "population": 9623
+    },
+    {
+      "ordinal": 1220,
+      "ars": "064370001001",
+      "name": "Bad König, Stadt",
+      "population": 9508
+    },
+    {
+      "ordinal": 1225,
+      "ars": "033605407002",
+      "name": "Bad Bevensen, Stadt",
+      "population": 9466
+    },
+    {
+      "ordinal": 1226,
+      "ars": "032540008008",
+      "name": "Bockenem, Stadt",
+      "population": 9465
+    },
+    {
+      "ordinal": 1244,
+      "ars": "082355004008",
+      "name": "Bad Liebenzell, Stadt",
+      "population": 9301
+    },
+    {
+      "ordinal": 1252,
+      "ars": "033550009009",
+      "name": "Bleckede, Stadt",
+      "population": 9154
+    },
+    {
+      "ordinal": 1267,
+      "ars": "084265002014",
+      "name": "Bad Schussenried, Stadt",
+      "population": 9044
+    },
+    {
+      "ordinal": 1270,
+      "ars": "093730112112",
+      "name": "Berching, St",
+      "population": 9008
+    },
+    {
+      "ordinal": 1275,
+      "ars": "031550001001",
+      "name": "Bad Gandersheim, Stadt",
+      "population": 8983
+    },
+    {
+      "ordinal": 1278,
+      "ars": "092750124124",
+      "name": "Bad Griesbach i.Rottal, St",
+      "population": 8952
+    },
+    {
+      "ordinal": 1281,
+      "ars": "120625031024",
+      "name": "Bad Liebenwerda, Stadt",
+      "population": 8899
+    },
+    {
+      "ordinal": 1285,
+      "ars": "150880025025",
+      "name": "Bad Lauchstädt, Goethestadt",
+      "population": 8883
+    },
+    {
+      "ordinal": 1288,
+      "ars": "057540004004",
+      "name": "Borgholzhausen, Stadt",
+      "population": 8847
+    },
+    {
+      "ordinal": 1291,
+      "ars": "059540004004",
+      "name": "Breckerfeld, Hansestadt",
+      "population": 8816
+    },
+    {
+      "ordinal": 1293,
+      "ars": "145220050050",
+      "name": "Brand-Erbisdorf, Stadt",
+      "population": 8797
+    },
+    {
+      "ordinal": 1301,
+      "ars": "073375002005",
+      "name": "Bad Bergzabern, Stadt",
+      "population": 8724
+    },
+    {
+      "ordinal": 1310,
+      "ars": "057620012012",
+      "name": "Borgentreich, Orgelstadt",
+      "population": 8632
+    },
+    {
+      "ordinal": 1322,
+      "ars": "150850040040",
+      "name": "Ballenstedt, Stadt",
+      "population": 8422
+    },
+    {
+      "ordinal": 1329,
+      "ars": "057660012012",
+      "name": "Barntrup, Stadt",
+      "population": 8297
+    },
+    {
+      "ordinal": 1339,
+      "ars": "034595402010",
+      "name": "Bersenbrück, Stadt",
+      "population": 8221
+    },
+    {
+      "ordinal": 1350,
+      "ars": "066360001001",
+      "name": "Bad Sooden-Allendorf, Stadt",
+      "population": 8141
+    },
+    {
+      "ordinal": 1353,
+      "ars": "081185003010",
+      "name": "Bönnigheim, Stadt",
+      "population": 8123
+    },
+    {
+      "ordinal": 1363,
+      "ars": "147295301010",
+      "name": "Bad Lausick, Stadt",
+      "population": 8043
+    },
+    {
+      "ordinal": 1367,
+      "ars": "160715051004",
+      "name": "Bad Sulza, Stadt",
+      "population": 8001
+    },
+    {
+      "ordinal": 1369,
+      "ars": "120670036036",
+      "name": "Beeskow, Stadt",
+      "population": 7998
+    },
+    {
+      "ordinal": 1373,
+      "ars": "150910020020",
+      "name": "Bad Schmiedeberg, Stadt",
+      "population": 7941
+    },
+    {
+      "ordinal": 1377,
+      "ars": "095720115115",
+      "name": "Baiersdorf, St",
+      "population": 7890
+    },
+    {
+      "ordinal": 1380,
+      "ars": "150890026026",
+      "name": "Barby, Stadt",
+      "population": 7813
+    },
+    {
+      "ordinal": 1383,
+      "ars": "130725252020",
+      "name": "Bützow, Stadt",
+      "population": 7745
+    },
+    {
+      "ordinal": 1385,
+      "ars": "147300020020",
+      "name": "Bad Düben, Stadt",
+      "population": 7713
+    },
+    {
+      "ordinal": 1388,
+      "ars": "082355003033",
+      "name": "Bad Herrenalb, Stadt",
+      "population": 7694
+    },
+    {
+      "ordinal": 1390,
+      "ars": "081250007007",
+      "name": "Bad Wimpfen, Stadt",
+      "population": 7686
+    },
+    {
+      "ordinal": 1393,
+      "ars": "160630099099",
+      "name": "Bad Liebenstein, Stadt",
+      "population": 7662
+    },
+    {
+      "ordinal": 1394,
+      "ars": "150900070070",
+      "name": "Bismark (Altmark), Stadt",
+      "population": 7660
+    },
+    {
+      "ordinal": 1406,
+      "ars": "130735352009",
+      "name": "Barth, Stadt",
+      "population": 7568
+    },
+    {
+      "ordinal": 1416,
+      "ars": "093720137137",
+      "name": "Bad Kötzting, St",
+      "population": 7494
+    },
+    {
+      "ordinal": 1424,
+      "ars": "160710003003",
+      "name": "Bad Berka, Stadt",
+      "population": 7389
+    },
+    {
+      "ordinal": 1426,
+      "ars": "147300045045",
+      "name": "Belgern-Schildau, Stadt",
+      "population": 7363
+    },
+    {
+      "ordinal": 1436,
+      "ars": "064370004004",
+      "name": "Breuberg, Stadt",
+      "population": 7196
+    },
+    {
+      "ordinal": 1438,
+      "ars": "031590004004",
+      "name": "Bad Sachsa, Stadt",
+      "population": 7193
+    },
+    {
+      "ordinal": 1453,
+      "ars": "071345002010",
+      "name": "Birkenfeld, Stadt",
+      "population": 7062
+    },
+    {
+      "ordinal": 1472,
+      "ars": "083375001022",
+      "name": "Bonndorf im Schwarzwald, Stadt",
+      "population": 6802
+    },
+    {
+      "ordinal": 1474,
+      "ars": "147290040040",
+      "name": "Böhlen, Stadt",
+      "population": 6787
+    },
+    {
+      "ordinal": 1481,
+      "ars": "072315001008",
+      "name": "Bernkastel-Kues, Stadt",
+      "population": 6727
+    },
+    {
+      "ordinal": 1484,
+      "ars": "081285002014",
+      "name": "Boxberg, Stadt",
+      "population": 6709
+    },
+    {
+      "ordinal": 1502,
+      "ars": "071335010501",
+      "name": "Bad Sobernheim, Stadt",
+      "population": 6564
+    },
+    {
+      "ordinal": 1503,
+      "ars": "160710008008",
+      "name": "Blankenhain, Stadt",
+      "population": 6543
+    },
+    {
+      "ordinal": 1508,
+      "ars": "096720113113",
+      "name": "Bad Brückenau, St",
+      "population": 6470
+    },
+    {
+      "ordinal": 1509,
+      "ars": "160680063063",
+      "name": "Buttstädt",
+      "population": 6470
+    },
+    {
+      "ordinal": 1511,
+      "ars": "094780116116",
+      "name": "Burgkunstadt, St",
+      "population": 6463
+    },
+    {
+      "ordinal": 1518,
+      "ars": "081255012008",
+      "name": "Beilstein, Stadt",
+      "population": 6412
+    },
+    {
+      "ordinal": 1527,
+      "ars": "071385002004",
+      "name": "Bad Hönningen, Stadt",
+      "population": 6355
+    },
+    {
+      "ordinal": 1534,
+      "ars": "120605003024",
+      "name": "Biesenthal, Stadt",
+      "population": 6295
+    },
+    {
+      "ordinal": 1541,
+      "ars": "146250030030",
+      "name": "Bernsdorf, Stadt",
+      "population": 6242
+    },
+    {
+      "ordinal": 1549,
+      "ars": "094730158158",
+      "name": "Bad Rodach, St",
+      "population": 6179
+    },
+    {
+      "ordinal": 1557,
+      "ars": "071435001206",
+      "name": "Bad Marienberg (Westerwald), Stadt",
+      "population": 6096
+    },
+    {
+      "ordinal": 1564,
+      "ars": "096730141141",
+      "name": "Bad Königshofen i.Grabfeld, St",
+      "population": 6034
+    },
+    {
+      "ordinal": 1583,
+      "ars": "160730005005",
+      "name": "Bad Blankenburg, Stadt",
+      "population": 5843
+    },
+    {
+      "ordinal": 1584,
+      "ars": "160760094094",
+      "name": "Berga-Wünschendorf, Stadt",
+      "population": 5840
+    },
+    {
+      "ordinal": 1587,
+      "ars": "010545494019",
+      "name": "Bredstedt, Stadt",
+      "population": 5790
+    },
+    {
+      "ordinal": 1588,
+      "ars": "083265001006",
+      "name": "Bräunlingen, Stadt",
+      "population": 5784
+    },
+    {
+      "ordinal": 1608,
+      "ars": "160660074074",
+      "name": "Brotterode-Trusetal, Stadt",
+      "population": 5571
+    },
+    {
+      "ordinal": 1621,
+      "ars": "160750062062",
+      "name": "Bad Lobenstein, Stadt",
+      "population": 5523
+    },
+    {
+      "ordinal": 1625,
+      "ars": "066350004004",
+      "name": "Battenberg (Eder), Stadt",
+      "population": 5450
+    },
+    {
+      "ordinal": 1635,
+      "ars": "146285202020",
+      "name": "Bad Gottleuba-Berggießhübel, Stadt",
+      "population": 5367
+    },
+    {
+      "ordinal": 1659,
+      "ars": "130715161021",
+      "name": "Burg Stargard, Stadt",
+      "population": 5171
+    },
+    {
+      "ordinal": 1696,
+      "ars": "031530016016",
+      "name": "Braunlage, Stadt",
+      "population": 4839
+    },
+    {
+      "ordinal": 1708,
+      "ars": "096730117117",
+      "name": "Bischofsheim i.d.Rhön, St",
+      "population": 4755
+    },
+    {
+      "ordinal": 1716,
+      "ars": "032555408003",
+      "name": "Bodenwerder, Münchhausenstadt",
+      "population": 4672
+    },
+    {
+      "ordinal": 1718,
+      "ars": "084265001013",
+      "name": "Bad Buchau, Stadt",
+      "population": 4651
+    },
+    {
+      "ordinal": 1749,
+      "ars": "094720116116",
+      "name": "Bad Berneck i.Fichtelgebirge, St",
+      "population": 4373
+    },
+    {
+      "ordinal": 1754,
+      "ars": "034570002002",
+      "name": "Borkum, Stadt",
+      "population": 4325
+    },
+    {
+      "ordinal": 1766,
+      "ars": "071345001005",
+      "name": "Baumholder, Stadt",
+      "population": 4265
+    },
+    {
+      "ordinal": 1767,
+      "ars": "120695904076",
+      "name": "Brück, Stadt",
+      "population": 4258
+    },
+    {
+      "ordinal": 1776,
+      "ars": "120720014014",
+      "name": "Baruth/Mark, Stadt",
+      "population": 4168
+    },
+    {
+      "ordinal": 1783,
+      "ars": "094715401115",
+      "name": "Baunach, St",
+      "population": 4109
+    },
+    {
+      "ordinal": 1818,
+      "ars": "160765051003",
+      "name": "Bad Köstritz, Stadt",
+      "population": 3651
+    },
+    {
+      "ordinal": 1830,
+      "ars": "146265203010",
+      "name": "Bad Muskau / Mužakow, Stadt",
+      "population": 3577
+    },
+    {
+      "ordinal": 1833,
+      "ars": "145230040040",
+      "name": "Bad Elster, Stadt",
+      "population": 3552
+    },
+    {
+      "ordinal": 1839,
+      "ars": "095755524115",
+      "name": "Burgbernheim, St",
+      "population": 3512
+    },
+    {
+      "ordinal": 1854,
+      "ars": "066330002002",
+      "name": "Bad Karlshafen, Stadt",
+      "population": 3373
+    },
+    {
+      "ordinal": 1856,
+      "ars": "146285204030",
+      "name": "Bad Schandau, Stadt",
+      "population": 3346
+    },
+    {
+      "ordinal": 1873,
+      "ars": "082355005084",
+      "name": "Bad Teinach-Zavelstein, Stadt",
+      "population": 3220
+    },
+    {
+      "ordinal": 1883,
+      "ars": "146265206030",
+      "name": "Bernstadt a. d. Eigen, Stadt",
+      "population": 3117
+    },
+    {
+      "ordinal": 1888,
+      "ars": "160745051009",
+      "name": "Bürgel, Stadt",
+      "population": 3099
+    },
+    {
+      "ordinal": 1900,
+      "ars": "093770112112",
+      "name": "Bärnau, St",
+      "population": 3007
+    },
+    {
+      "ordinal": 1901,
+      "ars": "071415009501",
+      "name": "Braubach, Stadt",
+      "population": 3002
+    },
+    {
+      "ordinal": 1943,
+      "ars": "130765664020",
+      "name": "Brüel, Stadt",
+      "population": 2557
+    },
+    {
+      "ordinal": 1947,
+      "ars": "150845051015",
+      "name": "Bad Bibra, Stadt",
+      "population": 2515
+    },
+    {
+      "ordinal": 1948,
+      "ars": "120705001008",
+      "name": "Bad Wilsnack, Stadt",
+      "population": 2512
+    },
+    {
+      "ordinal": 1952,
+      "ars": "094725417118",
+      "name": "Betzenstein, St",
+      "population": 2491
+    },
+    {
+      "ordinal": 1957,
+      "ars": "160645001004",
+      "name": "Bad Tennstedt, Stadt",
+      "population": 2399
+    },
+    {
+      "ordinal": 2003,
+      "ars": "120735303085",
+      "name": "Brüssow, Stadt",
+      "population": 1842
+    },
+    {
+      "ordinal": 2015,
+      "ars": "130735360007",
+      "name": "Bad Sülze, Stadt",
+      "population": 1659
+    },
+    {
+      "ordinal": 2021,
+      "ars": "073395001003",
+      "name": "Bacharach, Stadt",
+      "population": 1575
+    },
+    {
+      "ordinal": 2023,
+      "ars": "120645408084",
+      "name": "Buckow (Märkische Schweiz), Stadt",
+      "population": 1513
+    }
+  ],
+  "qCities": [
+    {
+      "ordinal": 565,
+      "ars": "150850235235",
+      "name": "Quedlinburg, Welterbestadt",
+      "population": 23139
+    },
+    {
+      "ordinal": 590,
+      "ars": "010560041041",
+      "name": "Quickborn, Stadt",
+      "population": 22521
+    },
+    {
+      "ordinal": 943,
+      "ars": "034595401030",
+      "name": "Quakenbrück, Stadt",
+      "population": 14007
+    },
+    {
+      "ordinal": 1187,
+      "ars": "150880305305",
+      "name": "Querfurt, Stadt",
+      "population": 10007
+    }
+  ],
+  "bLargeCities": [
+    {
+      "ordinal": 1,
+      "ars": "110000000000",
+      "name": "Berlin, Stadt",
+      "population": 3685265
+    },
+    {
+      "ordinal": 10,
+      "ars": "040110000000",
+      "name": "Bremen, Stadt",
+      "population": 586271
+    },
+    {
+      "ordinal": 16,
+      "ars": "059110000000",
+      "name": "Bochum, Stadt",
+      "population": 358676
+    },
+    {
+      "ordinal": 18,
+      "ars": "057110000000",
+      "name": "Bielefeld, Stadt",
+      "population": 331605
+    },
+    {
+      "ordinal": 19,
+      "ars": "053140000000",
+      "name": "Bonn, Stadt",
+      "population": 323336
+    },
+    {
+      "ordinal": 28,
+      "ars": "031010000000",
+      "name": "Braunschweig, Stadt",
+      "population": 252962
+    },
+    {
+      "ordinal": 67,
+      "ars": "040120000000",
+      "name": "Bremerhaven, Stadt",
+      "population": 118610
+    },
+    {
+      "ordinal": 68,
+      "ars": "055120000000",
+      "name": "Bottrop, Stadt",
+      "population": 118535
+    },
+    {
+      "ordinal": 73,
+      "ars": "053780004004",
+      "name": "Bergisch Gladbach, Stadt",
+      "population": 111361
+    }
+  ],
+  "badWordCount": 105,
+  "badWordCities": [
+    {
+      "ordinal": 163,
+      "ars": "064340001001",
+      "name": "Bad Homburg v. d. Höhe, Stadt",
+      "population": 56688
+    },
+    {
+      "ordinal": 172,
+      "ars": "071330006006",
+      "name": "Bad Kreuznach, Stadt",
+      "population": 54168
+    },
+    {
+      "ordinal": 175,
+      "ars": "057660008008",
+      "name": "Bad Salzuflen, Stadt",
+      "population": 53958
+    },
+    {
+      "ordinal": 193,
+      "ars": "057700004004",
+      "name": "Bad Oeynhausen, Stadt",
+      "population": 50620
+    },
+    {
+      "ordinal": 324,
+      "ars": "064400003003",
+      "name": "Bad Vilbel, Stadt",
+      "population": 35961
+    },
+    {
+      "ordinal": 361,
+      "ars": "064400002002",
+      "name": "Bad Nauheim, Stadt",
+      "population": 32894
+    },
+    {
+      "ordinal": 387,
+      "ars": "066320002002",
+      "name": "Bad Hersfeld, Kreisstadt",
+      "population": 30846
+    },
+    {
+      "ordinal": 443,
+      "ars": "071310007007",
+      "name": "Bad Neuenahr-Ahrweiler, Stadt",
+      "population": 27961
+    },
+    {
+      "ordinal": 517,
+      "ars": "053820008008",
+      "name": "Bad Honnef, Stadt",
+      "population": 25061
+    },
+    {
+      "ordinal": 527,
+      "ars": "010620004004",
+      "name": "Bad Oldesloe, Stadt",
+      "population": 24846
+    },
+    {
+      "ordinal": 544,
+      "ars": "081285001007",
+      "name": "Bad Mergentheim, Stadt",
+      "population": 24023
+    },
+    {
+      "ordinal": 561,
+      "ars": "096720114114",
+      "name": "Bad Kissingen, GKSt",
+      "population": 23223
+    },
+    {
+      "ordinal": 567,
+      "ars": "064360001001",
+      "name": "Bad Soden am Taunus, Stadt",
+      "population": 23103
+    },
+    {
+      "ordinal": 581,
+      "ars": "081255002006",
+      "name": "Bad Rappenau, Stadt",
+      "population": 22703
+    },
+    {
+      "ordinal": 588,
+      "ars": "160635051003",
+      "name": "Bad Salzungen, Stadt",
+      "population": 22557
+    },
+    {
+      "ordinal": 605,
+      "ars": "083155001006",
+      "name": "Bad Krozingen, Stadt",
+      "population": 21755
+    },
+    {
+      "ordinal": 640,
+      "ars": "084365002009",
+      "name": "Bad Waldsee, Stadt",
+      "population": 20838
+    },
+    {
+      "ordinal": 673,
+      "ars": "010550004004",
+      "name": "Bad Schwartau, Stadt",
+      "population": 19954
+    },
+    {
+      "ordinal": 675,
+      "ars": "081255001005",
+      "name": "Bad Friedrichshall, Stadt",
+      "population": 19853
+    },
+    {
+      "ordinal": 678,
+      "ars": "091730112112",
+      "name": "Bad Tölz, St",
+      "population": 19826
+    },
+    {
+      "ordinal": 685,
+      "ars": "032520003003",
+      "name": "Bad Pyrmont, Stadt",
+      "population": 19722
+    },
+    {
+      "ordinal": 695,
+      "ars": "031530002002",
+      "name": "Bad Harzburg, Stadt",
+      "population": 19489
+    },
+    {
+      "ordinal": 705,
+      "ars": "073320002002",
+      "name": "Bad Dürkheim, Stadt",
+      "population": 19159
+    },
+    {
+      "ordinal": 708,
+      "ars": "057620004004",
+      "name": "Bad Driburg, Stadt",
+      "population": 19080
+    },
+    {
+      "ordinal": 734,
+      "ars": "091870117117",
+      "name": "Bad Aibling, St",
+      "population": 18497
+    },
+    {
+      "ordinal": 738,
+      "ars": "059700004004",
+      "name": "Bad Berleburg, Stadt",
+      "population": 18400
+    },
+    {
+      "ordinal": 739,
+      "ars": "010600005005",
+      "name": "Bad Segeberg, Stadt",
+      "population": 18399
+    },
+    {
+      "ordinal": 745,
+      "ars": "053660004004",
+      "name": "Bad Münstereifel, Stadt",
+      "population": 18297
+    },
+    {
+      "ordinal": 746,
+      "ars": "091720114114",
+      "name": "Bad Reichenhall, GKSt",
+      "population": 18288
+    },
+    {
+      "ordinal": 757,
+      "ars": "084375005100",
+      "name": "Bad Saulgau, Stadt",
+      "population": 17889
+    },
+    {
+      "ordinal": 761,
+      "ars": "083375005096",
+      "name": "Bad Säckingen, Stadt",
+      "population": 17767
+    },
+    {
+      "ordinal": 778,
+      "ars": "066350003003",
+      "name": "Bad Wildungen, Stadt",
+      "population": 17364
+    },
+    {
+      "ordinal": 783,
+      "ars": "032520002002",
+      "name": "Bad Münder am Deister, Stadt",
+      "population": 17261
+    },
+    {
+      "ordinal": 785,
+      "ars": "057740008008",
+      "name": "Bad Lippspringe, Stadt",
+      "population": 17252
+    },
+    {
+      "ordinal": 796,
+      "ars": "097780116116",
+      "name": "Bad Wörishofen, St",
+      "population": 16933
+    },
+    {
+      "ordinal": 799,
+      "ars": "034560001001",
+      "name": "Bad Bentheim, Stadt",
+      "population": 16798
+    },
+    {
+      "ordinal": 802,
+      "ars": "160640003003",
+      "name": "Bad Langensalza, Stadt",
+      "population": 16717
+    },
+    {
+      "ordinal": 833,
+      "ars": "066350002002",
+      "name": "Bad Arolsen, Stadt",
+      "population": 16050
+    },
+    {
+      "ordinal": 857,
+      "ars": "010600004004",
+      "name": "Bad Bramstedt, Stadt",
+      "population": 15439
+    },
+    {
+      "ordinal": 858,
+      "ars": "096730114114",
+      "name": "Bad Neustadt a.d.Saale, St",
+      "population": 15434
+    },
+    {
+      "ordinal": 881,
+      "ars": "084360010010",
+      "name": "Bad Wurzach, Stadt",
+      "population": 14942
+    },
+    {
+      "ordinal": 924,
+      "ars": "065330003003",
+      "name": "Bad Camberg, Stadt",
+      "population": 14268
+    },
+    {
+      "ordinal": 962,
+      "ars": "064350002002",
+      "name": "Bad Soden-Salmünster, Stadt",
+      "population": 13719
+    },
+    {
+      "ordinal": 998,
+      "ars": "083260003003",
+      "name": "Bad Dürrheim, Stadt",
+      "population": 13149
+    },
+    {
+      "ordinal": 999,
+      "ars": "059700028028",
+      "name": "Bad Laasphe, Stadt",
+      "population": 13148
+    },
+    {
+      "ordinal": 1004,
+      "ars": "130720006006",
+      "name": "Bad Doberan, Stadt",
+      "population": 13079
+    },
+    {
+      "ordinal": 1008,
+      "ars": "032540005005",
+      "name": "Bad Salzdetfurth, Stadt",
+      "population": 13037
+    },
+    {
+      "ordinal": 1022,
+      "ars": "033580008008",
+      "name": "Bad Fallingbostel, Stadt",
+      "population": 12783
+    },
+    {
+      "ordinal": 1026,
+      "ars": "084155005078",
+      "name": "Bad Urach, Stadt",
+      "population": 12751
+    },
+    {
+      "ordinal": 1040,
+      "ars": "095750112112",
+      "name": "Bad Windsheim, St",
+      "population": 12446
+    },
+    {
+      "ordinal": 1043,
+      "ars": "057740040040",
+      "name": "Bad Wünnenberg, Stadt",
+      "population": 12418
+    },
+    {
+      "ordinal": 1077,
+      "ars": "120640044044",
+      "name": "Bad Freienwalde (Oder), Stadt",
+      "population": 11877
+    },
+    {
+      "ordinal": 1081,
+      "ars": "032575403006",
+      "name": "Bad Nenndorf, Stadt",
+      "population": 11686
+    },
+    {
+      "ordinal": 1093,
+      "ars": "064390002002",
+      "name": "Bad Schwalbach, Kreisstadt",
+      "population": 11532
+    },
+    {
+      "ordinal": 1094,
+      "ars": "150880020020",
+      "name": "Bad Dürrenberg, Solestadt",
+      "population": 11521
+    },
+    {
+      "ordinal": 1118,
+      "ars": "120690020020",
+      "name": "Bad Belzig, Stadt",
+      "population": 11118
+    },
+    {
+      "ordinal": 1135,
+      "ars": "094780165165",
+      "name": "Bad Staffelstein, St",
+      "population": 10821
+    },
+    {
+      "ordinal": 1146,
+      "ars": "034590004004",
+      "name": "Bad Iburg, Stadt",
+      "population": 10652
+    },
+    {
+      "ordinal": 1159,
+      "ars": "082355008079",
+      "name": "Bad Wildbad, Stadt",
+      "population": 10388
+    },
+    {
+      "ordinal": 1177,
+      "ars": "031590003003",
+      "name": "Bad Lauterberg im Harz, Stadt",
+      "population": 10164
+    },
+    {
+      "ordinal": 1185,
+      "ars": "071415010006",
+      "name": "Bad Ems, Stadt",
+      "population": 10030
+    },
+    {
+      "ordinal": 1194,
+      "ars": "064350001001",
+      "name": "Bad Orb, Stadt",
+      "population": 9934
+    },
+    {
+      "ordinal": 1202,
+      "ars": "160650003003",
+      "name": "Bad Frankenhausen/Kyffhäuser, Stadt",
+      "population": 9715
+    },
+    {
+      "ordinal": 1214,
+      "ars": "071315003006",
+      "name": "Bad Breisig, Stadt",
+      "population": 9623
+    },
+    {
+      "ordinal": 1220,
+      "ars": "064370001001",
+      "name": "Bad König, Stadt",
+      "population": 9508
+    },
+    {
+      "ordinal": 1225,
+      "ars": "033605407002",
+      "name": "Bad Bevensen, Stadt",
+      "population": 9466
+    },
+    {
+      "ordinal": 1244,
+      "ars": "082355004008",
+      "name": "Bad Liebenzell, Stadt",
+      "population": 9301
+    },
+    {
+      "ordinal": 1267,
+      "ars": "084265002014",
+      "name": "Bad Schussenried, Stadt",
+      "population": 9044
+    },
+    {
+      "ordinal": 1275,
+      "ars": "031550001001",
+      "name": "Bad Gandersheim, Stadt",
+      "population": 8983
+    },
+    {
+      "ordinal": 1278,
+      "ars": "092750124124",
+      "name": "Bad Griesbach i.Rottal, St",
+      "population": 8952
+    },
+    {
+      "ordinal": 1281,
+      "ars": "120625031024",
+      "name": "Bad Liebenwerda, Stadt",
+      "population": 8899
+    },
+    {
+      "ordinal": 1285,
+      "ars": "150880025025",
+      "name": "Bad Lauchstädt, Goethestadt",
+      "population": 8883
+    },
+    {
+      "ordinal": 1301,
+      "ars": "073375002005",
+      "name": "Bad Bergzabern, Stadt",
+      "population": 8724
+    },
+    {
+      "ordinal": 1350,
+      "ars": "066360001001",
+      "name": "Bad Sooden-Allendorf, Stadt",
+      "population": 8141
+    },
+    {
+      "ordinal": 1363,
+      "ars": "147295301010",
+      "name": "Bad Lausick, Stadt",
+      "population": 8043
+    },
+    {
+      "ordinal": 1367,
+      "ars": "160715051004",
+      "name": "Bad Sulza, Stadt",
+      "population": 8001
+    },
+    {
+      "ordinal": 1373,
+      "ars": "150910020020",
+      "name": "Bad Schmiedeberg, Stadt",
+      "population": 7941
+    },
+    {
+      "ordinal": 1385,
+      "ars": "147300020020",
+      "name": "Bad Düben, Stadt",
+      "population": 7713
+    },
+    {
+      "ordinal": 1388,
+      "ars": "082355003033",
+      "name": "Bad Herrenalb, Stadt",
+      "population": 7694
+    },
+    {
+      "ordinal": 1390,
+      "ars": "081250007007",
+      "name": "Bad Wimpfen, Stadt",
+      "population": 7686
+    },
+    {
+      "ordinal": 1393,
+      "ars": "160630099099",
+      "name": "Bad Liebenstein, Stadt",
+      "population": 7662
+    },
+    {
+      "ordinal": 1416,
+      "ars": "093720137137",
+      "name": "Bad Kötzting, St",
+      "population": 7494
+    },
+    {
+      "ordinal": 1424,
+      "ars": "160710003003",
+      "name": "Bad Berka, Stadt",
+      "population": 7389
+    },
+    {
+      "ordinal": 1438,
+      "ars": "031590004004",
+      "name": "Bad Sachsa, Stadt",
+      "population": 7193
+    },
+    {
+      "ordinal": 1502,
+      "ars": "071335010501",
+      "name": "Bad Sobernheim, Stadt",
+      "population": 6564
+    },
+    {
+      "ordinal": 1508,
+      "ars": "096720113113",
+      "name": "Bad Brückenau, St",
+      "population": 6470
+    },
+    {
+      "ordinal": 1527,
+      "ars": "071385002004",
+      "name": "Bad Hönningen, Stadt",
+      "population": 6355
+    },
+    {
+      "ordinal": 1549,
+      "ars": "094730158158",
+      "name": "Bad Rodach, St",
+      "population": 6179
+    },
+    {
+      "ordinal": 1557,
+      "ars": "071435001206",
+      "name": "Bad Marienberg (Westerwald), Stadt",
+      "population": 6096
+    },
+    {
+      "ordinal": 1564,
+      "ars": "096730141141",
+      "name": "Bad Königshofen i.Grabfeld, St",
+      "population": 6034
+    },
+    {
+      "ordinal": 1583,
+      "ars": "160730005005",
+      "name": "Bad Blankenburg, Stadt",
+      "population": 5843
+    },
+    {
+      "ordinal": 1621,
+      "ars": "160750062062",
+      "name": "Bad Lobenstein, Stadt",
+      "population": 5523
+    },
+    {
+      "ordinal": 1635,
+      "ars": "146285202020",
+      "name": "Bad Gottleuba-Berggießhübel, Stadt",
+      "population": 5367
+    },
+    {
+      "ordinal": 1718,
+      "ars": "084265001013",
+      "name": "Bad Buchau, Stadt",
+      "population": 4651
+    },
+    {
+      "ordinal": 1749,
+      "ars": "094720116116",
+      "name": "Bad Berneck i.Fichtelgebirge, St",
+      "population": 4373
+    },
+    {
+      "ordinal": 1818,
+      "ars": "160765051003",
+      "name": "Bad Köstritz, Stadt",
+      "population": 3651
+    },
+    {
+      "ordinal": 1830,
+      "ars": "146265203010",
+      "name": "Bad Muskau / Mužakow, Stadt",
+      "population": 3577
+    },
+    {
+      "ordinal": 1833,
+      "ars": "145230040040",
+      "name": "Bad Elster, Stadt",
+      "population": 3552
+    },
+    {
+      "ordinal": 1854,
+      "ars": "066330002002",
+      "name": "Bad Karlshafen, Stadt",
+      "population": 3373
+    },
+    {
+      "ordinal": 1856,
+      "ars": "146285204030",
+      "name": "Bad Schandau, Stadt",
+      "population": 3346
+    },
+    {
+      "ordinal": 1873,
+      "ars": "082355005084",
+      "name": "Bad Teinach-Zavelstein, Stadt",
+      "population": 3220
+    },
+    {
+      "ordinal": 1947,
+      "ars": "150845051015",
+      "name": "Bad Bibra, Stadt",
+      "population": 2515
+    },
+    {
+      "ordinal": 1948,
+      "ars": "120705001008",
+      "name": "Bad Wilsnack, Stadt",
+      "population": 2512
+    },
+    {
+      "ordinal": 1957,
+      "ars": "160645001004",
+      "name": "Bad Tennstedt, Stadt",
+      "population": 2399
+    },
+    {
+      "ordinal": 2015,
+      "ars": "130735360007",
+      "name": "Bad Sülze, Stadt",
+      "population": 1659
+    }
+  ]
+}

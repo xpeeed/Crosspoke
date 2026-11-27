@@ -1,3 +1,11 @@
+## Aktueller Teststand · 27.11.2026
+
+Spiel v0.2.3, Daten v0.9: 186 Testfragen aus 188 Notion-Einträgen. Zwei zurückgestellt: CUR-0012 (M&M-Hinweis) und CUR-0013 (Papierboot). Erste 30 Fragetexte/Antwortwerte/Einheiten erhalten; bereits dokumentierte Hinweisrevision 7 von HUM-0001 technisch nachgezogen. 19 Quellenfelder und 26 Antworterklärungen ergänzt, Spoilerhinweise und Rundungen korrigiert. Bedingte Genauigkeitsanzeige umgesetzt. Kein endgültiger Release, reale Playtests pending.
+
+Testlink: https://crosspoke-test.do-peter.chatgpt.site. Bestehende Sites-ID und Zugang bleiben erhalten. Die vorherige Veröffentlichung ist succeeded/ready; das neue Update wird veröffentlicht, sobald der technische GitHub-Abgleich abgeschlossen ist. Notion-Abgleich: 156 Aktualisierungen, 710 geänderte Eigenschaften zurückgelesen, keine Abweichung; 188 Einträge bestätigt. Render unverändert; GitHub-Commits mit [skip render].
+
+Prüfung: aktueller Standalone-Import, 186 Fragen ohne Wiederholung, 744 geschützte Phasenprojektionen, Syntax, Release-Sperre und Genauigkeitsvorgaben bestanden. Browserablauf samt Antworterklärung und Handyansicht 390×844 geprüft. Zusätzlich 31 historische Tests bestanden. Ausführlicher Bericht und Grenzen: docs/PRUEFBERICHT-2026-11-27.md. Vollständige Vorher-/Nachher-Historie: docs/redaktion/2026-11-27-aufnahme-korrekturen.json.
+
 # Crosspoke – Übergabe 26.11.2026
 
 Lokaler Zielordner: `/Users/peterdo/Documents/ChatGPT/Codex-Gamification/Codex Crosspoke`.
@@ -16,3 +24,35 @@ Prüfung: zwei Scriptblöcke syntaktisch gültig; eingebettetes DATA identisch m
 Offen: abschließender Sites-Status, Safari/iPhone, alle Textlängen, komplette Browser-E2E, persistente aktuelle Partie, Analytics/Dashboard, unabhängige Fragenfreigabe, spätere Zusammenführung v0.2.2/v0.8 mit vollständigem Core/Web-Paket. Historische Pakete nicht still aktualisieren.
 
 Render: kein manuelles Deployment, keine Einstellungsänderung. GitHub-Übernahme mit `[skip render]`; diese Regel gilt auch künftig. Vier-Wege-Abgleich ist dokumentierter Arbeitsablauf, kein laufender Hintergrunddienst.
+
+
+## Redaktionelle Aktualisierung 27.11.2026
+
+Notion: 120 Fragen, alle mit Einheit. Acht vom Nutzer beauftragte Überarbeitungen übernommen und revisioniert; Vorher-/Nachher-Fassungen in Notion und docs/redaktion/2026-11-27-acht-ueberarbeitungen.json archiviert. Unabhängige Endprüfung/Playtests offen, insbesondere SMS und M&M weiterhin Hinweisprüfung needs_revision. Quellen-Endprüfung nicht automatisch freigegeben.
+
+Einheitenzeile im aktuellen Fragetemplate bedingungslos vorhanden; 120 Einheiten und 480 Phasenprojektionen per Code geprüft. Kein neuer Browser-/Live-Sites-Test. Bedingte Genauigkeitsangabe pro Frage in Notion Fragenqualität und M4.2 dokumentiert, noch nicht implementiert. Details: docs/redaktion/2026-11-27-einheiten-und-genauigkeit.md. Technischer Datensatz v0.8/Standalone/Sites-Artefaktkopie bleiben unverändert bei 30; kein neuer Release, kein Deployment, Render unverändert. Aktueller bekannter Testlink: https://crosspoke-test.do-peter.chatgpt.site (Verfügbarkeit/Zugriff in dieser Prüfung nicht erneut bestätigt).
+
+
+## Weitere redaktionelle Ergänzung 27.11.2026
+
+Notion enthält jetzt 132 eindeutige Fragen. Zwölf weitere Entwürfe gemäß Nutzerideen (sechs Jahreszahlen inklusive vier deutschen/US-Serien, drei Geografiefragen, Frauen-Bruttoverdienst 2025, Berliner Lotto-Preis, berechneter Bundesliga-Trikotmittelwert) direkt in die bestehende Datenbank aufgenommen. Je Frage Q01–Q58 dokumentiert; Endprüfung, echtes Layout und Playtests offen. Quellen-/Rechenweg, Notion-IDs und Revision1 in docs/redaktion/2026-11-27-zwoelf-weitere-fragen.json; amtliche Städteauszählung separat. Lokale Quellenkopien unter work/fragen-erweiterung sind Recherchematerial, kein technischer Datensatz. Aktives Spiel/Sites weiterhin unverändert 30 Fragen; kein Release oder Render-Update. Bekannter Testlink https://crosspoke-test.do-peter.chatgpt.site, Verfügbarkeit/Zugriff nicht erneut geprüft.
+
+
+## Präzisierung · seltene Buchstaben und Alltagsfragen · 27.11.2026
+
+Notion: 135 eindeutige Datensätze, davon134 mit Antwortwert und eine unvollständige Papierboot-Idee ohne Lösung. Vier beauftragte Revisionen (B→J, explizit brutto, Lotto-/Trikotpreisstand und Medienname aus Trikotfrage) sowie zwei ausgearbeitete neue Entwürfe (Dose, Bettwäsche); Papierboot als offene Idee im selben Bestand. Bettwäsche-Hinweisprüfung needs_revision wegen reiner Vergleichsschranken; Papierboot wegen ungeklärter Zählweise. Keine endgültige Spielfreigabe. Notion-Fragenqualität um Nutzerpräzisierungen ergänzt. Vollständige Fassungen, Quellen, Einzelprüfung und verifizierte Notion-IDs: docs/redaktion/2026-11-27-seltene-buchstaben-und-alltag.json und .md. Technischer Datensatz/Standalone/Sites unverändert30 Fragen, kein Import oder Deployment; kein neuer GitHub-Push, Render unverändert. Redaktionelle Mac-Spiegelung aktualisiert, keine vollständige Vier-Wege-Synchronisierung behaupten. Bekannter Testlink https://crosspoke-test.do-peter.chatgpt.site, Zugriff/Verfügbarkeit nicht erneut geprüft.
+
+
+## Zeitverschiebung, Friends und Kantone ·27.11.2026
+
+Drei weitere Entwürfe direkt in Notion: GEO-0016 Berlin/BuenosAires am15.01.2026=4Stunden, ENT-0017 Friends=10Staffeln, GEO-0017 Schweiz=26Kantone. Jetzt138 eindeutige Datensätze,137 mit Antwortwert und eine offene Papierboot-Idee; keine entsprechende Spielfreigabe behaupten. Q01–Q58 je Entwurf und Bildentscheidung dokumentiert; Zeitverschiebungs-/Friends-Hinweise needs_revision, Kantone pending. Friends ist Alternative zu ENT-0009, deren Fragetext bereits10Staffeln verrät; kein technischer gegenseitiger Ausschluss implementiert. Berlin als fester Bezug und bekannte Gegenstadt mit eindeutigem Datum/Richtung in Notion-Fragenqualität hinterlegt. Lokale Redaktionskopie: docs/redaktion/2026-11-27-zeitverschiebung-friends-kantone.json. Keine Spielcodeänderung, kein technischer Import, GitHub-Push oder Sites-/Render-Deployment; Spielstand weiterhin30Fragen.
+
+
+27.11.2026 Nutzerpräzisierung: Exaktes Vorwissen erlaubt und erwünschter Teil des Setz-/Bluffspiels. Notion-Fragenqualität Q30/Q38/Q55/Q56 und lokaler Qualitätsstandard angepasst; keine Pflicht, dass die Antwort unbekannt ist. Neue50-Fragen-Ausarbeitung berücksichtigt dies; Zugänglichkeit für Nichtwissende sowie Hinweis-/Bildstandards bleiben. Kein Spielcode/Deployment geändert.
+
+
+## Fünf neue Fragen je Kategorie ·27.11.2026
+
+50 neueEntwürfe direkt inNotion gespeichert und zehnEigenschaften proFrage zurückgelesen; jetzt188 eindeutigeDatensätze,187mitAntwortwert und eineoffenePapierboot-Idee. Paket vorläufig40leicht/10mittelschwer; Q01–Q58 jeFrage dokumentiert,13optionaleBildmotive ohne erstellteAssets. Nutzerregel exaktesVorwissen ist erlaubt berücksichtigt. Basis:letzte20Fragen und vorhandene,unvollständigeDuell-um-die-Geld-Recherche. Hinweise/Quellen korrigiert, insbesondereOreo-Rechenleck, Stromberg-Dopplung, Bowling-Endpunkte, aktuelleMilka33%, BDEW39,3ct nurNeukundenmodell. UnabhängigeQuellen-Endprüfung, echtesLayout undPlaytests offen; keine endgültigeFreigabe. Vollständiger Notion-Snapshot mitIDs/Revision1/Prüfung:docs/redaktion/2026-11-27-fuenf-je-kategorie.json; lesbareÜbersicht imgleichnamigen.md. Kein Spielcodeimport/GitHub-Push/Sites-/Render-Deployment; technischesSpiel unverändert30Fragen.
+
+Nachprüfung: Bei GEO-0008 auch die Antworterklärung vom früheren Eiffelturmvergleich auf den neuen hypothetischen Vergleich umgestellt; als zusätzliche Revision in Notion und im Vorher-/Nachher-Verlauf erhalten.

@@ -1,0 +1,1005 @@
+{
+  "date": "2026-11-27",
+  "kind": "editorial-drafts-not-runtime",
+  "questions": [
+    {
+      "id": "GEO-0016",
+      "p": {
+        "Frage": "Wie viele Stunden liegt Berlin am 15. Januar 2026 zeitlich vor Buenos Aires?",
+        "Kategorie": "Geografie",
+        "Antwortwert": 4,
+        "Einheit": "Stunden",
+        "Hinweis 1": "New York liegt dann sechs Stunden hinter Berlin; Buenos Aires ist zeitlich näher.",
+        "Hinweis 2": "Wenn in Berlin Mittag ist, ist es in Buenos Aires noch vor 10 Uhr morgens.",
+        "Antworterklärung": "Am 15. Januar 2026 gilt in Berlin UTC+1 und in Buenos Aires UTC−3: Berlin liegt vier Stunden voraus. Bei 12 Uhr in Berlin ist es dort 8 Uhr. Am 15. Juli 2026 beträgt der Abstand wegen der Berliner Sommerzeit dagegen fünf Stunden; Buenos Aires stellt 2026 nicht um.",
+        "Fragekontext": "Gesucht ist der Abstand der örtlichen Uhrzeiten am genannten Datum, keine Flugzeit.",
+        "Quelle": "https://www.timeanddate.com/time/zone/argentina/buenos-aires",
+        "Zusatzquellen": "https://www.timeanddate.com/time/zone/germany/berlin?year=2026\nhttps://www.timeanddate.com/time/zone/usa/new-york?year=2026",
+        "Bezugsdatum": "15.01.2026",
+        "Unterkategorie": "Zeitverschiebung · Berlin als Referenz",
+        "Bildentscheidung": "Optional",
+        "Bildprüfung": "Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt.",
+        "Hinweisprüfung": "needs_revision",
+        "Hinweis-Review": "UTC-Differenz (+1)−(−3)=4; Berlin/New York (+1)−(−5)=6. Python-zoneinfo bestätigt für15.01.2026 Berliner12Uhr→BuenosAires8Uhr/NewYork6Uhr; Juli→7Uhr. H1 Abstand<6, H2 Abstand>2; bei Ganzstunden bleiben nur3/4/5. Q23/Q28/Q57 deshalb offen, keine Freigabe als fertige Runde. Bekannte Stadt statt Nischenort, Berlin bleibt Bezug. Weitere Städte nur mit eigenem Quellen-/Hinweischeck.",
+        "Fragen-ID": "GEO-0016",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Playtest": "pending",
+        "Schwierigkeitsgrad": "Leicht"
+      },
+      "initial": "Ein Spieler könnte zunächst so schätzen: Südamerika gedanklich westlich von Europa verorten und aus Reise-/Telefonaterfahrungen einen Abstand von einigen Stunden vermuten.",
+      "path": "Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen.",
+      "special": [
+        23,
+        28,
+        57
+      ],
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertraute Reise-/Serien-/Nachbarlandfrage; Begriffe im Fragetext verständlich."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Ein Spieler könnte zunächst so schätzen: Südamerika gedanklich westlich von Europa verorten und aus Reise-/Telefonaterfahrungen einen Abstand von einigen Stunden vermuten."
+        },
+        {
+          "id": "Q03",
+          "status": "offen",
+          "note": "Alltagsnähe plausibel; tatsächliches Interesse und Aha im Playtest offen."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Wie viele Stunden liegt Berlin am 15. Januar 2026 zeitlich vor Buenos Aires?"
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage 13 Wörter; notwendiger Bezugsrahmen direkt enthalten."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerischer Antwortwert mit Einheit Stunden."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Ganze Stunden/Staffeln/Kantone; keine unnötige Skalierung."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Ganzzahliger Sachverhalt am definierten Bezug; keine versteckte Rundung."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "15.01.2026"
+        },
+        {
+          "id": "Q10",
+          "status": "offen",
+          "note": "H1 als realer Vergleich; Überraschungswert offen."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "New York liegt dann sechs Stunden hinter Berlin; Buenos Aires ist zeitlich näher."
+        },
+        {
+          "id": "Q12",
+          "status": "offen",
+          "note": "Zusätzlicher realer Vergleichsfakt; Unterhaltungswert noch offen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Belegte Referenzzahl direkt genannt, keine vorausgesetzte Kenntnis des Vergleichswerts."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Zahl unmittelbar lesbar."
+        },
+        {
+          "id": "Q15",
+          "status": "erfüllt",
+          "note": "Vergleichsrichtung ausdrücklich; thematischer Bezug ohne zusätzliche Rätselaufgabe."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Originalquellen bzw. datierte Zeitzonentabellen gelesen; indirekter Abruf beim WBD-Beleg dokumentiert."
+        },
+        {
+          "id": "Q17",
+          "status": "offen",
+          "note": "H1 grobe Orientierung; wahrgenommene Stärke gegenüber H2 im Playtest prüfen."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1 13 Wörter."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "Wenn in Berlin Mittag ist, ist es in Buenos Aires noch vor 10 Uhr morgens."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Neue konkrete Teilzahl, Staffelreferenz oder Uhrzeitgrenze."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen."
+        },
+        {
+          "id": "Q22",
+          "status": "offen",
+          "note": "Kleine Zahlen; Bruch-/Uhrzeitverständlichkeit im Playtest validieren."
+        },
+        {
+          "id": "Q23",
+          "status": "offen",
+          "note": "UTC-Differenz (+1)−(−3)=4; Berlin/New York (+1)−(−5)=6. Python-zoneinfo bestätigt für15.01.2026 Berliner12Uhr→BuenosAires8Uhr/NewYork6Uhr; Juli→7Uhr. H1 Abstand<6, H2 Abstand>2; bei Ganzstunden bleiben nur3/4/5. Q23/Q28/Q57 deshalb offen, keine Freigabe als fertige Runde. Bekannte Stadt statt Nischenort, Berlin bleibt Bezug. Weitere Städte nur mit eigenem Quellen-/Hinweischeck."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2 15 Wörter."
+        },
+        {
+          "id": "Q25",
+          "status": "erfüllt",
+          "note": "H1 grober Vergleich, H2 weiterer konkreter Bezug; Muster im Pfad erläutert."
+        },
+        {
+          "id": "Q26",
+          "status": "nicht anwendbar",
+          "note": "Nicht beide alternativen Muster gleichzeitig verlangen."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "H2 ergänzt den ersten Anker, statt denselben Zahlenwert zu wiederholen."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spielspannung nicht empirisch geprüft."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Plausible unterschiedliche Schätzungen bleiben; Bluffpotenzial ungetestet."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "UTC-Differenz (+1)−(−3)=4; Berlin/New York (+1)−(−5)=6. Python-zoneinfo bestätigt für15.01.2026 Berliner12Uhr→BuenosAires8Uhr/NewYork6Uhr; Juli→7Uhr. H1 Abstand<6, H2 Abstand>2; bei Ganzstunden bleiben nur3/4/5. Q23/Q28/Q57 deshalb offen, keine Freigabe als fertige Runde. Bekannte Stadt statt Nischenort, Berlin bleibt Bezug. Weitere Städte nur mit eigenem Quellen-/Hinweischeck."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Kein neuer Handy-/Browserdurchlauf; Bildschirmdarstellung offen."
+        },
+        {
+          "id": "Q33",
+          "status": "erfüllt",
+          "note": "Gesucht ist der Abstand der örtlichen Uhrzeiten am genannten Datum, keine Flugzeit."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Abgrenzungen stehen in Frage/Einheit; Kontext liefert keine zusätzliche Zahl."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Definition, Ergebnis und relevante Abgrenzung; nicht vorab zeigen."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung klärt Sommerzeit, Reunion oder Halbkantone."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort-/Hinweisquellen dokumentiert; unabhängige Quellen-Endprüfung offen."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Leicht vorläufig anhand des ersten Schätzansatzes; keine künstliche Quotenanpassung."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Zwei Geografiefragen auf direkten Nutzerwunsch und eine deutsche/US-Serienfrage."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage zu Zeitverschiebung oder Kantonszahl im gezielt abgefragten Bestand gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Überwiegend Vergleichsanker; keine neue Standardform ausschließlich aus Schranken ableiten."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Bestehende Fragen bleiben unverändert; neue Nutzerideen als Entwürfe aufgenommen."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Fortsetzung des Nutzerauftrags zur Aufnahme weiterer Fragen; keine endgültige Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Endprüfung, UI und Playtest offen."
+        },
+        {
+          "id": "Q45",
+          "status": "offen",
+          "note": "Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt."
+        },
+        {
+          "id": "Q46",
+          "status": "offen",
+          "note": "Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt."
+        },
+        {
+          "id": "Q47",
+          "status": "offen",
+          "note": "Keine Bildmaße, Kapazitätsangaben, UTC-/Uhrzeitangaben oder abzählbare Staffel-/Kantonsübersicht."
+        },
+        {
+          "id": "Q48",
+          "status": "offen",
+          "note": "Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt."
+        },
+        {
+          "id": "Q49",
+          "status": "offen",
+          "note": "Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen."
+        },
+        {
+          "id": "Q50",
+          "status": "offen",
+          "note": "Karte nur vorgeschlagen; Erstellung, Herkunft, Nutzungsrechte und echte Darstellung ungeprüft."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "Bekannte Stadt, US-Sitcom bzw. Nachbarland mit Alltags-/Erinnerungsbezug."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Kleine anschauliche Stunden-/Staffel-/Gebietszahlen."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Ein Spieler könnte zunächst so schätzen: Südamerika gedanklich westlich von Europa verorten und aus Reise-/Telefonaterfahrungen einen Abstand von einigen Stunden vermuten."
+        },
+        {
+          "id": "Q54",
+          "status": "offen",
+          "note": "Reise-/TV-/Nachbarlanderinnerungen ermöglichen Gespräch; Wirkung noch testen."
+        },
+        {
+          "id": "Q55",
+          "status": "erfüllt",
+          "note": "Erste Schätzung ohne präzises Vorwissen möglich; Serienkenner kennen die Antwort möglicherweise schon."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Datum und Richtung; reguläre Staffeln; Kantone statt Stimmgewichte präzisiert."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Gegenstand und erster Schätzansatz vor der Ausarbeitung bewertet; kein Nischenort oder Fandomdetail notwendig."
+        }
+      ],
+      "content": "## Redaktioneller Entwurf · 27.11.2026\n\n**Erster Schätzansatz:** Ein Spieler könnte zunächst so schätzen: Südamerika gedanklich westlich von Europa verorten und aus Reise-/Telefonaterfahrungen einen Abstand von einigen Stunden vermuten.\n\n**Prüfpfad:** Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen.\n\n**Belege/Rechnung:** UTC-Differenz (+1)−(−3)=4; Berlin/New York (+1)−(−5)=6. Python-zoneinfo bestätigt für15.01.2026 Berliner12Uhr→BuenosAires8Uhr/NewYork6Uhr; Juli→7Uhr. H1 Abstand<6, H2 Abstand>2; bei Ganzstunden bleiben nur3/4/5. Q23/Q28/Q57 deshalb offen, keine Freigabe als fertige Runde. Bekannte Stadt statt Nischenort, Berlin bleibt Bezug. Weitere Städte nur mit eigenem Quellen-/Hinweischeck.\n\n**Bildentscheidung:** Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt.\n\n**Freigabe:** Entwurf, keine endgültige Quellen-/Spiel-/UI-Abnahme. \n\n## Einzelprüfung Q01–Q58\n\n|Kriterium|Status|Befund|\n|---|---|---|\n|Q01|erfüllt|Vertraute Reise-/Serien-/Nachbarlandfrage; Begriffe im Fragetext verständlich.|\n|Q02|erfüllt|Ein Spieler könnte zunächst so schätzen: Südamerika gedanklich westlich von Europa verorten und aus Reise-/Telefonaterfahrungen einen Abstand von einigen Stunden vermuten.|\n|Q03|offen|Alltagsnähe plausibel; tatsächliches Interesse und Aha im Playtest offen.|\n|Q04|erfüllt|Wie viele Stunden liegt Berlin am 15. Januar 2026 zeitlich vor Buenos Aires?|\n|Q05|erfüllt|Frage 13 Wörter; notwendiger Bezugsrahmen direkt enthalten.|\n|Q06|erfüllt|Numerischer Antwortwert mit Einheit Stunden.|\n|Q07|erfüllt|Ganze Stunden/Staffeln/Kantone; keine unnötige Skalierung.|\n|Q08|erfüllt|Ganzzahliger Sachverhalt am definierten Bezug; keine versteckte Rundung.|\n|Q09|erfüllt|15.01.2026|\n|Q10|offen|H1 als realer Vergleich; Überraschungswert offen.|\n|Q11|erfüllt|New York liegt dann sechs Stunden hinter Berlin; Buenos Aires ist zeitlich näher.|\n|Q12|offen|Zusätzlicher realer Vergleichsfakt; Unterhaltungswert noch offen.|\n|Q13|erfüllt|Belegte Referenzzahl direkt genannt, keine vorausgesetzte Kenntnis des Vergleichswerts.|\n|Q14|erfüllt|Zahl unmittelbar lesbar.|\n|Q15|erfüllt|Vergleichsrichtung ausdrücklich; thematischer Bezug ohne zusätzliche Rätselaufgabe.|\n|Q16|erfüllt|Originalquellen bzw. datierte Zeitzonentabellen gelesen; indirekter Abruf beim WBD-Beleg dokumentiert.|\n|Q17|offen|H1 grobe Orientierung; wahrgenommene Stärke gegenüber H2 im Playtest prüfen.|\n|Q18|erfüllt|H1 13 Wörter.|\n|Q19|erfüllt|Wenn in Berlin Mittag ist, ist es in Buenos Aires noch vor 10 Uhr morgens.|\n|Q20|erfüllt|Neue konkrete Teilzahl, Staffelreferenz oder Uhrzeitgrenze.|\n|Q21|erfüllt|Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen.|\n|Q22|offen|Kleine Zahlen; Bruch-/Uhrzeitverständlichkeit im Playtest validieren.|\n|Q23|offen|UTC-Differenz (+1)−(−3)=4; Berlin/New York (+1)−(−5)=6. Python-zoneinfo bestätigt für15.01.2026 Berliner12Uhr→BuenosAires8Uhr/NewYork6Uhr; Juli→7Uhr. H1 Abstand<6, H2 Abstand>2; bei Ganzstunden bleiben nur3/4/5. Q23/Q28/Q57 deshalb offen, keine Freigabe als fertige Runde. Bekannte Stadt statt Nischenort, Berlin bleibt Bezug. Weitere Städte nur mit eigenem Quellen-/Hinweischeck.|\n|Q24|erfüllt|H2 15 Wörter.|\n|Q25|erfüllt|H1 grober Vergleich, H2 weiterer konkreter Bezug; Muster im Pfad erläutert.|\n|Q26|nicht anwendbar|Nicht beide alternativen Muster gleichzeitig verlangen.|\n|Q27|erfüllt|H2 ergänzt den ersten Anker, statt denselben Zahlenwert zu wiederholen.|\n|Q28|offen|Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen.|\n|Q29|offen|Spielspannung nicht empirisch geprüft.|\n|Q30|offen|Plausible unterschiedliche Schätzungen bleiben; Bluffpotenzial ungetestet.|\n|Q31|erfüllt|UTC-Differenz (+1)−(−3)=4; Berlin/New York (+1)−(−5)=6. Python-zoneinfo bestätigt für15.01.2026 Berliner12Uhr→BuenosAires8Uhr/NewYork6Uhr; Juli→7Uhr. H1 Abstand<6, H2 Abstand>2; bei Ganzstunden bleiben nur3/4/5. Q23/Q28/Q57 deshalb offen, keine Freigabe als fertige Runde. Bekannte Stadt statt Nischenort, Berlin bleibt Bezug. Weitere Städte nur mit eigenem Quellen-/Hinweischeck.|\n|Q32|offen|Kein neuer Handy-/Browserdurchlauf; Bildschirmdarstellung offen.|\n|Q33|erfüllt|Gesucht ist der Abstand der örtlichen Uhrzeiten am genannten Datum, keine Flugzeit.|\n|Q34|erfüllt|Wesentliche Abgrenzungen stehen in Frage/Einheit; Kontext liefert keine zusätzliche Zahl.|\n|Q35|erfüllt|Auflösung enthält Definition, Ergebnis und relevante Abgrenzung; nicht vorab zeigen.|\n|Q36|erfüllt|Auflösung klärt Sommerzeit, Reunion oder Halbkantone.|\n|Q37|offen|Antwort-/Hinweisquellen dokumentiert; unabhängige Quellen-Endprüfung offen.|\n|Q38|offen|Leicht vorläufig anhand des ersten Schätzansatzes; keine künstliche Quotenanpassung.|\n|Q39|erfüllt|Zwei Geografiefragen auf direkten Nutzerwunsch und eine deutsche/US-Serienfrage.|\n|Q40|erfüllt|Keine bestehende Frage zu Zeitverschiebung oder Kantonszahl im gezielt abgefragten Bestand gefunden.|\n|Q41|offen|Überwiegend Vergleichsanker; keine neue Standardform ausschließlich aus Schranken ableiten.|\n|Q42|erfüllt|Bestehende Fragen bleiben unverändert; neue Nutzerideen als Entwürfe aufgenommen.|\n|Q43|erfüllt|Fortsetzung des Nutzerauftrags zur Aufnahme weiterer Fragen; keine endgültige Spielfreigabe.|\n|Q44|offen|Unabhängige Endprüfung, UI und Playtest offen.|\n|Q45|offen|Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt.|\n|Q46|offen|Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt.|\n|Q47|offen|Keine Bildmaße, Kapazitätsangaben, UTC-/Uhrzeitangaben oder abzählbare Staffel-/Kantonsübersicht.|\n|Q48|offen|Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt.|\n|Q49|offen|Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen.|\n|Q50|offen|Karte nur vorgeschlagen; Erstellung, Herkunft, Nutzungsrechte und echte Darstellung ungeprüft.|\n|Q51|erfüllt|Bekannte Stadt, US-Sitcom bzw. Nachbarland mit Alltags-/Erinnerungsbezug.|\n|Q52|erfüllt|Kleine anschauliche Stunden-/Staffel-/Gebietszahlen.|\n|Q53|erfüllt|Ein Spieler könnte zunächst so schätzen: Südamerika gedanklich westlich von Europa verorten und aus Reise-/Telefonaterfahrungen einen Abstand von einigen Stunden vermuten.|\n|Q54|offen|Reise-/TV-/Nachbarlanderinnerungen ermöglichen Gespräch; Wirkung noch testen.|\n|Q55|erfüllt|Erste Schätzung ohne präzises Vorwissen möglich; Serienkenner kennen die Antwort möglicherweise schon.|\n|Q56|erfüllt|Datum und Richtung; reguläre Staffeln; Kantone statt Stimmgewichte präzisiert.|\n|Q57|offen|Frage: westliche Lage und einige Stunden vermuten. H1: kleiner als6. H2: größer als2. Lösung4. Diese Hinweise sind zwar korrekt, aber überwiegend ein enges Intervall; Überarbeitung offen.|\n|Q58|erfüllt|Gegenstand und erster Schätzansatz vor der Ausarbeitung bewertet; kein Nischenort oder Fandomdetail notwendig.|\n\n## Quellen\n\n[Antwortquelle](https://www.timeanddate.com/time/zone/argentina/buenos-aires)\n\n[Zusatzquelle1](https://www.timeanddate.com/time/zone/germany/berlin?year=2026)\n\n[Zusatzquelle2](https://www.timeanddate.com/time/zone/usa/new-york?year=2026)"
+    },
+    {
+      "id": "ENT-0017",
+      "p": {
+        "Frage": "Wie viele reguläre Staffeln umfasst die US-Serie Friends insgesamt?",
+        "Kategorie": "Film & Musik",
+        "Antwortwert": 10,
+        "Einheit": "Staffeln",
+        "Hinweis 1": "Friends gewann insgesamt sechs Emmys – die Serie hatte mehr Staffeln.",
+        "Hinweis 2": "The Big Bang Theory lief zwölf Staffeln; Friends endete mit weniger.",
+        "Antworterklärung": "Friends umfasst zehn reguläre Staffeln. Das spätere Reunion-Special ist keine weitere Staffel.",
+        "Fragekontext": "Gezählt werden die regulären Staffeln der ursprünglichen US-Serie, ohne Reunion-Special.",
+        "Quelle": "https://www.youtube.com/watch?v=yNx-jxITtzA",
+        "Zusatzquellen": "https://www.televisionacademy.com/shows/friends\nhttps://press.wbd.com/us/media-release/hbo-max/hbo-max-nabs-exclusive-streaming-rights-big-bang-theory-and-tbs-extends-its-cable",
+        "Bezugsdatum": "Abgeschlossene Originalserie; Belege geprüft27.11.2026",
+        "Unterkategorie": "Serien · Staffelzahl",
+        "Bildentscheidung": "Weglassen",
+        "Bildprüfung": "Ensemblefoto wäre bei der ausdrücklich benannten Serie überwiegend dekorativ. DVD-/Streaming-Übersichten können die Staffelzahl verraten; kein Bild.",
+        "Hinweisprüfung": "needs_revision",
+        "Hinweis-Review": "Antwort10 nach offizieller Warner-Bros-TV-Beschreibung. Emmyzahl6 direkt TelevisionAcademy; TBB12 nach WBD-Pressemitteilung (Suchindex verfügbar, Direktabruf403). H1 >6, H2 <12, verbleiben7–11; Intervallmuster Q28 offen. Wichtiger Poolkonflikt: ENT-0009 nennt die Lösung ausdrücklich in seiner Frage, ENT-0014 fragt nach derselben Serie. Nur als alternative Frage im Redaktionsbestand; keine Ausschlusslogik implementiert, keine Änderung der vorhandenen Fragen.",
+        "Fragen-ID": "ENT-0017",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Playtest": "pending",
+        "Schwierigkeitsgrad": "Leicht"
+      },
+      "initial": "Ein Spieler könnte zunächst so schätzen: Friends als lange laufende Sitcom aus dem eigenen Fernsehalltag einordnen und etwa eine knappe bis gute Handvoll bis zu rund einem Dutzend Staffeln vermuten.",
+      "path": "Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt.",
+      "special": [
+        28,
+        40,
+        41,
+        57
+      ],
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertraute Reise-/Serien-/Nachbarlandfrage; Begriffe im Fragetext verständlich."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Ein Spieler könnte zunächst so schätzen: Friends als lange laufende Sitcom aus dem eigenen Fernsehalltag einordnen und etwa eine knappe bis gute Handvoll bis zu rund einem Dutzend Staffeln vermuten."
+        },
+        {
+          "id": "Q03",
+          "status": "offen",
+          "note": "Alltagsnähe plausibel; tatsächliches Interesse und Aha im Playtest offen."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Wie viele reguläre Staffeln umfasst die US-Serie Friends insgesamt?"
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage 9 Wörter; notwendiger Bezugsrahmen direkt enthalten."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerischer Antwortwert mit Einheit Staffeln."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Ganze Stunden/Staffeln/Kantone; keine unnötige Skalierung."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Ganzzahliger Sachverhalt am definierten Bezug; keine versteckte Rundung."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "Abgeschlossene Originalserie; Belege geprüft27.11.2026"
+        },
+        {
+          "id": "Q10",
+          "status": "offen",
+          "note": "H1 als realer Vergleich; Überraschungswert offen."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Friends gewann insgesamt sechs Emmys – die Serie hatte mehr Staffeln."
+        },
+        {
+          "id": "Q12",
+          "status": "offen",
+          "note": "Zusätzlicher realer Vergleichsfakt; Unterhaltungswert noch offen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Belegte Referenzzahl direkt genannt, keine vorausgesetzte Kenntnis des Vergleichswerts."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Zahl unmittelbar lesbar."
+        },
+        {
+          "id": "Q15",
+          "status": "erfüllt",
+          "note": "Vergleichsrichtung ausdrücklich; thematischer Bezug ohne zusätzliche Rätselaufgabe."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Originalquellen bzw. datierte Zeitzonentabellen gelesen; indirekter Abruf beim WBD-Beleg dokumentiert."
+        },
+        {
+          "id": "Q17",
+          "status": "offen",
+          "note": "H1 grobe Orientierung; wahrgenommene Stärke gegenüber H2 im Playtest prüfen."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1 11 Wörter."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "The Big Bang Theory lief zwölf Staffeln; Friends endete mit weniger."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Neue konkrete Teilzahl, Staffelreferenz oder Uhrzeitgrenze."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt."
+        },
+        {
+          "id": "Q22",
+          "status": "offen",
+          "note": "Kleine Zahlen; Bruch-/Uhrzeitverständlichkeit im Playtest validieren."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Antwort10 nach offizieller Warner-Bros-TV-Beschreibung. Emmyzahl6 direkt TelevisionAcademy; TBB12 nach WBD-Pressemitteilung (Suchindex verfügbar, Direktabruf403). H1 >6, H2 <12, verbleiben7–11; Intervallmuster Q28 offen. Wichtiger Poolkonflikt: ENT-0009 nennt die Lösung ausdrücklich in seiner Frage, ENT-0014 fragt nach derselben Serie. Nur als alternative Frage im Redaktionsbestand; keine Ausschlusslogik implementiert, keine Änderung der vorhandenen Fragen."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2 11 Wörter."
+        },
+        {
+          "id": "Q25",
+          "status": "erfüllt",
+          "note": "H1 grober Vergleich, H2 weiterer konkreter Bezug; Muster im Pfad erläutert."
+        },
+        {
+          "id": "Q26",
+          "status": "nicht anwendbar",
+          "note": "Nicht beide alternativen Muster gleichzeitig verlangen."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "H2 ergänzt den ersten Anker, statt denselben Zahlenwert zu wiederholen."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spielspannung nicht empirisch geprüft."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Plausible unterschiedliche Schätzungen bleiben; Bluffpotenzial ungetestet."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Antwort10 nach offizieller Warner-Bros-TV-Beschreibung. Emmyzahl6 direkt TelevisionAcademy; TBB12 nach WBD-Pressemitteilung (Suchindex verfügbar, Direktabruf403). H1 >6, H2 <12, verbleiben7–11; Intervallmuster Q28 offen. Wichtiger Poolkonflikt: ENT-0009 nennt die Lösung ausdrücklich in seiner Frage, ENT-0014 fragt nach derselben Serie. Nur als alternative Frage im Redaktionsbestand; keine Ausschlusslogik implementiert, keine Änderung der vorhandenen Fragen."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Kein neuer Handy-/Browserdurchlauf; Bildschirmdarstellung offen."
+        },
+        {
+          "id": "Q33",
+          "status": "erfüllt",
+          "note": "Gezählt werden die regulären Staffeln der ursprünglichen US-Serie, ohne Reunion-Special."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Abgrenzungen stehen in Frage/Einheit; Kontext liefert keine zusätzliche Zahl."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Definition, Ergebnis und relevante Abgrenzung; nicht vorab zeigen."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung klärt Sommerzeit, Reunion oder Halbkantone."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort-/Hinweisquellen dokumentiert; unabhängige Quellen-Endprüfung offen."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Leicht vorläufig anhand des ersten Schätzansatzes; keine künstliche Quotenanpassung."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Zwei Geografiefragen auf direkten Nutzerwunsch und eine deutsche/US-Serienfrage."
+        },
+        {
+          "id": "Q40",
+          "status": "offen",
+          "note": "Poolkonflikt mit ENT-0009: deren Frage nennt die Lösung10; ENT-0014 zusätzlich gleiches Serienthema. Nur Alternative, keine automatische Ausschlusslogik."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Überwiegend Vergleichsanker; keine neue Standardform ausschließlich aus Schranken ableiten."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Bestehende Fragen bleiben unverändert; neue Nutzerideen als Entwürfe aufgenommen."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Fortsetzung des Nutzerauftrags zur Aufnahme weiterer Fragen; keine endgültige Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Endprüfung, UI und Playtest offen."
+        },
+        {
+          "id": "Q45",
+          "status": "nicht anwendbar",
+          "note": "Ensemblefoto wäre bei der ausdrücklich benannten Serie überwiegend dekorativ. DVD-/Streaming-Übersichten können die Staffelzahl verraten; kein Bild."
+        },
+        {
+          "id": "Q46",
+          "status": "nicht anwendbar",
+          "note": "Ensemblefoto wäre bei der ausdrücklich benannten Serie überwiegend dekorativ. DVD-/Streaming-Übersichten können die Staffelzahl verraten; kein Bild."
+        },
+        {
+          "id": "Q47",
+          "status": "erfüllt",
+          "note": "Keine Bildmaße, Kapazitätsangaben, UTC-/Uhrzeitangaben oder abzählbare Staffel-/Kantonsübersicht."
+        },
+        {
+          "id": "Q48",
+          "status": "erfüllt",
+          "note": "Ensemblefoto wäre bei der ausdrücklich benannten Serie überwiegend dekorativ. DVD-/Streaming-Übersichten können die Staffelzahl verraten; kein Bild."
+        },
+        {
+          "id": "Q49",
+          "status": "erfüllt",
+          "note": "Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt."
+        },
+        {
+          "id": "Q50",
+          "status": "nicht anwendbar",
+          "note": "Kein Bild eingebunden; Handyansicht bleibt separat offen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "Bekannte Stadt, US-Sitcom bzw. Nachbarland mit Alltags-/Erinnerungsbezug."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Kleine anschauliche Stunden-/Staffel-/Gebietszahlen."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Ein Spieler könnte zunächst so schätzen: Friends als lange laufende Sitcom aus dem eigenen Fernsehalltag einordnen und etwa eine knappe bis gute Handvoll bis zu rund einem Dutzend Staffeln vermuten."
+        },
+        {
+          "id": "Q54",
+          "status": "offen",
+          "note": "Reise-/TV-/Nachbarlanderinnerungen ermöglichen Gespräch; Wirkung noch testen."
+        },
+        {
+          "id": "Q55",
+          "status": "erfüllt",
+          "note": "Erste Schätzung ohne präzises Vorwissen möglich; Serienkenner kennen die Antwort möglicherweise schon."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Datum und Richtung; reguläre Staffeln; Kantone statt Stimmgewichte präzisiert."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Gegenstand und erster Schätzansatz vor der Ausarbeitung bewertet; kein Nischenort oder Fandomdetail notwendig."
+        }
+      ],
+      "content": "## Redaktioneller Entwurf · 27.11.2026\n\n**Erster Schätzansatz:** Ein Spieler könnte zunächst so schätzen: Friends als lange laufende Sitcom aus dem eigenen Fernsehalltag einordnen und etwa eine knappe bis gute Handvoll bis zu rund einem Dutzend Staffeln vermuten.\n\n**Prüfpfad:** Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt.\n\n**Belege/Rechnung:** Antwort10 nach offizieller Warner-Bros-TV-Beschreibung. Emmyzahl6 direkt TelevisionAcademy; TBB12 nach WBD-Pressemitteilung (Suchindex verfügbar, Direktabruf403). H1 >6, H2 <12, verbleiben7–11; Intervallmuster Q28 offen. Wichtiger Poolkonflikt: ENT-0009 nennt die Lösung ausdrücklich in seiner Frage, ENT-0014 fragt nach derselben Serie. Nur als alternative Frage im Redaktionsbestand; keine Ausschlusslogik implementiert, keine Änderung der vorhandenen Fragen.\n\n**Bildentscheidung:** Ensemblefoto wäre bei der ausdrücklich benannten Serie überwiegend dekorativ. DVD-/Streaming-Übersichten können die Staffelzahl verraten; kein Bild.\n\n**Freigabe:** Entwurf, keine endgültige Quellen-/Spiel-/UI-Abnahme. Nicht zusammen mit ENT-0009 in derselben Partie einsetzen; Ausschlusslogik nicht implementiert.\n\n## Einzelprüfung Q01–Q58\n\n|Kriterium|Status|Befund|\n|---|---|---|\n|Q01|erfüllt|Vertraute Reise-/Serien-/Nachbarlandfrage; Begriffe im Fragetext verständlich.|\n|Q02|erfüllt|Ein Spieler könnte zunächst so schätzen: Friends als lange laufende Sitcom aus dem eigenen Fernsehalltag einordnen und etwa eine knappe bis gute Handvoll bis zu rund einem Dutzend Staffeln vermuten.|\n|Q03|offen|Alltagsnähe plausibel; tatsächliches Interesse und Aha im Playtest offen.|\n|Q04|erfüllt|Wie viele reguläre Staffeln umfasst die US-Serie Friends insgesamt?|\n|Q05|erfüllt|Frage 9 Wörter; notwendiger Bezugsrahmen direkt enthalten.|\n|Q06|erfüllt|Numerischer Antwortwert mit Einheit Staffeln.|\n|Q07|erfüllt|Ganze Stunden/Staffeln/Kantone; keine unnötige Skalierung.|\n|Q08|erfüllt|Ganzzahliger Sachverhalt am definierten Bezug; keine versteckte Rundung.|\n|Q09|erfüllt|Abgeschlossene Originalserie; Belege geprüft27.11.2026|\n|Q10|offen|H1 als realer Vergleich; Überraschungswert offen.|\n|Q11|erfüllt|Friends gewann insgesamt sechs Emmys – die Serie hatte mehr Staffeln.|\n|Q12|offen|Zusätzlicher realer Vergleichsfakt; Unterhaltungswert noch offen.|\n|Q13|erfüllt|Belegte Referenzzahl direkt genannt, keine vorausgesetzte Kenntnis des Vergleichswerts.|\n|Q14|erfüllt|Zahl unmittelbar lesbar.|\n|Q15|erfüllt|Vergleichsrichtung ausdrücklich; thematischer Bezug ohne zusätzliche Rätselaufgabe.|\n|Q16|erfüllt|Originalquellen bzw. datierte Zeitzonentabellen gelesen; indirekter Abruf beim WBD-Beleg dokumentiert.|\n|Q17|offen|H1 grobe Orientierung; wahrgenommene Stärke gegenüber H2 im Playtest prüfen.|\n|Q18|erfüllt|H1 11 Wörter.|\n|Q19|erfüllt|The Big Bang Theory lief zwölf Staffeln; Friends endete mit weniger.|\n|Q20|erfüllt|Neue konkrete Teilzahl, Staffelreferenz oder Uhrzeitgrenze.|\n|Q21|erfüllt|Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt.|\n|Q22|offen|Kleine Zahlen; Bruch-/Uhrzeitverständlichkeit im Playtest validieren.|\n|Q23|erfüllt|Antwort10 nach offizieller Warner-Bros-TV-Beschreibung. Emmyzahl6 direkt TelevisionAcademy; TBB12 nach WBD-Pressemitteilung (Suchindex verfügbar, Direktabruf403). H1 >6, H2 <12, verbleiben7–11; Intervallmuster Q28 offen. Wichtiger Poolkonflikt: ENT-0009 nennt die Lösung ausdrücklich in seiner Frage, ENT-0014 fragt nach derselben Serie. Nur als alternative Frage im Redaktionsbestand; keine Ausschlusslogik implementiert, keine Änderung der vorhandenen Fragen.|\n|Q24|erfüllt|H2 11 Wörter.|\n|Q25|erfüllt|H1 grober Vergleich, H2 weiterer konkreter Bezug; Muster im Pfad erläutert.|\n|Q26|nicht anwendbar|Nicht beide alternativen Muster gleichzeitig verlangen.|\n|Q27|erfüllt|H2 ergänzt den ersten Anker, statt denselben Zahlenwert zu wiederholen.|\n|Q28|offen|Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt.|\n|Q29|offen|Spielspannung nicht empirisch geprüft.|\n|Q30|offen|Plausible unterschiedliche Schätzungen bleiben; Bluffpotenzial ungetestet.|\n|Q31|erfüllt|Antwort10 nach offizieller Warner-Bros-TV-Beschreibung. Emmyzahl6 direkt TelevisionAcademy; TBB12 nach WBD-Pressemitteilung (Suchindex verfügbar, Direktabruf403). H1 >6, H2 <12, verbleiben7–11; Intervallmuster Q28 offen. Wichtiger Poolkonflikt: ENT-0009 nennt die Lösung ausdrücklich in seiner Frage, ENT-0014 fragt nach derselben Serie. Nur als alternative Frage im Redaktionsbestand; keine Ausschlusslogik implementiert, keine Änderung der vorhandenen Fragen.|\n|Q32|offen|Kein neuer Handy-/Browserdurchlauf; Bildschirmdarstellung offen.|\n|Q33|erfüllt|Gezählt werden die regulären Staffeln der ursprünglichen US-Serie, ohne Reunion-Special.|\n|Q34|erfüllt|Wesentliche Abgrenzungen stehen in Frage/Einheit; Kontext liefert keine zusätzliche Zahl.|\n|Q35|erfüllt|Auflösung enthält Definition, Ergebnis und relevante Abgrenzung; nicht vorab zeigen.|\n|Q36|erfüllt|Auflösung klärt Sommerzeit, Reunion oder Halbkantone.|\n|Q37|offen|Antwort-/Hinweisquellen dokumentiert; unabhängige Quellen-Endprüfung offen.|\n|Q38|offen|Leicht vorläufig anhand des ersten Schätzansatzes; keine künstliche Quotenanpassung.|\n|Q39|erfüllt|Zwei Geografiefragen auf direkten Nutzerwunsch und eine deutsche/US-Serienfrage.|\n|Q40|offen|Poolkonflikt mit ENT-0009: deren Frage nennt die Lösung10; ENT-0014 zusätzlich gleiches Serienthema. Nur Alternative, keine automatische Ausschlusslogik.|\n|Q41|offen|Überwiegend Vergleichsanker; keine neue Standardform ausschließlich aus Schranken ableiten.|\n|Q42|erfüllt|Bestehende Fragen bleiben unverändert; neue Nutzerideen als Entwürfe aufgenommen.|\n|Q43|erfüllt|Fortsetzung des Nutzerauftrags zur Aufnahme weiterer Fragen; keine endgültige Spielfreigabe.|\n|Q44|offen|Unabhängige Endprüfung, UI und Playtest offen.|\n|Q45|nicht anwendbar|Ensemblefoto wäre bei der ausdrücklich benannten Serie überwiegend dekorativ. DVD-/Streaming-Übersichten können die Staffelzahl verraten; kein Bild.|\n|Q46|nicht anwendbar|Ensemblefoto wäre bei der ausdrücklich benannten Serie überwiegend dekorativ. DVD-/Streaming-Übersichten können die Staffelzahl verraten; kein Bild.|\n|Q47|erfüllt|Keine Bildmaße, Kapazitätsangaben, UTC-/Uhrzeitangaben oder abzählbare Staffel-/Kantonsübersicht.|\n|Q48|erfüllt|Ensemblefoto wäre bei der ausdrücklich benannten Serie überwiegend dekorativ. DVD-/Streaming-Übersichten können die Staffelzahl verraten; kein Bild.|\n|Q49|erfüllt|Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt.|\n|Q50|nicht anwendbar|Kein Bild eingebunden; Handyansicht bleibt separat offen.|\n|Q51|erfüllt|Bekannte Stadt, US-Sitcom bzw. Nachbarland mit Alltags-/Erinnerungsbezug.|\n|Q52|erfüllt|Kleine anschauliche Stunden-/Staffel-/Gebietszahlen.|\n|Q53|erfüllt|Ein Spieler könnte zunächst so schätzen: Friends als lange laufende Sitcom aus dem eigenen Fernsehalltag einordnen und etwa eine knappe bis gute Handvoll bis zu rund einem Dutzend Staffeln vermuten.|\n|Q54|offen|Reise-/TV-/Nachbarlanderinnerungen ermöglichen Gespräch; Wirkung noch testen.|\n|Q55|erfüllt|Erste Schätzung ohne präzises Vorwissen möglich; Serienkenner kennen die Antwort möglicherweise schon.|\n|Q56|erfüllt|Datum und Richtung; reguläre Staffeln; Kantone statt Stimmgewichte präzisiert.|\n|Q57|offen|Frage: Erinnerung an eine lang laufende Sitcom. H1: mehrals6. H2: wenigerals12. Lösung10;7–11 bleiben möglich. Hinweisvielfalt offen. Nicht gemeinsam mit ENT-0009 auswählen, weil deren Frage die Lösung10 vorwegnimmt.|\n|Q58|erfüllt|Gegenstand und erster Schätzansatz vor der Ausarbeitung bewertet; kein Nischenort oder Fandomdetail notwendig.|\n\n## Quellen\n\n[Antwortquelle](https://www.youtube.com/watch?v=yNx-jxITtzA)\n\n[Zusatzquelle1](https://www.televisionacademy.com/shows/friends)\n\n[Zusatzquelle2](https://press.wbd.com/us/media-release/hbo-max/hbo-max-nabs-exclusive-streaming-rights-big-bang-theory-and-tbs-extends-its-cable)"
+    },
+    {
+      "id": "GEO-0017",
+      "p": {
+        "Frage": "Wie viele Kantone, also Gliedstaaten, hat die Schweiz im November 2026?",
+        "Kategorie": "Geografie",
+        "Antwortwert": 26,
+        "Einheit": "Kantone",
+        "Hinweis 1": "Deutschland besteht aus 16 Bundesländern; die Schweiz hat mehr Kantone.",
+        "Hinweis 2": "Vier Kantone sind offiziell mehrsprachig – weniger als ein Fünftel aller Kantone.",
+        "Antworterklärung": "Die Schweiz besteht aus 26 Kantonen. Die früher sogenannten sechs Halbkantone werden dabei jeweils als eigener Kanton mitgezählt; deshalb lautet die Antwort nicht 23. Vier Kantone sind offiziell mehrsprachig: Bern, Freiburg und Wallis zweisprachig, Graubünden dreisprachig.",
+        "Fragekontext": "Kantone sind die Gliedstaaten der Schweiz; gefragt ist ihre Anzahl, nicht ihr Stimmgewicht.",
+        "Quelle": "https://www.ch-info.swiss/en/die-schweiz/foederalismus",
+        "Zusatzquellen": "https://www.aboutswitzerland.eda.admin.ch/de/mehrsprachigkeit\nhttps://www.aboutswitzerland.eda.admin.ch/en/federalism\nhttps://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Glossar/bundeslaender.html",
+        "Bezugsdatum": "November2026; geprüft27.11.2026",
+        "Unterkategorie": "Politische Geografie · Gliedstaaten",
+        "Bildentscheidung": "Weglassen",
+        "Bildprüfung": "Kantonskarte, Flaggen- oder Wappenreihe würde die Antwort abzählbar machen. Schweizer Landschaft/Flagge wäre dekorativ. Eine ungeteilte Lagekarte gäbe wenig Zusatznutzen; deshalb kein Bild.",
+        "Hinweisprüfung": "pending",
+        "Hinweis-Review": "Antwort26 amtlich CHInfo; Deutschland16 Destatis; vier offiziell mehrsprachige Kantone EDA. Eigene Verhältnisprüfung4/26≈15,38%<20%. H1 Gesamt>16, H2 4<Gesamt/5 ergibt Gesamt>20; keine exakte Rekonstruktion, viele Werte über20 möglich. H2 liefert Teilzahl und neue Eigenschaft; mathematische Verständlichkeit und Hinweiswirkung im Playtest prüfen. Halbkantone nicht zu halben Zähleinheiten machen.",
+        "Fragen-ID": "GEO-0017",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Playtest": "pending",
+        "Schwierigkeitsgrad": "Leicht"
+      },
+      "initial": "Ein Spieler könnte zunächst so schätzen: Kantone mit deutschen Bundesländern vergleichen und aus bekannten Namen wie Zürich, Bern und Tessin weitere regionale Gliedstaaten vermuten.",
+      "path": "Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung.",
+      "special": [],
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertraute Reise-/Serien-/Nachbarlandfrage; Begriffe im Fragetext verständlich."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Ein Spieler könnte zunächst so schätzen: Kantone mit deutschen Bundesländern vergleichen und aus bekannten Namen wie Zürich, Bern und Tessin weitere regionale Gliedstaaten vermuten."
+        },
+        {
+          "id": "Q03",
+          "status": "offen",
+          "note": "Alltagsnähe plausibel; tatsächliches Interesse und Aha im Playtest offen."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Wie viele Kantone, also Gliedstaaten, hat die Schweiz im November 2026?"
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage 11 Wörter; notwendiger Bezugsrahmen direkt enthalten."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerischer Antwortwert mit Einheit Kantone."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Ganze Stunden/Staffeln/Kantone; keine unnötige Skalierung."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Ganzzahliger Sachverhalt am definierten Bezug; keine versteckte Rundung."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "November2026; geprüft27.11.2026"
+        },
+        {
+          "id": "Q10",
+          "status": "offen",
+          "note": "H1 als realer Vergleich; Überraschungswert offen."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Deutschland besteht aus 16 Bundesländern; die Schweiz hat mehr Kantone."
+        },
+        {
+          "id": "Q12",
+          "status": "offen",
+          "note": "Zusätzlicher realer Vergleichsfakt; Unterhaltungswert noch offen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Belegte Referenzzahl direkt genannt, keine vorausgesetzte Kenntnis des Vergleichswerts."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Zahl unmittelbar lesbar."
+        },
+        {
+          "id": "Q15",
+          "status": "erfüllt",
+          "note": "Vergleichsrichtung ausdrücklich; thematischer Bezug ohne zusätzliche Rätselaufgabe."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Originalquellen bzw. datierte Zeitzonentabellen gelesen; indirekter Abruf beim WBD-Beleg dokumentiert."
+        },
+        {
+          "id": "Q17",
+          "status": "offen",
+          "note": "H1 grobe Orientierung; wahrgenommene Stärke gegenüber H2 im Playtest prüfen."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1 10 Wörter."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "Vier Kantone sind offiziell mehrsprachig – weniger als ein Fünftel aller Kantone."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Neue konkrete Teilzahl, Staffelreferenz oder Uhrzeitgrenze."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung."
+        },
+        {
+          "id": "Q22",
+          "status": "offen",
+          "note": "Kleine Zahlen; Bruch-/Uhrzeitverständlichkeit im Playtest validieren."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Antwort26 amtlich CHInfo; Deutschland16 Destatis; vier offiziell mehrsprachige Kantone EDA. Eigene Verhältnisprüfung4/26≈15,38%<20%. H1 Gesamt>16, H2 4<Gesamt/5 ergibt Gesamt>20; keine exakte Rekonstruktion, viele Werte über20 möglich. H2 liefert Teilzahl und neue Eigenschaft; mathematische Verständlichkeit und Hinweiswirkung im Playtest prüfen. Halbkantone nicht zu halben Zähleinheiten machen."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2 12 Wörter."
+        },
+        {
+          "id": "Q25",
+          "status": "erfüllt",
+          "note": "H1 grober Vergleich, H2 weiterer konkreter Bezug; Muster im Pfad erläutert."
+        },
+        {
+          "id": "Q26",
+          "status": "nicht anwendbar",
+          "note": "Nicht beide alternativen Muster gleichzeitig verlangen."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "H2 ergänzt den ersten Anker, statt denselben Zahlenwert zu wiederholen."
+        },
+        {
+          "id": "Q28",
+          "status": "erfüllt",
+          "note": "Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spielspannung nicht empirisch geprüft."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Plausible unterschiedliche Schätzungen bleiben; Bluffpotenzial ungetestet."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Antwort26 amtlich CHInfo; Deutschland16 Destatis; vier offiziell mehrsprachige Kantone EDA. Eigene Verhältnisprüfung4/26≈15,38%<20%. H1 Gesamt>16, H2 4<Gesamt/5 ergibt Gesamt>20; keine exakte Rekonstruktion, viele Werte über20 möglich. H2 liefert Teilzahl und neue Eigenschaft; mathematische Verständlichkeit und Hinweiswirkung im Playtest prüfen. Halbkantone nicht zu halben Zähleinheiten machen."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Kein neuer Handy-/Browserdurchlauf; Bildschirmdarstellung offen."
+        },
+        {
+          "id": "Q33",
+          "status": "erfüllt",
+          "note": "Kantone sind die Gliedstaaten der Schweiz; gefragt ist ihre Anzahl, nicht ihr Stimmgewicht."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Abgrenzungen stehen in Frage/Einheit; Kontext liefert keine zusätzliche Zahl."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Definition, Ergebnis und relevante Abgrenzung; nicht vorab zeigen."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung klärt Sommerzeit, Reunion oder Halbkantone."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort-/Hinweisquellen dokumentiert; unabhängige Quellen-Endprüfung offen."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Leicht vorläufig anhand des ersten Schätzansatzes; keine künstliche Quotenanpassung."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Zwei Geografiefragen auf direkten Nutzerwunsch und eine deutsche/US-Serienfrage."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage zu Zeitverschiebung oder Kantonszahl im gezielt abgefragten Bestand gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Überwiegend Vergleichsanker; keine neue Standardform ausschließlich aus Schranken ableiten."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Bestehende Fragen bleiben unverändert; neue Nutzerideen als Entwürfe aufgenommen."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Fortsetzung des Nutzerauftrags zur Aufnahme weiterer Fragen; keine endgültige Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Endprüfung, UI und Playtest offen."
+        },
+        {
+          "id": "Q45",
+          "status": "nicht anwendbar",
+          "note": "Kantonskarte, Flaggen- oder Wappenreihe würde die Antwort abzählbar machen. Schweizer Landschaft/Flagge wäre dekorativ. Eine ungeteilte Lagekarte gäbe wenig Zusatznutzen; deshalb kein Bild."
+        },
+        {
+          "id": "Q46",
+          "status": "nicht anwendbar",
+          "note": "Kantonskarte, Flaggen- oder Wappenreihe würde die Antwort abzählbar machen. Schweizer Landschaft/Flagge wäre dekorativ. Eine ungeteilte Lagekarte gäbe wenig Zusatznutzen; deshalb kein Bild."
+        },
+        {
+          "id": "Q47",
+          "status": "erfüllt",
+          "note": "Keine Bildmaße, Kapazitätsangaben, UTC-/Uhrzeitangaben oder abzählbare Staffel-/Kantonsübersicht."
+        },
+        {
+          "id": "Q48",
+          "status": "erfüllt",
+          "note": "Kantonskarte, Flaggen- oder Wappenreihe würde die Antwort abzählbar machen. Schweizer Landschaft/Flagge wäre dekorativ. Eine ungeteilte Lagekarte gäbe wenig Zusatznutzen; deshalb kein Bild."
+        },
+        {
+          "id": "Q49",
+          "status": "erfüllt",
+          "note": "Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung."
+        },
+        {
+          "id": "Q50",
+          "status": "nicht anwendbar",
+          "note": "Kein Bild eingebunden; Handyansicht bleibt separat offen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "Bekannte Stadt, US-Sitcom bzw. Nachbarland mit Alltags-/Erinnerungsbezug."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Kleine anschauliche Stunden-/Staffel-/Gebietszahlen."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Ein Spieler könnte zunächst so schätzen: Kantone mit deutschen Bundesländern vergleichen und aus bekannten Namen wie Zürich, Bern und Tessin weitere regionale Gliedstaaten vermuten."
+        },
+        {
+          "id": "Q54",
+          "status": "offen",
+          "note": "Reise-/TV-/Nachbarlanderinnerungen ermöglichen Gespräch; Wirkung noch testen."
+        },
+        {
+          "id": "Q55",
+          "status": "erfüllt",
+          "note": "Erste Schätzung ohne präzises Vorwissen möglich; Serienkenner kennen die Antwort möglicherweise schon."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Datum und Richtung; reguläre Staffeln; Kantone statt Stimmgewichte präzisiert."
+        },
+        {
+          "id": "Q57",
+          "status": "erfüllt",
+          "note": "Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Gegenstand und erster Schätzansatz vor der Ausarbeitung bewertet; kein Nischenort oder Fandomdetail notwendig."
+        }
+      ],
+      "content": "## Redaktioneller Entwurf · 27.11.2026\n\n**Erster Schätzansatz:** Ein Spieler könnte zunächst so schätzen: Kantone mit deutschen Bundesländern vergleichen und aus bekannten Namen wie Zürich, Bern und Tessin weitere regionale Gliedstaaten vermuten.\n\n**Prüfpfad:** Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung.\n\n**Belege/Rechnung:** Antwort26 amtlich CHInfo; Deutschland16 Destatis; vier offiziell mehrsprachige Kantone EDA. Eigene Verhältnisprüfung4/26≈15,38%<20%. H1 Gesamt>16, H2 4<Gesamt/5 ergibt Gesamt>20; keine exakte Rekonstruktion, viele Werte über20 möglich. H2 liefert Teilzahl und neue Eigenschaft; mathematische Verständlichkeit und Hinweiswirkung im Playtest prüfen. Halbkantone nicht zu halben Zähleinheiten machen.\n\n**Bildentscheidung:** Kantonskarte, Flaggen- oder Wappenreihe würde die Antwort abzählbar machen. Schweizer Landschaft/Flagge wäre dekorativ. Eine ungeteilte Lagekarte gäbe wenig Zusatznutzen; deshalb kein Bild.\n\n**Freigabe:** Entwurf, keine endgültige Quellen-/Spiel-/UI-Abnahme. \n\n## Einzelprüfung Q01–Q58\n\n|Kriterium|Status|Befund|\n|---|---|---|\n|Q01|erfüllt|Vertraute Reise-/Serien-/Nachbarlandfrage; Begriffe im Fragetext verständlich.|\n|Q02|erfüllt|Ein Spieler könnte zunächst so schätzen: Kantone mit deutschen Bundesländern vergleichen und aus bekannten Namen wie Zürich, Bern und Tessin weitere regionale Gliedstaaten vermuten.|\n|Q03|offen|Alltagsnähe plausibel; tatsächliches Interesse und Aha im Playtest offen.|\n|Q04|erfüllt|Wie viele Kantone, also Gliedstaaten, hat die Schweiz im November 2026?|\n|Q05|erfüllt|Frage 11 Wörter; notwendiger Bezugsrahmen direkt enthalten.|\n|Q06|erfüllt|Numerischer Antwortwert mit Einheit Kantone.|\n|Q07|erfüllt|Ganze Stunden/Staffeln/Kantone; keine unnötige Skalierung.|\n|Q08|erfüllt|Ganzzahliger Sachverhalt am definierten Bezug; keine versteckte Rundung.|\n|Q09|erfüllt|November2026; geprüft27.11.2026|\n|Q10|offen|H1 als realer Vergleich; Überraschungswert offen.|\n|Q11|erfüllt|Deutschland besteht aus 16 Bundesländern; die Schweiz hat mehr Kantone.|\n|Q12|offen|Zusätzlicher realer Vergleichsfakt; Unterhaltungswert noch offen.|\n|Q13|erfüllt|Belegte Referenzzahl direkt genannt, keine vorausgesetzte Kenntnis des Vergleichswerts.|\n|Q14|erfüllt|Zahl unmittelbar lesbar.|\n|Q15|erfüllt|Vergleichsrichtung ausdrücklich; thematischer Bezug ohne zusätzliche Rätselaufgabe.|\n|Q16|erfüllt|Originalquellen bzw. datierte Zeitzonentabellen gelesen; indirekter Abruf beim WBD-Beleg dokumentiert.|\n|Q17|offen|H1 grobe Orientierung; wahrgenommene Stärke gegenüber H2 im Playtest prüfen.|\n|Q18|erfüllt|H1 10 Wörter.|\n|Q19|erfüllt|Vier Kantone sind offiziell mehrsprachig – weniger als ein Fünftel aller Kantone.|\n|Q20|erfüllt|Neue konkrete Teilzahl, Staffelreferenz oder Uhrzeitgrenze.|\n|Q21|erfüllt|Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung.|\n|Q22|offen|Kleine Zahlen; Bruch-/Uhrzeitverständlichkeit im Playtest validieren.|\n|Q23|erfüllt|Antwort26 amtlich CHInfo; Deutschland16 Destatis; vier offiziell mehrsprachige Kantone EDA. Eigene Verhältnisprüfung4/26≈15,38%<20%. H1 Gesamt>16, H2 4<Gesamt/5 ergibt Gesamt>20; keine exakte Rekonstruktion, viele Werte über20 möglich. H2 liefert Teilzahl und neue Eigenschaft; mathematische Verständlichkeit und Hinweiswirkung im Playtest prüfen. Halbkantone nicht zu halben Zähleinheiten machen.|\n|Q24|erfüllt|H2 12 Wörter.|\n|Q25|erfüllt|H1 grober Vergleich, H2 weiterer konkreter Bezug; Muster im Pfad erläutert.|\n|Q26|nicht anwendbar|Nicht beide alternativen Muster gleichzeitig verlangen.|\n|Q27|erfüllt|H2 ergänzt den ersten Anker, statt denselben Zahlenwert zu wiederholen.|\n|Q28|erfüllt|Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung.|\n|Q29|offen|Spielspannung nicht empirisch geprüft.|\n|Q30|offen|Plausible unterschiedliche Schätzungen bleiben; Bluffpotenzial ungetestet.|\n|Q31|erfüllt|Antwort26 amtlich CHInfo; Deutschland16 Destatis; vier offiziell mehrsprachige Kantone EDA. Eigene Verhältnisprüfung4/26≈15,38%<20%. H1 Gesamt>16, H2 4<Gesamt/5 ergibt Gesamt>20; keine exakte Rekonstruktion, viele Werte über20 möglich. H2 liefert Teilzahl und neue Eigenschaft; mathematische Verständlichkeit und Hinweiswirkung im Playtest prüfen. Halbkantone nicht zu halben Zähleinheiten machen.|\n|Q32|offen|Kein neuer Handy-/Browserdurchlauf; Bildschirmdarstellung offen.|\n|Q33|erfüllt|Kantone sind die Gliedstaaten der Schweiz; gefragt ist ihre Anzahl, nicht ihr Stimmgewicht.|\n|Q34|erfüllt|Wesentliche Abgrenzungen stehen in Frage/Einheit; Kontext liefert keine zusätzliche Zahl.|\n|Q35|erfüllt|Auflösung enthält Definition, Ergebnis und relevante Abgrenzung; nicht vorab zeigen.|\n|Q36|erfüllt|Auflösung klärt Sommerzeit, Reunion oder Halbkantone.|\n|Q37|offen|Antwort-/Hinweisquellen dokumentiert; unabhängige Quellen-Endprüfung offen.|\n|Q38|offen|Leicht vorläufig anhand des ersten Schätzansatzes; keine künstliche Quotenanpassung.|\n|Q39|erfüllt|Zwei Geografiefragen auf direkten Nutzerwunsch und eine deutsche/US-Serienfrage.|\n|Q40|erfüllt|Keine bestehende Frage zu Zeitverschiebung oder Kantonszahl im gezielt abgefragten Bestand gefunden.|\n|Q41|offen|Überwiegend Vergleichsanker; keine neue Standardform ausschließlich aus Schranken ableiten.|\n|Q42|erfüllt|Bestehende Fragen bleiben unverändert; neue Nutzerideen als Entwürfe aufgenommen.|\n|Q43|erfüllt|Fortsetzung des Nutzerauftrags zur Aufnahme weiterer Fragen; keine endgültige Spielfreigabe.|\n|Q44|offen|Unabhängige Endprüfung, UI und Playtest offen.|\n|Q45|nicht anwendbar|Kantonskarte, Flaggen- oder Wappenreihe würde die Antwort abzählbar machen. Schweizer Landschaft/Flagge wäre dekorativ. Eine ungeteilte Lagekarte gäbe wenig Zusatznutzen; deshalb kein Bild.|\n|Q46|nicht anwendbar|Kantonskarte, Flaggen- oder Wappenreihe würde die Antwort abzählbar machen. Schweizer Landschaft/Flagge wäre dekorativ. Eine ungeteilte Lagekarte gäbe wenig Zusatznutzen; deshalb kein Bild.|\n|Q47|erfüllt|Keine Bildmaße, Kapazitätsangaben, UTC-/Uhrzeitangaben oder abzählbare Staffel-/Kantonsübersicht.|\n|Q48|erfüllt|Kantonskarte, Flaggen- oder Wappenreihe würde die Antwort abzählbar machen. Schweizer Landschaft/Flagge wäre dekorativ. Eine ungeteilte Lagekarte gäbe wenig Zusatznutzen; deshalb kein Bild.|\n|Q49|erfüllt|Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung.|\n|Q50|nicht anwendbar|Kein Bild eingebunden; Handyansicht bleibt separat offen.|\n|Q51|erfüllt|Bekannte Stadt, US-Sitcom bzw. Nachbarland mit Alltags-/Erinnerungsbezug.|\n|Q52|erfüllt|Kleine anschauliche Stunden-/Staffel-/Gebietszahlen.|\n|Q53|erfüllt|Ein Spieler könnte zunächst so schätzen: Kantone mit deutschen Bundesländern vergleichen und aus bekannten Namen wie Zürich, Bern und Tessin weitere regionale Gliedstaaten vermuten.|\n|Q54|offen|Reise-/TV-/Nachbarlanderinnerungen ermöglichen Gespräch; Wirkung noch testen.|\n|Q55|erfüllt|Erste Schätzung ohne präzises Vorwissen möglich; Serienkenner kennen die Antwort möglicherweise schon.|\n|Q56|erfüllt|Datum und Richtung; reguläre Staffeln; Kantone statt Stimmgewichte präzisiert.|\n|Q57|erfüllt|Frage: Vergleich mit Bundesländern und bekannten Kantonsnamen. H1: mehrals16. H2: vier sind wenigerals1/5, also mehrals20; konkrete mehrsprachige Teilgruppe als neuer Fakt. Lösung26. Keine Obergrenze oder vollständige Aufteilung, daher keine exakte Berechnung.|\n|Q58|erfüllt|Gegenstand und erster Schätzansatz vor der Ausarbeitung bewertet; kein Nischenort oder Fandomdetail notwendig.|\n\n## Quellen\n\n[Antwortquelle](https://www.ch-info.swiss/en/die-schweiz/foederalismus)\n\n[Zusatzquelle1](https://www.aboutswitzerland.eda.admin.ch/de/mehrsprachigkeit)\n\n[Zusatzquelle2](https://www.aboutswitzerland.eda.admin.ch/en/federalism)\n\n[Zusatzquelle3](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Glossar/bundeslaender.html)"
+    }
+  ],
+  "createdPages": [
+    {
+      "id": "425f73ae-951f-815c-a790-cc66ae51287c",
+      "url": "https://app.notion.com/p/425f73ae951f815ca790cc66ae51287c?pvs=204"
+    },
+    {
+      "id": "425f73ae-951f-81f7-ad05-fb3cd68542b3",
+      "url": "https://app.notion.com/p/425f73ae951f81f7ad05fb3cd68542b3?pvs=204"
+    },
+    {
+      "id": "425f73ae-951f-81e5-a5f9-e2423f8c3b88",
+      "url": "https://app.notion.com/p/425f73ae951f81e5a5f9e2423f8c3b88?pvs=204"
+    }
+  ],
+  "verification": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"total\":138,\"unique_ids\":138,\"missing_answers\":1}],\"has_more\":false,\"data_source_ids\":[\"424f73ae-951f-812f-8b29-000bf21ad92b\"]}"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  }
+}

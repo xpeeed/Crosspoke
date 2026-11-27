@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-27",
+  "notionPage": "425f73ae951f81e3aa4bf2a6f9c8d1c1",
+  "changes": [
+    {
+      "old_str": "Q30 – Bluffpotenzial – unterschiedliche plausible Einschätzungen bleiben möglich.",
+      "new_str": "Q30 – Bluffpotenzial – unterschiedliche plausible Einschätzungen und Wissensstände bleiben möglich. Echtes Wissen um die richtige Zahl ist ausdrücklich erlaubt: Spieler dürfen sie notieren und ihr Setzverhalten darauf aufbauen. Andere Spieler müssen einschätzen, ob jemand weiß, plausibel schätzt oder Sicherheit vorspielt. Bekanntheit der Lösung ist für sich kein Qualitätsmangel."
+    },
+    {
+      "old_str": "bereits vor H1 begründet grob schätzbar, genaue Antwort unbekannt.",
+      "new_str": "bereits vor H1 auch ohne exaktes Vorwissen begründet grob schätzbar; einzelne oder mehrere Spieler dürfen die genaue Antwort bereits wissen."
+    },
+    {
+      "old_str": "Q55 – Unbekannte Antwort, verständlicher Einstieg – Die genaue Zahl darf unbekannt und überraschend sein. Notwendiges Nischenwissen, technische Vorbildung oder Fandom dürfen keine Voraussetzung für eine erste Schätzung sein. Weder absurde Rekordgröße noch wissenschaftliche Studie sind an sich Qualitätsmerkmale. Ungewöhnliche Themen nur wählen, wenn der Einstieg dennoch funktioniert.",
+      "new_str": "Q55 – Wissen erlaubt, Einstieg verständlich – Spieler dürfen die exakte Lösung aus eigenem Wissen kennen und als richtige Zahl notieren. Das ist ein gewollter Teil des Spiels und kann Setzen, Bluffen sowie das Mitgehen anderer Spieler beeinflussen. Die Antwort darf ebenso unbekannt und überraschend sein; weder Vorwissen noch Unkenntnis sind Pflicht. Auch Spielern ohne exaktes Vorwissen muss eine nachvollziehbare erste Schätzung möglich sein; notwendiges Nischenwissen, technische Vorbildung oder Fandom bleiben als einzige Zugangsmöglichkeit ungeeignet. Weder absurde Rekordgröße noch wissenschaftliche Studie sind an sich Qualitätsmerkmale."
+    },
+    {
+      "old_str": "Eine leicht nachzählbare oder vielen exakt bekannte Antwort kann als Quizfrage funktionieren, bietet aber möglicherweise zu wenig Raum für Schätzen und zwei Hinweise.",
+      "new_str": "Eine vielen Spielern exakt bekannte Antwort ist kein Ausschlussgrund und muss nicht künstlich verschleiert oder erschwert werden. Die zwei Hinweise werden aus Sicht von Spielern ohne dieses Vorwissen geprüft. Davon getrennt bleiben unmittelbar abzählbare Fragebilder oder Hinweise, die die Lösung exakt ausrechnen lassen, nach Q23/Q47/Q48 zu prüfen."
+    }
+  ]
+}

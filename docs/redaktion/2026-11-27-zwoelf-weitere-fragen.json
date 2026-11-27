@@ -1,0 +1,3957 @@
+{
+  "kind": "editorial-drafts-not-runtime",
+  "date": "2026-11-27",
+  "existing": 120,
+  "targetAfterInsert": 132,
+  "questions": [
+    {
+      "id": "ENT-0013",
+      "category": "Film & Musik",
+      "question": "In welchem Jahr wurde Two and a Half Men erstmals im US-Fernsehen ausgestrahlt?",
+      "answer": 2003,
+      "unit": "Jahr",
+      "h1": "Miley Cyrus wurde 1992 geboren; die Serie startete später.",
+      "h2": "The Big Bang Theory startete 2007 in den USA – nach Two and a Half Men.",
+      "explanation": "Die erste Folge lief am 22. September 2003 auf CBS. Gefragt ist die US-Premiere, nicht der spätere deutsche Sendestart.",
+      "initial": "Den Sitcom-Stil und eigene TV-Erinnerungen grob in die Zeit um die frühen 2000er einordnen.",
+      "refs": [
+        "two",
+        "miley",
+        "bang"
+      ],
+      "check": "Datierte Vergleichsanker auf ausdrücklichen Nutzerwunsch. 1993–2006 bleiben mehrere Jahre möglich; keine Gleichjahres-Referenz. Geburt als H1, Serienstart als H2. Bild würde zusätzliche Kostüm-/Besetzungszeitspuren liefern und ist für die benannte Serie nicht nötig.",
+      "image": "Weglassen",
+      "motif": "Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben.",
+      "difficulty": "Leicht",
+      "date": "historischer, in der Frage definierter Bezug",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Den Sitcom-Stil und eigene TV-Erinnerungen grob in die Zeit um die frühen 2000er einordnen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Erstausstrahlung bzw. exakt benannter erster Meilenstein, nicht Produktions-/Deutschland-/Streamingstart vermischt."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 13 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Jahr' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Jahr ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "historischer, in der Frage definierter Bezug"
+        },
+        {
+          "id": "Q10",
+          "status": "begründet nicht anwendbar",
+          "note": "Nutzer wünscht datierte Personen-/Serien-/Ereignisanker. Ein kurioser Vergleich ist Präferenz, keine zusätzliche Pflicht."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Miley Cyrus wurde 1992 geboren; die Serie startete später."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 9 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 bezieht den gesuchten Beginn auf einen anderen benannten, datierten Meilenstein."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "The Big Bang Theory startete 2007 in den USA – nach Two and a Half Men."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 16 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Zeitanker bilden bewusst eine Jahres-Spanne auf aktuellen Nutzerwunsch. Ob noch genug plausible Jahre und Bluffspielraum bleiben, im Playtest prüfen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Datierte Vergleichsanker auf ausdrücklichen Nutzerwunsch. 1993–2006 bleiben mehrere Jahre möglich; keine Gleichjahres-Referenz. Geburt als H1, Serienstart als H2. Bild würde zusätzliche Kostüm-/Besetzungszeitspuren liefern und ist für die benannte Serie nicht nötig."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Die erste Folge lief am 22. September 2003 auf CBS. Gefragt ist die US-Premiere, nicht der spätere deutsche Sendestart."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Weglassen: Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben."
+        },
+        {
+          "id": "Q46",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein Bild vorgesehen; kein zusätzlicher Orientierungsvorteil ohne Dekoration."
+        },
+        {
+          "id": "Q47",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "begründet nicht anwendbar",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Den Sitcom-Stil und eigene TV-Erinnerungen grob in die Zeit um die frühen 2000er einordnen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Originalsendestart, Land/Programm oder konkreter Meilenstein klar."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.paramountpressexpress.com/cbs-entertainment/releases/?view=4473",
+        "https://www.grammy.com/artists/miley-cyrus/18384/",
+        "https://www.paramountpressexpress.com/cbs-entertainment/releases/?view=16380"
+      ],
+      "hintEffect": "Frage: Den Sitcom-Stil und eigene TV-Erinnerungen grob in die Zeit um die frühen 2000er einordnen. H1: Miley Cyrus wurde 1992 geboren; die Serie startete später. H2: The Big Bang Theory startete 2007 in den USA – nach Two and a Half Men. Restunsicherheit: Datierte Vergleichsanker auf ausdrücklichen Nutzerwunsch. 1993–2006 bleiben mehrere Jahre möglich; keine Gleichjahres-Referenz. Geburt als H1, Serienstart als H2. Bild würde zusätzliche Kostüm-/Besetzungszeitspuren liefern und ist für die benannte Serie nicht nötig."
+    },
+    {
+      "id": "ENT-0014",
+      "category": "Film & Musik",
+      "question": "In welchem Jahr startete Friends erstmals im US-Fernsehen?",
+      "answer": 1994,
+      "unit": "Jahr",
+      "h1": "Als 1989 die Berliner Mauer fiel, war Friends noch nicht gestartet.",
+      "h2": "How I Met Your Mother startete 2005; Friends gab es damals bereits.",
+      "explanation": "Friends begann am 22. September 1994 auf NBC. Ein späterer deutscher Sendestart oder heutiger Streamingstart ist nicht gemeint.",
+      "initial": "Die Serie aus Kleidung, Technik und eigenen Wiederholungs-Erinnerungen grob in die 1990er einordnen.",
+      "refs": [
+        "friends",
+        "wall",
+        "himym",
+        "friendsOral"
+      ],
+      "check": "Zwei voneinander unabhängige Zeithorizonte, 1990–2004. Frage kollidiert thematisch mit vorhandener Friends-Folgenzahl; als anderer Sachverhalt zulässig, bei Auswahl nicht direkt hintereinander einplanen.",
+      "image": "Weglassen",
+      "motif": "Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben.",
+      "difficulty": "Leicht",
+      "date": "historischer, in der Frage definierter Bezug",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Die Serie aus Kleidung, Technik und eigenen Wiederholungs-Erinnerungen grob in die 1990er einordnen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Erstausstrahlung bzw. exakt benannter erster Meilenstein, nicht Produktions-/Deutschland-/Streamingstart vermischt."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 8 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Jahr' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Jahr ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "historischer, in der Frage definierter Bezug"
+        },
+        {
+          "id": "Q10",
+          "status": "begründet nicht anwendbar",
+          "note": "Nutzer wünscht datierte Personen-/Serien-/Ereignisanker. Ein kurioser Vergleich ist Präferenz, keine zusätzliche Pflicht."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Als 1989 die Berliner Mauer fiel, war Friends noch nicht gestartet."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 11 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 bezieht den gesuchten Beginn auf einen anderen benannten, datierten Meilenstein."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "How I Met Your Mother startete 2005; Friends gab es damals bereits."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 12 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Zeitanker bilden bewusst eine Jahres-Spanne auf aktuellen Nutzerwunsch. Ob noch genug plausible Jahre und Bluffspielraum bleiben, im Playtest prüfen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Zwei voneinander unabhängige Zeithorizonte, 1990–2004. Frage kollidiert thematisch mit vorhandener Friends-Folgenzahl; als anderer Sachverhalt zulässig, bei Auswahl nicht direkt hintereinander einplanen."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Friends begann am 22. September 1994 auf NBC. Ein späterer deutscher Sendestart oder heutiger Streamingstart ist nicht gemeint."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Andere Messgröße derselben Serie als bestehende Folgenzahl; nicht direkt hintereinander auswählen."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Weglassen: Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben."
+        },
+        {
+          "id": "Q46",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein Bild vorgesehen; kein zusätzlicher Orientierungsvorteil ohne Dekoration."
+        },
+        {
+          "id": "Q47",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "begründet nicht anwendbar",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Die Serie aus Kleidung, Technik und eigenen Wiederholungs-Erinnerungen grob in die 1990er einordnen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Originalsendestart, Land/Programm oder konkreter Meilenstein klar."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.youtube.com/watch?v=1kRbLOEICOQ",
+        "https://www.stiftung-berliner-mauer.de/de/ueber-uns/leichte-sprache/geschichte",
+        "https://www.paramountpressexpress.com/cbs-entertainment/releases/view?id=10425",
+        "https://www.televisionacademy.com/features/news/industry-news/friends-oral-history-30th-anniversary-matthew-perry"
+      ],
+      "hintEffect": "Frage: Die Serie aus Kleidung, Technik und eigenen Wiederholungs-Erinnerungen grob in die 1990er einordnen. H1: Als 1989 die Berliner Mauer fiel, war Friends noch nicht gestartet. H2: How I Met Your Mother startete 2005; Friends gab es damals bereits. Restunsicherheit: Zwei voneinander unabhängige Zeithorizonte, 1990–2004. Frage kollidiert thematisch mit vorhandener Friends-Folgenzahl; als anderer Sachverhalt zulässig, bei Auswahl nicht direkt hintereinander einplanen."
+    },
+    {
+      "id": "ENT-0015",
+      "category": "Film & Musik",
+      "question": "In welchem Jahr lief der erste Tatort im deutschen Fernsehen?",
+      "answer": 1970,
+      "unit": "Jahr",
+      "h1": "Bonanza startete 1959 in den USA; der erste Tatort kam später.",
+      "h2": "Die Schwarzwaldklinik startete 1985 im ZDF; da gab es den Tatort bereits.",
+      "explanation": "Der erste Tatort, Taxi nach Leipzig, lief am 29. November 1970 im Ersten. Die deutsche Erstausstrahlung der Reihe ist der Bezug, nicht ein Drehbeginn.",
+      "initial": "Aus der langen Familien-/Sonntagabend-Tradition und älteren Wiederholungen eine grobe frühe Fernsehepoche schätzen.",
+      "refs": [
+        "tatort",
+        "bonanza",
+        "schwarz"
+      ],
+      "check": "1959 und 1985 beziehen sich auf andere, eindeutig benannte Serienstarts; 1960–1984 verbleiben. Primärbelege über Senderchronik und Produzenten-/Vertriebsangaben. Kein Ermittlerfoto mit Alters- oder Jubiläumsdaten.",
+      "image": "Weglassen",
+      "motif": "Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben.",
+      "difficulty": "Leicht",
+      "date": "historischer, in der Frage definierter Bezug",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Aus der langen Familien-/Sonntagabend-Tradition und älteren Wiederholungen eine grobe frühe Fernsehepoche schätzen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Erstausstrahlung bzw. exakt benannter erster Meilenstein, nicht Produktions-/Deutschland-/Streamingstart vermischt."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 10 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Jahr' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Jahr ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "historischer, in der Frage definierter Bezug"
+        },
+        {
+          "id": "Q10",
+          "status": "begründet nicht anwendbar",
+          "note": "Nutzer wünscht datierte Personen-/Serien-/Ereignisanker. Ein kurioser Vergleich ist Präferenz, keine zusätzliche Pflicht."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Bonanza startete 1959 in den USA; der erste Tatort kam später."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 11 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 bezieht den gesuchten Beginn auf einen anderen benannten, datierten Meilenstein."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Die Schwarzwaldklinik startete 1985 im ZDF; da gab es den Tatort bereits."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 12 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Zeitanker bilden bewusst eine Jahres-Spanne auf aktuellen Nutzerwunsch. Ob noch genug plausible Jahre und Bluffspielraum bleiben, im Playtest prüfen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "1959 und 1985 beziehen sich auf andere, eindeutig benannte Serienstarts; 1960–1984 verbleiben. Primärbelege über Senderchronik und Produzenten-/Vertriebsangaben. Kein Ermittlerfoto mit Alters- oder Jubiläumsdaten."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Der erste Tatort, Taxi nach Leipzig, lief am 29. November 1970 im Ersten. Die deutsche Erstausstrahlung der Reihe ist der Bezug, nicht ein Drehbeginn."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Weglassen: Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben."
+        },
+        {
+          "id": "Q46",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein Bild vorgesehen; kein zusätzlicher Orientierungsvorteil ohne Dekoration."
+        },
+        {
+          "id": "Q47",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "begründet nicht anwendbar",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Aus der langen Familien-/Sonntagabend-Tradition und älteren Wiederholungen eine grobe frühe Fernsehepoche schätzen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Originalsendestart, Land/Programm oder konkreter Meilenstein klar."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ard.de/die-ard/chronik-der-ard/chronik-der-ard-1970er-jahre-100.html",
+        "https://paramountglobalcontent.com/title/bonanza",
+        "https://www.presseportal.de/pm/7840/648708"
+      ],
+      "hintEffect": "Frage: Aus der langen Familien-/Sonntagabend-Tradition und älteren Wiederholungen eine grobe frühe Fernsehepoche schätzen. H1: Bonanza startete 1959 in den USA; der erste Tatort kam später. H2: Die Schwarzwaldklinik startete 1985 im ZDF; da gab es den Tatort bereits. Restunsicherheit: 1959 und 1985 beziehen sich auf andere, eindeutig benannte Serienstarts; 1960–1984 verbleiben. Primärbelege über Senderchronik und Produzenten-/Vertriebsangaben. Kein Ermittlerfoto mit Alters- oder Jubiläumsdaten."
+    },
+    {
+      "id": "ENT-0016",
+      "category": "Film & Musik",
+      "question": "In welchem Jahr lief Gute Zeiten, schlechte Zeiten erstmals bei RTL?",
+      "answer": 1992,
+      "unit": "Jahr",
+      "h1": "Die Lindenstraße lief seit 1985 bereits im Ersten – GZSZ kam später.",
+      "h2": "Als Stromberg 2004 auf ProSieben lief, gab es GZSZ bereits.",
+      "explanation": "UFA datiert den Start auf den 11. Mai 1992. Die Referenz ist die deutsche TV-Premiere bei RTL, nicht der spätere Umzug der Produktion.",
+      "initial": "Die Daily Soap mit der eigenen Erinnerung an das Privatfernsehen und Jugendprogramme der 1990er verbinden.",
+      "refs": [
+        "gzsz",
+        "linden",
+        "stromberg"
+      ],
+      "check": "Der Stromberg-Beleg weist eine Ausstrahlung im Oktober 2004 nach; H2 behauptet bewusst nicht das genaue Premierendatum. 1986–2003 verbleiben. Serienproduktion deutsch; keine Serie aus einem anderen Herkunftsland als Deutschland/USA neu aufgenommen.",
+      "image": "Weglassen",
+      "motif": "Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben.",
+      "difficulty": "Leicht",
+      "date": "historischer, in der Frage definierter Bezug",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Die Daily Soap mit der eigenen Erinnerung an das Privatfernsehen und Jugendprogramme der 1990er verbinden."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Erstausstrahlung bzw. exakt benannter erster Meilenstein, nicht Produktions-/Deutschland-/Streamingstart vermischt."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 11 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Jahr' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Jahr ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "historischer, in der Frage definierter Bezug"
+        },
+        {
+          "id": "Q10",
+          "status": "begründet nicht anwendbar",
+          "note": "Nutzer wünscht datierte Personen-/Serien-/Ereignisanker. Ein kurioser Vergleich ist Präferenz, keine zusätzliche Pflicht."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Die Lindenstraße lief seit 1985 bereits im Ersten – GZSZ kam später."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 12 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 bezieht den gesuchten Beginn auf einen anderen benannten, datierten Meilenstein."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Als Stromberg 2004 auf ProSieben lief, gab es GZSZ bereits."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 10 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Zeitanker bilden bewusst eine Jahres-Spanne auf aktuellen Nutzerwunsch. Ob noch genug plausible Jahre und Bluffspielraum bleiben, im Playtest prüfen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Der Stromberg-Beleg weist eine Ausstrahlung im Oktober 2004 nach; H2 behauptet bewusst nicht das genaue Premierendatum. 1986–2003 verbleiben. Serienproduktion deutsch; keine Serie aus einem anderen Herkunftsland als Deutschland/USA neu aufgenommen."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "UFA datiert den Start auf den 11. Mai 1992. Die Referenz ist die deutsche TV-Premiere bei RTL, nicht der spätere Umzug der Produktion."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Weglassen: Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben."
+        },
+        {
+          "id": "Q46",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein Bild vorgesehen; kein zusätzlicher Orientierungsvorteil ohne Dekoration."
+        },
+        {
+          "id": "Q47",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "begründet nicht anwendbar",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Die Daily Soap mit der eigenen Erinnerung an das Privatfernsehen und Jugendprogramme der 1990er verbinden."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Originalsendestart, Land/Programm oder konkreter Meilenstein klar."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ufa.de/produktionen/gute-zeiten-schlechte-zeiten",
+        "https://www.ard.de/die-ard/chronik-der-ard/chronik-der-ard-1980er-jahre-100.html",
+        "https://www.presseportal.de/pm/25171/616079"
+      ],
+      "hintEffect": "Frage: Die Daily Soap mit der eigenen Erinnerung an das Privatfernsehen und Jugendprogramme der 1990er verbinden. H1: Die Lindenstraße lief seit 1985 bereits im Ersten – GZSZ kam später. H2: Als Stromberg 2004 auf ProSieben lief, gab es GZSZ bereits. Restunsicherheit: Der Stromberg-Beleg weist eine Ausstrahlung im Oktober 2004 nach; H2 behauptet bewusst nicht das genaue Premierendatum. 1986–2003 verbleiben. Serienproduktion deutsch; keine Serie aus einem anderen Herkunftsland als Deutschland/USA neu aufgenommen."
+    },
+    {
+      "id": "TEC-0013",
+      "category": "Technologie",
+      "question": "In welchem Jahr wurde das erste YouTube-Video Me at the zoo hochgeladen?",
+      "answer": 2005,
+      "unit": "Jahr",
+      "h1": "Google entstand 1998 als Unternehmen; das erste YouTube-Video kam später.",
+      "h2": "Instagram startete 2010; das erste YouTube-Video war da schon online.",
+      "explanation": "Das erste Video wurde am 23. April 2005 hochgeladen. Dies ist ein konkreter Meilenstein und nicht unscharf das Datum einer Gründung, Beta-Phase oder Übernahme.",
+      "initial": "Eigene frühe Internet-/Videoplattform-Erfahrungen vor der Smartphone-Allgegenwart zeitlich einordnen.",
+      "refs": [
+        "youtube",
+        "google",
+        "instagram"
+      ],
+      "check": "Bezug auf erstes Video statt mehrere konkurrierende Starttermine; 1999–2009 bleiben möglich. Keine Player-Oberfläche mit Datum oder Jubiläumslogo.",
+      "image": "Weglassen",
+      "motif": "Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben.",
+      "difficulty": "Leicht",
+      "date": "historischer, in der Frage definierter Bezug",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Eigene frühe Internet-/Videoplattform-Erfahrungen vor der Smartphone-Allgegenwart zeitlich einordnen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Erstausstrahlung bzw. exakt benannter erster Meilenstein, nicht Produktions-/Deutschland-/Streamingstart vermischt."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 12 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Jahr' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Jahr ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "historischer, in der Frage definierter Bezug"
+        },
+        {
+          "id": "Q10",
+          "status": "begründet nicht anwendbar",
+          "note": "Nutzer wünscht datierte Personen-/Serien-/Ereignisanker. Ein kurioser Vergleich ist Präferenz, keine zusätzliche Pflicht."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Google entstand 1998 als Unternehmen; das erste YouTube-Video kam später."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 10 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 bezieht den gesuchten Beginn auf einen anderen benannten, datierten Meilenstein."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Instagram startete 2010; das erste YouTube-Video war da schon online."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 10 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Zeitanker bilden bewusst eine Jahres-Spanne auf aktuellen Nutzerwunsch. Ob noch genug plausible Jahre und Bluffspielraum bleiben, im Playtest prüfen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Bezug auf erstes Video statt mehrere konkurrierende Starttermine; 1999–2009 bleiben möglich. Keine Player-Oberfläche mit Datum oder Jubiläumslogo."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Das erste Video wurde am 23. April 2005 hochgeladen. Dies ist ein konkreter Meilenstein und nicht unscharf das Datum einer Gründung, Beta-Phase oder Übernahme."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Weglassen: Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben."
+        },
+        {
+          "id": "Q46",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein Bild vorgesehen; kein zusätzlicher Orientierungsvorteil ohne Dekoration."
+        },
+        {
+          "id": "Q47",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "begründet nicht anwendbar",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Eigene frühe Internet-/Videoplattform-Erfahrungen vor der Smartphone-Allgegenwart zeitlich einordnen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Originalsendestart, Land/Programm oder konkreter Meilenstein klar."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://blog.google/products-and-platforms/products/youtube/youtube-to-z-happybirthdayyoutube/",
+        "https://about.google/company-info/our-story/",
+        "https://about.fb.com/ja/news/2020/10/birthday/"
+      ],
+      "hintEffect": "Frage: Eigene frühe Internet-/Videoplattform-Erfahrungen vor der Smartphone-Allgegenwart zeitlich einordnen. H1: Google entstand 1998 als Unternehmen; das erste YouTube-Video kam später. H2: Instagram startete 2010; das erste YouTube-Video war da schon online. Restunsicherheit: Bezug auf erstes Video statt mehrere konkurrierende Starttermine; 1999–2009 bleiben möglich. Keine Player-Oberfläche mit Datum oder Jubiläumslogo."
+    },
+    {
+      "id": "SPO-0013",
+      "category": "Sport",
+      "question": "In welchem Jahr fand der erste Spieltag der deutschen Fußball-Bundesliga statt?",
+      "answer": 1963,
+      "unit": "Jahr",
+      "h1": "Den ersten Männer-WM-Titel von 1954 hatte Deutschland da schon gewonnen.",
+      "h2": "Beim zweiten Männer-WM-Titel 1974 gab es die Bundesliga bereits.",
+      "explanation": "Der erste Bundesliga-Spieltag fand am 24. August 1963 statt. Der Beschluss zur Einführung einer Bundesliga fiel früher; nach diesem Beschlussjahr wird nicht gefragt.",
+      "initial": "Die Bundesliga mit älteren Fußballbildern und der Zeit zwischen frühen WM-Erfolgen verbinden.",
+      "refs": [
+        "bundesliga",
+        "wm"
+      ],
+      "check": "Spielbetrieb klar vom Gründungsbeschluss getrennt. 1955–1973 verbleiben; H2 ergänzt späteren bekannten Fußballmeilenstein.",
+      "image": "Weglassen",
+      "motif": "Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben.",
+      "difficulty": "Leicht",
+      "date": "historischer, in der Frage definierter Bezug",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Die Bundesliga mit älteren Fußballbildern und der Zeit zwischen frühen WM-Erfolgen verbinden."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Erstausstrahlung bzw. exakt benannter erster Meilenstein, nicht Produktions-/Deutschland-/Streamingstart vermischt."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 11 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Jahr' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Jahr ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "historischer, in der Frage definierter Bezug"
+        },
+        {
+          "id": "Q10",
+          "status": "begründet nicht anwendbar",
+          "note": "Nutzer wünscht datierte Personen-/Serien-/Ereignisanker. Ein kurioser Vergleich ist Präferenz, keine zusätzliche Pflicht."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Den ersten Männer-WM-Titel von 1954 hatte Deutschland da schon gewonnen."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 10 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 bezieht den gesuchten Beginn auf einen anderen benannten, datierten Meilenstein."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Beim zweiten Männer-WM-Titel 1974 gab es die Bundesliga bereits."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 9 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Zeitanker bilden bewusst eine Jahres-Spanne auf aktuellen Nutzerwunsch. Ob noch genug plausible Jahre und Bluffspielraum bleiben, im Playtest prüfen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Spielbetrieb klar vom Gründungsbeschluss getrennt. 1955–1973 verbleiben; H2 ergänzt späteren bekannten Fußballmeilenstein."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Der erste Bundesliga-Spieltag fand am 24. August 1963 statt. Der Beschluss zur Einführung einer Bundesliga fiel früher; nach diesem Beschlussjahr wird nicht gefragt."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Weglassen: Kein Bild: keine zusätzliche Orientierung ohne Dekoration oder Lösungsangaben."
+        },
+        {
+          "id": "Q46",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein Bild vorgesehen; kein zusätzlicher Orientierungsvorteil ohne Dekoration."
+        },
+        {
+          "id": "Q47",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "begründet nicht anwendbar",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Die Bundesliga mit älteren Fußballbildern und der Zeit zwischen frühen WM-Erfolgen verbinden."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Originalsendestart, Land/Programm oder konkreter Meilenstein klar."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bundesliga.com/en/bundesliga/news/60-years-anniversary-fans-goals-stars-24240",
+        "https://www.fifa.com/de/tournaments/mens/worldcup/articles/wm-titel-deutschland-ueberblick-ergebnisse-torschuetzen-kader"
+      ],
+      "hintEffect": "Frage: Die Bundesliga mit älteren Fußballbildern und der Zeit zwischen frühen WM-Erfolgen verbinden. H1: Den ersten Männer-WM-Titel von 1954 hatte Deutschland da schon gewonnen. H2: Beim zweiten Männer-WM-Titel 1974 gab es die Bundesliga bereits. Restunsicherheit: Spielbetrieb klar vom Gründungsbeschluss getrennt. 1955–1973 verbleiben; H2 ergänzt späteren bekannten Fußballmeilenstein."
+    },
+    {
+      "id": "GEO-0013",
+      "category": "Geografie",
+      "question": "Wie viele afrikanische Staaten sind UN-Mitglieder, Stand November 2026?",
+      "answer": 54,
+      "unit": "Staaten",
+      "h1": "Die EU hat 27 Mitglieder; Afrika hat mehr UN-Mitgliedstaaten.",
+      "h2": "Westafrikas 16 UN-Mitgliedstaaten bilden weniger als ein Drittel der afrikanischen Gesamtzahl.",
+      "explanation": "Die UN nennt 54 Mitgliedstaaten der afrikanischen Gruppe. Die Afrikanische Union ist eine andere Organisation; deren Mitgliederzahl ist deshalb keine austauschbare Antwort.",
+      "initial": "Die bekannte Landmasse und aus Schule oder Reisen erinnerte Länder zu einer groben Kontinentzahl zusammenführen.",
+      "refs": [
+        "africa",
+        "eu",
+        "m49",
+        "members"
+      ],
+      "check": "UN-Mitgliedschaft statt umstrittener pauschaler Länderzählung. M49-Westafrika enthält zusätzlich Saint Helena als Gebiet; dieses wird nicht als UN-Mitglied gezählt. 16/54 < 1/3; H2 gibt nur >48, keine genaue Ableitung.",
+      "image": "Empfohlen",
+      "motif": "Sachlich korrekter Afrika-Umriss ohne Binnen-/Staatsgrenzen, Ländernamen, Nummern oder Flächen-/Länderangaben.",
+      "difficulty": "Leicht",
+      "date": "November 2026; UN-Mitglieder",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Die bekannte Landmasse und aus Schule oder Reisen erinnerte Länder zu einer groben Kontinentzahl zusammenführen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "November 2026; UN-Mitglieder; genaue Zähl-/Preis-/Verdienstdefinition steht in der Frage."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 9 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Staaten' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Staaten ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "November 2026; UN-Mitglieder"
+        },
+        {
+          "id": "Q10",
+          "status": "erfüllt",
+          "note": "H1 nutzt einen bekannten quantifizierten Alltags-/Ländervergleich oder den günstigsten echten Trikotpreis."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Die EU hat 27 Mitglieder; Afrika hat mehr UN-Mitgliedstaaten."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 9 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 betrifft den gesuchten Datensatz, eine echte Teilmenge oder den reinen Spieleinsatz."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Westafrikas 16 UN-Mitgliedstaaten bilden weniger als ein Drittel der afrikanischen Gesamtzahl."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 11 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Restunsicherheit redaktionell vorhanden; mehrere Kandidaten bleiben. Teilmengen-/Grenzvergleiche müssen auf echte Streuung im Playtest geprüft werden."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "UN-Mitgliedschaft statt umstrittener pauschaler Länderzählung. M49-Westafrika enthält zusätzlich Saint Helena als Gebiet; dieses wird nicht als UN-Mitglied gezählt. 16/54 < 1/3; H2 gibt nur >48, keine genaue Ableitung."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Die UN nennt 54 Mitgliedstaaten der afrikanischen Gruppe. Die Afrikanische Union ist eine andere Organisation; deren Mitgliederzahl ist deshalb keine austauschbare Antwort."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Empfohlen: Sachlich korrekter Afrika-Umriss ohne Binnen-/Staatsgrenzen, Ländernamen, Nummern oder Flächen-/Länderangaben."
+        },
+        {
+          "id": "Q46",
+          "status": "offen",
+          "note": "Motiv im Konzept passend; konkretes Asset noch nicht ausgewählt."
+        },
+        {
+          "id": "Q47",
+          "status": "offen",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "offen",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "offen",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "offen",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Die bekannte Landmasse und aus Schule oder Reisen erinnerte Länder zu einer groben Kontinentzahl zusammenführen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Formaler Staat-/Stadtbegriff und Stichtag genannt; keine abhängigen Gebiete als Staaten gezählt."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://ask.un.org/faq/22882",
+        "https://european-union.europa.eu/principles-countries-history/facts-and-figures-european-union_en",
+        "https://unstats.un.org/unsd/methodology/m49/",
+        "https://research.un.org/en/unmembers/currentmembers"
+      ],
+      "hintEffect": "Frage: Die bekannte Landmasse und aus Schule oder Reisen erinnerte Länder zu einer groben Kontinentzahl zusammenführen. H1: Die EU hat 27 Mitglieder; Afrika hat mehr UN-Mitgliedstaaten. H2: Westafrikas 16 UN-Mitgliedstaaten bilden weniger als ein Drittel der afrikanischen Gesamtzahl. Restunsicherheit: UN-Mitgliedschaft statt umstrittener pauschaler Länderzählung. M49-Westafrika enthält zusätzlich Saint Helena als Gebiet; dieses wird nicht als UN-Mitglied gezählt. 16/54 < 1/3; H2 gibt nur >48, keine genaue Ableitung."
+    },
+    {
+      "id": "GEO-0014",
+      "category": "Geografie",
+      "question": "Wie viele UN-Mitgliedstaaten liegen nach UN-M49 in Südamerika, Stand November 2026?",
+      "answer": 12,
+      "unit": "Staaten",
+      "h1": "Deutschlands 16 Bundesländer sind zahlreicher als diese Staaten.",
+      "h2": "Neun dieser Staaten haben eine Landgrenze mit Brasilien; insgesamt sind es mehr.",
+      "explanation": "Gezählt werden zwölf UN-Mitgliedstaaten in der UN-M49-Region Südamerika. Die dort ebenfalls aufgeführten abhängigen bzw. nicht selbstständigen Gebiete zählen nicht. Von Brasiliens zehn souveränen Nachbarstaaten ist Frankreich wegen Französisch-Guayana dabei; Frankreich selbst wird in M49 Europa zugeordnet.",
+      "initial": "Die südamerikanische Landmasse mit großen, erinnerbaren Ländern wie Brasilien und Argentinien gedanklich aufteilen.",
+      "refs": [
+        "m49",
+        "members",
+        "states",
+        "brazil"
+      ],
+      "check": "M49 listet Länder UND Gebiete; nur UN-Mitglieder zählen. Der H2-Teilwert neun ist die Schnittmenge der südamerikanischen Mitglieder mit den souveränen Brasilien-Nachbarn; Frankreich wird nicht still als südamerikanischer UN-Staat gezählt. Kein vollständiger Grenzplan, sonst abzählbar.",
+      "image": "Empfohlen",
+      "motif": "Umriss Südamerikas ohne Staatsgrenzen, Ländernamen oder Zählmarkierungen; Brasilien nicht als maßstäblichen Teil hervorheben.",
+      "difficulty": "Leicht",
+      "date": "November 2026; Region nach UN-M49",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Die südamerikanische Landmasse mit großen, erinnerbaren Ländern wie Brasilien und Argentinien gedanklich aufteilen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "November 2026; Region nach UN-M49; genaue Zähl-/Preis-/Verdienstdefinition steht in der Frage."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 11 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Staaten' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Staaten ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "November 2026; Region nach UN-M49"
+        },
+        {
+          "id": "Q10",
+          "status": "erfüllt",
+          "note": "H1 nutzt einen bekannten quantifizierten Alltags-/Ländervergleich oder den günstigsten echten Trikotpreis."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Deutschlands 16 Bundesländer sind zahlreicher als diese Staaten."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 8 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 betrifft den gesuchten Datensatz, eine echte Teilmenge oder den reinen Spieleinsatz."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Neun dieser Staaten haben eine Landgrenze mit Brasilien; insgesamt sind es mehr."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 12 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Restunsicherheit redaktionell vorhanden; mehrere Kandidaten bleiben. Teilmengen-/Grenzvergleiche müssen auf echte Streuung im Playtest geprüft werden."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "M49 listet Länder UND Gebiete; nur UN-Mitglieder zählen. Der H2-Teilwert neun ist die Schnittmenge der südamerikanischen Mitglieder mit den souveränen Brasilien-Nachbarn; Frankreich wird nicht still als südamerikanischer UN-Staat gezählt. Kein vollständiger Grenzplan, sonst abzählbar."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Gezählt werden zwölf UN-Mitgliedstaaten in der UN-M49-Region Südamerika. Die dort ebenfalls aufgeführten abhängigen bzw. nicht selbstständigen Gebiete zählen nicht. Von Brasiliens zehn souveränen Nachbarstaaten ist Frankreich wegen Französisch-Guayana dabei; Frankreich selbst wird in M49 Europa zugeordnet."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Empfohlen: Umriss Südamerikas ohne Staatsgrenzen, Ländernamen oder Zählmarkierungen; Brasilien nicht als maßstäblichen Teil hervorheben."
+        },
+        {
+          "id": "Q46",
+          "status": "offen",
+          "note": "Motiv im Konzept passend; konkretes Asset noch nicht ausgewählt."
+        },
+        {
+          "id": "Q47",
+          "status": "offen",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "offen",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "offen",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "offen",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Die südamerikanische Landmasse mit großen, erinnerbaren Ländern wie Brasilien und Argentinien gedanklich aufteilen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Formaler Staat-/Stadtbegriff und Stichtag genannt; keine abhängigen Gebiete als Staaten gezählt."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://unstats.un.org/unsd/methodology/m49/",
+        "https://research.un.org/en/unmembers/currentmembers",
+        "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Glossar/bundeslaender.html",
+        "https://www.gov.br/mj/pt-br/assuntos/sua-protecao/trafico-de-pessoas/publicacoes/guias-e-manuais/MJSP_Guia%20de%20Referencia%20para%20a%20Rede%20de%20ETP%20no%20Brasil"
+      ],
+      "hintEffect": "Frage: Die südamerikanische Landmasse mit großen, erinnerbaren Ländern wie Brasilien und Argentinien gedanklich aufteilen. H1: Deutschlands 16 Bundesländer sind zahlreicher als diese Staaten. H2: Neun dieser Staaten haben eine Landgrenze mit Brasilien; insgesamt sind es mehr. Restunsicherheit: M49 listet Länder UND Gebiete; nur UN-Mitglieder zählen. Der H2-Teilwert neun ist die Schnittmenge der südamerikanischen Mitglieder mit den souveränen Brasilien-Nachbarn; Frankreich wird nicht still als südamerikanischer UN-Staat gezählt. Kein vollständiger Grenzplan, sonst abzählbar."
+    },
+    {
+      "id": "GEO-0015",
+      "category": "Geografie",
+      "question": "Wie viele deutsche Städte mit Stadtrecht begannen Ende 2024 laut Destatis mit B?",
+      "answer": 263,
+      "unit": "Städte",
+      "h1": "Die UN hat 193 Mitgliedstaaten; deutsche B-Städte gibt es mehr.",
+      "h2": "105 davon beginnen mit Bad als eigenständigem Wort – mehr als ein Drittel des B-Bestands.",
+      "explanation": "Eigene Auszählung des amtlichen Verzeichnisses zum 31. Dezember 2024 ergibt 263 Städte mit B. Gezählt werden Gemeinden mit Stadtrecht nach dem amtlichen Namen, keine Stadtteile. Davon beginnen 105 mit dem eigenständigen Wort Bad; bekannte Großstädte sind also nur ein kleiner Teil.",
+      "initial": "Bekannte B-Städte sammeln und bedenken, wie viele kleinere Orte und Bad-Städte zusätzlich existieren.",
+      "refs": [
+        "cities",
+        "citylanding",
+        "members"
+      ],
+      "check": "Reproduzierbare eigene Auszählung: 2059 eindeutige amtliche Regionalschlüssel; Filter Stadtnamen startswith B ergibt 263; startswith 'Bad ' ergibt 105. H1 >193, H2 105 > Gesamt/3 ergibt <315; keine exakte Rekonstruktion. Vollständige Ergebnisliste und SHA-256 lokal gesichert. Kein dekoratives Stadtfoto oder abzählbare markierte Karte.",
+      "image": "Weglassen",
+      "motif": "Kein Bild: eine Skyline hilft nicht bei der deutschlandweiten Namenszählung; Stadtlisten und Markierungen wären zusätzliche Zählhilfen.",
+      "difficulty": "Mittelschwer",
+      "date": "31.12.2024; Gemeindeverzeichnis, alle Gemeinden mit Stadtrecht",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Bekannte B-Städte sammeln und bedenken, wie viele kleinere Orte und Bad-Städte zusätzlich existieren."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "31.12.2024; Gemeindeverzeichnis, alle Gemeinden mit Stadtrecht; genaue Zähl-/Preis-/Verdienstdefinition steht in der Frage."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 13 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Städte' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Städte ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "31.12.2024; Gemeindeverzeichnis, alle Gemeinden mit Stadtrecht"
+        },
+        {
+          "id": "Q10",
+          "status": "erfüllt",
+          "note": "H1 nutzt einen bekannten quantifizierten Alltags-/Ländervergleich oder den günstigsten echten Trikotpreis."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Die UN hat 193 Mitgliedstaaten; deutsche B-Städte gibt es mehr."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 10 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 betrifft den gesuchten Datensatz, eine echte Teilmenge oder den reinen Spieleinsatz."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "105 davon beginnen mit Bad als eigenständigem Wort – mehr als ein Drittel des B-Bestands."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 15 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Restunsicherheit redaktionell vorhanden; mehrere Kandidaten bleiben. Teilmengen-/Grenzvergleiche müssen auf echte Streuung im Playtest geprüft werden."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Reproduzierbare eigene Auszählung: 2059 eindeutige amtliche Regionalschlüssel; Filter Stadtnamen startswith B ergibt 263; startswith 'Bad ' ergibt 105. H1 >193, H2 105 > Gesamt/3 ergibt <315; keine exakte Rekonstruktion. Vollständige Ergebnisliste und SHA-256 lokal gesichert. Kein dekoratives Stadtfoto oder abzählbare markierte Karte."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Eigene Auszählung des amtlichen Verzeichnisses zum 31. Dezember 2024 ergibt 263 Städte mit B. Gezählt werden Gemeinden mit Stadtrecht nach dem amtlichen Namen, keine Stadtteile. Davon beginnen 105 mit dem eigenständigen Wort Bad; bekannte Großstädte sind also nur ein kleiner Teil."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Mittelschwer nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Weglassen: Kein Bild: eine Skyline hilft nicht bei der deutschlandweiten Namenszählung; Stadtlisten und Markierungen wären zusätzliche Zählhilfen."
+        },
+        {
+          "id": "Q46",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein Bild vorgesehen; kein zusätzlicher Orientierungsvorteil ohne Dekoration."
+        },
+        {
+          "id": "Q47",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "begründet nicht anwendbar",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Bekannte B-Städte sammeln und bedenken, wie viele kleinere Orte und Bad-Städte zusätzlich existieren."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Formaler Staat-/Stadtbegriff und Stichtag genannt; keine abhängigen Gebiete als Staaten gezählt."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.xlsx?__blob=publicationFile&v=13",
+        "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.html",
+        "https://research.un.org/en/unmembers/currentmembers"
+      ],
+      "hintEffect": "Frage: Bekannte B-Städte sammeln und bedenken, wie viele kleinere Orte und Bad-Städte zusätzlich existieren. H1: Die UN hat 193 Mitgliedstaaten; deutsche B-Städte gibt es mehr. H2: 105 davon beginnen mit Bad als eigenständigem Wort – mehr als ein Drittel des B-Bestands. Restunsicherheit: Reproduzierbare eigene Auszählung: 2059 eindeutige amtliche Regionalschlüssel; Filter Stadtnamen startswith B ergibt 263; startswith 'Bad ' ergibt 105. H1 >193, H2 105 > Gesamt/3 ergibt <315; keine exakte Rekonstruktion. Vollständige Ergebnisliste und SHA-256 lokal gesichert. Kein dekoratives Stadtfoto oder abzählbare markierte Karte."
+    },
+    {
+      "id": "ECO-0013",
+      "category": "Wirtschaft",
+      "question": "Wie hoch war 2025 der durchschnittliche Monatsbruttoverdienst vollzeitbeschäftigter Frauen in Deutschland ohne Sonderzahlungen?",
+      "answer": 4435,
+      "unit": "Euro pro Monat",
+      "h1": "60.000 Euro Jahresgehalt wären 5.000 Euro monatlich – der gesuchte Durchschnitt lag darunter.",
+      "h2": "2020 lag derselbe Frauen-Durchschnitt bei 3.578 Euro; 2025 lag er darüber.",
+      "explanation": "Destatis nennt für 2025 durchschnittlich 4.435 Euro im Monat für vollzeitbeschäftigte Frauen, ohne Sonderzahlungen. Es ist das arithmetische Mittel, kein Median und kein Teilzeit-Nettovergleich. Die Werte aller Vollzeitbeschäftigten oder nur der Männer sind andere Größen.",
+      "initial": "Aus öffentlich bekannten Gehaltsgrößen verschiedener Berufe einen Monats-Bruttowert grob einschätzen; niemand muss sein eigenes Gehalt nennen.",
+      "refs": [
+        "salary"
+      ],
+      "check": "Frauen ausdrücklich gemäß Nutzerwort Arbeitnehmerinnen interpretiert. Vollzeit, brutto, Monatsmittel, Jahr und ohne Sonderzahlungen in Frage; Mittelwert/Median in Auflösung geklärt. 60000/12=5000; 3578 <4435<5000. Tabellenwerte zusätzlich aus direkt heruntergeladenem Destatis-HTML gelesen: Frauen 2025=4435 und 2020=3578. Unabhängige Endprüfung bleibt offen.",
+      "image": "Weglassen",
+      "motif": "Kein Bild: Geldstapel oder berufstypische Person wären dekorativ oder würden einen willkürlichen Gehaltsanker setzen.",
+      "difficulty": "Mittelschwer",
+      "date": "2025; Destatis, ohne Sonderzahlungen",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Aus öffentlich bekannten Gehaltsgrößen verschiedener Berufe einen Monats-Bruttowert grob einschätzen; niemand muss sein eigenes Gehalt nennen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "2025; Destatis, ohne Sonderzahlungen; genaue Zähl-/Preis-/Verdienstdefinition steht in der Frage."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 13 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Euro pro Monat' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Euro pro Monat ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Exakter historischer bzw. gezählter Wert oder statistischer, auf volle Euro publizierter Mittelwert; keine zusätzliche Rundung erfunden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "2025; Destatis, ohne Sonderzahlungen"
+        },
+        {
+          "id": "Q10",
+          "status": "erfüllt",
+          "note": "H1 nutzt einen bekannten quantifizierten Alltags-/Ländervergleich oder den günstigsten echten Trikotpreis."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "60.000 Euro Jahresgehalt wären 5.000 Euro monatlich – der gesuchte Durchschnitt lag darunter."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 13 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 betrifft den gesuchten Datensatz, eine echte Teilmenge oder den reinen Spieleinsatz."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "2020 lag derselbe Frauen-Durchschnitt bei 3.578 Euro; 2025 lag er darüber."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 11 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Restunsicherheit redaktionell vorhanden; mehrere Kandidaten bleiben. Teilmengen-/Grenzvergleiche müssen auf echte Streuung im Playtest geprüft werden."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Frauen ausdrücklich gemäß Nutzerwort Arbeitnehmerinnen interpretiert. Vollzeit, brutto, Monatsmittel, Jahr und ohne Sonderzahlungen in Frage; Mittelwert/Median in Auflösung geklärt. 60000/12=5000; 3578 <4435<5000. Tabellenwerte zusätzlich aus direkt heruntergeladenem Destatis-HTML gelesen: Frauen 2025=4435 und 2020=3578. Unabhängige Endprüfung bleibt offen."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Destatis nennt für 2025 durchschnittlich 4.435 Euro im Monat für vollzeitbeschäftigte Frauen, ohne Sonderzahlungen. Es ist das arithmetische Mittel, kein Median und kein Teilzeit-Nettovergleich. Die Werte aller Vollzeitbeschäftigten oder nur der Männer sind andere Größen."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Mittelschwer nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Weglassen: Kein Bild: Geldstapel oder berufstypische Person wären dekorativ oder würden einen willkürlichen Gehaltsanker setzen."
+        },
+        {
+          "id": "Q46",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein Bild vorgesehen; kein zusätzlicher Orientierungsvorteil ohne Dekoration."
+        },
+        {
+          "id": "Q47",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "begründet nicht anwendbar",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "begründet nicht anwendbar",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Aus öffentlich bekannten Gehaltsgrößen verschiedener Berufe einen Monats-Bruttowert grob einschätzen; niemand muss sein eigenes Gehalt nennen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Vollzeit, Frauen, brutto, Monatsmittel, Jahr, ohne Sonderzahlungen klar."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/Tabellen/lange-reihe-deutschland.html"
+      ],
+      "hintEffect": "Frage: Aus öffentlich bekannten Gehaltsgrößen verschiedener Berufe einen Monats-Bruttowert grob einschätzen; niemand muss sein eigenes Gehalt nennen. H1: 60.000 Euro Jahresgehalt wären 5.000 Euro monatlich – der gesuchte Durchschnitt lag darunter. H2: 2020 lag derselbe Frauen-Durchschnitt bei 3.578 Euro; 2025 lag er darüber. Restunsicherheit: Frauen ausdrücklich gemäß Nutzerwort Arbeitnehmerinnen interpretiert. Vollzeit, brutto, Monatsmittel, Jahr und ohne Sonderzahlungen in Frage; Mittelwert/Median in Auflösung geklärt. 60000/12=5000; 3578 <4435<5000. Tabellenwerte zusätzlich aus direkt heruntergeladenem Destatis-HTML gelesen: Frauen 2025=4435 und 2020=3578. Unabhängige Endprüfung bleibt offen."
+    },
+    {
+      "id": "ECO-0014",
+      "category": "Wirtschaft",
+      "question": "Was kostet ein 6aus49-Feld bei LOTTO Berlin inklusive Gebühr für eine Ziehung im Laden ohne Kundenkarte (27.11.2026)?",
+      "answer": 2.2,
+      "unit": "Euro",
+      "h1": "Ein reiner Spiel-77-Zusatzeinsatz kostet 2,50 Euro und damit mehr.",
+      "h2": "Der reine 6aus49-Einsatz beträgt 1,20 Euro; hinzu kommt die einmalige Bearbeitungsgebühr.",
+      "explanation": "1,20 Euro Spieleinsatz plus 1,00 Euro Gebühr ergeben 2,20 Euro für diesen genau definierten Fall. Online oder im Laden mit Kundenkarte beträgt die reguläre Gebühr dagegen 0,60 Euro. Weitere Ziehungen, Tipps und Zusatzlotterien sind hier ausgeschlossen.",
+      "initial": "Den typischen kleinen Betrag am Lotto-Schalter aus eigener Kauferfahrung oder Alltagspreisen schätzen.",
+      "refs": [
+        "lotto",
+        "lottoRules"
+      ],
+      "check": "Kein allgemeiner Berlin-Preis behauptet: LOTTO 6aus49, ein Feld, eine Ziehung, Laden ohne Kundenkarte, keine Zusatzlotterien. Die volle Gebühr wird erst nach Auflösung genannt, sonst exakte Addition. Lange Frage wegen notwendiger Abgrenzung; reales Layout noch prüfen. Für spätere Eingabe/Anzeige Euro mit zwei Centstellen; reine Zahlenformatierung darf keinen Rundungszwang erfinden.",
+      "image": "Optional",
+      "motif": "Nur neutrales 6aus49-Spielfeld zur Begriffsklärung, ohne Preistafel, Gebühr, Kassenzettel, Quittung oder Zusatzlotterien.",
+      "difficulty": "Leicht",
+      "date": "Preisstand 27.11.2026; LOTTO Berlin, Annahmestelle ohne Kundenkarte",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Den typischen kleinen Betrag am Lotto-Schalter aus eigener Kauferfahrung oder Alltagspreisen schätzen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Preisstand 27.11.2026; LOTTO Berlin, Annahmestelle ohne Kundenkarte; genaue Zähl-/Preis-/Verdienstdefinition steht in der Frage."
+        },
+        {
+          "id": "Q05",
+          "status": "offen",
+          "note": "Notwendige Preis-/Vertriebsweg-Abgrenzung führt zu 17 Wörtern. Kürzung nur ohne Informationsverlust; reales Layout prüfen."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Euro' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Euro ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "1,20+1,00=2,20 Euro; Preis nach Vertriebsweg unterschieden."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "Preisstand 27.11.2026; LOTTO Berlin, Annahmestelle ohne Kundenkarte"
+        },
+        {
+          "id": "Q10",
+          "status": "erfüllt",
+          "note": "H1 nutzt einen bekannten quantifizierten Alltags-/Ländervergleich oder den günstigsten echten Trikotpreis."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Ein reiner Spiel-77-Zusatzeinsatz kostet 2,50 Euro und damit mehr."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 9 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 betrifft den gesuchten Datensatz, eine echte Teilmenge oder den reinen Spieleinsatz."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Der reine 6aus49-Einsatz beträgt 1,20 Euro; hinzu kommt die einmalige Bearbeitungsgebühr."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 11 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Restunsicherheit redaktionell vorhanden; mehrere Kandidaten bleiben. Teilmengen-/Grenzvergleiche müssen auf echte Streuung im Playtest geprüft werden."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Kein allgemeiner Berlin-Preis behauptet: LOTTO 6aus49, ein Feld, eine Ziehung, Laden ohne Kundenkarte, keine Zusatzlotterien. Die volle Gebühr wird erst nach Auflösung genannt, sonst exakte Addition. Lange Frage wegen notwendiger Abgrenzung; reales Layout noch prüfen. Für spätere Eingabe/Anzeige Euro mit zwei Centstellen; reine Zahlenformatierung darf keinen Rundungszwang erfinden."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "1,20 Euro Spieleinsatz plus 1,00 Euro Gebühr ergeben 2,20 Euro für diesen genau definierten Fall. Online oder im Laden mit Kundenkarte beträgt die reguläre Gebühr dagegen 0,60 Euro. Weitere Ziehungen, Tipps und Zusatzlotterien sind hier ausgeschlossen."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Optional: Nur neutrales 6aus49-Spielfeld zur Begriffsklärung, ohne Preistafel, Gebühr, Kassenzettel, Quittung oder Zusatzlotterien."
+        },
+        {
+          "id": "Q46",
+          "status": "offen",
+          "note": "Motiv im Konzept passend; konkretes Asset noch nicht ausgewählt."
+        },
+        {
+          "id": "Q47",
+          "status": "offen",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "offen",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "offen",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "offen",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Den typischen kleinen Betrag am Lotto-Schalter aus eigener Kauferfahrung oder Alltagspreisen schätzen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Konkrete Preisliste/Erhebung, Varianten, Zusätze und Rundung explizit."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.lotto-berlin.de/aktuelles/spieleinsaetze",
+        "https://www.lotto-berlin.de/lotto6aus49/spieleinsatz?gbn=7"
+      ],
+      "hintEffect": "Frage: Den typischen kleinen Betrag am Lotto-Schalter aus eigener Kauferfahrung oder Alltagspreisen schätzen. H1: Ein reiner Spiel-77-Zusatzeinsatz kostet 2,50 Euro und damit mehr. H2: Der reine 6aus49-Einsatz beträgt 1,20 Euro; hinzu kommt die einmalige Bearbeitungsgebühr. Restunsicherheit: Kein allgemeiner Berlin-Preis behauptet: LOTTO 6aus49, ein Feld, eine Ziehung, Laden ohne Kundenkarte, keine Zusatzlotterien. Die volle Gebühr wird erst nach Auflösung genannt, sonst exakte Addition. Lange Frage wegen notwendiger Abgrenzung; reales Layout noch prüfen. Für spätere Eingabe/Anzeige Euro mit zwei Centstellen; reine Zahlenformatierung darf keinen Rundungszwang erfinden."
+    },
+    {
+      "id": "SPO-0014",
+      "category": "Sport",
+      "question": "Was kosteten Erwachsenen-Heimtrikots der deutschen Fußball-Bundesliga 2025/26 laut Sky-Vergleich vom 14.08.2025 ohne Flock/Logo durchschnittlich, auf volle Euro gerundet?",
+      "answer": 92,
+      "unit": "Euro",
+      "h1": "Das günstigste Grundmodell kam laut Vergleich aus Hoffenheim und kostete 79,95 Euro.",
+      "h2": "Drei Vereine lagen bei genau 100 Euro Grundpreis; alle anderen blieben darunter.",
+      "explanation": "Der ungewichtete Mittelwert der 18 im Sky-Vergleich aufgeführten Grundpreise beträgt rund 91,63 Euro, auf volle Euro gerundet 92 Euro. Nicht mitgerechnet werden Flock und Liga-Logo. Dies ist ein historischer Vereinsvergleich, kein aktueller Marktpreis und kein nach Verkaufszahlen gewichteter Durchschnitt.",
+      "initial": "Ein gewöhnliches Erwachsenen-Fantrikot mit selbst gesehenen Fanshoppreisen vergleichen, ohne Spieler-Authentic- oder Kindertrikots einzubeziehen.",
+      "refs": [
+        "jersey"
+      ],
+      "check": "Alle 18 Grundpreise aus der vollständigen Galerie übernommen; nicht die angezeigten Gesamtpreise mit Zusätzen. Summe 1649,29 €, geteilt durch 18 =91,6272…; ganzzahlig 92 €. Andere Medien nennen für Hoffenheim teils 79,99 €; hier ist ausdrücklich die feste Sky-Tabelle mit 79,95 € maßgeblich. Zwei Quellen-Nachkommastellen nicht automatisch als Schätzvorgabe verwenden.",
+      "image": "Optional",
+      "motif": "Ein eindeutig als Fan-Heimtrikot erkennbares Motiv ohne Preis, Flock-Aufpreis, Rabattschild oder Vergleichsgalerie; kein Authentic-Modell.",
+      "difficulty": "Leicht",
+      "date": "Saison 2025/26, Sky-Vergleich 14.08.2025",
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Gegenstand und verständliche Frage; Spezialbegriffe nur zur notwendigen Definition."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Ein gewöhnliches Erwachsenen-Fantrikot mit selbst gesehenen Fanshoppreisen vergleichen, ohne Spieler-Authentic- oder Kindertrikots einzubeziehen."
+        },
+        {
+          "id": "Q03",
+          "status": "erfüllt",
+          "note": "Alltags-/Erinnerungsbezug redaktionell plausibel; Unterhaltungswirkung ist noch nicht getestet."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Saison 2025/26, Sky-Vergleich 14.08.2025; genaue Zähl-/Preis-/Verdienstdefinition steht in der Frage."
+        },
+        {
+          "id": "Q05",
+          "status": "erfüllt",
+          "note": "Frage hat 18 Wörter. 6–18 bevorzugt; notwendige Abgrenzungen nicht aus Platzgründen verstecken."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerisch; Einheit 'Euro' von Anfang an zur Anzeige vorgesehen."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Euro ist die direkt vorstellbare Skala; keine unnötigen Tausend-/Milliardenwerte."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "1649,29 /18=91,6272…; auf volle Euro 92."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "Saison 2025/26, Sky-Vergleich 14.08.2025"
+        },
+        {
+          "id": "Q10",
+          "status": "erfüllt",
+          "note": "H1 nutzt einen bekannten quantifizierten Alltags-/Ländervergleich oder den günstigsten echten Trikotpreis."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "Das günstigste Grundmodell kam laut Vergleich aus Hoffenheim und kostete 79,95 Euro."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "H1 liefert einen eigenständigen belegten Vergleich, statt nur den Fragetitel zu wiederholen."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Referenz ist vertraut oder im Hinweis beziffert; kein zusätzliches Ratewissen über die Referenzzahl nötig."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Die benötigten Referenzzahlen stehen im Hinweis."
+        },
+        {
+          "id": "Q15",
+          "status": "begründet nicht anwendbar",
+          "note": "Themengleichheit ist optional; der Mengen-/Zeitvergleich ist jeweils ausdrücklich formuliert."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Realer referenzierter Fakt; 60.000/12 beim Gehaltsvergleich ist ausdrücklich gedachte Rechenreferenz."
+        },
+        {
+          "id": "Q17",
+          "status": "erfüllt",
+          "note": "H1 ist eine grobe Referenz. H2 ergänzt eigenen Teilwert oder anderen zeitlichen Bezug; kein Fast-Antwortwert."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1: 12 Wörter; bevorzugt 6–15."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 betrifft den gesuchten Datensatz, eine echte Teilmenge oder den reinen Spieleinsatz."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Drei Vereine lagen bei genau 100 Euro Grundpreis; alle anderen blieben darunter."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt eine neue Referenz bzw. Teilinformation; nicht bloß H1 anders formuliert."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Referenzzahlen genannt; Zeit, Euro, Teilmengen und einfache Brüche ohne Fachcode."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Kein gleicher-Jahr-Vergleich mit offengelegter Jahreszahl; keine exakte Differenz. Teile/Gebühren bzw. Preise der übrigen Vereine fehlen bewusst."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2: 12 Wörter; bevorzugt 6–20."
+        },
+        {
+          "id": "Q25",
+          "status": "begründet nicht anwendbar",
+          "note": "Kombinative Annäherung ausgewählt; kein zusätzliches Fortschrittsmuster erzwungen."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "kombinativ: H1 und H2 liefern unterschiedliche Referenzen; erwarteter Effekt siehe konkrete Hinweisnotiz."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "Andere Zeit-/Vergleichsgröße oder Teilmenge statt bloßer Wiederholung."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Restunsicherheit redaktionell vorhanden; mehrere Kandidaten bleiben. Teilmengen-/Grenzvergleiche müssen auf echte Streuung im Playtest geprüft werden."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Spannung nur redaktionell erwartet; kein echter Gruppen-/Gerätetest durchgeführt."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unterschiedliche plausible Schätzungen erwartet, noch nicht empirisch gemessen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Alle 18 Grundpreise aus der vollständigen Galerie übernommen; nicht die angezeigten Gesamtpreise mit Zusätzen. Summe 1649,29 €, geteilt durch 18 =91,6272…; ganzzahlig 92 €. Andere Medien nennen für Hoffenheim teils 79,99 €; hier ist ausdrücklich die feste Sky-Tabelle mit 79,95 € maßgeblich. Zwei Quellen-Nachkommastellen nicht automatisch als Schätzvorgabe verwenden."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Reales Layout im Fragebildschirm mit diesen neuen Texten noch nicht getestet."
+        },
+        {
+          "id": "Q33",
+          "status": "begründet nicht anwendbar",
+          "note": "Kein zusätzlicher Spielkontext nötig; interne Prüfanmerkungen sind keine versteckten Hinweise."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Wesentliche Definitionen stehen in Frage/Einheit, Quellen-/Methodenbegründungen erst bei Auflösung."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Der ungewichtete Mittelwert der 18 im Sky-Vergleich aufgeführten Grundpreise beträgt rund 91,63 Euro, auf volle Euro gerundet 92 Euro. Nicht mitgerechnet werden Flock und Liga-Logo. Dies ist ein historischer Vereinsvergleich, kein aktueller Marktpreis und kein nach Verkaufszahlen gewichteter Durchschnitt."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Auflösung enthält Unterschied von Bezugsrahmen, kurze Hintergrundinformation oder transparente Zähl-/Rechenmethode."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Antwort/Hinweise mit angegebenen Quellen bzw. dokumentierter eigener Auszählung recherchiert; unabhängige Quellen-Endprüfung nicht durchgeführt."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach erstem Schätzansatz; 10 leichte/2 mittelschwere Entwürfe, noch nicht spielgetestet."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Paket bewusst entlang Nutzerideen fokussiert; bestehende zehn Kategorien bleiben erhalten, keine starre gleiche Paketquote."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "Keine gleiche Fragestellung im geladenen Bestand von 120 gefunden."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Sechs Jahresfragen verwenden bewusst dieselbe neue Zeitanker-Familie. Nicht am Stück ausspielen; weitere Vergleichsmuster im Playtest beurteilen."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Keine bestehende Frage überschrieben oder entfernt."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt weitere Fragen; direkt als Entwürfe in zentralen Bestand, keine automatische Spielfreigabe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Quellen-Endfreigabe, UI-/Geräteprüfung und Playtest bleiben offen."
+        },
+        {
+          "id": "Q45",
+          "status": "erfüllt",
+          "note": "Optional: Ein eindeutig als Fan-Heimtrikot erkennbares Motiv ohne Preis, Flock-Aufpreis, Rabattschild oder Vergleichsgalerie; kein Authentic-Modell."
+        },
+        {
+          "id": "Q46",
+          "status": "offen",
+          "note": "Motiv im Konzept passend; konkretes Asset noch nicht ausgewählt."
+        },
+        {
+          "id": "Q47",
+          "status": "offen",
+          "note": "Keine Maße, Kapazitäten, Preise, Daten oder zählbaren Lösungen im Bild zulässig; konkretes Asset noch nicht vorhanden."
+        },
+        {
+          "id": "Q48",
+          "status": "offen",
+          "note": "Keine vollständige Länder-/Städteliste, Grenzkarte oder Preistafel; auch Vergrößerung darf nichts verraten."
+        },
+        {
+          "id": "Q49",
+          "status": "offen",
+          "note": "Konzept berücksichtigt H1/H2; finale Runde mit echtem Asset noch nicht möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "offen",
+          "note": "Keine Bilder erzeugt; bei Umsetzung Herkunft/Rechte, sachliche Richtigkeit, Handy und Großbildschirm prüfen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "TV, Internet, Fußball, Länder, Städtenamen, Gehalt oder kleiner Kaufpreis sind bekannte Alltags-/Schulthemen."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Jahr, Stückzahl oder Euro sind unmittelbar vorstellbar; keine abstrakte Fremdwährung oder Milliardenspeichergröße."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Ein gewöhnliches Erwachsenen-Fantrikot mit selbst gesehenen Fanshoppreisen vergleichen, ohne Spieler-Authentic- oder Kindertrikots einzubeziehen."
+        },
+        {
+          "id": "Q54",
+          "status": "erfüllt",
+          "note": "Eigene Erinnerungen bzw. Käufe erlauben Gespräch; keine persönlichen Gehaltsangaben oder privaten Daten erforderlich."
+        },
+        {
+          "id": "Q55",
+          "status": "offen",
+          "note": "Kein Detail-Fandom soll nötig sein. Gerade Serienbekanntheit und große Städtenamenzählung in gemischter Runde testen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Konkrete Preisliste/Erhebung, Varianten, Zusätze und Rundung explizit."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Hinweise geben erwarteten Informationsgewinn; tatsächliche Stärke und Bluffspielraum brauchen Playtest."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Zuerst verständlichen Gegenstand und Schätzansatz gewählt, dann Fakten/Hinweise recherchiert; Quelle ist kein Ersatz für Zugänglichkeit."
+        }
+      ],
+      "sourceUrls": [
+        "https://sport.sky.de/fussball/artikel/die-trikots-der-bundesligisten-im-kostenueberblick/13399191/34942"
+      ],
+      "hintEffect": "Frage: Ein gewöhnliches Erwachsenen-Fantrikot mit selbst gesehenen Fanshoppreisen vergleichen, ohne Spieler-Authentic- oder Kindertrikots einzubeziehen. H1: Das günstigste Grundmodell kam laut Vergleich aus Hoffenheim und kostete 79,95 Euro. H2: Drei Vereine lagen bei genau 100 Euro Grundpreis; alle anderen blieben darunter. Restunsicherheit: Alle 18 Grundpreise aus der vollständigen Galerie übernommen; nicht die angezeigten Gesamtpreise mit Zusätzen. Summe 1649,29 €, geteilt durch 18 =91,6272…; ganzzahlig 92 €. Andere Medien nennen für Hoffenheim teils 79,99 €; hier ist ausdrücklich die feste Sky-Tabelle mit 79,95 € maßgeblich. Zwei Quellen-Nachkommastellen nicht automatisch als Schätzvorgabe verwenden."
+    }
+  ],
+  "sources": {
+    "two": "https://www.paramountpressexpress.com/cbs-entertainment/releases/?view=4473",
+    "miley": "https://www.grammy.com/artists/miley-cyrus/18384/",
+    "bang": "https://www.paramountpressexpress.com/cbs-entertainment/releases/?view=16380",
+    "friends": "https://www.youtube.com/watch?v=1kRbLOEICOQ",
+    "wall": "https://www.stiftung-berliner-mauer.de/de/ueber-uns/leichte-sprache/geschichte",
+    "himym": "https://www.paramountpressexpress.com/cbs-entertainment/releases/view?id=10425",
+    "tatort": "https://www.ard.de/die-ard/chronik-der-ard/chronik-der-ard-1970er-jahre-100.html",
+    "bonanza": "https://paramountglobalcontent.com/title/bonanza",
+    "schwarz": "https://www.presseportal.de/pm/7840/648708",
+    "gzsz": "https://www.ufa.de/produktionen/gute-zeiten-schlechte-zeiten",
+    "linden": "https://www.ard.de/die-ard/chronik-der-ard/chronik-der-ard-1980er-jahre-100.html",
+    "stromberg": "https://www.presseportal.de/pm/25171/616079",
+    "youtube": "https://blog.google/products-and-platforms/products/youtube/youtube-to-z-happybirthdayyoutube/",
+    "google": "https://about.google/company-info/our-story/",
+    "instagram": "https://about.fb.com/ja/news/2020/10/birthday/",
+    "bundesliga": "https://www.bundesliga.com/en/bundesliga/news/60-years-anniversary-fans-goals-stars-24240",
+    "wm": "https://www.fifa.com/de/tournaments/mens/worldcup/articles/wm-titel-deutschland-ueberblick-ergebnisse-torschuetzen-kader",
+    "africa": "https://ask.un.org/faq/22882",
+    "m49": "https://unstats.un.org/unsd/methodology/m49/",
+    "members": "https://research.un.org/en/unmembers/currentmembers",
+    "eu": "https://european-union.europa.eu/principles-countries-history/facts-and-figures-european-union_en",
+    "brazil": "https://www.gov.br/mj/pt-br/assuntos/sua-protecao/trafico-de-pessoas/publicacoes/guias-e-manuais/MJSP_Guia%20de%20Referencia%20para%20a%20Rede%20de%20ETP%20no%20Brasil",
+    "states": "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Glossar/bundeslaender.html",
+    "cities": "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.xlsx?__blob=publicationFile&v=13",
+    "citylanding": "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.html",
+    "salary": "https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/Tabellen/lange-reihe-deutschland.html",
+    "lotto": "https://www.lotto-berlin.de/aktuelles/spieleinsaetze",
+    "lottoRules": "https://www.lotto-berlin.de/lotto6aus49/spieleinsatz?gbn=7",
+    "jersey": "https://sport.sky.de/fussball/artikel/die-trikots-der-bundesligisten-im-kostenueberblick/13399191/34942",
+    "friendsOral": "https://www.televisionacademy.com/features/news/industry-news/friends-oral-history-30th-anniversary-matthew-perry"
+  },
+  "jerseyBasePrices": [
+    79.95,
+    84.95,
+    84.95,
+    84.95,
+    84.99,
+    90,
+    89.95,
+    89.95,
+    94.9,
+    89.95,
+    89.95,
+    89.95,
+    94.95,
+    99.95,
+    99.95,
+    100,
+    100,
+    100
+  ],
+  "created": [
+    {
+      "id": "ENT-0013",
+      "notionId": "425f73ae-951f-8188-9eb6-d27ca2c62d47",
+      "url": "https://app.notion.com/p/425f73ae951f81889eb6d27ca2c62d47?pvs=204"
+    },
+    {
+      "id": "ENT-0014",
+      "notionId": "425f73ae-951f-8110-a0da-ca6d46755877",
+      "url": "https://app.notion.com/p/425f73ae951f8110a0daca6d46755877?pvs=204"
+    },
+    {
+      "id": "ENT-0015",
+      "notionId": "425f73ae-951f-81ea-ac67-fc4ca7549b65",
+      "url": "https://app.notion.com/p/425f73ae951f81eaac67fc4ca7549b65?pvs=204"
+    },
+    {
+      "id": "ENT-0016",
+      "notionId": "425f73ae-951f-8110-9e6a-e1071d8a38b4",
+      "url": "https://app.notion.com/p/425f73ae951f81109e6ae1071d8a38b4?pvs=204"
+    },
+    {
+      "id": "TEC-0013",
+      "notionId": "425f73ae-951f-8115-aa2f-e7adcedab528",
+      "url": "https://app.notion.com/p/425f73ae951f8115aa2fe7adcedab528?pvs=204"
+    },
+    {
+      "id": "SPO-0013",
+      "notionId": "425f73ae-951f-81c1-867b-ddf1b4ecb20f",
+      "url": "https://app.notion.com/p/425f73ae951f81c1867bddf1b4ecb20f?pvs=204"
+    },
+    {
+      "id": "GEO-0013",
+      "notionId": "425f73ae-951f-815b-a3f0-ff1aa4682e57",
+      "url": "https://app.notion.com/p/425f73ae951f815ba3f0ff1aa4682e57?pvs=204"
+    },
+    {
+      "id": "GEO-0014",
+      "notionId": "425f73ae-951f-81c5-bb3a-f3c79858564d",
+      "url": "https://app.notion.com/p/425f73ae951f81c5bb3af3c79858564d?pvs=204"
+    },
+    {
+      "id": "GEO-0015",
+      "notionId": "425f73ae-951f-814c-8d68-cf15e2b43256",
+      "url": "https://app.notion.com/p/425f73ae951f814c8d68cf15e2b43256?pvs=204"
+    },
+    {
+      "id": "ECO-0013",
+      "notionId": "425f73ae-951f-8185-afe8-e1a6a137c4c3",
+      "url": "https://app.notion.com/p/425f73ae951f8185afe8e1a6a137c4c3?pvs=204"
+    },
+    {
+      "id": "ECO-0014",
+      "notionId": "425f73ae-951f-8192-8028-e5b00d8695cf",
+      "url": "https://app.notion.com/p/425f73ae951f81928028e5b00d8695cf?pvs=204"
+    },
+    {
+      "id": "SPO-0014",
+      "notionId": "425f73ae-951f-814b-bf27-fbca6019579f",
+      "url": "https://app.notion.com/p/425f73ae951f814bbf27fbca6019579f?pvs=204"
+    }
+  ],
+  "verification": {
+    "results": [
+      {
+        "gesamt": 132,
+        "eindeutige_ids": 132,
+        "fehlende_einheiten": 0
+      }
+    ],
+    "has_more": false,
+    "data_source_ids": [
+      "424f73ae-951f-812f-8b29-000bf21ad92b"
+    ]
+  }
+}

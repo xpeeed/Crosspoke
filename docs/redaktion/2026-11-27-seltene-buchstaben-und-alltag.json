@@ -1,0 +1,1182 @@
+{
+  "date": "2026-11-27",
+  "kind": "editorial-not-runtime",
+  "edits": [
+    {
+      "id": "SPO-0014",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f814bbf27fbca6019579f",
+        "Fragen-ID": "SPO-0014",
+        "Frage": "Was kosteten Erwachsenen-Heimtrikots der deutschen Fußball-Bundesliga 2025/26 laut Sky-Vergleich vom 14.08.2025 ohne Flock/Logo durchschnittlich, auf volle Euro gerundet?",
+        "Antwortwert": 92,
+        "Einheit": "Euro",
+        "Hinweis 1": "Das günstigste Grundmodell kam laut Vergleich aus Hoffenheim und kostete 79,95 Euro.",
+        "Hinweis 2": "Drei Vereine lagen bei genau 100 Euro Grundpreis; alle anderen blieben darunter.",
+        "Antworterklärung": "Der ungewichtete Mittelwert der 18 im Sky-Vergleich aufgeführten Grundpreise beträgt rund 91,63 Euro, auf volle Euro gerundet 92 Euro. Nicht mitgerechnet werden Flock und Liga-Logo. Dies ist ein historischer Vereinsvergleich, kein aktueller Marktpreis und kein nach Verkaufszahlen gewichteter Durchschnitt.",
+        "Revision": 1,
+        "Hinweis-Review": "Alle 18 Grundpreise aus der vollständigen Galerie übernommen; nicht die angezeigten Gesamtpreise mit Zusätzen. Summe 1649,29 €, geteilt durch 18 =91,6272…; ganzzahlig 92 €. Andere Medien nennen für Hoffenheim teils 79,99 €; hier ist ausdrücklich die feste Sky-Tabelle mit 79,95 € maßgeblich. Zwei Quellen-Nachkommastellen nicht automatisch als Schätzvorgabe verwenden. Einzelprüfung Q01–Q58 siehe Seiteninhalt; offene Gates ausdrücklich markiert.",
+        "Quelle": "https://sport.sky.de/fussball/artikel/die-trikots-der-bundesligisten-im-kostenueberblick/13399191/34942",
+        "Zusatzquellen": null
+      },
+      "properties": {
+        "Revision": 2,
+        "Frage": "Wie hoch war der mittlere Grundpreis der Erwachsenen-Heimtrikots der deutschen Fußball-Bundesliga 2025/26 (Stand 14.08.2025), auf volle Euro gerundet?"
+      }
+    },
+    {
+      "id": "GEO-0015",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f814c8d68cf15e2b43256",
+        "Fragen-ID": "GEO-0015",
+        "Frage": "Wie viele deutsche Städte mit Stadtrecht begannen Ende 2024 laut Destatis mit B?",
+        "Antwortwert": 263,
+        "Einheit": "Städte",
+        "Hinweis 1": "Die UN hat 193 Mitgliedstaaten; deutsche B-Städte gibt es mehr.",
+        "Hinweis 2": "105 davon beginnen mit Bad als eigenständigem Wort – mehr als ein Drittel des B-Bestands.",
+        "Antworterklärung": "Eigene Auszählung des amtlichen Verzeichnisses zum 31. Dezember 2024 ergibt 263 Städte mit B. Gezählt werden Gemeinden mit Stadtrecht nach dem amtlichen Namen, keine Stadtteile. Davon beginnen 105 mit dem eigenständigen Wort Bad; bekannte Großstädte sind also nur ein kleiner Teil.",
+        "Revision": 1,
+        "Hinweis-Review": "Reproduzierbare eigene Auszählung: 2059 eindeutige amtliche Regionalschlüssel; Filter Stadtnamen startswith B ergibt 263; startswith 'Bad ' ergibt 105. H1 >193, H2 105 > Gesamt/3 ergibt <315; keine exakte Rekonstruktion. Vollständige Ergebnisliste und SHA-256 lokal gesichert. Kein dekoratives Stadtfoto oder abzählbare markierte Karte. Einzelprüfung Q01–Q58 siehe Seiteninhalt; offene Gates ausdrücklich markiert.",
+        "Quelle": "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.xlsx?__blob=publicationFile&v=13",
+        "Zusatzquellen": "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.html\nhttps://research.un.org/en/unmembers/currentmembers"
+      },
+      "properties": {
+        "Revision": 2,
+        "Frage": "Wie viele deutsche Städte mit Stadtrecht begannen Ende 2024 laut Destatis mit J?",
+        "Antwortwert": 11,
+        "Hinweis 1": "Deutschland hat 16 Bundesländer; deutsche J-Städte gibt es weniger.",
+        "Hinweis 2": "Sachsen, Sachsen-Anhalt und Brandenburg stellen zusammen sechs; andere Bundesländer kommen hinzu.",
+        "Antworterklärung": "Das amtliche Verzeichnis zum 31. Dezember 2024 enthält elf Städte mit dem Anfangsbuchstaben J. Gezählt werden Gemeinden mit Stadtrecht nach dem amtlichen Stadtnamen, keine Stadtteile. Je zwei liegen in Sachsen, Sachsen-Anhalt und Brandenburg; die übrigen in Nordrhein-Westfalen, Niedersachsen, Thüringen und Mecklenburg-Vorpommern.",
+        "Zusatzquellen": "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.html\nhttps://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Glossar/bundeslaender.html",
+        "Hinweis-Review": "B auf Nutzerauftrag ersetzt, nur als archivierte Vorfassung erhalten. Seltenen Buchstaben J gewählt: 11 von 2059 amtlich gelisteten Städten. Ergebnisliste und regionale Teilzählung aus derselben amtlichen Datei; H1 <16, H2 >6, keine exakte Ableitung. Seltene Anfangsbuchstaben künftig bevorzugen. Alle alten Prüfbefunde zur B-Fassung sind historisch; Endprüfung, Layout und Playtest offen.",
+        "Schwierigkeitsgrad": "Leicht",
+        "Hinweisprüfung": "pending"
+      }
+    },
+    {
+      "id": "ECO-0013",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f8185afe8e1a6a137c4c3",
+        "Fragen-ID": "ECO-0013",
+        "Frage": "Wie hoch war 2025 der durchschnittliche Monatsbruttoverdienst vollzeitbeschäftigter Frauen in Deutschland ohne Sonderzahlungen?",
+        "Antwortwert": 4435,
+        "Einheit": "Euro pro Monat",
+        "Hinweis 1": "60.000 Euro Jahresgehalt wären 5.000 Euro monatlich – der gesuchte Durchschnitt lag darunter.",
+        "Hinweis 2": "2020 lag derselbe Frauen-Durchschnitt bei 3.578 Euro; 2025 lag er darüber.",
+        "Antworterklärung": "Destatis nennt für 2025 durchschnittlich 4.435 Euro im Monat für vollzeitbeschäftigte Frauen, ohne Sonderzahlungen. Es ist das arithmetische Mittel, kein Median und kein Teilzeit-Nettovergleich. Die Werte aller Vollzeitbeschäftigten oder nur der Männer sind andere Größen.",
+        "Revision": 1,
+        "Hinweis-Review": "Frauen ausdrücklich gemäß Nutzerwort Arbeitnehmerinnen interpretiert. Vollzeit, brutto, Monatsmittel, Jahr und ohne Sonderzahlungen in Frage; Mittelwert/Median in Auflösung geklärt. 60000/12=5000; 3578 <4435<5000. Tabellenwerte zusätzlich aus direkt heruntergeladenem Destatis-HTML gelesen: Frauen 2025=4435 und 2020=3578. Unabhängige Endprüfung bleibt offen. Einzelprüfung Q01–Q58 siehe Seiteninhalt; offene Gates ausdrücklich markiert.",
+        "Quelle": "https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/Tabellen/lange-reihe-deutschland.html",
+        "Zusatzquellen": null
+      },
+      "properties": {
+        "Revision": 2,
+        "Frage": "Wie hoch war 2025 das durchschnittliche Monatsgehalt vollzeitbeschäftigter Frauen in Deutschland – brutto, ohne Sonderzahlungen?",
+        "Einheit": "Euro brutto pro Monat"
+      }
+    },
+    {
+      "id": "ECO-0014",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f81928028e5b00d8695cf",
+        "Fragen-ID": "ECO-0014",
+        "Frage": "Was kostet ein 6aus49-Feld bei LOTTO Berlin inklusive Gebühr für eine Ziehung im Laden ohne Kundenkarte (27.11.2026)?",
+        "Antwortwert": 2.2,
+        "Einheit": "Euro",
+        "Hinweis 1": "Ein reiner Spiel-77-Zusatzeinsatz kostet 2,50 Euro und damit mehr.",
+        "Hinweis 2": "Der reine 6aus49-Einsatz beträgt 1,20 Euro; hinzu kommt die einmalige Bearbeitungsgebühr.",
+        "Antworterklärung": "1,20 Euro Spieleinsatz plus 1,00 Euro Gebühr ergeben 2,20 Euro für diesen genau definierten Fall. Online oder im Laden mit Kundenkarte beträgt die reguläre Gebühr dagegen 0,60 Euro. Weitere Ziehungen, Tipps und Zusatzlotterien sind hier ausgeschlossen.",
+        "Revision": 1,
+        "Hinweis-Review": "Kein allgemeiner Berlin-Preis behauptet: LOTTO 6aus49, ein Feld, eine Ziehung, Laden ohne Kundenkarte, keine Zusatzlotterien. Die volle Gebühr wird erst nach Auflösung genannt, sonst exakte Addition. Lange Frage wegen notwendiger Abgrenzung; reales Layout noch prüfen. Für spätere Eingabe/Anzeige Euro mit zwei Centstellen; reine Zahlenformatierung darf keinen Rundungszwang erfinden. Einzelprüfung Q01–Q58 siehe Seiteninhalt; offene Gates ausdrücklich markiert.",
+        "Quelle": "https://www.lotto-berlin.de/aktuelles/spieleinsaetze",
+        "Zusatzquellen": "https://www.lotto-berlin.de/lotto6aus49/spieleinsatz?gbn=7"
+      },
+      "properties": {
+        "Revision": 2,
+        "Frage": "Was kostet ein 6aus49-Feld bei LOTTO Berlin inklusive Gebühr für eine Ziehung im Laden ohne Kundenkarte (Stand 27.11.2026)?"
+      }
+    }
+  ],
+  "newQuestions": [
+    {
+      "id": "FOD-0013",
+      "properties": {
+        "Fragen-ID": "FOD-0013",
+        "Frage": "Wie hoch ist eine 0,5-Liter-Getränkedose im VISY-Classic-Format, auf ganze Zentimeter gerundet?",
+        "Kategorie": "Food & Drinks",
+        "Antwortwert": 17,
+        "Einheit": "Zentimeter",
+        "Hinweis 1": "Eine 1-Liter-Faxe-Geschenkdose wird beim Händler mit 19 Zentimetern angegeben – etwas höher.",
+        "Hinweis 2": "Der Durchmesser der gesuchten Dose beträgt 6,65 Zentimeter; ihre Höhe ist mehr als doppelt so groß.",
+        "Antworterklärung": "VISY gibt für die 500-ml-Classic-Dose eine Höhe von 168,0 Millimetern an: 16,8 Zentimeter, auf ganze Zentimeter gerundet 17. Das Volumen allein legt die Höhe einer Bierdose nicht eindeutig fest; deshalb ist das Format festgelegt. Die 19 Zentimeter im ersten Hinweis beziehen sich auf die konkret verlinkte personalisierte 1-Liter-Faxe-Dose laut Händler, nicht auf sämtliche Faxe-Varianten.",
+        "Fragekontext": "Gemeint ist das ausdrücklich genannte Dosenformat, nicht jede Dose mit demselben Inhalt.",
+        "Quelle": "https://www.visy.com/sites/default/files/2025-09/VISY%20BevCan%20Brochure.pdf",
+        "Zusatzquellen": "https://www.geschenke-online.de/products/ich-mag-dich-volle-moehre-1-liter-bierdose-mit-wunschname",
+        "Bezugsdatum": "VISY Produktbroschüre 2025; Händlerangabe abgerufen 27.11.2026",
+        "Unterkategorie": "Alltagsmaße · Getränkedose",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweisprüfung": "pending",
+        "Playtest": "pending",
+        "Schwierigkeitsgrad": "Leicht",
+        "Bildentscheidung": "Weglassen",
+        "Bildprüfung": "Kein Maß- oder Kapazitätsaufdruck. Eine vollständige maßgetreue Seitenansicht würde mit dem in H2 bekannten Durchmesser eine zu genaue geometrische Höhenableitung erlauben. Deshalb in dieser Hinweisfassung kein Dosenbild.",
+        "Hinweis-Review": "168 mm / 10 =16,8 cm →17 cm. H1 konkrete Händler-Faxe 19 cm >16,8 cm; H2 2×6,65=13,3 cm <16,8 cm. Keine Gleichung oder exakte Proportion als Lösungshilfe; Angaben verschiedener Gebinde nicht als lineares Volumen-Höhen-Verhältnis missverstehen. Q01–Q58 im Seiteninhalt; unabhängige Endprüfung, echtes Layout, Hinweiswirkung und Playtest offen."
+      },
+      "initial": "Ein Spieler könnte zunächst so schätzen: eine bekannte halbe-Liter-Bierdose gedanklich in der Hand halten und ihre Höhe ungefähr mit der eigenen Hand vergleichen.",
+      "source": "VISY-Broschüre 2025, Tabelle Classic: 500 ml, Height168.0, Diameter66.5 mm; Faxe-Händler Ø8,5×19 cm.",
+      "open": [],
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Alltagsgegenstand; Format/Umfrage nur als notwendige Abgrenzung."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Erster Schätzansatz vor H1 ausdrücklich dokumentiert."
+        },
+        {
+          "id": "Q03",
+          "status": "offen",
+          "note": "Alltagsgespräch und Aha redaktionell plausibel; Unterhaltung nicht empirisch geprüft."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Gegenstand und Bezugsgrundlage in Frage festgelegt."
+        },
+        {
+          "id": "Q05",
+          "status": "offen",
+          "note": "Notwendige Abgrenzungen verlängern den Fragetext; echtes Layout offen."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerischer Antwortwert und sichtbare Einheit vorhanden."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Anschauliche Zentimeter bzw. Prozent; keine unverständliche Skalierung."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Rundung bzw. eine Nachkommastelle ausdrücklich vorgegeben; Rechenweg dokumentiert."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "Format bzw. Erhebung/Zielgruppe unmittelbar in der Frage genannt."
+        },
+        {
+          "id": "Q10",
+          "status": "offen",
+          "note": "H1 real und alltagsnah; tatsächlicher Überraschungswert noch testen."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "H1 nennt belegte quantitative Referenz und die Vergleichsrichtung."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "Zusätzlicher realer Vergleichswert wird verständlich genannt."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Literdose bzw. Wechselrhythmus im Alltag vorstellbar."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Vergleichszahl unmittelbar angegeben, kein neues Wissensrätsel."
+        },
+        {
+          "id": "Q15",
+          "status": "erfüllt",
+          "note": "Thematisch passender Vergleich mit eindeutiger quantitativer Beziehung."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Original-Hersteller-/Händlerangabe bzw. Original-Umfragedaten statt erfundener Werte."
+        },
+        {
+          "id": "Q17",
+          "status": "offen",
+          "note": "H1 lässt mehrere plausible Schätzwerte; gefühlte Stärke gegen H2 im Playtest prüfen."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1 bleibt kurz und enthält eine einzige Vergleichsinformation."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 bezieht sich auf Dimension der Dose bzw. dieselbe Deutschland-Stichprobe."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Konkreter Durchmesser bzw. weiterer Anteil aus der Erhebung genannt."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt die H1-Obergrenze um eine Untergrenze bzw. umgekehrt."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Verdoppeln einer Länge bzw. Vergleich zweier Prozentwerte ohne Fachwissen möglich."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Keine genaue Höhenproportion und keine vollständige Umfrageverteilung zur Berechnung offengelegt."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2 enthält einen kurzen, unmittelbar nutzbaren Zusammenhang."
+        },
+        {
+          "id": "Q25",
+          "status": "nicht anwendbar",
+          "note": "Kombinatives Muster Q26 gewählt, kein zweiter paralleler Musterzwang."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "Zwei unterschiedliche Anker ergänzen einander."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "H1/H2 sind keine Wiederholung desselben Zahlenankers."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Hinweise arbeiten überwiegend mit Vergleichsschranken; Ausnahme/Restunsicherheit im Playtest prüfen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Plausibilitätsfortschritt redaktionell nachvollziehbar; Spielspannung nicht getestet."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Mehrere plausible Schätzwerte verbleiben; Bluffpotenzial im Spiel prüfen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Antwort, Vergleichswerte, Einheiten und Bezugsrahmen gegengeprüft."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Keine neue Handy-/Bildschirmprüfung durchgeführt."
+        },
+        {
+          "id": "Q33",
+          "status": "erfüllt",
+          "note": "Kurzer neutraler Fragekontext erläutert ausschließlich den Bezugsrahmen."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Keine neuen Zahlenanker und keine wesentliche Einschränkung nur im Kontext versteckt."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Erklärung mit Definition, Quelle und Abgrenzung erst zur Auflösung vorgesehen."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Erklärung erläutert Formatabhängigkeit bzw. Unterschied zwischen Selbstauskunft und Verhalten."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Belege und Rechenweg tatsächlich gelesen; unabhängige Quellen-Endprüfung bleibt offen."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach Erstorientierung; Einstufung/80-20-Ziel im Gesamtpool und Playtest prüfen."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Zwei Themen aus Food & Drinks und Mensch & Psychologie; bestehende Kategorien nicht verändert."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "132 bestehende Fragetitel auf Dopplungen gelesen; diese Sachverhalte dort nicht enthalten."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Vergleichsschranken häufen sich in diesem kleinen Paket; kein neuer Serienstandard."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Bestehende Fragen nur im ausdrücklich beauftragten Umfang revisioniert."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt diese Änderungen und zusätzlichen Fragen ausdrücklich; nur redaktionelle Entwürfe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Endprüfung, Playtest und endgültige Spielfreigabe ausstehend."
+        },
+        {
+          "id": "Q45",
+          "status": "nicht anwendbar",
+          "note": "Kein Bild: kein zusätzlicher minimaler Orientierungsgewinn in dieser Fassung."
+        },
+        {
+          "id": "Q46",
+          "status": "nicht anwendbar",
+          "note": "Kein Bild eingebunden."
+        },
+        {
+          "id": "Q47",
+          "status": "erfüllt",
+          "note": "Keine bildlichen Maß-/Kapazitäts- oder Prozentangaben eingebunden."
+        },
+        {
+          "id": "Q48",
+          "status": "erfüllt",
+          "note": "Bildentscheidung berücksichtigt Größenverhältnisse/Diagrammlecks."
+        },
+        {
+          "id": "Q49",
+          "status": "erfüllt",
+          "note": "Frage → H1 → H2 → Antwort ohne Bild gedanklich durchgespielt; Details im Prüfpfad."
+        },
+        {
+          "id": "Q50",
+          "status": "nicht anwendbar",
+          "note": "Keine Assets eingebunden; echte UI-Darstellung separat offen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "Haushalt und Getränkedose haben unmittelbaren Alltagsbezug."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Zentimeter bzw. Anteil von Personen ist anschaulich."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Plausibler Erstansatz ausdrücklich dokumentiert."
+        },
+        {
+          "id": "Q54",
+          "status": "offen",
+          "note": "Eigene Erinnerungen/Gewohnheiten ermöglichen Gespräch; keine Selbstauskunft nötig, Spaß noch testen."
+        },
+        {
+          "id": "Q55",
+          "status": "erfüllt",
+          "note": "Genaue Zahl unbekannt, Einstieg benötigt kein Spezialwissen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Konkretes Format bzw. Erhebung und Zielgruppe statt universeller Behauptung."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Anker verbessern die Plausibilität; Stärke und Intervalle im Spiel prüfen."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Alltagsbezug, Maßstab und erste Schätzidee vor fertiger Hinweis-Ausarbeitung bewertet."
+        }
+      ],
+      "path": "Frage: vertraute Dose gedanklich vorstellen. H1: unter 19 cm; nicht aus halbem Volumen halbe Höhe schließen. H2: 2×6,65=13,3 cm als Untergrenze, keine exakte Höhenproportion. Lösung 16,8 cm, als Spielwert17 cm. Vergleichsanker und Restunsicherheit vor Freigabe testen.",
+      "content": "## Redaktioneller Entwurf · 27.11.2026\n\nGemeint ist das ausdrücklich genannte Dosenformat, nicht jede Dose mit demselben Inhalt.\n\n**Erster Schätzansatz:** Ein Spieler könnte zunächst so schätzen: eine bekannte halbe-Liter-Bierdose gedanklich in der Hand halten und ihre Höhe ungefähr mit der eigenen Hand vergleichen.\n\n**Beleglage:** VISY-Broschüre 2025, Tabelle Classic: 500 ml, Height168.0, Diameter66.5 mm; Faxe-Händler Ø8,5×19 cm.\n\n**Prüfpfad:** Frage: vertraute Dose gedanklich vorstellen. H1: unter 19 cm; nicht aus halbem Volumen halbe Höhe schließen. H2: 2×6,65=13,3 cm als Untergrenze, keine exakte Höhenproportion. Lösung 16,8 cm, als Spielwert17 cm. Vergleichsanker und Restunsicherheit vor Freigabe testen.\n\n**Bildprüfung:** Kein Maß- oder Kapazitätsaufdruck. Eine vollständige maßgetreue Seitenansicht würde mit dem in H2 bekannten Durchmesser eine zu genaue geometrische Höhenableitung erlauben. Deshalb in dieser Hinweisfassung kein Dosenbild.\n\n**Status:** Redaktioneller Entwurf; keine endgültige Quellen-/Spiel-/UI-Freigabe.\n\n## Einzelprüfung Q01–Q58\n\n| Kriterium | Status | Befund |\n|---|---|---|\n|Q01|erfüllt|Vertrauter Alltagsgegenstand; Format/Umfrage nur als notwendige Abgrenzung.|\n|Q02|erfüllt|Erster Schätzansatz vor H1 ausdrücklich dokumentiert.|\n|Q03|offen|Alltagsgespräch und Aha redaktionell plausibel; Unterhaltung nicht empirisch geprüft.|\n|Q04|erfüllt|Gegenstand und Bezugsgrundlage in Frage festgelegt.|\n|Q05|offen|Notwendige Abgrenzungen verlängern den Fragetext; echtes Layout offen.|\n|Q06|erfüllt|Numerischer Antwortwert und sichtbare Einheit vorhanden.|\n|Q07|erfüllt|Anschauliche Zentimeter bzw. Prozent; keine unverständliche Skalierung.|\n|Q08|erfüllt|Rundung bzw. eine Nachkommastelle ausdrücklich vorgegeben; Rechenweg dokumentiert.|\n|Q09|erfüllt|Format bzw. Erhebung/Zielgruppe unmittelbar in der Frage genannt.|\n|Q10|offen|H1 real und alltagsnah; tatsächlicher Überraschungswert noch testen.|\n|Q11|erfüllt|H1 nennt belegte quantitative Referenz und die Vergleichsrichtung.|\n|Q12|erfüllt|Zusätzlicher realer Vergleichswert wird verständlich genannt.|\n|Q13|erfüllt|Literdose bzw. Wechselrhythmus im Alltag vorstellbar.|\n|Q14|erfüllt|Vergleichszahl unmittelbar angegeben, kein neues Wissensrätsel.|\n|Q15|erfüllt|Thematisch passender Vergleich mit eindeutiger quantitativer Beziehung.|\n|Q16|erfüllt|Original-Hersteller-/Händlerangabe bzw. Original-Umfragedaten statt erfundener Werte.|\n|Q17|offen|H1 lässt mehrere plausible Schätzwerte; gefühlte Stärke gegen H2 im Playtest prüfen.|\n|Q18|erfüllt|H1 bleibt kurz und enthält eine einzige Vergleichsinformation.|\n|Q19|erfüllt|H2 bezieht sich auf Dimension der Dose bzw. dieselbe Deutschland-Stichprobe.|\n|Q20|erfüllt|Konkreter Durchmesser bzw. weiterer Anteil aus der Erhebung genannt.|\n|Q21|erfüllt|H2 ergänzt die H1-Obergrenze um eine Untergrenze bzw. umgekehrt.|\n|Q22|erfüllt|Verdoppeln einer Länge bzw. Vergleich zweier Prozentwerte ohne Fachwissen möglich.|\n|Q23|erfüllt|Keine genaue Höhenproportion und keine vollständige Umfrageverteilung zur Berechnung offengelegt.|\n|Q24|erfüllt|H2 enthält einen kurzen, unmittelbar nutzbaren Zusammenhang.|\n|Q25|nicht anwendbar|Kombinatives Muster Q26 gewählt, kein zweiter paralleler Musterzwang.|\n|Q26|erfüllt|Zwei unterschiedliche Anker ergänzen einander.|\n|Q27|erfüllt|H1/H2 sind keine Wiederholung desselben Zahlenankers.|\n|Q28|offen|Hinweise arbeiten überwiegend mit Vergleichsschranken; Ausnahme/Restunsicherheit im Playtest prüfen.|\n|Q29|offen|Plausibilitätsfortschritt redaktionell nachvollziehbar; Spielspannung nicht getestet.|\n|Q30|offen|Mehrere plausible Schätzwerte verbleiben; Bluffpotenzial im Spiel prüfen.|\n|Q31|erfüllt|Antwort, Vergleichswerte, Einheiten und Bezugsrahmen gegengeprüft.|\n|Q32|offen|Keine neue Handy-/Bildschirmprüfung durchgeführt.|\n|Q33|erfüllt|Kurzer neutraler Fragekontext erläutert ausschließlich den Bezugsrahmen.|\n|Q34|erfüllt|Keine neuen Zahlenanker und keine wesentliche Einschränkung nur im Kontext versteckt.|\n|Q35|erfüllt|Erklärung mit Definition, Quelle und Abgrenzung erst zur Auflösung vorgesehen.|\n|Q36|erfüllt|Erklärung erläutert Formatabhängigkeit bzw. Unterschied zwischen Selbstauskunft und Verhalten.|\n|Q37|offen|Belege und Rechenweg tatsächlich gelesen; unabhängige Quellen-Endprüfung bleibt offen.|\n|Q38|offen|Vorläufig Leicht nach Erstorientierung; Einstufung/80-20-Ziel im Gesamtpool und Playtest prüfen.|\n|Q39|erfüllt|Zwei Themen aus Food & Drinks und Mensch & Psychologie; bestehende Kategorien nicht verändert.|\n|Q40|erfüllt|132 bestehende Fragetitel auf Dopplungen gelesen; diese Sachverhalte dort nicht enthalten.|\n|Q41|offen|Vergleichsschranken häufen sich in diesem kleinen Paket; kein neuer Serienstandard.|\n|Q42|erfüllt|Bestehende Fragen nur im ausdrücklich beauftragten Umfang revisioniert.|\n|Q43|erfüllt|Nutzer beauftragt diese Änderungen und zusätzlichen Fragen ausdrücklich; nur redaktionelle Entwürfe.|\n|Q44|offen|Unabhängige Endprüfung, Playtest und endgültige Spielfreigabe ausstehend.|\n|Q45|nicht anwendbar|Kein Bild: kein zusätzlicher minimaler Orientierungsgewinn in dieser Fassung.|\n|Q46|nicht anwendbar|Kein Bild eingebunden.|\n|Q47|erfüllt|Keine bildlichen Maß-/Kapazitäts- oder Prozentangaben eingebunden.|\n|Q48|erfüllt|Bildentscheidung berücksichtigt Größenverhältnisse/Diagrammlecks.|\n|Q49|erfüllt|Frage → H1 → H2 → Antwort ohne Bild gedanklich durchgespielt; Details im Prüfpfad.|\n|Q50|nicht anwendbar|Keine Assets eingebunden; echte UI-Darstellung separat offen.|\n|Q51|erfüllt|Haushalt und Getränkedose haben unmittelbaren Alltagsbezug.|\n|Q52|erfüllt|Zentimeter bzw. Anteil von Personen ist anschaulich.|\n|Q53|erfüllt|Plausibler Erstansatz ausdrücklich dokumentiert.|\n|Q54|offen|Eigene Erinnerungen/Gewohnheiten ermöglichen Gespräch; keine Selbstauskunft nötig, Spaß noch testen.|\n|Q55|erfüllt|Genaue Zahl unbekannt, Einstieg benötigt kein Spezialwissen.|\n|Q56|erfüllt|Konkretes Format bzw. Erhebung und Zielgruppe statt universeller Behauptung.|\n|Q57|offen|Beide Anker verbessern die Plausibilität; Stärke und Intervalle im Spiel prüfen.|\n|Q58|erfüllt|Alltagsbezug, Maßstab und erste Schätzidee vor fertiger Hinweis-Ausarbeitung bewertet.|\n\n## Quellen\n\n[Hauptquelle](https://www.visy.com/sites/default/files/2025-09/VISY%20BevCan%20Brochure.pdf)\n\n[Zusatzquelle 1](https://www.geschenke-online.de/products/ich-mag-dich-volle-moehre-1-liter-bierdose-mit-wunschname)"
+    },
+    {
+      "id": "HUM-0013",
+      "properties": {
+        "Fragen-ID": "HUM-0013",
+        "Frage": "Wie viel Prozent der 16–74-Jährigen in Deutschland nannten in der Galaxus/GfK-Umfrage 2023 monatlichen Bettwäschewechsel (eine Nachkommastelle)?",
+        "Kategorie": "Mensch & Psychologie",
+        "Antwortwert": 32.5,
+        "Einheit": "Prozent",
+        "Hinweis 1": "17,7 Prozent nannten wöchentlichen Wechsel – weniger als monatlichen.",
+        "Hinweis 2": "Alle zwei Wochen nannten 40,7 Prozent – mehr als monatlich.",
+        "Antworterklärung": "In der Deutschland-Reihe der Originalgrafik stehen 32,5 Prozent für monatlich, 17,7 für wöchentlich und 40,7 für alle zwei Wochen. GfK befragte im Auftrag von Galaxus 1.500 Personen im Alter von 16 bis 74 Jahren vom 27. Dezember 2022 bis zum 5. Januar 2023; veröffentlicht wurde am 22. März 2023. Das Ergebnis betrifft selbst berichtete Gewohnheiten dieser Erhebung und ist keine aktuelle Messung des Verhaltens aller Deutschen.",
+        "Fragekontext": "Gefragt ist die Antwortkategorie monatlich in der damaligen Befragung; es geht nicht um persönliche Angaben der Mitspieler.",
+        "Quelle": "https://www.galaxus.de/de/page/deutschland-im-goblin-mode-jeder-vierte-mann-wechselt-seine-unterwaesche-nicht-taeglich-26725",
+        "Zusatzquellen": "https://flo.uri.sh/story/1844380/embed\nhttps://public.flourish.studio/visualisation/12557876/",
+        "Bezugsdatum": "Erhebung 27.12.2022–05.01.2023; Veröffentlichung 22.03.2023",
+        "Unterkategorie": "Alltagsgewohnheiten · Haushalt",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweisprüfung": "needs_revision",
+        "Playtest": "pending",
+        "Schwierigkeitsgrad": "Leicht",
+        "Bildentscheidung": "Weglassen",
+        "Bildprüfung": "Bettfoto wäre bloße Dekoration. Originalgrafik oder Prozentdarstellung würde die Lösung verraten; keine Übernahme als Fragebild.",
+        "Hinweis-Review": "Original-Flourish-Daten direkt aus dem öffentlich eingebetteten HTML gelesen: Deutschland täglich1,5 / wöchentlich17,7 / zweiwöchentlich40,7 / monatlich32,5 / alle2–3Monate6,4 / seltener1,2. Nicht mit jüngeren Sekundärartikeln oder anderen Umfragen vermischen. Eine Nachkommastelle ausdrücklich in Frage, weil bedingte UI-Genauigkeitszeile noch nicht implementiert. H1 auf Nutzerwunsch; beide Hinweise sind reine Vergleichsschranken, daher Q28 bewusst offen/needs_revision statt endgültig freigabereif. Keine gesundheitliche Bewertung."
+      },
+      "initial": "Ein Spieler könnte zunächst so schätzen: eigene Haushaltsroutine und vermutete Unterschiede zwischen wöchentlichem, zweiwöchentlichem und monatlichem Wechsel abwägen; keine Selbstauskunft erforderlich.",
+      "source": "Galaxus/GfK Originalerhebung 2022/23, Deutschland-Zeile der eingebetteten Flourish-Visualisierung12557876: monatlich32,5%, wöchentlich17,7%, zweiwöchentlich40,7%.",
+      "open": [
+        "Q28"
+      ],
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Vertrauter Alltagsgegenstand; Format/Umfrage nur als notwendige Abgrenzung."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Erster Schätzansatz vor H1 ausdrücklich dokumentiert."
+        },
+        {
+          "id": "Q03",
+          "status": "offen",
+          "note": "Alltagsgespräch und Aha redaktionell plausibel; Unterhaltung nicht empirisch geprüft."
+        },
+        {
+          "id": "Q04",
+          "status": "erfüllt",
+          "note": "Gegenstand und Bezugsgrundlage in Frage festgelegt."
+        },
+        {
+          "id": "Q05",
+          "status": "offen",
+          "note": "Notwendige Abgrenzungen verlängern den Fragetext; echtes Layout offen."
+        },
+        {
+          "id": "Q06",
+          "status": "erfüllt",
+          "note": "Numerischer Antwortwert und sichtbare Einheit vorhanden."
+        },
+        {
+          "id": "Q07",
+          "status": "erfüllt",
+          "note": "Anschauliche Zentimeter bzw. Prozent; keine unverständliche Skalierung."
+        },
+        {
+          "id": "Q08",
+          "status": "erfüllt",
+          "note": "Rundung bzw. eine Nachkommastelle ausdrücklich vorgegeben; Rechenweg dokumentiert."
+        },
+        {
+          "id": "Q09",
+          "status": "erfüllt",
+          "note": "Format bzw. Erhebung/Zielgruppe unmittelbar in der Frage genannt."
+        },
+        {
+          "id": "Q10",
+          "status": "offen",
+          "note": "H1 real und alltagsnah; tatsächlicher Überraschungswert noch testen."
+        },
+        {
+          "id": "Q11",
+          "status": "erfüllt",
+          "note": "H1 nennt belegte quantitative Referenz und die Vergleichsrichtung."
+        },
+        {
+          "id": "Q12",
+          "status": "erfüllt",
+          "note": "Zusätzlicher realer Vergleichswert wird verständlich genannt."
+        },
+        {
+          "id": "Q13",
+          "status": "erfüllt",
+          "note": "Literdose bzw. Wechselrhythmus im Alltag vorstellbar."
+        },
+        {
+          "id": "Q14",
+          "status": "erfüllt",
+          "note": "Vergleichszahl unmittelbar angegeben, kein neues Wissensrätsel."
+        },
+        {
+          "id": "Q15",
+          "status": "erfüllt",
+          "note": "Thematisch passender Vergleich mit eindeutiger quantitativer Beziehung."
+        },
+        {
+          "id": "Q16",
+          "status": "erfüllt",
+          "note": "Original-Hersteller-/Händlerangabe bzw. Original-Umfragedaten statt erfundener Werte."
+        },
+        {
+          "id": "Q17",
+          "status": "offen",
+          "note": "H1 lässt mehrere plausible Schätzwerte; gefühlte Stärke gegen H2 im Playtest prüfen."
+        },
+        {
+          "id": "Q18",
+          "status": "erfüllt",
+          "note": "H1 bleibt kurz und enthält eine einzige Vergleichsinformation."
+        },
+        {
+          "id": "Q19",
+          "status": "erfüllt",
+          "note": "H2 bezieht sich auf Dimension der Dose bzw. dieselbe Deutschland-Stichprobe."
+        },
+        {
+          "id": "Q20",
+          "status": "erfüllt",
+          "note": "Konkreter Durchmesser bzw. weiterer Anteil aus der Erhebung genannt."
+        },
+        {
+          "id": "Q21",
+          "status": "erfüllt",
+          "note": "H2 ergänzt die H1-Obergrenze um eine Untergrenze bzw. umgekehrt."
+        },
+        {
+          "id": "Q22",
+          "status": "erfüllt",
+          "note": "Verdoppeln einer Länge bzw. Vergleich zweier Prozentwerte ohne Fachwissen möglich."
+        },
+        {
+          "id": "Q23",
+          "status": "erfüllt",
+          "note": "Keine genaue Höhenproportion und keine vollständige Umfrageverteilung zur Berechnung offengelegt."
+        },
+        {
+          "id": "Q24",
+          "status": "erfüllt",
+          "note": "H2 enthält einen kurzen, unmittelbar nutzbaren Zusammenhang."
+        },
+        {
+          "id": "Q25",
+          "status": "nicht anwendbar",
+          "note": "Kombinatives Muster Q26 gewählt, kein zweiter paralleler Musterzwang."
+        },
+        {
+          "id": "Q26",
+          "status": "erfüllt",
+          "note": "Zwei unterschiedliche Anker ergänzen einander."
+        },
+        {
+          "id": "Q27",
+          "status": "erfüllt",
+          "note": "H1/H2 sind keine Wiederholung desselben Zahlenankers."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Hinweise arbeiten überwiegend mit Vergleichsschranken; Ausnahme/Restunsicherheit im Playtest prüfen."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Plausibilitätsfortschritt redaktionell nachvollziehbar; Spielspannung nicht getestet."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Mehrere plausible Schätzwerte verbleiben; Bluffpotenzial im Spiel prüfen."
+        },
+        {
+          "id": "Q31",
+          "status": "erfüllt",
+          "note": "Antwort, Vergleichswerte, Einheiten und Bezugsrahmen gegengeprüft."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Keine neue Handy-/Bildschirmprüfung durchgeführt."
+        },
+        {
+          "id": "Q33",
+          "status": "erfüllt",
+          "note": "Kurzer neutraler Fragekontext erläutert ausschließlich den Bezugsrahmen."
+        },
+        {
+          "id": "Q34",
+          "status": "erfüllt",
+          "note": "Keine neuen Zahlenanker und keine wesentliche Einschränkung nur im Kontext versteckt."
+        },
+        {
+          "id": "Q35",
+          "status": "erfüllt",
+          "note": "Erklärung mit Definition, Quelle und Abgrenzung erst zur Auflösung vorgesehen."
+        },
+        {
+          "id": "Q36",
+          "status": "erfüllt",
+          "note": "Erklärung erläutert Formatabhängigkeit bzw. Unterschied zwischen Selbstauskunft und Verhalten."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Belege und Rechenweg tatsächlich gelesen; unabhängige Quellen-Endprüfung bleibt offen."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Vorläufig Leicht nach Erstorientierung; Einstufung/80-20-Ziel im Gesamtpool und Playtest prüfen."
+        },
+        {
+          "id": "Q39",
+          "status": "erfüllt",
+          "note": "Zwei Themen aus Food & Drinks und Mensch & Psychologie; bestehende Kategorien nicht verändert."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "132 bestehende Fragetitel auf Dopplungen gelesen; diese Sachverhalte dort nicht enthalten."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Vergleichsschranken häufen sich in diesem kleinen Paket; kein neuer Serienstandard."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Bestehende Fragen nur im ausdrücklich beauftragten Umfang revisioniert."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt diese Änderungen und zusätzlichen Fragen ausdrücklich; nur redaktionelle Entwürfe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unabhängige Endprüfung, Playtest und endgültige Spielfreigabe ausstehend."
+        },
+        {
+          "id": "Q45",
+          "status": "nicht anwendbar",
+          "note": "Kein Bild: kein zusätzlicher minimaler Orientierungsgewinn in dieser Fassung."
+        },
+        {
+          "id": "Q46",
+          "status": "nicht anwendbar",
+          "note": "Kein Bild eingebunden."
+        },
+        {
+          "id": "Q47",
+          "status": "erfüllt",
+          "note": "Keine bildlichen Maß-/Kapazitäts- oder Prozentangaben eingebunden."
+        },
+        {
+          "id": "Q48",
+          "status": "erfüllt",
+          "note": "Bildentscheidung berücksichtigt Größenverhältnisse/Diagrammlecks."
+        },
+        {
+          "id": "Q49",
+          "status": "erfüllt",
+          "note": "Frage → H1 → H2 → Antwort ohne Bild gedanklich durchgespielt; Details im Prüfpfad."
+        },
+        {
+          "id": "Q50",
+          "status": "nicht anwendbar",
+          "note": "Keine Assets eingebunden; echte UI-Darstellung separat offen."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "Haushalt und Getränkedose haben unmittelbaren Alltagsbezug."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Zentimeter bzw. Anteil von Personen ist anschaulich."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Plausibler Erstansatz ausdrücklich dokumentiert."
+        },
+        {
+          "id": "Q54",
+          "status": "offen",
+          "note": "Eigene Erinnerungen/Gewohnheiten ermöglichen Gespräch; keine Selbstauskunft nötig, Spaß noch testen."
+        },
+        {
+          "id": "Q55",
+          "status": "erfüllt",
+          "note": "Genaue Zahl unbekannt, Einstieg benötigt kein Spezialwissen."
+        },
+        {
+          "id": "Q56",
+          "status": "erfüllt",
+          "note": "Konkretes Format bzw. Erhebung und Zielgruppe statt universeller Behauptung."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Beide Anker verbessern die Plausibilität; Stärke und Intervalle im Spiel prüfen."
+        },
+        {
+          "id": "Q58",
+          "status": "erfüllt",
+          "note": "Alltagsbezug, Maßstab und erste Schätzidee vor fertiger Hinweis-Ausarbeitung bewertet."
+        }
+      ],
+      "path": "Frage: Alltagshäufigkeit schätzen. H1: monatlicher Anteil über17,7%. H2: unter40,7%. Lösung32,5%. Zahlen ermöglichen Orientierung, wirken aber wie ein reines Intervall; Q28 und Hinweisprüfung bleiben offen/needs_revision.",
+      "content": "## Redaktioneller Entwurf · 27.11.2026\n\nGefragt ist die Antwortkategorie monatlich in der damaligen Befragung; es geht nicht um persönliche Angaben der Mitspieler.\n\n**Erster Schätzansatz:** Ein Spieler könnte zunächst so schätzen: eigene Haushaltsroutine und vermutete Unterschiede zwischen wöchentlichem, zweiwöchentlichem und monatlichem Wechsel abwägen; keine Selbstauskunft erforderlich.\n\n**Beleglage:** Galaxus/GfK Originalerhebung 2022/23, Deutschland-Zeile der eingebetteten Flourish-Visualisierung12557876: monatlich32,5%, wöchentlich17,7%, zweiwöchentlich40,7%.\n\n**Prüfpfad:** Frage: Alltagshäufigkeit schätzen. H1: monatlicher Anteil über17,7%. H2: unter40,7%. Lösung32,5%. Zahlen ermöglichen Orientierung, wirken aber wie ein reines Intervall; Q28 und Hinweisprüfung bleiben offen/needs_revision.\n\n**Bildprüfung:** Bettfoto wäre bloße Dekoration. Originalgrafik oder Prozentdarstellung würde die Lösung verraten; keine Übernahme als Fragebild.\n\n**Status:** Redaktioneller Entwurf; keine endgültige Quellen-/Spiel-/UI-Freigabe.\n\n## Einzelprüfung Q01–Q58\n\n| Kriterium | Status | Befund |\n|---|---|---|\n|Q01|erfüllt|Vertrauter Alltagsgegenstand; Format/Umfrage nur als notwendige Abgrenzung.|\n|Q02|erfüllt|Erster Schätzansatz vor H1 ausdrücklich dokumentiert.|\n|Q03|offen|Alltagsgespräch und Aha redaktionell plausibel; Unterhaltung nicht empirisch geprüft.|\n|Q04|erfüllt|Gegenstand und Bezugsgrundlage in Frage festgelegt.|\n|Q05|offen|Notwendige Abgrenzungen verlängern den Fragetext; echtes Layout offen.|\n|Q06|erfüllt|Numerischer Antwortwert und sichtbare Einheit vorhanden.|\n|Q07|erfüllt|Anschauliche Zentimeter bzw. Prozent; keine unverständliche Skalierung.|\n|Q08|erfüllt|Rundung bzw. eine Nachkommastelle ausdrücklich vorgegeben; Rechenweg dokumentiert.|\n|Q09|erfüllt|Format bzw. Erhebung/Zielgruppe unmittelbar in der Frage genannt.|\n|Q10|offen|H1 real und alltagsnah; tatsächlicher Überraschungswert noch testen.|\n|Q11|erfüllt|H1 nennt belegte quantitative Referenz und die Vergleichsrichtung.|\n|Q12|erfüllt|Zusätzlicher realer Vergleichswert wird verständlich genannt.|\n|Q13|erfüllt|Literdose bzw. Wechselrhythmus im Alltag vorstellbar.|\n|Q14|erfüllt|Vergleichszahl unmittelbar angegeben, kein neues Wissensrätsel.|\n|Q15|erfüllt|Thematisch passender Vergleich mit eindeutiger quantitativer Beziehung.|\n|Q16|erfüllt|Original-Hersteller-/Händlerangabe bzw. Original-Umfragedaten statt erfundener Werte.|\n|Q17|offen|H1 lässt mehrere plausible Schätzwerte; gefühlte Stärke gegen H2 im Playtest prüfen.|\n|Q18|erfüllt|H1 bleibt kurz und enthält eine einzige Vergleichsinformation.|\n|Q19|erfüllt|H2 bezieht sich auf Dimension der Dose bzw. dieselbe Deutschland-Stichprobe.|\n|Q20|erfüllt|Konkreter Durchmesser bzw. weiterer Anteil aus der Erhebung genannt.|\n|Q21|erfüllt|H2 ergänzt die H1-Obergrenze um eine Untergrenze bzw. umgekehrt.|\n|Q22|erfüllt|Verdoppeln einer Länge bzw. Vergleich zweier Prozentwerte ohne Fachwissen möglich.|\n|Q23|erfüllt|Keine genaue Höhenproportion und keine vollständige Umfrageverteilung zur Berechnung offengelegt.|\n|Q24|erfüllt|H2 enthält einen kurzen, unmittelbar nutzbaren Zusammenhang.|\n|Q25|nicht anwendbar|Kombinatives Muster Q26 gewählt, kein zweiter paralleler Musterzwang.|\n|Q26|erfüllt|Zwei unterschiedliche Anker ergänzen einander.|\n|Q27|erfüllt|H1/H2 sind keine Wiederholung desselben Zahlenankers.|\n|Q28|offen|Hinweise arbeiten überwiegend mit Vergleichsschranken; Ausnahme/Restunsicherheit im Playtest prüfen.|\n|Q29|offen|Plausibilitätsfortschritt redaktionell nachvollziehbar; Spielspannung nicht getestet.|\n|Q30|offen|Mehrere plausible Schätzwerte verbleiben; Bluffpotenzial im Spiel prüfen.|\n|Q31|erfüllt|Antwort, Vergleichswerte, Einheiten und Bezugsrahmen gegengeprüft.|\n|Q32|offen|Keine neue Handy-/Bildschirmprüfung durchgeführt.|\n|Q33|erfüllt|Kurzer neutraler Fragekontext erläutert ausschließlich den Bezugsrahmen.|\n|Q34|erfüllt|Keine neuen Zahlenanker und keine wesentliche Einschränkung nur im Kontext versteckt.|\n|Q35|erfüllt|Erklärung mit Definition, Quelle und Abgrenzung erst zur Auflösung vorgesehen.|\n|Q36|erfüllt|Erklärung erläutert Formatabhängigkeit bzw. Unterschied zwischen Selbstauskunft und Verhalten.|\n|Q37|offen|Belege und Rechenweg tatsächlich gelesen; unabhängige Quellen-Endprüfung bleibt offen.|\n|Q38|offen|Vorläufig Leicht nach Erstorientierung; Einstufung/80-20-Ziel im Gesamtpool und Playtest prüfen.|\n|Q39|erfüllt|Zwei Themen aus Food & Drinks und Mensch & Psychologie; bestehende Kategorien nicht verändert.|\n|Q40|erfüllt|132 bestehende Fragetitel auf Dopplungen gelesen; diese Sachverhalte dort nicht enthalten.|\n|Q41|offen|Vergleichsschranken häufen sich in diesem kleinen Paket; kein neuer Serienstandard.|\n|Q42|erfüllt|Bestehende Fragen nur im ausdrücklich beauftragten Umfang revisioniert.|\n|Q43|erfüllt|Nutzer beauftragt diese Änderungen und zusätzlichen Fragen ausdrücklich; nur redaktionelle Entwürfe.|\n|Q44|offen|Unabhängige Endprüfung, Playtest und endgültige Spielfreigabe ausstehend.|\n|Q45|nicht anwendbar|Kein Bild: kein zusätzlicher minimaler Orientierungsgewinn in dieser Fassung.|\n|Q46|nicht anwendbar|Kein Bild eingebunden.|\n|Q47|erfüllt|Keine bildlichen Maß-/Kapazitäts- oder Prozentangaben eingebunden.|\n|Q48|erfüllt|Bildentscheidung berücksichtigt Größenverhältnisse/Diagrammlecks.|\n|Q49|erfüllt|Frage → H1 → H2 → Antwort ohne Bild gedanklich durchgespielt; Details im Prüfpfad.|\n|Q50|nicht anwendbar|Keine Assets eingebunden; echte UI-Darstellung separat offen.|\n|Q51|erfüllt|Haushalt und Getränkedose haben unmittelbaren Alltagsbezug.|\n|Q52|erfüllt|Zentimeter bzw. Anteil von Personen ist anschaulich.|\n|Q53|erfüllt|Plausibler Erstansatz ausdrücklich dokumentiert.|\n|Q54|offen|Eigene Erinnerungen/Gewohnheiten ermöglichen Gespräch; keine Selbstauskunft nötig, Spaß noch testen.|\n|Q55|erfüllt|Genaue Zahl unbekannt, Einstieg benötigt kein Spezialwissen.|\n|Q56|erfüllt|Konkretes Format bzw. Erhebung und Zielgruppe statt universeller Behauptung.|\n|Q57|offen|Beide Anker verbessern die Plausibilität; Stärke und Intervalle im Spiel prüfen.|\n|Q58|erfüllt|Alltagsbezug, Maßstab und erste Schätzidee vor fertiger Hinweis-Ausarbeitung bewertet.|\n\n## Quellen\n\n[Hauptquelle](https://www.galaxus.de/de/page/deutschland-im-goblin-mode-jeder-vierte-mann-wechselt-seine-unterwaesche-nicht-taeglich-26725)\n\n[Zusatzquelle 1](https://flo.uri.sh/story/1844380/embed)\n\n[Zusatzquelle 2](https://public.flourish.studio/visualisation/12557876/)"
+    },
+    {
+      "id": "CUR-0013",
+      "properties": {
+        "Fragen-ID": "CUR-0013",
+        "Frage": "Wie oft muss man ein DIN-A4-Blatt falten, um ein Papierboot zu basteln?",
+        "Kategorie": "Kurioses Wissen",
+        "Antwortwert": null,
+        "Einheit": "Faltungen",
+        "Hinweis 1": "Noch offen: zuerst Anleitung und Zählweise festlegen.",
+        "Hinweis 2": "Noch offen: keinen Hinweis aus einer ungeprüften Faltzahl ableiten.",
+        "Antworterklärung": "Noch keine eindeutige Antwort. Die verlinkte Origami.me-Anleitung hat acht nummerierte Schritte, einzelne Schritte enthalten jedoch mehrere Faltungen, Aufklappen und Formen. Eine allgemeine Zahl notwendiger Faltungen folgt daraus nicht. Vor Ausarbeitung eine konkrete Bootvariante und eine nachvollziehbare Zählregel festlegen; Anleitungsschritte nicht als einzelne Faltungen ausgeben.",
+        "Fragekontext": "Unvollständige Nutzeridee zur redaktionellen Klärung; nicht für Spielimport oder Freigabe verwenden.",
+        "Quelle": "https://origami.me/traditional-boat/",
+        "Zusatzquellen": "https://www.talu.de/papierboot-falten/",
+        "Bezugsdatum": "Anleitungen geprüft 27.11.2026",
+        "Unterkategorie": "Basteln · offene Zählweise",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweisprüfung": "needs_revision",
+        "Playtest": "pending",
+        "Bildentscheidung": "Optional",
+        "Bildprüfung": "Nach Festlegung der Variante kann ein einzelnes fertiges Papierboot ohne Maße und Vergleichsobjekte den Gegenstand klären. Keine Anleitungsschritte, Falzlinien oder abzählbare Bildfolge; Variante und Rechte vor Nutzung prüfen.",
+        "Hinweis-Review": "Blockiert Q04/Q08/Q09/Q37/Q56: Variante und Zählweise nicht festgelegt, kein belastbarer Antwortwert. H1/H2 sind ausdrücklich Arbeitsvermerke, keine spielbaren Hinweise. Keine Zahl erfunden und kein Schemawert0 als Platzhalter. Q01–Q58 mit offenen Abhängigkeiten im Seiteninhalt. Nicht als vollständige oder spielbereite Frage zählen."
+      },
+      "initial": "Ein Spieler könnte zunächst so schätzen: sich an das klassische Papierboot aus der Kindheit erinnern und dessen Faltablauf gedanklich durchgehen; ohne gemeinsame Zählweise sind solche Antworten aber nicht vergleichbar.",
+      "source": "Origami.me acht nummerierte Schritte, davon etwa Schritt3 zwei Eckenfaltungen und Schritt7 Vorder-/Rückseitenfaltung; Talu andere Schrittgliederung. Belegt die Uneindeutigkeit, nicht eine universelle Faltzahl.",
+      "open": [
+        "Q04",
+        "Q08",
+        "Q09",
+        "Q37",
+        "Q56"
+      ],
+      "review": [
+        {
+          "id": "Q01",
+          "status": "erfüllt",
+          "note": "Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft."
+        },
+        {
+          "id": "Q02",
+          "status": "erfüllt",
+          "note": "Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft."
+        },
+        {
+          "id": "Q03",
+          "status": "offen",
+          "note": "Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft."
+        },
+        {
+          "id": "Q04",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q05",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q06",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q07",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q08",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q09",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q10",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q11",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q12",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q13",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q14",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q15",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q16",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q17",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q18",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q19",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q20",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q21",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q22",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q23",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q24",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q25",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q26",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q27",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q28",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q29",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q30",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q31",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q32",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q33",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q34",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q35",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q36",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q37",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q38",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q39",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q40",
+          "status": "erfüllt",
+          "note": "132 bestehende Fragetitel auf Dopplungen gelesen; diese Sachverhalte dort nicht enthalten."
+        },
+        {
+          "id": "Q41",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q42",
+          "status": "erfüllt",
+          "note": "Bestehende Fragen nur im ausdrücklich beauftragten Umfang revisioniert."
+        },
+        {
+          "id": "Q43",
+          "status": "erfüllt",
+          "note": "Nutzer beauftragt diese Änderungen und zusätzlichen Fragen ausdrücklich; nur redaktionelle Entwürfe."
+        },
+        {
+          "id": "Q44",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q45",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q46",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q47",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q48",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q49",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q50",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q51",
+          "status": "erfüllt",
+          "note": "Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft."
+        },
+        {
+          "id": "Q52",
+          "status": "erfüllt",
+          "note": "Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft."
+        },
+        {
+          "id": "Q53",
+          "status": "erfüllt",
+          "note": "Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft."
+        },
+        {
+          "id": "Q54",
+          "status": "offen",
+          "note": "Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft."
+        },
+        {
+          "id": "Q55",
+          "status": "erfüllt",
+          "note": "Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft."
+        },
+        {
+          "id": "Q56",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q57",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        },
+        {
+          "id": "Q58",
+          "status": "offen",
+          "note": "Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich."
+        }
+      ],
+      "path": "Kein spielbarer Prüfpfad: je nach Zählweise unterscheiden sich Faltungen, Falzkanten und Schritte; Antwort bleibt leer.",
+      "content": "## Redaktioneller Entwurf · 27.11.2026\n\nUnvollständige Nutzeridee zur redaktionellen Klärung; nicht für Spielimport oder Freigabe verwenden.\n\n**Erster Schätzansatz:** Ein Spieler könnte zunächst so schätzen: sich an das klassische Papierboot aus der Kindheit erinnern und dessen Faltablauf gedanklich durchgehen; ohne gemeinsame Zählweise sind solche Antworten aber nicht vergleichbar.\n\n**Beleglage:** Origami.me acht nummerierte Schritte, davon etwa Schritt3 zwei Eckenfaltungen und Schritt7 Vorder-/Rückseitenfaltung; Talu andere Schrittgliederung. Belegt die Uneindeutigkeit, nicht eine universelle Faltzahl.\n\n**Prüfpfad:** Kein spielbarer Prüfpfad: je nach Zählweise unterscheiden sich Faltungen, Falzkanten und Schritte; Antwort bleibt leer.\n\n**Bildprüfung:** Nach Festlegung der Variante kann ein einzelnes fertiges Papierboot ohne Maße und Vergleichsobjekte den Gegenstand klären. Keine Anleitungsschritte, Falzlinien oder abzählbare Bildfolge; Variante und Rechte vor Nutzung prüfen.\n\n**Status:** Unvollständige Idee, keine Lösung eingetragen, nicht importieren.\n\n## Einzelprüfung Q01–Q58\n\n| Kriterium | Status | Befund |\n|---|---|---|\n|Q01|erfüllt|Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft.|\n|Q02|erfüllt|Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft.|\n|Q03|offen|Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft.|\n|Q04|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q05|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q06|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q07|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q08|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q09|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q10|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q11|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q12|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q13|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q14|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q15|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q16|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q17|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q18|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q19|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q20|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q21|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q22|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q23|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q24|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q25|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q26|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q27|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q28|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q29|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q30|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q31|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q32|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q33|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q34|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q35|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q36|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q37|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q38|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q39|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q40|erfüllt|132 bestehende Fragetitel auf Dopplungen gelesen; diese Sachverhalte dort nicht enthalten.|\n|Q41|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q42|erfüllt|Bestehende Fragen nur im ausdrücklich beauftragten Umfang revisioniert.|\n|Q43|erfüllt|Nutzer beauftragt diese Änderungen und zusätzlichen Fragen ausdrücklich; nur redaktionelle Entwürfe.|\n|Q44|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q45|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q46|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q47|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q48|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q49|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q50|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q51|erfüllt|Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft.|\n|Q52|erfüllt|Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft.|\n|Q53|erfüllt|Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft.|\n|Q54|offen|Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft.|\n|Q55|erfüllt|Alltagsidee mit plausiblem Kindheits-/Bastelbezug; konkrete Spielbarkeit nicht geprüft.|\n|Q56|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q57|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n|Q58|offen|Unvollständige Idee: erst Variante, Zählregel, Antwort und echte Hinweise festlegen. Keine spielfertige Einzelprüfung möglich.|\n\n## Quellen\n\n[Hauptquelle](https://origami.me/traditional-boat/)\n\n[Zusatzquelle 1](https://www.talu.de/papierboot-falten/)"
+    }
+  ],
+  "created": {
+    "pages": [
+      {
+        "id": "425f73ae-951f-81ec-ba0f-d18945fe7d49",
+        "url": "https://app.notion.com/p/425f73ae951f81ecba0fd18945fe7d49?pvs=204",
+        "properties": {
+          "Fragen-ID": "FOD-0013",
+          "Frage": "Wie hoch ist eine 0,5-Liter-Getränkedose im VISY-Classic-Format, auf ganze Zentimeter gerundet?",
+          "Kategorie": "Food & Drinks",
+          "Antwortwert": 17,
+          "Einheit": "Zentimeter",
+          "Hinweis 1": "Eine 1-Liter-Faxe-Geschenkdose wird beim Händler mit 19 Zentimetern angegeben – etwas höher.",
+          "Hinweis 2": "Der Durchmesser der gesuchten Dose beträgt 6,65 Zentimeter; ihre Höhe ist mehr als doppelt so groß.",
+          "Antworterklärung": "VISY gibt für die 500-ml-Classic-Dose eine Höhe von 168,0 Millimetern an: 16,8 Zentimeter, auf ganze Zentimeter gerundet 17. Das Volumen allein legt die Höhe einer Bierdose nicht eindeutig fest; deshalb ist das Format festgelegt. Die 19 Zentimeter im ersten Hinweis beziehen sich auf die konkret verlinkte personalisierte 1-Liter-Faxe-Dose laut Händler, nicht auf sämtliche Faxe-Varianten.",
+          "Fragekontext": "Gemeint ist das ausdrücklich genannte Dosenformat, nicht jede Dose mit demselben Inhalt.",
+          "Quelle": "https://www.visy.com/sites/default/files/2025-09/VISY%20BevCan%20Brochure.pdf",
+          "Zusatzquellen": "https://www.geschenke-online.de/products/ich-mag-dich-volle-moehre-1-liter-bierdose-mit-wunschname",
+          "Bezugsdatum": "VISY Produktbroschüre 2025; Händlerangabe abgerufen 27.11.2026",
+          "Unterkategorie": "Alltagsmaße · Getränkedose",
+          "Revision": 1,
+          "Qualitätsstatus": "draft",
+          "Hinweisprüfung": "pending",
+          "Playtest": "pending",
+          "Schwierigkeitsgrad": "Leicht",
+          "Bildentscheidung": "Weglassen",
+          "Bildprüfung": "Kein Maß- oder Kapazitätsaufdruck. Eine vollständige maßgetreue Seitenansicht würde mit dem in H2 bekannten Durchmesser eine zu genaue geometrische Höhenableitung erlauben. Deshalb in dieser Hinweisfassung kein Dosenbild.",
+          "Hinweis-Review": "168 mm / 10 =16,8 cm →17 cm. H1 konkrete Händler-Faxe 19 cm >16,8 cm; H2 2×6,65=13,3 cm <16,8 cm. Keine Gleichung oder exakte Proportion als Lösungshilfe; Angaben verschiedener Gebinde nicht als lineares Volumen-Höhen-Verhältnis missverstehen. Q01–Q58 im Seiteninhalt; unabhängige Endprüfung, echtes Layout, Hinweiswirkung und Playtest offen."
+        }
+      },
+      {
+        "id": "425f73ae-951f-8144-8a55-fc7ed267dcc2",
+        "url": "https://app.notion.com/p/425f73ae951f81448a55fc7ed267dcc2?pvs=204",
+        "properties": {
+          "Fragen-ID": "HUM-0013",
+          "Frage": "Wie viel Prozent der 16–74-Jährigen in Deutschland nannten in der Galaxus/GfK-Umfrage 2023 monatlichen Bettwäschewechsel (eine Nachkommastelle)?",
+          "Kategorie": "Mensch & Psychologie",
+          "Antwortwert": 32.5,
+          "Einheit": "Prozent",
+          "Hinweis 1": "17,7 Prozent nannten wöchentlichen Wechsel – weniger als monatlichen.",
+          "Hinweis 2": "Alle zwei Wochen nannten 40,7 Prozent – mehr als monatlich.",
+          "Antworterklärung": "In der Deutschland-Reihe der Originalgrafik stehen 32,5 Prozent für monatlich, 17,7 für wöchentlich und 40,7 für alle zwei Wochen. GfK befragte im Auftrag von Galaxus 1.500 Personen im Alter von 16 bis 74 Jahren vom 27. Dezember 2022 bis zum 5. Januar 2023; veröffentlicht wurde am 22. März 2023. Das Ergebnis betrifft selbst berichtete Gewohnheiten dieser Erhebung und ist keine aktuelle Messung des Verhaltens aller Deutschen.",
+          "Fragekontext": "Gefragt ist die Antwortkategorie monatlich in der damaligen Befragung; es geht nicht um persönliche Angaben der Mitspieler.",
+          "Quelle": "https://www.galaxus.de/de/page/deutschland-im-goblin-mode-jeder-vierte-mann-wechselt-seine-unterwaesche-nicht-taeglich-26725",
+          "Zusatzquellen": "https://flo.uri.sh/story/1844380/embed\nhttps://public.flourish.studio/visualisation/12557876/",
+          "Bezugsdatum": "Erhebung 27.12.2022–05.01.2023; Veröffentlichung 22.03.2023",
+          "Unterkategorie": "Alltagsgewohnheiten · Haushalt",
+          "Revision": 1,
+          "Qualitätsstatus": "draft",
+          "Hinweisprüfung": "needs_revision",
+          "Playtest": "pending",
+          "Schwierigkeitsgrad": "Leicht",
+          "Bildentscheidung": "Weglassen",
+          "Bildprüfung": "Bettfoto wäre bloße Dekoration. Originalgrafik oder Prozentdarstellung würde die Lösung verraten; keine Übernahme als Fragebild.",
+          "Hinweis-Review": "Original-Flourish-Daten direkt aus dem öffentlich eingebetteten HTML gelesen: Deutschland täglich1,5 / wöchentlich17,7 / zweiwöchentlich40,7 / monatlich32,5 / alle2–3Monate6,4 / seltener1,2. Nicht mit jüngeren Sekundärartikeln oder anderen Umfragen vermischen. Eine Nachkommastelle ausdrücklich in Frage, weil bedingte UI-Genauigkeitszeile noch nicht implementiert. H1 auf Nutzerwunsch; beide Hinweise sind reine Vergleichsschranken, daher Q28 bewusst offen/needs_revision statt endgültig freigabereif. Keine gesundheitliche Bewertung."
+        }
+      },
+      {
+        "id": "425f73ae-951f-8132-9110-f27ebce56a4c",
+        "url": "https://app.notion.com/p/425f73ae951f81329110f27ebce56a4c?pvs=204",
+        "properties": {
+          "Fragen-ID": "CUR-0013",
+          "Frage": "Wie oft muss man ein DIN-A4-Blatt falten, um ein Papierboot zu basteln?",
+          "Kategorie": "Kurioses Wissen",
+          "Antwortwert": null,
+          "Einheit": "Faltungen",
+          "Hinweis 1": "Noch offen: zuerst Anleitung und Zählweise festlegen.",
+          "Hinweis 2": "Noch offen: keinen Hinweis aus einer ungeprüften Faltzahl ableiten.",
+          "Antworterklärung": "Noch keine eindeutige Antwort. Die verlinkte Origami.me-Anleitung hat acht nummerierte Schritte, einzelne Schritte enthalten jedoch mehrere Faltungen, Aufklappen und Formen. Eine allgemeine Zahl notwendiger Faltungen folgt daraus nicht. Vor Ausarbeitung eine konkrete Bootvariante und eine nachvollziehbare Zählregel festlegen; Anleitungsschritte nicht als einzelne Faltungen ausgeben.",
+          "Fragekontext": "Unvollständige Nutzeridee zur redaktionellen Klärung; nicht für Spielimport oder Freigabe verwenden.",
+          "Quelle": "https://origami.me/traditional-boat/",
+          "Zusatzquellen": "https://www.talu.de/papierboot-falten/",
+          "Bezugsdatum": "Anleitungen geprüft 27.11.2026",
+          "Unterkategorie": "Basteln · offene Zählweise",
+          "Revision": 1,
+          "Qualitätsstatus": "draft",
+          "Hinweisprüfung": "needs_revision",
+          "Playtest": "pending",
+          "Bildentscheidung": "Optional",
+          "Bildprüfung": "Nach Festlegung der Variante kann ein einzelnes fertiges Papierboot ohne Maße und Vergleichsobjekte den Gegenstand klären. Keine Anleitungsschritte, Falzlinien oder abzählbare Bildfolge; Variante und Rechte vor Nutzung prüfen.",
+          "Hinweis-Review": "Blockiert Q04/Q08/Q09/Q37/Q56: Variante und Zählweise nicht festgelegt, kein belastbarer Antwortwert. H1/H2 sind ausdrücklich Arbeitsvermerke, keine spielbaren Hinweise. Keine Zahl erfunden und kein Schemawert0 als Platzhalter. Q01–Q58 mit offenen Abhängigkeiten im Seiteninhalt. Nicht als vollständige oder spielbereite Frage zählen."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"Fragen-ID\":\"GEO-0015\",\"Frage\":\"Wie viele deutsche Städte mit Stadtrecht begannen Ende 2024 laut Destatis mit J?\",\"Antwortwert\":11,\"Einheit\":\"Städte\",\"Revision\":2,\"Hinweisprüfung\":\"pending\"},{\"Fragen-ID\":\"ECO-0013\",\"Frage\":\"Wie hoch war 2025 das durchschnittliche Monatsgehalt vollzeitbeschäftigter Frauen in Deutschland – brutto, ohne Sonderzahlungen?\",\"Antwortwert\":4435,\"Einheit\":\"Euro brutto pro Monat\",\"Revision\":2,\"Hinweisprüfung\":\"pending\"},{\"Fragen-ID\":\"ECO-0014\",\"Frage\":\"Was kostet ein 6aus49-Feld bei LOTTO Berlin inklusive Gebühr für eine Ziehung im Laden ohne Kundenkarte (Stand 27.11.2026)?\",\"Antwortwert\":2.2,\"Einheit\":\"Euro\",\"Revision\":2,\"Hinweisprüfung\":\"pending\"},{\"Fragen-ID\":\"SPO-0014\",\"Frage\":\"Wie hoch war der mittlere Grundpreis der Erwachsenen-Heimtrikots der deutschen Fußball-Bundesliga 2025/26 (Stand 14.08.2025), auf volle Euro gerundet?\",\"Antwortwert\":92,\"Einheit\":\"Euro\",\"Revision\":2,\"Hinweisprüfung\":\"pending\"},{\"Fragen-ID\":\"CUR-0013\",\"Frage\":\"Wie oft muss man ein DIN-A4-Blatt falten, um ein Papierboot zu basteln?\",\"Antwortwert\":null,\"Einheit\":\"Faltungen\",\"Revision\":1,\"Hinweisprüfung\":\"needs_revision\"},{\"Fragen-ID\":\"HUM-0013\",\"Frage\":\"Wie viel Prozent der 16–74-Jährigen in Deutschland nannten in der Galaxus/GfK-Umfrage 2023 monatlichen Bettwäschewechsel (eine Nachkommastelle)?\",\"Antwortwert\":32.5,\"Einheit\":\"Prozent\",\"Revision\":1,\"Hinweisprüfung\":\"needs_revision\"},{\"Fragen-ID\":\"FOD-0013\",\"Frage\":\"Wie hoch ist eine 0,5-Liter-Getränkedose im VISY-Classic-Format, auf ganze Zentimeter gerundet?\",\"Antwortwert\":17,\"Einheit\":\"Zentimeter\",\"Revision\":1,\"Hinweisprüfung\":\"pending\"}],\"has_more\":false,\"data_source_ids\":[\"424f73ae-951f-812f-8b29-000bf21ad92b\"]}"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "counts": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"total\":135,\"unique_ids\":135,\"missing_answers\":1}],\"has_more\":false,\"data_source_ids\":[\"424f73ae-951f-812f-8b29-000bf21ad92b\"]}"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "qualityAddition": "## Präzisierung · Seltene Anfangsbuchstaben und sichtbarer Bezugsrahmen\n\nNutzerentscheidung vom <date start=\"2026-11-27\" />: Bei neuen Stadt- oder Ländernamenfragen seltenere Anfangsbuchstaben bevorzugen; die bisherige deutsche B-Städtefrage wird durch J ersetzt. Häufigkeit zuerst an einer eindeutig abgegrenzten amtlichen Liste auszählen. Auch seltene Buchstaben müssen genügend Schätzspielraum für zwei Hinweise lassen; keine starre Höchstzahl und keine automatisch trivialen Einzelfälle. Europäische Ländernamen nach ausdrücklich festgelegter Staatenliste und deutscher Namensform zählen.\n\nBei Gehältern brutto oder netto ausdrücklich in Frage bzw. sichtbarer Einheit nennen. Lottofragen nennen Preisstand, Vertriebsweg, Feld-/Ziehungszahl und notwendige Gebühren. Trikotfragen nennen Saison, historischen Preisstand und Grundpreis; Mediennamen müssen nicht im Fragetext stehen, die konkrete Stichprobe und Quelle bleiben in Antworterklärung und Quellen dokumentiert. Keine bloß wegen eines neuen Abrufdatums als aktuell ausgegebenen historischen Preise.\n\nBei Alltagsmaßen das konkrete Format bzw. Modell abgrenzen. Umfragefragen nennen Erhebung und Zielgruppe; Selbstangaben nicht als gemessenes Verhalten aller Deutschen ausgeben. Faltbewegungen, neue Falzkanten und nummerierte Anleitungsschritte sind unterschiedliche Größen. Ohne festgelegte Anleitung und Zählweise keine allgemeine Faltzahl für Papierboote als richtige Lösung eintragen."
+}

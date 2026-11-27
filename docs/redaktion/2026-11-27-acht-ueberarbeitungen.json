@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-27",
+  "authorization": "die 8 kannst du überarbeiten",
+  "applied": [
+    {
+      "id": "GEO-0008",
+      "revision": 2,
+      "hintStatus": "pending"
+    },
+    {
+      "id": "ENT-0008",
+      "revision": 2,
+      "hintStatus": "pending"
+    },
+    {
+      "id": "SPO-0008",
+      "revision": 2,
+      "hintStatus": "pending"
+    },
+    {
+      "id": "TEC-0011",
+      "revision": 2,
+      "hintStatus": "pending"
+    },
+    {
+      "id": "HUM-0010",
+      "revision": 2,
+      "hintStatus": "pending"
+    },
+    {
+      "id": "TEC-0012",
+      "revision": 2,
+      "hintStatus": "needs_revision"
+    },
+    {
+      "id": "CUR-0007",
+      "revision": 2,
+      "hintStatus": "pending"
+    },
+    {
+      "id": "CUR-0012",
+      "revision": 2,
+      "hintStatus": "needs_revision"
+    }
+  ],
+  "before": [
+    {
+      "id": "GEO-0008",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f81dd870ee89a27ef5749",
+        "Fragen-ID": "GEO-0008",
+        "Frage": "Wie hoch ist das London Eye einschließlich seines Abstands zum Boden?",
+        "Hinweis 1": "Ein halber Eiffelturm mit insgesamt 330 Metern wäre immer noch höher.",
+        "Hinweis 2": "Das eigentliche Rad hat 120 Meter Durchmesser; seine Aufhängung hebt es darüber hinaus.",
+        "Antwortwert": 135,
+        "Einheit": "Meter",
+        "Antworterklärung": "Die Gesamthöhe beträgt 135 Meter, der Raddurchmesser 120 Meter. Die beiden Werte beschreiben unterschiedliche Messstrecken.",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweis-Review": "Neu aufgenommen; Endprüfung, Darstellung und Spieltest offen.\n\nPrüfung 27.11.2026: H1 ist sprachlich mehrdeutig; ein Gesamtbild würde mit dem Rad-Durchmesser aus H2 zu viel zeigen. Betroffene Kriterien: Q04, Q23, Q31, Q45–Q49. Optimierungsvorschlag in der Datensatzseite; bisherige Spielfassung bleibt unverändert.",
+        "Hinweisprüfung": "needs_revision",
+        "Zusatzquellen": "eyeDesign: https://www.iv.nl/en/projects/detailed-design-for-the-london-eye/\neiffel: https://www.toureiffel.paris/fr/le-monument/chiffres-cle",
+        "Quelle": "https://www.londoneye.com/plan-your-visit/information-and-support/faqs/"
+      }
+    },
+    {
+      "id": "ENT-0008",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f8163bd9dc465c2e633bf",
+        "Fragen-ID": "ENT-0008",
+        "Frage": "Wie viele Saiten hat eine große Konzertpedalharfe üblicherweise?",
+        "Hinweis 1": "Die kleinere Schulharfe Camac Hermine hat bereits 34 Saiten; die Konzertharfe hat mehr.",
+        "Hinweis 2": "Pro Oktavabschnitt gibt es sieben Saiten; der Umfang reicht über mehr als sechs Oktaven.",
+        "Antwortwert": 47,
+        "Einheit": "Saiten",
+        "Antworterklärung": "Große Standard-Konzertpedalharfen besitzen üblicherweise 47 Saiten. Andere Harfentypen können deutlich weniger haben.",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweis-Review": "Neu aufgenommen; Endprüfung, Darstellung und Spieltest offen. Oktav-Hinweis verlangt einen Darstellungstest auf Verständlichkeit; alternative Formulierung ggf. nötig.\n\nPrüfung 27.11.2026: H2 verlangt Verständnis von Oktaven; ein Foto mit zählbaren Saiten würde die Antwort verraten. Betroffene Kriterien: Q01, Q22, Q48, Q55, Q57. Optimierungsvorschlag in der Datensatzseite; bisherige Spielfassung bleibt unverändert.",
+        "Hinweisprüfung": "needs_revision",
+        "Zusatzquellen": "harpChart: https://mossharpservice.com/downloads/string-charts/string-chart-47.pdf\nharpSmall: https://www.camac-harps.com/en/harps-en/lever/hermine/",
+        "Quelle": "https://www.harp.com/harp-string-information/"
+      }
+    },
+    {
+      "id": "SPO-0008",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f81a7983fc9f682bbbbfc",
+        "Fragen-ID": "SPO-0008",
+        "Frage": "Wie hoch hängt die Oberkante eines Basketballrings nach FIBA-Regeln über dem Boden?",
+        "Hinweis 1": "Über einem gedachten zwei Meter hohen Türrahmen bliebe noch reichlich Luft.",
+        "Hinweis 2": "Die Unterkante des offiziellen Spielbretts liegt bei 2,90 Metern; der Ring sitzt etwas höher.",
+        "Antwortwert": 3.05,
+        "Einheit": "Meter",
+        "Antworterklärung": "Die Ringoberkante liegt bei 3,05 Metern. Gemeint ist der Korbring und nicht das obere Ende des Spielbretts.",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweis-Review": "Neu aufgenommen; Endprüfung, Darstellung und Spieltest offen.\n\nPrüfung 27.11.2026: 2,90 m plus „etwas höher“ liegt zu nah an der Lösung 3,05 m. Betroffene Kriterien: Q17, Q23, Q28, Q30. Optimierungsvorschlag in der Datensatzseite; bisherige Spielfassung bleibt unverändert.",
+        "Hinweisprüfung": "needs_revision",
+        "Zusatzquellen": null,
+        "Quelle": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-official-basketball-rules-and-basketball-equipment.pdf?k_id=0ac9d7bf-a28c-4f46-b0f2-f3e0fd873786"
+      }
+    },
+    {
+      "id": "TEC-0011",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f816bb92cd52e2a47244a",
+        "Fragen-ID": "TEC-0011",
+        "Frage": "Wie groß ist die Bildschirmdiagonale der Nintendo Switch OLED in Zoll?",
+        "Hinweis 1": "Die neuere Switch 2 hat mit 7,9 Zoll einen größeren Bildschirm.",
+        "Hinweis 2": "Die ursprüngliche normale Switch hat dagegen nur 6,2 Zoll Bildschirmdiagonale.",
+        "Antwortwert": 7,
+        "Einheit": "Zoll",
+        "Antworterklärung": "Das OLED-Modell besitzt einen Sieben-Zoll-Bildschirm. Das ist die Diagonale des sichtbaren Displays und nicht die Gesamtbreite mit Controllern.",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweis-Review": "Neu aufgenommen; Endprüfung, Darstellung und Spieltest offen.\n\nPrüfung 27.11.2026: 6,2 und 7,9 Zoll umschließen eine kleine Spanne; bei einer vermuteten ganzen Zahl drängt sich 7 auf. Betroffene Kriterien: Q23, Q28, Q30, Q52. Optimierungsvorschlag in der Datensatzseite; bisherige Spielfassung bleibt unverändert.",
+        "Hinweisprüfung": "needs_revision",
+        "Zusatzquellen": "switchCompare: https://www.nintendo.com/de-de/Hardware/Nintendo-Switch-Familie/Welche-Nintendo-Switch-ist-die-richtige-fur-dich-/Welche-Nintendo-Switch-Konsole-ist-die-richtige-fur-dich-1596110.html\nswitch2: https://www.nintendo.com/us/gaming-systems/switch-2/features/",
+        "Quelle": "https://www.nintendo.com/de-de/Hardware/Nintendo-Switch-Familie/Nintendo-Switch-OLED-Modell/Nintendo-Switch-OLED-Modell-2000984.html"
+      }
+    },
+    {
+      "id": "HUM-0010",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f81bb8adec42e95d41f3c",
+        "Fragen-ID": "HUM-0010",
+        "Frage": "Wie viele Liter Blut pumpt das Herz eines Erwachsenen in Ruhe ungefähr pro Minute?",
+        "Hinweis 1": "In Ruhe schlägt das Herz häufig ungefähr 60- bis 80-mal pro Minute.",
+        "Hinweis 2": "Mit jedem Schlag werden dabei ungefähr 70 Milliliter Blut weiterbefördert.",
+        "Antwortwert": 5,
+        "Einheit": "Liter pro Minute",
+        "Antworterklärung": "Das BIÖG nennt ungefähr fünf Liter pro Minute. Die beiden groben Hinweisgrößen ergeben rund 4,2 bis 5,6 Liter und daher bewusst keinen exakten individuellen Messwert.",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweis-Review": "Neu aufgenommen; Endprüfung, Darstellung und Spieltest offen.\n\nPrüfung 27.11.2026: 60–80 Schläge × 70 ml grenzen die Lösung schon auf 4,2–5,6 Liter pro Minute ein. Betroffene Kriterien: Q23, Q28, Q30. Optimierungsvorschlag in der Datensatzseite; bisherige Spielfassung bleibt unverändert.",
+        "Hinweisprüfung": "needs_revision",
+        "Zusatzquellen": "pulse: https://herzstiftung.de/system/files/2025-02/Daten-und-Fakten-Pulseday-2025.pdf",
+        "Quelle": "https://www.bioeg.de/fileadmin/user_upload/PDF/medienservice/Themendossier_Blutspende_2026_BIOEG.pdf"
+      }
+    },
+    {
+      "id": "TEC-0012",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f813bb1d6db7c56bc0576",
+        "Fragen-ID": "TEC-0012",
+        "Frage": "Wie viele Zeichen passen in eine einzelne klassische SMS aus einfachen A–Z-Buchstaben und Leerzeichen?",
+        "Hinweis 1": "Mit einfachen chinesischen Schriftzeichen passen stattdessen nur 70 Zeichen hinein.",
+        "Hinweis 2": "Bei zusammengesetzten langen SMS bleiben pro Teil 153 Zeichen – weniger als bei der Einzel-SMS.",
+        "Antwortwert": 160,
+        "Einheit": "Zeichen",
+        "Antworterklärung": "Für die einfache GSM-7-Kodierung sind 160 Zeichen möglich. Andere Zeichen und die Aufteilung langer Nachrichten verändern die Zahl; RCS- und Chatnachrichten sind nicht gefragt.",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweis-Review": "Neu aufgenommen; Endprüfung, Darstellung und Spieltest offen.\n\nPrüfung 27.11.2026: 153 ist als zweiter Hinweis fast schon die gesuchte 160; chinesische Codierung wirkt unnötig technisch. Betroffene Kriterien: Q22, Q23, Q28, Q52, Q55, Q57. Optimierungsvorschlag in der Datensatzseite; bisherige Spielfassung bleibt unverändert.",
+        "Hinweisprüfung": "needs_revision",
+        "Zusatzquellen": null,
+        "Quelle": "https://www.twilio.com/docs/glossary/what-sms-character-limit"
+      }
+    },
+    {
+      "id": "CUR-0007",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f810db79dc552f7596f5b",
+        "Fragen-ID": "CUR-0007",
+        "Frage": "Wie viele Straßen hat das klassische deutsche Monopoly-Brett, ohne Bahnhöfe und Versorgungswerke?",
+        "Hinweis 1": "Vier Eckfelder und sechs Ereignis- oder Gemeinschaftsfelder sind schon einmal keine Straßen.",
+        "Hinweis 2": "Auch vier Bahnhöfe und zwei Versorgungswerke zählen nicht als Straßen.",
+        "Antwortwert": 22,
+        "Einheit": "Straßen",
+        "Antworterklärung": "Das klassische Brett enthält 22 Straßen. Außerdem gibt es Bahnhöfe, Versorgungswerke und weitere Sonderfelder; sie werden hier nicht mitgezählt.",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweis-Review": "Neu aufgenommen; Endprüfung, Darstellung und Spieltest offen. Hasbro bestätigt 22 farbige Straßen; Abgleich am konkreten deutschen Standard-Spielbrett bleibt vor Endfreigabe offen.\n\nPrüfung 27.11.2026: Beide Hinweise zählen bisher nur Nicht-Straßen auf; ein Brettbild würde die Straßen direkt zählbar machen. Betroffene Kriterien: Q20, Q21, Q27, Q48, Q56. Optimierungsvorschlag in der Datensatzseite; bisherige Spielfassung bleibt unverändert.",
+        "Hinweisprüfung": "needs_revision",
+        "Zusatzquellen": "monopolyFacts: https://mms.businesswire.com/media/20150121006051/en/448463/1/80_Things_You_Didn%27t_Know_About_Monopoly_FINAL.pdf?download=1",
+        "Quelle": "https://www.hasbro.com/common/instruct/monins.pdf"
+      }
+    },
+    {
+      "id": "CUR-0012",
+      "before": {
+        "url": "https://app.notion.com/425f73ae951f815b8969fb03b3d036e6",
+        "Fragen-ID": "CUR-0012",
+        "Frage": "Wie viele M&Ms umfasste Brendan Kelbies am 18. Mai 2024 eingestellter Guinness-Stapelrekord?",
+        "Hinweis 1": "Der erste Guinness-Turm von 2016 bestand nur aus vier M&Ms.",
+        "Hinweis 2": "Kelbie hatte schon 2021 einen Sechserturm geschafft; die gesuchte Leistung liegt darüber.",
+        "Antwortwert": 7,
+        "Einheit": "M&Ms",
+        "Antworterklärung": "Kelbie stellte 2024 den bestehenden Siebenerrekord ein. Er war damit nicht der erste Mensch mit sieben gestapelten M&Ms.",
+        "Revision": 1,
+        "Qualitätsstatus": "draft",
+        "Hinweis-Review": "Neu aufgenommen; Endprüfung, Darstellung und Spieltest offen.\n\nPrüfung 27.11.2026: Der unmittelbare Vorgänger mit sechs lenkt stark auf sieben; ein Rekordfoto würde die Antwort verraten. Betroffene Kriterien: Q23, Q28, Q30, Q48. Optimierungsvorschlag in der Datensatzseite; bisherige Spielfassung bleibt unverändert.",
+        "Hinweisprüfung": "needs_revision",
+        "Zusatzquellen": "mmsHistory: https://dev-micro.guinnessworldrecords.com/news/2022/2/tallest-stack-of-mms-built-by-australian-serial-record-breaker-691992",
+        "Quelle": "https://www.guinnessworldrecords.com/world-records/94349-tallest-stack-of-mms"
+      }
+    }
+  ],
+  "after": [
+    {
+      "url": "https://app.notion.com/425f73ae951f810db79dc552f7596f5b",
+      "Fragen-ID": "CUR-0007",
+      "Frage": "Wie viele Straßen hat das klassische deutsche Monopoly-Brett, ohne Bahnhöfe und Versorgungswerke?",
+      "Hinweis 1": "Das klassische Spielbrett hat insgesamt 40 Felder, einschließlich aller Sonderfelder.",
+      "Hinweis 2": "Die Straßen verteilen sich auf acht Farbgruppen; die Gruppen sind nicht alle gleich groß.",
+      "Antwortwert": 22,
+      "Einheit": "Straßen",
+      "Antworterklärung": "Das klassische deutsche Monopoly-Brett enthält 22 Straßen. Das gesamte Brett hat 40 Felder; Straßen bilden Farbgruppen, während unter anderem Bahnhöfe, Versorgungswerke und die Eckfelder nicht als Straßen zählen.",
+      "Revision": 2,
+      "Hinweisprüfung": "pending"
+    },
+    {
+      "url": "https://app.notion.com/425f73ae951f813bb1d6db7c56bc0576",
+      "Fragen-ID": "TEC-0012",
+      "Frage": "Wie viele Zeichen passen in eine einzelne klassische SMS aus einfachen A–Z-Buchstaben und Leerzeichen?",
+      "Hinweis 1": "Ein Text aus 30 Wörtern à fünf Buchstaben plus 29 Leerzeichen wäre bereits zu lang.",
+      "Hinweis 2": "100 solcher Zeichen lassen noch Platz für weiteren Text in derselben SMS.",
+      "Antwortwert": 160,
+      "Einheit": "Zeichen",
+      "Antworterklärung": "Eine einzelne SMS mit einfachen A–Z-Buchstaben und Leerzeichen fasst 160 Zeichen. 30 Wörter mit jeweils fünf Buchstaben und 29 Leerzeichen ergeben 179 Zeichen und passen nicht hinein; nach 100 Zeichen bleiben noch 60 übrig. Andere Zeichen und verkettete SMS können andere Grenzen haben.",
+      "Revision": 2,
+      "Hinweisprüfung": "needs_revision"
+    },
+    {
+      "url": "https://app.notion.com/425f73ae951f815b8969fb03b3d036e6",
+      "Fragen-ID": "CUR-0012",
+      "Frage": "Wie viele M&Ms umfasste Brendan Kelbies am 18. Mai 2024 eingestellter Guinness-Stapelrekord?",
+      "Hinweis 1": "Der erste Guinness-Turm von 2016 bestand nur aus vier M&Ms.",
+      "Hinweis 2": "Anfang 2021 gelang Will Cutbill ein bestätigter Rekord mit fünf übereinandergestapelten M&Ms.",
+      "Antwortwert": 7,
+      "Einheit": "M&Ms",
+      "Antworterklärung": "Brendan Kelbie stellte 2024 den bestehenden Siebenerrekord ein. Schon Anfang 2021 hatte Will Cutbill fünf M&Ms aufeinander balanciert. Die Auflösung ist damit nicht identisch mit der älteren Fünferbestmarke; ein Foto des Rekordstapels würde die Antwort unmittelbar verraten.",
+      "Revision": 2,
+      "Hinweisprüfung": "needs_revision"
+    },
+    {
+      "url": "https://app.notion.com/425f73ae951f8163bd9dc465c2e633bf",
+      "Fragen-ID": "ENT-0008",
+      "Frage": "Wie viele Saiten hat eine große Konzertpedalharfe üblicherweise?",
+      "Hinweis 1": "Eine kleinere Schulharfe hat 34 Saiten; das große Konzertinstrument hat mehr.",
+      "Hinweis 2": "Sechs gedachte Gruppen mit je sieben Saiten würden noch nicht alle abdecken.",
+      "Antwortwert": 47,
+      "Einheit": "Saiten",
+      "Antworterklärung": "Große Standard-Konzertpedalharfen besitzen üblicherweise 47 Saiten. Die kleinere Camac Hermine hat 34 Saiten. Sechs Gruppen mit je sieben ergeben 42; zur Konzertharfe fehlen dann noch fünf Saiten.",
+      "Revision": 2,
+      "Hinweisprüfung": "pending"
+    },
+    {
+      "url": "https://app.notion.com/425f73ae951f816bb92cd52e2a47244a",
+      "Fragen-ID": "TEC-0011",
+      "Frage": "Wie groß ist die Bildschirmdiagonale der Nintendo Switch OLED in Zoll?",
+      "Hinweis 1": "Ein Zoll entspricht 2,54 Zentimetern; gemessen wird die Diagonale.",
+      "Hinweis 2": "Die ursprüngliche Switch hatte 6,2 Zoll; das OLED-Display ist größer.",
+      "Antwortwert": 7,
+      "Einheit": "Zoll",
+      "Antworterklärung": "Das OLED-Modell hat sieben Zoll Bildschirmdiagonale. Das entspricht 17,78 Zentimetern; beim ursprünglichen Switch-Modell waren es 6,2 Zoll. Die Zollangabe bezieht sich auf die Diagonale und nicht auf Breite oder Höhe.",
+      "Revision": 2,
+      "Hinweisprüfung": "pending"
+    },
+    {
+      "url": "https://app.notion.com/425f73ae951f81a7983fc9f682bbbbfc",
+      "Fragen-ID": "SPO-0008",
+      "Frage": "Wie hoch hängt die Ringoberkante im Basketball nach FIBA-Regeln 2024?",
+      "Hinweis 1": "Selbst der Männer-Hochsprungweltrekord von 2,45 Metern liegt unter dem Ring.",
+      "Hinweis 2": "Die Oberkante des Spielbretts liegt ungefähr vier Meter hoch; der Ring hängt deutlich darunter.",
+      "Antwortwert": 3.05,
+      "Einheit": "Meter",
+      "Antworterklärung": "Nach den FIBA-Regeln 2024 liegt die Oberkante des Basketballrings 3,05 Meter über dem Boden. Die nominelle Brettoberkante ergibt sich aus 2,90 Metern Unterkantenhöhe plus 1,05 Metern Bretthöhe, also 3,95 Metern beziehungsweise ungefähr vier Metern. Der Hochsprungweltrekord der Männer liegt bei 2,45 Metern; er ist ein Vergleich für die Höhe und keine Aussage über einen Dunking.",
+      "Revision": 2,
+      "Hinweisprüfung": "pending"
+    },
+    {
+      "url": "https://app.notion.com/425f73ae951f81bb8adec42e95d41f3c",
+      "Fragen-ID": "HUM-0010",
+      "Frage": "Wie viele Liter Blut pumpt das Herz eines Erwachsenen in Ruhe ungefähr pro Minute?",
+      "Hinweis 1": "Im Körper eines Erwachsenen kreisen ungefähr fünf bis sechs Liter Blut immer wieder.",
+      "Hinweis 2": "Mit jedem Herzschlag werden ungefähr 70 Milliliter Blut weiterbefördert.",
+      "Antwortwert": 5,
+      "Einheit": "Liter pro Minute",
+      "Antworterklärung": "Das BIÖG nennt für das Herz eines Erwachsenen ungefähr fünf Liter Blut pro Minute. Die fünf bis sechs Liter im Kreislauf beschreiben dagegen die vorhandene Blutmenge; sie wird immer wieder transportiert. Aus etwa 70 Millilitern pro Schlag allein lässt sich ohne Schlagfrequenz kein genauer Minutenwert berechnen.",
+      "Revision": 2,
+      "Hinweisprüfung": "pending"
+    },
+    {
+      "url": "https://app.notion.com/425f73ae951f81dd870ee89a27ef5749",
+      "Fragen-ID": "GEO-0008",
+      "Frage": "Wie hoch ist das London Eye insgesamt, vom Boden bis zur Spitze?",
+      "Hinweis 1": "Der Eiffelturm ist 330 Meter hoch; selbst seine Hälfte wäre noch höher.",
+      "Hinweis 2": "Das Rad allein misst 120 Meter im Durchmesser; gesucht ist die Gesamthöhe über dem Boden.",
+      "Antwortwert": 135,
+      "Einheit": "Meter",
+      "Antworterklärung": "Die Gesamthöhe des London Eye beträgt 135 Meter, sein Raddurchmesser 120 Meter. Der Eiffelturm ist insgesamt 330 Meter hoch; die Hälfte davon sind 165 Meter und damit mehr als die gesuchte Höhe.",
+      "Revision": 2,
+      "Hinweisprüfung": "pending"
+    }
+  ]
+}
