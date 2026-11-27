@@ -1,0 +1,189 @@
+{
+  "mode": "built-in image_gen; no CLI/API fallback",
+  "generated": [
+    {
+      "id": "CUR-0015",
+      "title": "Dobble Classic",
+      "prompt": "A single round yellow Dobble Classic metal card-game tin, lid CLOSED. Purple stylized eye/hand character illustration on yellow lid, small word DOBBLE permitted. No cards outside, no pieces, no numbers, no card counts, no printed dimensions. Distinguish the round Dobble game from a rectangular deck. Brand-oriented motif study, not exact packaging artwork.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-cbe77c28-2d8e-4805-8a92-2e498f986b0f.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: neutral question-orientation image for Crosspoke quiz; landscape 3:2. A single round yellow Dobble Classic metal card-game tin, lid CLOSED. Purple stylized eye/hand character illustration on yellow lid, small word DOBBLE permitted. No cards outside, no pieces, no numbers, no card counts, no printed dimensions. Distinguish the round Dobble game from a rectangular deck. Brand-oriented motif study, not exact packaging artwork. Style: polished restrained realistic editorial illustration, accurately recognisable subject, centred on solid dark navy background #101c2b, soft natural lighting. No decorative elements, frame, caption, watermark, surrounding UI or question text. Exclude all solution values, measure/capacity annotations and numerical data except any explicitly permitted identity marking.",
+      "sha256Original": "5b5b593313b0f095a1ead1c734f863f6ae4ff1597be1d4817d477e538e7f2dba"
+    },
+    {
+      "id": "ECO-0007",
+      "title": "2-Euro-Münze",
+      "prompt": "Exactly one ordinary two-euro circulation coin. Nickel-silver outer ring, gold coloured inner disc, common European reverse with large numeral 2 and EURO, European map relief. The denomination 2 EURO is the only allowed text/numeral, NOT a weight. No other coins, ruler, hands, scales, thickness section, weight or dimensions.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-98c902b1-f7ca-4e76-8c93-6ce12dcd0a18.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: neutral question-orientation image for Crosspoke quiz; landscape 3:2. Exactly one ordinary two-euro circulation coin. Nickel-silver outer ring, gold coloured inner disc, common European reverse with large numeral 2 and EURO, European map relief. The denomination 2 EURO is the only allowed text/numeral, NOT a weight. No other coins, ruler, hands, scales, thickness section, weight or dimensions. Style: polished restrained realistic editorial illustration, accurately recognisable subject, centred on solid dark navy background #101c2b, soft natural lighting. No decorative elements, frame, caption, watermark, surrounding UI or question text. Exclude all solution values, measure/capacity annotations and numerical data except any explicitly permitted identity marking.",
+      "sha256Original": "900c986b1e47187ec6be2aa8285fbfa622e77684314798dfc4cf4801a7b42ff2"
+    },
+    {
+      "id": "FOD-0006",
+      "title": "Parmigiano-Reggiano-Laib",
+      "prompt": "One entire large cylindrical wheel of Parmigiano Reggiano cheese, whole and uncut, natural golden buff rind, subtly dotted PARMIGIANO REGGIANO lettering permitted on side but absolutely no digits, weight stamps, dates or numerical markings. No milk, milk vessels, knives, people or comparisons. Three-quarter view makes whole wheel distinct from supermarket wedge.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-e930a725-9c54-42cb-a301-15a1250b54e4.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: neutral question-orientation image for Crosspoke quiz; landscape 3:2. One entire large cylindrical wheel of Parmigiano Reggiano cheese, whole and uncut, natural golden buff rind, subtly dotted PARMIGIANO REGGIANO lettering permitted on side but absolutely no digits, weight stamps, dates or numerical markings. No milk, milk vessels, knives, people or comparisons. Three-quarter view makes whole wheel distinct from supermarket wedge. Style: polished restrained realistic editorial illustration, accurately recognisable subject, centred on solid dark navy background #101c2b, soft natural lighting. No decorative elements, frame, caption, watermark, surrounding UI or question text. Exclude all solution values, measure/capacity annotations and numerical data except any explicitly permitted identity marking.",
+      "sha256Original": "f09643e63fdbbc7c85b8d80bd90ec0b331c8c0aeeda465470785e221e419b72c"
+    },
+    {
+      "id": "FOD-0009",
+      "title": "Coca-Cola Original Taste",
+      "prompt": "One classic glass Coca-Cola Original Taste bottle, red label bearing only Coca-Cola and Original Taste, dark cola inside. Cropped studio product illustration without any volume, ingredients, nutrition values, weight, digits, cap-size references, drinking glass, sugar cubes, hands or other objects. The image only identifies Original rather than Zero/Light; it is not a depiction of the 250 ml portion.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-e8152b0f-3a7c-4c18-a03e-949285bc1953.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: neutral question-orientation image for Crosspoke quiz; landscape 3:2. One classic glass Coca-Cola Original Taste bottle, red label bearing only Coca-Cola and Original Taste, dark cola inside. Cropped studio product illustration without any volume, ingredients, nutrition values, weight, digits, cap-size references, drinking glass, sugar cubes, hands or other objects. The image only identifies Original rather than Zero/Light; it is not a depiction of the 250 ml portion. Style: polished restrained realistic editorial illustration, accurately recognisable subject, centred on solid dark navy background #101c2b, soft natural lighting. No decorative elements, frame, caption, watermark, surrounding UI or question text. Exclude all solution values, measure/capacity annotations and numerical data except any explicitly permitted identity marking.",
+      "sha256Original": "ca225e6081b0b5943ddef0d320829accc394e9cba4d5c9df34dc4ebc21374ef2"
+    },
+    {
+      "id": "FOD-0012",
+      "title": "Toffifee",
+      "prompt": "Exactly one classic Toffifee praline: low round caramel cup with shiny caramel outer shell, pale hazelnut nougat inside and a central dark chocolate circular top. Single whole praline at three-quarter view. No cutaway, hazelnut outside, wrapper, box, text, numbers, nutrition, weight, people or size references.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-12634165-786d-4677-b5a7-2e74fb07df05.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Exactly one classic Toffifee praline: low round caramel cup with shiny caramel outer shell, pale hazelnut nougat inside and a central dark chocolate circular top. Single whole praline at three-quarter view. No cutaway, hazelnut outside, wrapper, box, text, numbers, nutrition, weight, people or size references. Style: polished restrained realistic editorial illustration, recognisable accurate subject on solid dark navy #101c2b background, soft natural lighting. No decorations, frame, captions, watermarks or surrounding UI. No measure or capacity labels or solution numbers.",
+      "sha256Original": "581a859cd0d8677d03f62c909a37e509027fc4f054474ce7d2c51d52f381ac5d"
+    },
+    {
+      "id": "GEO-0007",
+      "title": "Berliner Fernsehturm",
+      "prompt": "Recognisable architectural editorial illustration of Berlin's Fernsehturm, slender concrete shaft supporting characteristic metallic sphere and red-white antenna. Cropped upper tower and part of shaft only, no ground view, skyline comparison, people, labels, height, floor numbers, clocks, signs or scales. Not an engineering elevation. Context for the lift destination only.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-9257d87f-9d11-400e-b2b6-6ebb653f5018.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Recognisable architectural editorial illustration of Berlin's Fernsehturm, slender concrete shaft supporting characteristic metallic sphere and red-white antenna. Cropped upper tower and part of shaft only, no ground view, skyline comparison, people, labels, height, floor numbers, clocks, signs or scales. Not an engineering elevation. Context for the lift destination only. Style: polished restrained realistic editorial illustration, recognisable accurate subject on solid dark navy #101c2b background, soft natural lighting. No decorations, frame, captions, watermarks or surrounding UI. No measure or capacity labels or solution numbers.",
+      "sha256Original": "1e918150dca10402067b975207cacec65e7a32c6ef877ea0c600f1bedbfc2aee"
+    },
+    {
+      "id": "GEO-0009",
+      "title": "Kölner Dom",
+      "prompt": "Recognisable exterior architectural illustration of Cologne Cathedral's Gothic twin-spired west facade, accurate characteristic extremely ornate dark stone tracery, without tourists, vehicles, banners, text, numerals, dates, building-height comparison or visible stairs. Full facade in quiet isolated composition with no neighbouring buildings. This is an architectural motif study, not photographic evidence.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-a50a16cf-687d-4755-abbd-ecb709a60b6d.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Recognisable exterior architectural illustration of Cologne Cathedral's Gothic twin-spired west facade, accurate characteristic extremely ornate dark stone tracery, without tourists, vehicles, banners, text, numerals, dates, building-height comparison or visible stairs. Full facade in quiet isolated composition with no neighbouring buildings. This is an architectural motif study, not photographic evidence. Style: polished restrained realistic editorial illustration, recognisable accurate subject on solid dark navy #101c2b background, soft natural lighting. No decorations, frame, captions, watermarks or surrounding UI. No measure or capacity labels or solution numbers.",
+      "sha256Original": "6db8cf163347786b7adcd2a8571d3458702ef81cfb0a4b150d1926e02feed494"
+    },
+    {
+      "id": "GEO-0010",
+      "title": "Zugspitze",
+      "prompt": "Editorial mountain illustration of the recognisable rocky Zugspitze summit massif in the German Alps, close view of pale limestone summit cliffs and snowy patches. No summit sign, altitude plaques, contour lines, labels, ski lift station, people, comparison mountain, numbers, text or elevation-profile graphic. No invented dramatic Himalayan needle shape.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-dd6a13c0-2976-45a2-b4a9-725ce384185b.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Editorial mountain illustration of the recognisable rocky Zugspitze summit massif in the German Alps, close view of pale limestone summit cliffs and snowy patches. No summit sign, altitude plaques, contour lines, labels, ski lift station, people, comparison mountain, numbers, text or elevation-profile graphic. No invented dramatic Himalayan needle shape. Style: polished restrained realistic editorial illustration, recognisable accurate subject on solid dark navy #101c2b background, soft natural lighting. No decorations, frame, captions, watermarks or surrounding UI. No measure or capacity labels or solution numbers.",
+      "sha256Original": "19ba1d5e7c76011cc91fff6af9fe4822d3fa3d129a0d58b10334e34f6edff104"
+    },
+    {
+      "id": "HIS-0011",
+      "title": "Concorde",
+      "prompt": "Accurate recognisable British-French Concorde supersonic passenger airliner, white fuselage, slender long drooping pointed nose, distinctive ogival delta wings, four engines paired below the wing, small dark passenger windows, no airline logo or registration. Single whole aircraft in three-quarter isolated view, no flight trail, speed effects, other planes, people, dates, labels, numbers or maps.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-2ddec925-a618-481a-8601-75d698cd2b45.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Accurate recognisable British-French Concorde supersonic passenger airliner, white fuselage, slender long drooping pointed nose, distinctive ogival delta wings, four engines paired below the wing, small dark passenger windows, no airline logo or registration. Single whole aircraft in three-quarter isolated view, no flight trail, speed effects, other planes, people, dates, labels, numbers or maps. Style: polished restrained realistic editorial illustration, accurate recognisable subject, centred on solid dark navy #101c2b background, soft natural lighting. No decorative elements, frame, captions, watermark, surrounding UI or question text. No measures, capacity labels or solution values.",
+      "sha256Original": "6d10db52d1b5256d73770a89fd78f36a7b9669516e529bda18fcfc7d830cf264"
+    },
+    {
+      "id": "SCI-0006",
+      "title": "Honigbiene",
+      "prompt": "Zoologically accurate single western honeybee Apis mellifera in still natural-history macro portrait, fuzzy golden-brown thorax, striped brown-gold abdomen, two antennae, six legs, anatomically correct translucent veined wings held STILL. No wasp waist, bumblebee colour exaggeration, repeated wing positions, motion lines, frequency, text, numbers, timer, people, other animals or scale.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-2889b175-fa40-46aa-85fa-1671376651b5.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Zoologically accurate single western honeybee Apis mellifera in still natural-history macro portrait, fuzzy golden-brown thorax, striped brown-gold abdomen, two antennae, six legs, anatomically correct translucent veined wings held STILL. No wasp waist, bumblebee colour exaggeration, repeated wing positions, motion lines, frequency, text, numbers, timer, people, other animals or scale. Style: polished restrained realistic editorial illustration, accurate recognisable subject, centred on solid dark navy #101c2b background, soft natural lighting. No decorative elements, frame, captions, watermark, surrounding UI or question text. No measures, capacity labels or solution values.",
+      "sha256Original": "3e35041c4512fe6d9b0dad2ebd6456b7197f72b2d483474f159133dc2ef35e68"
+    },
+    {
+      "id": "SCI-0007",
+      "title": "Elefant",
+      "prompt": "One adult African elephant in calm side-three-quarter standing posture, anatomically accurate large ears and trunk, natural grey wrinkled skin. Entire single animal without calf, pregnancy diagram, baby bump exaggeration, people, other animals, size comparison, calendar, dates, text or numerals. Neutral species orientation only.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-fa8e7a90-69ef-4b70-9b74-f19f7c2e6b15.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. One adult African elephant in calm side-three-quarter standing posture, anatomically accurate large ears and trunk, natural grey wrinkled skin. Entire single animal without calf, pregnancy diagram, baby bump exaggeration, people, other animals, size comparison, calendar, dates, text or numerals. Neutral species orientation only. Style: polished restrained realistic editorial illustration, accurate recognisable subject, centred on solid dark navy #101c2b background, soft natural lighting. No decorative elements, frame, captions, watermark, surrounding UI or question text. No measures, capacity labels or solution values.",
+      "sha256Original": "a8e01959e29523a6f2bc93d35e6f18ad3ed129ba7f22728c6d4cd29b1f438fd0"
+    },
+    {
+      "id": "SCI-0011",
+      "title": "Hauskatze",
+      "prompt": "One adult domestic short-haired tabby cat seated calmly, zoologically accurate, mouth completely CLOSED. Single animal, no kittens, no visible teeth, no skull, no dental diagram, no pregnancy stages, no calendar, people, objects, numbers, labels, measurements or text. Natural proportions, restrained natural-history illustration.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-7e5cf4c8-bd50-4c75-a6a1-18eaad96a35f.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. One adult domestic short-haired tabby cat seated calmly, zoologically accurate, mouth completely CLOSED. Single animal, no kittens, no visible teeth, no skull, no dental diagram, no pregnancy stages, no calendar, people, objects, numbers, labels, measurements or text. Natural proportions, restrained natural-history illustration. Style: polished restrained realistic editorial illustration, accurate recognisable subject, centred on solid dark navy #101c2b background, soft natural lighting. No decorative elements, frame, captions, watermark, surrounding UI or question text. No measures, capacity labels or solution values.",
+      "sha256Original": "d81ca45556475e837f22180b8f57cc7f250985f4061fdbb168eace9ba61eaf50"
+    },
+    {
+      "id": "SCI-0014",
+      "title": "Straußenei",
+      "prompt": "Exactly one intact closed ostrich egg, pale creamy ivory oval with subtly pebbled shell, no nest or other objects, isolated three-quarter still life. No chicken eggs, hands, ruler, scale, plate, label, weight, dimension, text or number. Preserve natural egg shape, no opening or chick.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-1bd9a0e2-936b-42e6-9a7e-b18303d2d25a.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Exactly one intact closed ostrich egg, pale creamy ivory oval with subtly pebbled shell, no nest or other objects, isolated three-quarter still life. No chicken eggs, hands, ruler, scale, plate, label, weight, dimension, text or number. Preserve natural egg shape, no opening or chick. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft natural lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "576a241c49bc1fab388c17ee97ae4681f69b70f9a0d9151c194f4cf577d251ce"
+    },
+    {
+      "id": "SCI-0017",
+      "title": "Brütendes Haushuhn",
+      "prompt": "One domestic hen settled in brooding posture on a small simple straw nest. The body completely conceals any eggs; NO visible countable eggs or chicks. Anatomically correct chicken, calm profile-three-quarter view. No calendar, embryo stages, diagram, time labels, text, numbers, people, other animals or comparative objects.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-56b44e54-c604-4165-b521-d01acd91154f.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. One domestic hen settled in brooding posture on a small simple straw nest. The body completely conceals any eggs; NO visible countable eggs or chicks. Anatomically correct chicken, calm profile-three-quarter view. No calendar, embryo stages, diagram, time labels, text, numbers, people, other animals or comparative objects. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft natural lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "35aaf30873e29ea97d5586554071da51a1ff2ff57b3e5daa63b2d9edc31068f1"
+    },
+    {
+      "id": "SPO-0005",
+      "title": "Historisches Rennrad",
+      "prompt": "Historically informed unbranded early-1900s racing bicycle, diamond steel frame, simple period handlebars and leather saddle, narrow tyres, fixed period components without modern derailleur, brake discs, aero wheels, bottles or electronics. Single bicycle side-three-quarter portrait. No rider, race numbers, route map, text, dates, stage distances or measurements. Generic period orientation, NOT falsely presented as a documented Tour 1903 bicycle.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-85999158-ddf4-4a9c-af89-0b3df7a13bd0.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Historically informed unbranded early-1900s racing bicycle, diamond steel frame, simple period handlebars and leather saddle, narrow tyres, fixed period components without modern derailleur, brake discs, aero wheels, bottles or electronics. Single bicycle side-three-quarter portrait. No rider, race numbers, route map, text, dates, stage distances or measurements. Generic period orientation, NOT falsely presented as a documented Tour 1903 bicycle. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft natural lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "5870887eacb28307330f10553f21487f46e3d7a7b57b399acec5ea2c6675d5a7"
+    },
+    {
+      "id": "SPO-0008",
+      "title": "Basketballring",
+      "prompt": "Close-up of an orange basketball hoop ring with plain white hanging net. Crop entirely excludes floor, support pole and full backboard, showing only ring and net on neutral background. No ball, people, ruler, height marks, dimensions, numbers or text. The top edge of ring is clearly distinguishable, but there is no external scale or known-size object.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-f6807096-8734-41f9-bae0-8eb6261bd19b.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Close-up of an orange basketball hoop ring with plain white hanging net. Crop entirely excludes floor, support pole and full backboard, showing only ring and net on neutral background. No ball, people, ruler, height marks, dimensions, numbers or text. The top edge of ring is clearly distinguishable, but there is no external scale or known-size object. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft natural lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "9100a9ad0792e236d2f2be12ca35f59a8caadf586b736d4e37599d8dbc53ac5c"
+    },
+    {
+      "id": "SPO-0011",
+      "title": "Bowlingkugel",
+      "prompt": "One recognisable glossy deep burgundy ten-pin bowling ball with three finger holes visible. Isolated single ball, no weight number or any engraving, no pins, lane, hand, scale, dumbbell, comparison objects, text, measurements or digits. Calm product illustration, no action or physical size reference.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-c43c1a17-3a2a-43c4-a13b-5d76f673b73f.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. One recognisable glossy deep burgundy ten-pin bowling ball with three finger holes visible. Isolated single ball, no weight number or any engraving, no pins, lane, hand, scale, dumbbell, comparison objects, text, measurements or digits. Calm product illustration, no action or physical size reference. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft natural lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "600b4feebbbff66085ad8677fbf203b97d28244e17e70f52667ed65d9640e1b8"
+    },
+    {
+      "id": "SPO-0017",
+      "title": "Tischtennisball",
+      "prompt": "Exactly one white table-tennis ball with a subtle curved shell seam, single sphere isolated on a dark neutral studio background. No brand or weight print, star ratings, ruler, hand, bat, net, coin, scale, text, numbers or other objects. Restrained product illustration identifying the hollow sports ball without cutaway.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-ca2e0d5f-2c10-4f71-8cab-51df3841040c.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Exactly one white table-tennis ball with a subtle curved shell seam, single sphere isolated on a dark neutral studio background. No brand or weight print, star ratings, ruler, hand, bat, net, coin, scale, text, numbers or other objects. Restrained product illustration identifying the hollow sports ball without cutaway. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft studio lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "5ce43e4589b47a8316721489606a2daeb11584a6b32862f94efabc9262b95273"
+    },
+    {
+      "id": "TEC-0011",
+      "title": "Nintendo Switch OLED",
+      "prompt": "Recognisable Nintendo Switch OLED MODEL with white Joy-Con controllers attached, wide OLED screen and thin bezel, black screen turned OFF, small black standard control sticks and buttons. One console only, no dock, hands, original-model console, ruler, other objects, dimensions, screen-size figures, labels or text. Faithful product-orientation motif study; do not distort width-height proportions.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-4ec5503d-8985-439d-ae2f-24741043b5ea.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Recognisable Nintendo Switch OLED MODEL with white Joy-Con controllers attached, wide OLED screen and thin bezel, black screen turned OFF, small black standard control sticks and buttons. One console only, no dock, hands, original-model console, ruler, other objects, dimensions, screen-size figures, labels or text. Faithful product-orientation motif study; do not distort width-height proportions. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft studio lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "ccabc6b4bf851d0c81faf841d249321b511a40e282ffd3efce2889f873599d4f"
+    },
+    {
+      "id": "TEC-0016",
+      "title": "AA-Mignon-Batterie",
+      "prompt": "One upright cylindrical AA-size alkaline battery, metallic silver and dark grey body, small brand ENERGIZER and model E91 or AA permitted, simple positive-terminal nub. NO other digits, voltage, weight, capacity, dimensions, recycling spec text, other batteries, hands, rulers or objects. Single battery distinguishes format without comparison or numerical clues.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-88972a22-5a26-4921-a6f7-4deb41f2dd6e.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. One upright cylindrical AA-size alkaline battery, metallic silver and dark grey body, small brand ENERGIZER and model E91 or AA permitted, simple positive-terminal nub. NO other digits, voltage, weight, capacity, dimensions, recycling spec text, other batteries, hands, rulers or objects. Single battery distinguishes format without comparison or numerical clues. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft studio lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "5e1c4d6249f58ba59dbf88b6fd2b2b438de68c6ffb98264df60614cbcdb70bc3"
+    },
+    {
+      "id": "TEC-0017",
+      "title": "Bewegliche LEGO-Minifigur",
+      "prompt": "Exactly one classic ordinary LEGO minifigure standing, yellow cylindrical head with simple smile, yellow hands, plain blue torso, plain red separate movable legs, no hat or accessory. Recognisable modern articulation, no package, calendar, anniversary printing, dates, years, text, numerals, timeline, other toys or comparison figure. Not an earliest-release historical outfit claim.",
+      "path": "/Users/peterdo/.codex/generated_images/01a21968-422c-72e0-85d4-6ce418427c3b/exec-8aac9d9e-140c-4cbb-8d6a-57052218575b.png",
+      "fullPrompt": "Use case: scientific-educational. Asset type: Crosspoke quiz orientation image, landscape 3:2. Exactly one classic ordinary LEGO minifigure standing, yellow cylindrical head with simple smile, yellow hands, plain blue torso, plain red separate movable legs, no hat or accessory. Recognisable modern articulation, no package, calendar, anniversary printing, dates, years, text, numerals, timeline, other toys or comparison figure. Not an earliest-release historical outfit claim. Style: polished restrained realistic editorial illustration, accurate recognisable subject centred on solid dark navy #101c2b background, soft studio lighting. No decorations, captions, watermarks, frame or surrounding UI. No solution values or measure/capacity labels.",
+      "sha256Original": "401eee74a80818d425d444d609210ce730175aaa86f1f97da6c202668a9323cf"
+    }
+  ],
+  "maps": {
+    "generator": "build_maps.py",
+    "source": "Natural Earth, Public Domain",
+    "urls": [
+      "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_lakes.geojson",
+      "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_land.geojson",
+      "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson"
+    ],
+    "noScaleOrTimeZone": true
+  },
+  "reuse": {
+    "HIS-0005": "GEO-0009",
+    "SCI-0013": "SCI-0011",
+    "TEC-0006": "HIS-0011",
+    "SCI-0015": "approved SCI-0008 portrait"
+  }
+}

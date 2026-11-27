@@ -1,0 +1,1 @@
+Crosspoke: 38 optionale Bildkandidaten. index.html öffnen. 31 Entwürfe, sieben begründete Auslassungen. 19 sinnvoll/12 bei Bedarf/7 ohne Bild. Keine aktiven Spieländerungen. Die beigefügten KI-Motive sind Studien; Details vor Einbau prüfen. Karten: Natural Earth, Public Domain.

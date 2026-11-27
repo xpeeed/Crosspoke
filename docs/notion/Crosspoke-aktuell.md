@@ -1,4 +1,4 @@
-Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T20:30:13.327Z:
+Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T20:48:57.064Z:
 <page url="https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7" icon="♠️">
 <ancestor-path>
 <parent-page url="https://app.notion.com/p/3e5f73ae951f808b91dcdfa9d3932ac0" title="Gamifications"/>
@@ -9,6 +9,12 @@ Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424
 </properties>
 <iconMetadata>{"type":"emoji","emoji":"♠️"}</iconMetadata>
 <content>
+## 38 optionale Bildkandidaten geprüft · <date start="2026-11-27" />
+
+19 sinnvolle Bildideen, 12 nur bei Bedarf, sieben besser ohne Bild. Separate [Vorschau zum Durchklicken](https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/) mit 31 Frage-Bild-Entwürfen und sieben begründeten Auslassungen vorbereitet; Veröffentlichung noch ausstehend. Filter sowie Frage-und-Bild-/Nur-Bilder-Modus. Q45–Q50 jeweils mit beiden bestehenden Hinweisen geprüft; 38 Bildprüfungsfelder gespeichert und zurückgelesen. Keine Fragen, Hinweise, Antworten, Revisionen oder Bildentscheidungen geändert; kein Einbau der neuen Motive. Modell-/Architekturdetails bleiben bei entsprechenden Motivstudien vor Spielaufnahme abzugleichen.
+
+Die bisherigen 20 Bilder im Spiel v0.2.4 sind auf Sites inzwischen bestätigt veröffentlicht (succeeded/ready). 186 Spiel-Fragen bleiben erhalten. Render unverändert.
+
 ## Bilder im Spiel · v0.2.4 · <date start="2026-11-27" />
 
 Auf Nutzerfreigabe „Bau sie ein“ sind die 20 Motive in die zugehörigen Fragen integriert. Insgesamt bleiben es 186 Testfragen, davon 20 mit Bild. Bild ab Frage unter der Einheit sichtbar, bei H1/H2/Auflösung erhalten, in Pause verborgen. Bei Ladefehler bleibt die Frage spielbar; reine Textfragen haben keinen leeren Bildbereich. Fragetexte, Hinweise, Antworten und Fragenrevisionen unverändert; die separate Bildervorschau bleibt erhalten.

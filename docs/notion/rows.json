@@ -430,7 +430,7 @@
       "Fragen-ID": "CUR-0015",
       "Kategorie": "Kurioses Wissen",
       "Einheit": "Karten",
-      "Bildprüfung": "Einzelne Karte oder geschlossene Dose ohne Inhaltszahl; keine vollständige Auslage oder abzählbarer Stapel. Das Bild soll das unbekannte Spiel erklären.",
+      "Bildprüfung": "Einzelne Karte oder geschlossene Dose ohne Inhaltszahl; keine vollständige Auslage oder abzählbarer Stapel. Das Bild soll das unbekannte Spiel erklären.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Geschlossene Dose klärt die konkrete Spielausgabe; keine Karten oder Stückangaben.\nFrage + Bild → H1 → H2: H1 bleibt Mengenvergleich zum Skatblatt; H2 ergänzt den Reststapel. Kein Abzählen möglich.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#CUR-0015. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.asmodee.de/produkte/dobble-classic",
       "Antwortwert": 55,
       "Frage": "Wie viele Karten enthält Dobble Classic?"
@@ -488,7 +488,7 @@
       "Fragen-ID": "CUR-0017",
       "Kategorie": "Kurioses Wissen",
       "Einheit": "Zentimeter",
-      "Bildprüfung": "Allenfalls enger Gesichtsausschnitt zur Erkennung. Keine ganze Bildtafel: Mit der in H2 genannten Breite würde das Seitenverhältnis die Höhe verraten.",
+      "Bildprüfung": "Allenfalls enger Gesichtsausschnitt zur Erkennung. Keine ganze Bildtafel: Mit der in H2 genannten Breite würde das Seitenverhältnis die Höhe verraten.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Ohne Bild. Gemäldeproportionen plus die in H2 genannte Breite würden die Höhe nahezu berechenbar machen. Ein enger Gesichtsausschnitt gäbe kaum zusätzlichen Nutzen.\nFrage + Bild → H1 → H2: H1 Kofferhöhe und H2 Bildbreite sollen eigenständige Hinweise bleiben; kein maßstäbliches Gemälde vorwegnehmen.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#CUR-0017. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://api-www.louvre.fr/sites/default/files/2024-09/Dossier%20p%C3%A9dagogique%20Joconde.pdf",
       "Antwortwert": 77,
       "Frage": "Wie hoch ist die Mona Lisa ohne Rahmen?"
@@ -517,7 +517,7 @@
       "Fragen-ID": "CUR-0018",
       "Kategorie": "Kurioses Wissen",
       "Einheit": "Zentimeter",
-      "Bildprüfung": "Nur Tischplatte und oberer Beinausschnitt zur Modellorientierung. Keine vollständig sichtbaren Beine: Die bekannte Tischplattenbreite wäre ein Maßstab.",
+      "Bildprüfung": "Nur Tischplatte und oberer Beinausschnitt zur Modellorientierung. Keine vollständig sichtbaren Beine: Die bekannte Tischplattenbreite wäre ein Maßstab.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Ohne Bild. Bei bekannter Tischplattenbreite kann ein korrekt proportioniertes Foto die Höhe zu genau nahelegen. Verzerren wäre sachlich falsch.\nFrage + Bild → H1 → H2: H1 Tritthocker und H2 halbe Tischplattenbreite dürfen nicht durch messbare Bildverhältnisse präzisiert werden.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#CUR-0018. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.ikea.com/de/de/p/lack-beistelltisch-weiss-30449908/",
       "Antwortwert": 45,
       "Frage": "Wie hoch ist der weiße IKEA-LACK-Beistelltisch mit 55 × 55 Zentimetern Tischplatte?"
@@ -720,7 +720,7 @@
       "Fragen-ID": "ECO-0007",
       "Kategorie": "Wirtschaft",
       "Einheit": "Gramm",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann bei wenig Euro-Erfahrung den Gegenstand klären.\nMotiv: Eine isolierte 2-Euro-Münze.\nVermeiden: Keine Waage, anderen Münzen, Durchmesser- oder Gewichtsangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann bei wenig Euro-Erfahrung den Gegenstand klären.\nMotiv: Eine isolierte 2-Euro-Münze.\nVermeiden: Keine Waage, anderen Münzen, Durchmesser- oder Gewichtsangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Identifiziert die Umlaufmünze; für die meisten bereits sehr vertraut. Die Wertzahl ist keine Gewichtsangabe. Detailtreue einer Prägung bleibt offen.\nFrage + Bild → H1 → H2: H1 und H2 nennen andere Münzgewichte; diese Münzen werden nicht mit abgebildet.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#ECO-0007. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.bundesbank.de/en/tasks/cash-management/frequently-asked-questions/frequently-asked-questions-euro-coins",
       "Antwortwert": 8.5,
       "Frage": "Wie viele Gramm wiegt eine gewöhnliche 2-Euro-Umlaufmünze, auf eine Nachkommastelle gerundet?"
@@ -923,7 +923,7 @@
       "Fragen-ID": "ECO-0014",
       "Kategorie": "Wirtschaft",
       "Einheit": "Euro",
-      "Bildprüfung": "Nur neutrales 6aus49-Spielfeld zur Begriffsklärung, ohne Preistafel, Gebühr, Kassenzettel, Quittung oder Zusatzlotterien. Keine Bilder erzeugt/eingebaut. Entscheidung auf Frage+H1+H2 bezogen. Vor Verwendung: konkretes Asset auf sachliche Richtigkeit, Rechte, Daten-/Preislecks, Vergrößerung und Handy-/Großbildschirm prüfen.",
+      "Bildprüfung": "Nur neutrales 6aus49-Spielfeld zur Begriffsklärung, ohne Preistafel, Gebühr, Kassenzettel, Quittung oder Zusatzlotterien. Keine Bilder erzeugt/eingebaut. Entscheidung auf Frage+H1+H2 bezogen. Vor Verwendung: konkretes Asset auf sachliche Richtigkeit, Rechte, Daten-/Preislecks, Vergrößerung und Handy-/Großbildschirm prüfen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Ohne Bild. Der Schein klärt die historische Laden-Gebühr nicht. Ein echtes Formular birgt Einsatz-/Gebührenlecks; ein generischer wäre vorwiegend Dekoration.\nFrage + Bild → H1 → H2: Spiel-77-Vergleich und Grundgebühr bleiben Textinformationen; keine Preise vorab sichtbar.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#ECO-0014. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.lotto-berlin.de/aktuelles/spieleinsaetze",
       "Antwortwert": 2.2,
       "Frage": "Was kostet ein 6aus49-Feld bei LOTTO Berlin inklusive Gebühr für eine Ziehung im Laden ohne Kundenkarte (Stand 27.11.2026)?"
@@ -1242,7 +1242,7 @@
       "Fragen-ID": "ENT-0006",
       "Kategorie": "Film & Musik",
       "Einheit": "Jahre",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die ungewöhnliche Aufführung als realen Gegenstand verorten.\nMotiv: Die konkrete Orgel in Halberstadt.\nVermeiden: Keine Projekttafel mit Endjahr oder Gesamtdauer.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die ungewöhnliche Aufführung als realen Gegenstand verorten.\nMotiv: Die konkrete Orgel in Halberstadt.\nVermeiden: Keine Projekttafel mit Endjahr oder Gesamtdauer.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Ohne Bild. Eine beliebige Orgel erklärt gerade diese Langzeitaufführung nicht. Ein konkretes Projektfoto müsste seine Jahres-/Zeitplantafeln sicher ausschließen; dafür liegt kein geprüftes Asset vor.\nFrage + Bild → H1 → H2: 17 Monate Stille und die Zeitanker bleiben die eigentliche Schätzorientierung. Keine Zeittafel im Fragebild.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#ENT-0006. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.wisemusicclassical.com/work/69618/OrganASLSP--John-Cage/",
       "Antwortwert": 639,
       "Frage": "Wie viele Jahre soll die Halberstädter Aufführung von John Cages ORGAN²/ASLSP laut Projektplan dauern?"
@@ -1387,7 +1387,7 @@
       "Fragen-ID": "ENT-0011",
       "Kategorie": "Film & Musik",
       "Einheit": "Minuten",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann ihn von der neueren Realverfilmung unterscheiden.\nMotiv: Eindeutiges Motiv aus dem Zeichentrickfilm von 1937.\nVermeiden: Keine Laufzeit; Bildrechte vor Verwendung klären.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann ihn von der neueren Realverfilmung unterscheiden.\nMotiv: Eindeutiges Motiv aus dem Zeichentrickfilm von 1937.\nVermeiden: Keine Laufzeit; Bildrechte vor Verwendung klären.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Ohne Bild. Ein generisches Märchenbild könnte Film und Version verwechseln. Titel und Jahr grenzen den Film bereits ab; für die Laufzeit entsteht kaum zusätzlicher Nutzen.\nFrage + Bild → H1 → H2: Fußballspiel und Dumbo bleiben die zeitlichen Referenzen; kein Filmplayer mit Laufzeit.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#ENT-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://d23.com/a-to-z/snow-white-and-the-seven-dwarfs-film/",
       "Antwortwert": 83,
       "Frage": "Wie viele Minuten dauert Disneys Zeichentrickfilm Schneewittchen und die sieben Zwerge von 1937 laut D23?"
@@ -1880,7 +1880,7 @@
       "Fragen-ID": "FOD-0006",
       "Kategorie": "Food & Drinks",
       "Einheit": "Liter",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Laib gegenüber kleinem Supermarktstück klären.\nMotiv: Ein ganzer Laib Parmigiano Reggiano ohne Vergleichsobjekt.\nVermeiden: Keine Gewichtsstempel, Milchbehälter, Menschen oder Produktionsmengen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Laib gegenüber kleinem Supermarktstück klären.\nMotiv: Ein ganzer Laib Parmigiano Reggiano ohne Vergleichsobjekt.\nVermeiden: Keine Gewichtsstempel, Milchbehälter, Menschen oder Produktionsmengen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Ganzer Laib statt Supermarktstück wird verständlich. Ohne Maßstab, Stempelzahlen, Milchbehälter oder Menschen.\nFrage + Bild → H1 → H2: H1 Badewannenmenge und H2 Laibgewicht/Milchbedarf bleiben neue Informationen; keine ablesbare Milchmenge.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#FOD-0006. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.parmigianoreggiano.com/product-art-of-making",
       "Antwortwert": 550,
       "Frage": "Wie viele Liter Milch benötigt man laut Herstellerverband ungefähr für einen Laib Parmigiano Reggiano?"
@@ -1967,7 +1967,7 @@
       "Fragen-ID": "FOD-0009",
       "Kategorie": "Food & Drinks",
       "Einheit": "Gramm",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die Abgrenzung zu Zero/Light sichern.\nMotiv: Original-Taste-Produkt ohne Etikett mit Nährwerten; keine Gläsergrößenschätzung.\nVermeiden: Keine Zuckerwürfel, Zutaten-/Zuckerwerte oder Füllskala; 250 ml steht bereits im Text.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die Abgrenzung zu Zero/Light sichern.\nMotiv: Original-Taste-Produkt ohne Etikett mit Nährwerten; keine Gläsergrößenschätzung.\nVermeiden: Keine Zuckerwürfel, Zutaten-/Zuckerwerte oder Füllskala; 250 ml steht bereits im Text.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Produktvariante statt Zero/Light klären. Keine Nährwerte, Zuckerwürfel oder Volumenangaben; Flasche ist keine Abbildung der abgefragten Portion.\nFrage + Bild → H1 → H2: H1 Zuckerwürfel und H2 Gehalt pro 100 ml bleiben quantitative Hinweise. Die Flasche darf keine zusätzliche Portion definieren.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#FOD-0009. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.coca-cola.com/de/de/media-center/9-fakten-uber-coca-cola-un-zucker",
       "Antwortwert": 27,
       "Frage": "Wie viele Gramm Zucker nennt Coca-Cola für 250 Milliliter Original Taste in Deutschland?"
@@ -2054,7 +2054,7 @@
       "Fragen-ID": "FOD-0012",
       "Kategorie": "Food & Drinks",
       "Einheit": "Kilokalorien",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Hilft bei Spielern, die den Produktnamen nicht sicher zuordnen.\nMotiv: Eine einzelne klassische Toffifee-Praline.\nVermeiden: Keine Nährwerte, Stückgewichte oder vollständige Packung mit Portionsangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Hilft bei Spielern, die den Produktnamen nicht sicher zuordnen.\nMotiv: Eine einzelne klassische Toffifee-Praline.\nVermeiden: Keine Nährwerte, Stückgewichte oder vollständige Packung mit Portionsangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Einzelne Praline hilft bei unbekanntem Produktnamen. Keine Packung, Gewichte oder Kalorien.\nFrage + Bild → H1 → H2: H1 Nutella-Portion und H2 Hälfte der Referenzkalorien gewinnen weiterhin eigenständig Information.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#FOD-0012. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://cms.storck.com/fileadmin/pdf/_de_DE__toffifee-48-stueck.pdf",
       "Antwortwert": 43,
       "Frage": "Wie viele Kilokalorien nennt Storck für ein Stück klassisches Toffifee?"
@@ -2373,7 +2373,7 @@
       "Fragen-ID": "GEO-0005",
       "Kategorie": "Geografie",
       "Einheit": "Mio. km²",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann beim Erkennen der gemeinten Landmasse helfen.\nMotiv: Isolierter Umriss Australiens.\nVermeiden: Kein Vergleich mit Europa, kein Flächenraster; die Teilflächen aus H2 nicht einzeichnen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann beim Erkennen der gemeinten Landmasse helfen.\nMotiv: Isolierter Umriss Australiens.\nVermeiden: Kein Vergleich mit Europa, kein Flächenraster; die Teilflächen aus H2 nicht einzeichnen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Isolierter Landesumriss einschließlich Tasmanien, ohne Flächenraster oder andere Kontinente als Maßstab.\nFrage + Bild → H1 → H2: H1 EU-Fläche und H2 zwei Bundesstaaten bleiben zusätzlich; keine Teilflächen in der Karte.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0005. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.ga.gov.au/scientific-topics/national-location-information/geography/areas-of-australia",
       "Antwortwert": 7.69,
       "Frage": "Wie groß ist Australien in Millionen Quadratkilometern, auf zwei Nachkommastellen gerundet?"
@@ -2402,7 +2402,7 @@
       "Fragen-ID": "GEO-0006",
       "Kategorie": "Geografie",
       "Einheit": "Mio. km²",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt den ganzen Kontinent gegenüber einzelnen Ländern.\nMotiv: Isolierter Umriss Afrikas.\nVermeiden: Keine Überlagerung mit USA/China, keine proportional eingezeichnete Sahara zu deren H2-Fläche.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt den ganzen Kontinent gegenüber einzelnen Ländern.\nMotiv: Isolierter Umriss Afrikas.\nVermeiden: Keine Überlagerung mit USA/China, keine proportional eingezeichnete Sahara zu deren H2-Fläche.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Kontinentumriss ohne Staatsgrenzen, Flächenraster oder vergleichend eingezeichnete Länder.\nFrage + Bild → H1 → H2: H1 USA/China und H2 Sahara werden nicht vorweggenommen; keine Sahara-Abgrenzung.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0006. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.greenpeace.org/africa/en/weathering-the-storm-extreme-weather-events-and-climate-change-in-africa/1-0-introduction/",
       "Antwortwert": 30.4,
       "Frage": "Wie groß ist Afrika laut verwendeter Kontinentangabe, in Millionen Quadratkilometern auf eine Nachkommastelle gerundet?"
@@ -2431,7 +2431,7 @@
       "Fragen-ID": "GEO-0007",
       "Kategorie": "Geografie",
       "Einheit": "Sekunden",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die ungewohnte Aufzugsfahrt verorten.\nMotiv: Außenansicht Berliner Fernsehturm.\nVermeiden: Keine Höhen, Etagenzahlen, Kabinenzeiten oder Aufzugsanimation; Verhältnis zur 203-m-Ebene nicht zusätzlich auswertbar machen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die ungewohnte Aufzugsfahrt verorten.\nMotiv: Außenansicht Berliner Fernsehturm.\nVermeiden: Keine Höhen, Etagenzahlen, Kabinenzeiten oder Aufzugsanimation; Verhältnis zur 203-m-Ebene nicht zusätzlich auswertbar machen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Oberer Turmausschnitt verortet das Aufzugsziel; Fahrzeit wird nicht visualisiert. Keine Höhe, Bodenlinie oder Fahranimation.\nFrage + Bild → H1 → H2: H1 Geschwindigkeit und H2 Aussichtsebenenhöhe bleiben Textinformationen. Bild zeigt keine zusätzliche ausmessbare Fahrtstrecke.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0007. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://tv-turm.de/faqs/",
       "Antwortwert": 40,
       "Frage": "Wie viele Sekunden dauert die Aufzugfahrt zur Aussichtsebene des Berliner Fernsehturms ungefähr?"
@@ -2489,7 +2489,7 @@
       "Fragen-ID": "GEO-0009",
       "Kategorie": "Geografie",
       "Einheit": "Stufen",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt den konkret gemeinten Turm.\nMotiv: Südturm des Kölner Doms, Ausschnitt.\nVermeiden: Keine zählbaren Treppen, Stufenbeschriftung, Besucherzählung oder Höhenangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt den konkret gemeinten Turm.\nMotiv: Südturm des Kölner Doms, Ausschnitt.\nVermeiden: Keine zählbaren Treppen, Stufenbeschriftung, Besucherzählung oder Höhenangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Domfassade und engerer Turmausschnitt verdeutlichen das Bauwerk. Keine Treppen, Stufen, Menschen oder Tafeln; genaue Architektur bleibt Motivstudie.\nFrage + Bild → H1 → H2: H1 Eiffelturmstufen und H2 Plattformhöhe bleiben zusätzliche Größen; kein Abzählen im Bild.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0009. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.koelner-dom.de/besuchen/turmbesteigung?pp=1",
       "Antwortwert": 533,
       "Frage": "Wie viele Treppenstufen führen zur Aussichtsplattform im Südturm des Kölner Doms?"
@@ -2518,7 +2518,7 @@
       "Fragen-ID": "GEO-0010",
       "Kategorie": "Geografie",
       "Einheit": "Meter",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Hilft Spielern ohne eigene Bergerfahrung beim Verorten.\nMotiv: Zugspitzgipfel ohne Gipfelschild.\nVermeiden: Keine Gipfelhöhe, Höhenlinien, benannte Station auf maßstäblichem Profil oder Vergleich mit Matterhorn.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Hilft Spielern ohne eigene Bergerfahrung beim Verorten.\nMotiv: Zugspitzgipfel ohne Gipfelschild.\nVermeiden: Keine Gipfelhöhe, Höhenlinien, benannte Station auf maßstäblichem Profil oder Vergleich mit Matterhorn.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Gipfelmotiv ohne Höhenangabe; keine Höhenlinien, Station oder Vergleichsberge. Erkennbare Gipfelform vor Spielaufnahme fachlich abgleichen.\nFrage + Bild → H1 → H2: H1 Matterhorn und H2 Gletscherstation bleiben Referenzen; keine proportional ausgewiesene Stationslage.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0010. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://zugspitze.de/Downloads/%C3%9Cbersichtskarten/Pistenplan_Zugspitze_Legende.pdf",
       "Antwortwert": 2962,
       "Frage": "Wie hoch liegt der Gipfel der Zugspitze über dem Meeresspiegel?"
@@ -2547,7 +2547,7 @@
       "Fragen-ID": "GEO-0011",
       "Kategorie": "Geografie",
       "Einheit": "Meter",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann den gemeinten See klären, hilft aber nur wenig bei Tiefe.\nMotiv: Schlichter Bodenseeumriss.\nVermeiden: Keine Tiefenzonen, Isobathen, Höhenprofile oder vermaßte Vergleichsgebäude.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann den gemeinten See klären, hilft aber nur wenig bei Tiefe.\nMotiv: Schlichter Bodenseeumriss.\nVermeiden: Keine Tiefenzonen, Isobathen, Höhenprofile oder vermaßte Vergleichsgebäude.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Obersee-Umriss als Teil des Bodensees; der Untersee ist nicht dargestellt. Klärt die Lage, hilft bei Tiefe jedoch wenig. Keine Tiefenfarben, Profile oder Isobathen.\nFrage + Bild → H1 → H2: H1 Fernsehturm und H2 mittlere Tiefe bleiben unverändert nützlich; Umriss verrät keine Tiefe.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.igkb.org/bodensee/seedaten",
       "Antwortwert": 251,
       "Frage": "Wie tief ist der Bodensee an seiner tiefsten Stelle laut IGKB, auf Meter gerundet?"
@@ -2692,7 +2692,7 @@
       "Fragen-ID": "GEO-0016",
       "Kategorie": "Geografie",
       "Einheit": "Stunden",
-      "Bildprüfung": "Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt.",
+      "Bildprüfung": "Weltkarte mit Berlin und Buenos Aires als zwei Punkten kann die Lage klären. Keine UTC-Angaben, Uhrzeiten, Zeitzonenbänder, Gradangaben oder Maßstabsleiste. Kartengenauigkeit, Rechte und Auswirkungen auf H1/H2 vor Einsatz prüfen; noch kein Bild erstellt.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Zwei korrekt verortete Städte auf Weltkarte, ohne Gradnetz, Uhrzeiten, Zeitzonenbänder oder Maßstab.\nFrage + Bild → H1 → H2: Lage gibt nur grobe Orientierung; H1 New York und H2 Vormittagsgrenze bleiben zusätzlich. Sommerzeit ist nicht aus dem Bild ableitbar.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0016. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.timeanddate.com/time/zone/argentina/buenos-aires",
       "Antwortwert": 4,
       "Frage": "Wie viele Stunden liegt Berlin am 15. Januar 2026 zeitlich vor Buenos Aires?"
@@ -2779,7 +2779,7 @@
       "Fragen-ID": "GEO-0019",
       "Kategorie": "Geografie",
       "Einheit": "Staaten",
-      "Bildprüfung": "Grobe Lagekarte des Pazifiks ohne Einzelstaatsmarkierungen, Flaggen, Grenzlinien oder Maßstabsleiste. Ozeanien soll räumlich verständlicher werden.",
+      "Bildprüfung": "Grobe Lagekarte des Pazifiks ohne Einzelstaatsmarkierungen, Flaggen, Grenzlinien oder Maßstabsleiste. Ozeanien soll räumlich verständlicher werden.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Grobe Pazifiklage ohne Staatenpunkte, Grenzen oder Flaggen; keine Vollständigkeits- oder Zählkarte.\nFrage + Bild → H1 → H2: H1 EU-Mitglieder und H2 Mikronesien-Anteil bleiben zusätzliche Zählinformation; Inseln dürfen nicht als Staatenliste gelesen werden.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0019. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://unstats.un.org/unsd/methodology/m49/",
       "Antwortwert": 14,
       "Frage": "Wie viele UN-Mitgliedstaaten liegen nach UN-M49 in Ozeanien, Stand November 2026?"
@@ -2866,7 +2866,7 @@
       "Fragen-ID": "GEO-0022",
       "Kategorie": "Geografie",
       "Einheit": "Stunden",
-      "Bildprüfung": "Lagekarte mit Berlin und Los Angeles, ohne Uhrzeiten, Gradangaben, Zeitzonenbänder oder Maßstab.",
+      "Bildprüfung": "Lagekarte mit Berlin und Los Angeles, ohne Uhrzeiten, Gradangaben, Zeitzonenbänder oder Maßstab.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Zwei verortete Städte, ohne Gradnetz, Uhrzeiten, Zeitzonen oder Maßstab. Keine Strecken-/Zeitverbindung.\nFrage + Bild → H1 → H2: H1 New-York-Differenz und H2 Vortag bleiben zusätzliche Orientierung; kein rechnerisches Zeitzonenschema.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#GEO-0022. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.timeanddate.com/time/zone/germany/berlin?year=2026",
       "Antwortwert": 9,
       "Frage": "Wie viele Stunden liegt Berlin am 15. Januar 2026 zeitlich vor Los Angeles?"
@@ -3011,7 +3011,7 @@
       "Fragen-ID": "HIS-0005",
       "Kategorie": "Geschichte",
       "Einheit": "Jahre",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann das Bauwerk bei wenig Vorwissen verständlicher machen.\nMotiv: Eindeutig erkennbarer Kölner Dom.\nVermeiden: Keine Bauphasengrafik, Jahreszahlen oder Jubiläumsbanner.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann das Bauwerk bei wenig Vorwissen verständlicher machen.\nMotiv: Eindeutig erkennbarer Kölner Dom.\nVermeiden: Keine Bauphasengrafik, Jahreszahlen oder Jubiläumsbanner.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Domfassade kann bei unbekanntem Bauwerk helfen; keine Bauphasen, Jahreszahlen oder Jubiläumsbanner.\nFrage + Bild → H1 → H2: H1 Baupause und H2 Jahrhunderte bleiben zeitliche Referenzen; Bild enthält keinen historischen Zeitanker.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#HIS-0005. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.koelner-dom.de/erleben/geschichte",
       "Antwortwert": 632,
       "Frage": "Wie viele Jahre vergingen vom Baubeginn bis zur Fertigstellung des Kölner Doms?"
@@ -3185,7 +3185,7 @@
       "Fragen-ID": "HIS-0011",
       "Kategorie": "Geschichte",
       "Einheit": "Jahre",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann das gemeinte Flugzeug von anderen Jets unterscheiden.\nMotiv: Eindeutige Concorde ohne Tafeln.\nVermeiden: Keine Betriebsjahre, Jubiläumsaufschriften oder Flugpläne.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann das gemeinte Flugzeug von anderen Jets unterscheiden.\nMotiv: Eindeutige Concorde ohne Tafeln.\nVermeiden: Keine Betriebsjahre, Jubiläumsaufschriften oder Flugpläne.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Unverwechselbares Flugzeug identifizieren; keine Flugpläne, Jubiläen oder Jahreszahlen. Historisch orientierte Motivstudie.\nFrage + Bild → H1 → H2: H1 1970er-Jahre und H2 Betriebsende bleiben alleinige Zeitanker; Bild verrät keine Jahreszahl.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#HIS-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde",
       "Antwortwert": 27,
       "Frage": "Wie viele volle Jahre lagen zwischen Concordes erstem und letztem kommerziellen Passagierflug?"
@@ -4055,7 +4055,7 @@
       "Fragen-ID": "SCI-0006",
       "Kategorie": "Wissenschaft & Natur",
       "Einheit": "Flügelschläge pro Sekunde",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Honigbiene von Wespe oder Hummel unterscheiden.\nMotiv: Eine Honigbiene, Einzelaufnahme.\nVermeiden: Keine Zeitlupensequenz, Frequenzangabe oder Flügelspuren zum Abzählen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Honigbiene von Wespe oder Hummel unterscheiden.\nMotiv: Eine Honigbiene, Einzelaufnahme.\nVermeiden: Keine Zeitlupensequenz, Frequenzangabe oder Flügelspuren zum Abzählen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Honigbiene von Wespe/Hummel unterscheiden; stehende Flügel ohne Bewegungsfolge.\nFrage + Bild → H1 → H2: H1 Kolibri und H2 Minutenanzahl bleiben quantitative Hinweise; kein Frequenzcode oder abzählbare Flügelspuren.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0006. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://pubmed.ncbi.nlm.nih.gov/16330767/",
       "Antwortwert": 230,
       "Frage": "Wie oft pro Sekunde schlägt eine Honigbiene beim Schwebeflug laut Studie ungefähr mit ihren Flügeln?"
@@ -4084,7 +4084,7 @@
       "Fragen-ID": "SCI-0007",
       "Kategorie": "Wissenschaft & Natur",
       "Einheit": "Monate",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Erlaubte Tierorientierung, aber bei vertrautem Publikum entbehrlich.\nMotiv: Erwachsener Elefant ohne Baby oder Kalender.\nVermeiden: Keine Tragzeitangabe, Embryonalreihe oder Verhältnisgrafik Mensch–Elefant.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Erlaubte Tierorientierung, aber bei vertrautem Publikum entbehrlich.\nMotiv: Erwachsener Elefant ohne Baby oder Kalender.\nVermeiden: Keine Tragzeitangabe, Embryonalreihe oder Verhältnisgrafik Mensch–Elefant.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Erwachsenes Einzeltier passt thematisch, ist aber schon vertraut. Keine Kälber, Embryonen oder Kalender.\nFrage + Bild → H1 → H2: Die beiden menschlichen Schwangerschaftsvergleiche bleiben neu; keine Entwicklungsreihe.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0007. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://elephantconservation.org/faq-items/how-long-is-an-elephants-pregnancy/",
       "Antwortwert": 22,
       "Frage": "Wie viele Monate dauert die Schwangerschaft eines Elefanten laut Elephant Foundation ungefähr?"
@@ -4200,7 +4200,7 @@
       "Fragen-ID": "SCI-0011",
       "Kategorie": "Wissenschaft & Natur",
       "Einheit": "Zähne",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Tierorientierung ist erlaubt; für die meisten ohnehin vertraut.\nMotiv: Katze mit geschlossenem Maul.\nVermeiden: Keine Gebisszeichnung, offenen zählbaren Zahnreihen oder Zahnschema.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Tierorientierung ist erlaubt; für die meisten ohnehin vertraut.\nMotiv: Katze mit geschlossenem Maul.\nVermeiden: Keine Gebisszeichnung, offenen zählbaren Zahnreihen oder Zahnschema.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Katze mit geschlossenem Maul; Gebiss bleibt vollständig verborgen. Vertrautes Tier, daher begrenzter Zusatznutzen.\nFrage + Bild → H1 → H2: H1 Milchgebiss und H2 Hundegebiss bleiben Textreferenzen; nichts direkt zählbar.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/when-kitty-needs-dentist",
       "Antwortwert": 30,
       "Frage": "Wie viele bleibende Zähne hat eine erwachsene Katze bei vollständigem Gebiss?"
@@ -4258,7 +4258,7 @@
       "Fragen-ID": "SCI-0013",
       "Kategorie": "Wissenschaft & Natur",
       "Einheit": "Tage",
-      "Bildprüfung": "Einzelne erwachsene Hauskatze ohne Maße, Kalender oder Entwicklungsstadien.",
+      "Bildprüfung": "Einzelne erwachsene Hauskatze ohne Maße, Kalender oder Entwicklungsstadien.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Erwachsene Hauskatze ohne Nachwuchs, Kalender oder Entwicklungsfolge; keine sichtbar behauptete Schwangerschaftsphase.\nFrage + Bild → H1 → H2: H1 Kaninchen und H2 Röntgenzeitpunkt bleiben neue Informationen; keine Embryonen im Bild.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0013. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.cats.org.uk/help-and-advice/pregnancy-and-kitten-care/caring-for-your-pregnant-cat",
       "Antwortwert": 63,
       "Frage": "Wie viele Tage ist eine Hauskatze laut Cats Protection gewöhnlich ungefähr trächtig?"
@@ -4287,7 +4287,7 @@
       "Fragen-ID": "SCI-0014",
       "Kategorie": "Wissenschaft & Natur",
       "Einheit": "Kilogramm",
-      "Bildprüfung": "Einzelnes Straußenei ohne Waage, Hand, Lineal oder Vergleichsei. Keine Größen- oder Gewichtsangaben im Bild.",
+      "Bildprüfung": "Einzelnes Straußenei ohne Waage, Hand, Lineal oder Vergleichsei. Keine Größen- oder Gewichtsangaben im Bild.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Einzelnes Ei verdeutlicht den Gegenstand, ohne Hände, Hühnerei, Lineal oder Waage. Genaue Eigröße bleibt bewusst unbekannt.\nFrage + Bild → H1 → H2: H1 Hühnereigewicht und H2 Abmessungen bleiben neue Maßstäbe; kein Vergleichsobjekt vor H1.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0014. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://animals.sandiegozoo.org/animals/ostrich",
       "Antwortwert": 1.5,
       "Frage": "Wie viele Kilogramm wiegt ein Straußenei laut San Diego Zoo ungefähr, mit einer Nachkommastelle?"
@@ -4316,7 +4316,7 @@
       "Fragen-ID": "SCI-0015",
       "Kategorie": "Wissenschaft & Natur",
       "Einheit": "Meter",
-      "Bildprüfung": "Einzelne erwachsene Giraffe ohne Menschen, Kälber, Messlatten oder Bauwerke als Größenvergleich.",
+      "Bildprüfung": "Einzelne erwachsene Giraffe ohne Menschen, Kälber, Messlatten oder Bauwerke als Größenvergleich.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Schon freigegebenes Giraffenporträt wiederverwenden. Kopf und oberer Hals statt messbarem Ganzkörper; keine Kälber/Menschen.\nFrage + Bild → H1 → H2: H1 Kälberhöhe und H2 Weibchenhöhe bleiben zusätzlich; kein Größenvergleich im Porträt.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0015. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://animals.sandiegozoo.org/animals/giraffe",
       "Antwortwert": 5.5,
       "Frage": "Wie hoch können ausgewachsene männliche Giraffen laut San Diego Zoo ungefähr werden, mit einer Nachkommastelle?"
@@ -4374,7 +4374,7 @@
       "Fragen-ID": "SCI-0017",
       "Kategorie": "Wissenschaft & Natur",
       "Einheit": "Tage",
-      "Bildprüfung": "Haushuhn in Brutposition zur Klärung des Vorgangs. Kein Kalender und keine Entwicklungsfolge.",
+      "Bildprüfung": "Haushuhn in Brutposition zur Klärung des Vorgangs. Kein Kalender und keine Entwicklungsfolge.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Bruthaltung klärt den Vorgang; Eier unter dem Körper verborgen, keine zeitliche Entwicklungsfolge.\nFrage + Bild → H1 → H2: H1 Entenbrut und H2 Durchleuchten bleiben zeitliche Orientierung; keine Kalender- oder Schlupfstadien.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SCI-0017. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
       "Antwortwert": 21,
       "Frage": "Nach wie vielen Tagen schlüpfen Haushuhnküken bei normaler Bebrütung ungefähr?"
@@ -4519,7 +4519,7 @@
       "Fragen-ID": "SPO-0005",
       "Kategorie": "Sport",
       "Einheit": "km",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die damalige Tour gegenüber heutigen Etappen einordnen.\nMotiv: Historisches Rennrad oder eindeutig belegtes Foto der Tour 1903.\nVermeiden: Keine Streckenkarte: H1 nennt eine Teil-/Luftlinienreferenz; keine Kilometer- oder Etappenlängen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die damalige Tour gegenüber heutigen Etappen einordnen.\nMotiv: Historisches Rennrad oder eindeutig belegtes Foto der Tour 1903.\nVermeiden: Keine Streckenkarte: H1 nennt eine Teil-/Luftlinienreferenz; keine Kilometer- oder Etappenlängen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Periodenorientiertes Rennrad, ausdrücklich kein Belegfoto der Tour 1903. Kein Streckenverlauf, Etappenlängen oder Startnummern.\nFrage + Bild → H1 → H2: H1 Paris–Marseille und H2 Etappenmindestlänge bleiben neue Streckeninformation; Bild zeigt keine Route.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SPO-0005. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://netstorage.lequipe.fr/ASO/cyclisme/le-tour/2014/histoire/Historique-VERSION_INTEGRALE-fr.pdf",
       "Antwortwert": 2428,
       "Frage": "Wie viele Kilometer umfasste die erste Tour de France 1903?"
@@ -4606,7 +4606,7 @@
       "Fragen-ID": "SPO-0008",
       "Kategorie": "Sport",
       "Einheit": "Meter",
-      "Bildprüfung": "Aktualisiert zur überarbeiteten Fassung, 27.11.2026. Optional: Nahaufnahme des Basketballrings ohne Boden und ohne vollständiges Spielbrett; klärt die gesuchte Ringoberkante. H2 nennt nun die ungefähr vier Meter hohe Brettoberkante. Deshalb keine maßstäbliche Gesamtansicht von Brett, Ring und Boden, keine Personen, Höhenmarkierungen oder Vergleichsobjekte zeigen. Konkretes Asset, Richtigkeit, Rechte, Vergrößerung und Handy-/Großbildschirmprüfung offen.",
+      "Bildprüfung": "Aktualisiert zur überarbeiteten Fassung, 27.11.2026. Optional: Nahaufnahme des Basketballrings ohne Boden und ohne vollständiges Spielbrett; klärt die gesuchte Ringoberkante. H2 nennt nun die ungefähr vier Meter hohe Brettoberkante. Deshalb keine maßstäbliche Gesamtansicht von Brett, Ring und Boden, keine Personen, Höhenmarkierungen oder Vergleichsobjekte zeigen. Konkretes Asset, Richtigkeit, Rechte, Vergrößerung und Handy-/Großbildschirmprüfung offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Ringnahaufnahme klärt die gesuchte Oberkante. Kein Boden, vollständiges Brett, Ball oder Mensch als Maßstab.\nFrage + Bild → H1 → H2: H1 Hochsprungrekord und H2 Brettoberkante bleiben neue Größen; das Brett-Ring-Verhältnis ist nicht abmessbar.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SPO-0008. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-official-basketball-rules-and-basketball-equipment.pdf?k_id=0ac9d7bf-a28c-4f46-b0f2-f3e0fd873786",
       "Antwortwert": 3.05,
       "Frage": "Wie hoch hängt die Ringoberkante im Basketball nach FIBA-Regeln 2024, auf zwei Nachkommastellen gerundet?"
@@ -4693,7 +4693,7 @@
       "Fragen-ID": "SPO-0011",
       "Kategorie": "Sport",
       "Einheit": "Kilogramm",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Bowling von Kegeln unterscheiden.\nMotiv: Eine Bowlingkugel ohne Gewichtskennzeichnung.\nVermeiden: Keine Gewichtsnummer, Waage, Hanteln, Hand oder Kugelvergleich.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Bowling von Kegeln unterscheiden.\nMotiv: Eine Bowlingkugel ohne Gewichtskennzeichnung.\nVermeiden: Keine Gewichtsnummer, Waage, Hanteln, Hand oder Kugelvergleich.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Drei Fingerlöcher grenzen Bowling ab; ohne Gewichtsnummer, Waage oder Vergleichsgegenstand.\nFrage + Bild → H1 → H2: H1 Reissack und H2 Hanteln bleiben Gewichtsreferenzen; Löcher sind nicht die gesuchte Anzahl.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SPO-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://bowl.com/getmedia/08ef148d-c0e4-4e00-9e0d-855ba4729ad5/equipment-specs-manual.pdf?v=20250716T14001",
       "Antwortwert": 7.26,
       "Frage": "Wie viele Kilogramm darf eine Bowlingkugel nach USBC-Regeln höchstens wiegen, auf zwei Dezimalstellen gerundet?"
@@ -4780,7 +4780,7 @@
       "Fragen-ID": "SPO-0014",
       "Kategorie": "Sport",
       "Einheit": "Euro",
-      "Bildprüfung": "Ein eindeutig als Fan-Heimtrikot erkennbares Motiv ohne Preis, Flock-Aufpreis, Rabattschild oder Vergleichsgalerie; kein Authentic-Modell. Keine Bilder erzeugt/eingebaut. Entscheidung auf Frage+H1+H2 bezogen. Vor Verwendung: konkretes Asset auf sachliche Richtigkeit, Rechte, Daten-/Preislecks, Vergrößerung und Handy-/Großbildschirm prüfen.",
+      "Bildprüfung": "Ein eindeutig als Fan-Heimtrikot erkennbares Motiv ohne Preis, Flock-Aufpreis, Rabattschild oder Vergleichsgalerie; kein Authentic-Modell. Keine Bilder erzeugt/eingebaut. Entscheidung auf Frage+H1+H2 bezogen. Vor Verwendung: konkretes Asset auf sachliche Richtigkeit, Rechte, Daten-/Preislecks, Vergrößerung und Handy-/Großbildschirm prüfen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Ohne Bild. Ein beliebiges Fantrikot klärt den Mittelwert über alle Vereine nicht. Ein einzelner Verein würde die Stichprobe verzerren, eine Galerie wäre überwiegend Dekoration.\nFrage + Bild → H1 → H2: H1 günstigster Verein und H2 drei gleiche Preise bleiben aussagekräftiger als ein generisches Trikotbild.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SPO-0014. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://sport.sky.de/fussball/artikel/die-trikots-der-bundesligisten-im-kostenueberblick/13399191/34942",
       "Antwortwert": 92,
       "Frage": "Wie hoch war der mittlere Grundpreis der Erwachsenen-Heimtrikots der deutschen Fußball-Bundesliga 2025/26 (Stand 14.08.2025), auf volle Euro gerundet?"
@@ -4838,7 +4838,7 @@
       "Fragen-ID": "SPO-0016",
       "Kategorie": "Sport",
       "Einheit": "Meter",
-      "Bildprüfung": "Schräges Foto mit Foullinie und vorderstem Pin, ohne Bemaßung, abzählbare Bodenplatten oder bekannte Vergleichsobjekte.",
+      "Bildprüfung": "Schräges Foto mit Foullinie und vorderstem Pin, ohne Bemaßung, abzählbare Bodenplatten oder bekannte Vergleichsobjekte.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Ohne Bild. Bekannte Bahnbreite, Pinabstände und Bodenmuster können selbst ohne Beschriftung die Länge messbar machen. Eine Kugelnahaufnahme würde die Strecke nicht klären.\nFrage + Bild → H1 → H2: H1 Schwimmbecken und H2 Gesamtlänge sollen Orientierung geben, keine maßstäbliche Bahnansicht davor.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SPO-0016. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://bowling.sport/wp-content/uploads/2023/07/World-Bowling-Playing-Rules-and-Regulations-as-of-Sept-2019.pdf",
       "Antwortwert": 18.3,
       "Frage": "Wie lang ist eine Bowlingbahn von der Foullinie bis zum Mittelpunkt des vordersten Pins, mit einer Nachkommastelle?"
@@ -4867,7 +4867,7 @@
       "Fragen-ID": "SPO-0017",
       "Kategorie": "Sport",
       "Einheit": "Gramm",
-      "Bildprüfung": "Einzelner Tischtennisball ohne Gewichtsaufdruck, Waage, Hand oder Vergleichsmünze.",
+      "Bildprüfung": "Einzelner Tischtennisball ohne Gewichtsaufdruck, Waage, Hand oder Vergleichsmünze.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Bei Bedarf. Einzelner Ball ohne Aufdruck und Größenvergleich; sehr vertrauter Gegenstand, Bildnutzen gering.\nFrage + Bild → H1 → H2: H1 Münzgewicht und H2 Durchmesser/Schale bleiben neu; keine Waage oder Schnittgrafik.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#SPO-0017. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://documents.ittf.sport/sites/default/files/public/2020-10/2020_BoD_documents_2.pdf",
       "Antwortwert": 2.7,
       "Frage": "Wie viele Gramm wiegt ein Tischtennisball nach ITTF-Regelvorgabe, mit einer Nachkommastelle?"
@@ -5099,7 +5099,7 @@
       "Fragen-ID": "TEC-0006",
       "Kategorie": "Technologie",
       "Einheit": "km/h",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann das spezielle Überschallflugzeug klären.\nMotiv: Concorde freigestellt.\nVermeiden: Keine Geschwindigkeitsangaben, Tachos, Routen mit Flugzeit oder Vergleichszüge.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann das spezielle Überschallflugzeug klären.\nMotiv: Concorde freigestellt.\nVermeiden: Keine Geschwindigkeitsangaben, Tachos, Routen mit Flugzeit oder Vergleichszüge.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Dasselbe klar erkennbare Concorde-Motiv wie bei HIS-0011; ohne Flugpfad, Geschwindigkeit oder Zug.\nFrage + Bild → H1 → H2: H1 Magnetschwebebahn und H2 Strecke/Flugzeit bleiben quantitativ nutzbar, Bild liefert keine weitere Zahl.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#TEC-0006. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.britishairways.com/en-us/information/about-ba/history-and-heritage/celebrating-concorde",
       "Antwortwert": 2170,
       "Frage": "Wie schnell flog Concorde laut British Airways ungefähr im Reiseflug, auf Zehner gerundet?"
@@ -5244,7 +5244,7 @@
       "Fragen-ID": "TEC-0011",
       "Kategorie": "Technologie",
       "Einheit": "Zoll",
-      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die Modellvariante vom Original abgrenzen.\nMotiv: Switch OLED als korrektes Einzelgerät.\nVermeiden: Keine andere Switch daneben, Hände, Skalen oder Zoll-/Zentimeterangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.",
+      "Bildprüfung": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann die Modellvariante vom Original abgrenzen.\nMotiv: Switch OLED als korrektes Einzelgerät.\nVermeiden: Keine andere Switch daneben, Hände, Skalen oder Zoll-/Zentimeterangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Modell mit weißem Joy-Con und dünnem Displayrand klarer als Produktname allein; kein Vergleichsmodell oder Maßstab. Modelltreue vor Einbau offen.\nFrage + Bild → H1 → H2: H1 Zollumrechnung und H2 Originalmodellgröße bleiben zusätzliche Information. Kein reales Bildmaß ohne externe Referenz.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#TEC-0011. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.nintendo.com/de-de/Hardware/Nintendo-Switch-Familie/Nintendo-Switch-OLED-Modell/Nintendo-Switch-OLED-Modell-2000984.html",
       "Antwortwert": 7,
       "Frage": "Wie groß ist die Bildschirmdiagonale der Nintendo Switch OLED in Zoll?"
@@ -5389,7 +5389,7 @@
       "Fragen-ID": "TEC-0016",
       "Kategorie": "Technologie",
       "Einheit": "Gramm",
-      "Bildprüfung": "Einzelne AA-Batterie ohne Gewichts- oder Kapazitätsaufdruck, Maße oder Vergleichsobjekte.",
+      "Bildprüfung": "Einzelne AA-Batterie ohne Gewichts- oder Kapazitätsaufdruck, Maße oder Vergleichsobjekte.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. AA-Format/Modell gegenüber AAA klären; keine Spannung, Kapazität, Masse oder Maße.\nFrage + Bild → H1 → H2: H1 Briefgewicht und H2 Abmessungen bleiben neue Maßstäbe; keine andere Batterie daneben.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#TEC-0016. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://energizer.com/wp-content/uploads/2025/01/e91_max_na.pdf",
       "Antwortwert": 23,
       "Frage": "Wie viele Gramm wiegt eine alkalische AA-Mignon-Batterie Energizer E91 laut Datenblatt typischerweise?"
@@ -5418,7 +5418,7 @@
       "Fragen-ID": "TEC-0017",
       "Kategorie": "Technologie",
       "Einheit": "Jahr",
-      "Bildprüfung": "Gewöhnliche bewegliche Minifigur ohne Jahres-, Jubiläums- oder Verpackungsaufdruck.",
+      "Bildprüfung": "Gewöhnliche bewegliche Minifigur ohne Jahres-, Jubiläums- oder Verpackungsaufdruck.\n\nOptionale Bildprüfung 27.11.2026 auf Nutzerauftrag: Sinnvoll. Bewegliche Arme/Beine grenzen den gemeinten Figurentyp ein. Kein historisches Erstset oder Jubiläum; gewöhnliche Figur.\nFrage + Bild → H1 → H2: H1 LEGOLAND und H2 Mauerfall bleiben Zeitanker. Bekannte Figur darf Wissen auslösen, Jahreszahl wird nicht eingeblendet.\nSeparate Vorschau: https://crosspoke-test.do-peter.chatgpt.site/bilder-optional/#TEC-0017. Motivstudie, noch kein Einbau/Freigabe. Q45–Q50 geprüft; Modell-/Architekturdetails, endgültige Fachprüfung und Playtest ggf. offen. Frage, Hinweise, Antwort, Revision und bisherige Bildentscheidung bleiben unverändert.",
       "Quelle": "https://www.lego.com/ms-my/aboutus/news/2019/october/minifigure-40",
       "Antwortwert": 1978,
       "Frage": "In welchem Jahr erschien die heutige LEGO-Minifigur mit beweglichen Armen und Beinen erstmals?"

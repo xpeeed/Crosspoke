@@ -1,0 +1,126 @@
+[
+  {
+    "path": "assets/CUR-0015.jpg",
+    "sha256": "d74b63c7fa453265473b99fab5b9ef1e4ab1e4721c89c6dc27a468f0ae3a70c3"
+  },
+  {
+    "path": "assets/ECO-0007.jpg",
+    "sha256": "94c5cb9ec93ccce47f076e0b8346fa302bc753d91bae374ae6752665f7f7b606"
+  },
+  {
+    "path": "assets/FOD-0006.jpg",
+    "sha256": "7d3de67120d2af51ee04eb71f3f90a0a9fd50413d944ffbb1cfe61f2f0d8fa8a"
+  },
+  {
+    "path": "assets/FOD-0009.jpg",
+    "sha256": "8e95e97a56acacd7591dc229b8e5d875a98a80427defa749d9ac7001851072d3"
+  },
+  {
+    "path": "assets/FOD-0012.jpg",
+    "sha256": "ed9c328489efc6427772b947e0c55fa59c4d042afea3a5c102dfefbdd9d8c246"
+  },
+  {
+    "path": "assets/GEO-0005.svg",
+    "sha256": "d9198a964e2d85212a9ec1bda9589000e049e2c5261ed3a23a5efc8652b1a70d"
+  },
+  {
+    "path": "assets/GEO-0006.svg",
+    "sha256": "2c03081a288bf544d3861df9f7ee746a57b04371d7d0fe23fc9bf1985289fef1"
+  },
+  {
+    "path": "assets/GEO-0007.jpg",
+    "sha256": "29c4190d6b1eb390fa08412409aa8f78f9df6a790def746194594eb8e4725b20"
+  },
+  {
+    "path": "assets/GEO-0009.jpg",
+    "sha256": "fa5dbaf872cb06b7f609602a89488fe7c42f058ffb79f9b75ea5009b1760bde1"
+  },
+  {
+    "path": "assets/GEO-0010.jpg",
+    "sha256": "f64c330165c7310351955f077955600e15f8e73cb81cca713fab5f7bf458fcfd"
+  },
+  {
+    "path": "assets/GEO-0011.svg",
+    "sha256": "bf0b42a9788b473455b40a5da6c9d8b7136101f89df3643527baead04f04f260"
+  },
+  {
+    "path": "assets/GEO-0016.svg",
+    "sha256": "5ce00e058ae4399a6b86265dca6533c252524104969ac405bf95bb79e828dea8"
+  },
+  {
+    "path": "assets/GEO-0019.svg",
+    "sha256": "c2d553f0572f381a6f6b6524da62aca5e32a93a40b48800d01bde240b39888bd"
+  },
+  {
+    "path": "assets/GEO-0022.svg",
+    "sha256": "e111aff94b2e14b641ce7699ab8e593ef0e28ff2ecbcc9d54d1e797e14ed8567"
+  },
+  {
+    "path": "assets/HIS-0005.jpg",
+    "sha256": "fa5dbaf872cb06b7f609602a89488fe7c42f058ffb79f9b75ea5009b1760bde1"
+  },
+  {
+    "path": "assets/HIS-0011.jpg",
+    "sha256": "5dd7492abc71ddeff3717839b3c18ec6ba3eb3ce6a6d5cb06bc59d6c2343050a"
+  },
+  {
+    "path": "assets/SCI-0006.jpg",
+    "sha256": "dae4860eb2084173c63dcd4bcdb29e141db12741e77c0129ae6c89c89a86c9c9"
+  },
+  {
+    "path": "assets/SCI-0007.jpg",
+    "sha256": "fc656c88e0ca9ffcd8cdb19a3e1d1bf242c1ec87496b72cebbfdda466f467948"
+  },
+  {
+    "path": "assets/SCI-0011.jpg",
+    "sha256": "9b1ad3201536e2bc92fe6e51e28705a1961251a4c455df0a7a57b13244fb345c"
+  },
+  {
+    "path": "assets/SCI-0013.jpg",
+    "sha256": "9b1ad3201536e2bc92fe6e51e28705a1961251a4c455df0a7a57b13244fb345c"
+  },
+  {
+    "path": "assets/SCI-0014.jpg",
+    "sha256": "9c4d734f613ba492cc3142f998a9bb78c74d0ecf5ada9f1424582575ae71c84b"
+  },
+  {
+    "path": "assets/SCI-0015.jpg",
+    "sha256": "2afced158729fafb8b7650d28f4b20668902fdda104f4c3993038a8f60a17d6b"
+  },
+  {
+    "path": "assets/SCI-0017.jpg",
+    "sha256": "78b8ef97f77549702947a65a1686965833019db19f846cc52b56a83723544aa3"
+  },
+  {
+    "path": "assets/SPO-0005.jpg",
+    "sha256": "4309bdbdd88a821bd17c870814b665ff7d662b9a5d56b79d3f73748593fd8d8d"
+  },
+  {
+    "path": "assets/SPO-0008.jpg",
+    "sha256": "1d40b60850a3b30f351576e31232aa82044902585870d8d50b1e922d0c7115dd"
+  },
+  {
+    "path": "assets/SPO-0011.jpg",
+    "sha256": "981c5888282a0ce16df608b6364077bd262400bf6a9f09962b21f24002a219e1"
+  },
+  {
+    "path": "assets/SPO-0017.jpg",
+    "sha256": "dfb16b6a8f53c5ae05b30170dcd9d66cd8633d0e876526f37c71f90fbd807c59"
+  },
+  {
+    "path": "assets/TEC-0006.jpg",
+    "sha256": "5dd7492abc71ddeff3717839b3c18ec6ba3eb3ce6a6d5cb06bc59d6c2343050a"
+  },
+  {
+    "path": "assets/TEC-0011.jpg",
+    "sha256": "b7fdec57a73eb00b47e4389471600acf22931f4bbafb941b68779491738a666e"
+  },
+  {
+    "path": "assets/TEC-0016.jpg",
+    "sha256": "3b373189956556db8b790a6a2fff6e8a68f92768d2c796a0de75bb0216f2fb5e"
+  },
+  {
+    "path": "assets/TEC-0017.jpg",
+    "sha256": "22140b4787ebfa3c51d12e6c5e6d6df74cc22c3d5615fcef74a47537dce85360"
+  }
+]
