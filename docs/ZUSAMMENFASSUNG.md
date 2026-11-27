@@ -1,3 +1,7 @@
+## Bildeinbau v0.2.4 · 27.11.2026
+
+20 Motive auf Nutzerfreigabe in die Spiel-Fragen eingebaut; Bilder ab Frage sichtbar, bei H1/H2/Auflösung erhalten und bei Pause verborgen. 166 reine Textfragen ohne Leerraum; Ladefehler blockieren das Spiel nicht. Daten v0.9/186 Fragen und Inhalte unverändert. Zuordnung: data/question-images.json. Separate Bildervorschau bleibt erhalten. 20 Notion-Metadaten verifiziert, lokale UI-/Handy-/Desktopprüfungen und bestehende Prüfungen bestanden. Details: docs/PRUEFBERICHT-BILDEINBAU-2026-11-27.md. Aktueller Testlink: https://crosspoke-test.do-peter.chatgpt.site . Veröffentlichung der neuen Version vorbereitet, Render unverändert.
+
 Sites-Veröffentlichung der separaten Bildervorschau beauftragt: pending/publishing. Noch kein bestätigter Live-Erfolg. URL: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/ . Deployment: appgprj_6b088e014a708191901daa5359dc984d~appgdep_5ff6671174708191afab6ba8951e776d. Sites-Quellcommit: 140833ba3958edcf6e08347b402f9cc31f16c717. Bei nächster Statusnachfrage dieses Deployment prüfen, keine neue Site oder erneute Veröffentlichung anlegen. Inhalt auf Mac/GitHub identisch; ursprüngliches Spiel unverändert.
 
 ## Separate Bildervorschau · 27.11.2026

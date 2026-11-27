@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-27",
+  "authorization": "Nutzer: Bau sie ein",
+  "gameVersion": "0.2.4",
+  "questionContentUnchanged": true,
+  "images": {
+    "CUR-0010": {
+      "src": "assets/questions/CUR-0010.jpg",
+      "alt": "FRAKTA-Tasche",
+      "width": 1200,
+      "height": 800
+    },
+    "CUR-0011": {
+      "src": "assets/questions/CUR-0011.jpg",
+      "alt": "DIXI B",
+      "width": 1200,
+      "height": 800
+    },
+    "ENT-0008": {
+      "src": "assets/questions/ENT-0008.svg",
+      "alt": "Konzertpedalharfe",
+      "width": 1200,
+      "height": 800
+    },
+    "FOD-0007": {
+      "src": "assets/questions/FOD-0007.jpg",
+      "alt": "Cheeseburger",
+      "width": 1200,
+      "height": 800
+    },
+    "FOD-0010": {
+      "src": "assets/questions/FOD-0010.jpg",
+      "alt": "Spaghetti N°5",
+      "width": 1200,
+      "height": 800
+    },
+    "GEO-0004": {
+      "src": "assets/questions/GEO-0004.svg",
+      "alt": "Rheinverlauf",
+      "width": 1200,
+      "height": 800
+    },
+    "GEO-0012": {
+      "src": "assets/questions/GEO-0012.jpg",
+      "alt": "Gotthard-Straßentunnel",
+      "width": 1200,
+      "height": 800
+    },
+    "GEO-0013": {
+      "src": "assets/questions/GEO-0013.svg",
+      "alt": "Afrika",
+      "width": 1200,
+      "height": 800
+    },
+    "GEO-0014": {
+      "src": "assets/questions/GEO-0014.svg",
+      "alt": "Südamerika",
+      "width": 1200,
+      "height": 800
+    },
+    "HIS-0006": {
+      "src": "assets/questions/HIS-0006.jpg",
+      "alt": "Benz Patent-Motorwagen",
+      "width": 1200,
+      "height": 800
+    },
+    "HIS-0009": {
+      "src": "assets/questions/HIS-0009.jpg",
+      "alt": "Sony Walkman",
+      "width": 1200,
+      "height": 800
+    },
+    "SCI-0005": {
+      "src": "assets/questions/SCI-0005.jpg",
+      "alt": "Grönlandhai",
+      "width": 1200,
+      "height": 800
+    },
+    "SCI-0008": {
+      "src": "assets/questions/SCI-0008.jpg",
+      "alt": "Giraffenkopf",
+      "width": 1200,
+      "height": 800
+    },
+    "SCI-0009": {
+      "src": "assets/questions/SCI-0009.jpg",
+      "alt": "Gepard",
+      "width": 1200,
+      "height": 800
+    },
+    "SCI-0010": {
+      "src": "assets/questions/SCI-0010.jpg",
+      "alt": "Bambustrieb",
+      "width": 1200,
+      "height": 800
+    },
+    "SCI-0012": {
+      "src": "assets/questions/SCI-0012.jpg",
+      "alt": "Rotes Riesenkänguru",
+      "width": 1200,
+      "height": 800
+    },
+    "SPO-0010": {
+      "src": "assets/questions/SPO-0010.svg",
+      "alt": "Bullseye",
+      "width": 1200,
+      "height": 800
+    },
+    "TEC-0005": {
+      "src": "assets/questions/TEC-0005.jpg",
+      "alt": "Wright Flyer",
+      "width": 1200,
+      "height": 800
+    },
+    "TEC-0008": {
+      "src": "assets/questions/TEC-0008.jpg",
+      "alt": "Erstes iPhone",
+      "width": 1200,
+      "height": 800
+    },
+    "TEC-0010": {
+      "src": "assets/questions/TEC-0010.jpg",
+      "alt": "AAA-Batterie",
+      "width": 1200,
+      "height": 800
+    }
+  },
+  "notionMetadata": [
+    {
+      "id": "CUR-0010",
+      "page_id": "425f73ae951f81e182e0de2de1b03603",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt die große Variante gegenüber kleineren Taschen.\nMotiv: Die konkrete große blaue FRAKTA-Tasche, ohne Etikett.\nVermeiden: Keine Traglast-/Literangabe, befüllte Vergleichslast, Person oder andere Tasche.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Leere Tasche ohne Traglast oder Vergleichsgegenstand. Modellmotiv; keine technische Produktabbildung. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#CUR-0010 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "CUR-0011",
+      "page_id": "425f73ae951f81a48d78f509c4de92bc",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt das Modell und verhindert Verwechslung mit TOI Water.\nMotiv: Die konkrete DIXI-B-Kabine als Einzelobjekt.\nVermeiden: Keine Gewichtsangabe, Waage, Größenvergleich oder Modellvergleichstafel.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Einzelne Kabine ohne Gewichtsangabe. Form und Modelltreue vor der Spielübernahme nochmals mit DIXI B abgleichen. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#CUR-0011 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "ENT-0008",
+      "page_id": "425f73ae951f8163bd9dc465c2e633bf",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt das weniger vertraute Instrument und den richtigen Harfentyp.\nMotiv: Sachlich korrekte Konzertharfen-Silhouette ohne einzeln zählbare Saiten.\nVermeiden: Kein ganzer Saitenfächer in lesbarer Auflösung, keine Saitennummern oder Harfenvergleich.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Reduzierte Harfenform. Einzelne Saiten sind absichtlich nicht dargestellt und können nicht gezählt werden. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#ENT-0008 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: Grafik.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "FOD-0007",
+      "page_id": "425f73ae951f819896aff667775a5af7",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Kann Cheeseburger gegenüber Hamburger und Doppelburger klären.\nMotiv: Genau ein McDonald's-Cheeseburger entsprechend der britischen Produktvariante.\nVermeiden: Keine Nährwerte, Menübeilagen, Getränke oder Packungszahlen; Motivquelle muss zur Variante passen.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Illustration eines einfachen Cheeseburgers ohne Nährwerte. Die britische Produktvariante muss vor der endgültigen Übernahme nochmals abgeglichen werden. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#FOD-0007 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "FOD-0010",
+      "page_id": "425f73ae951f81b3b244d7885a7236c9",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Die Nummer unterscheidet ähnlich aussehende Pasta-Sorten.\nMotiv: Spaghetti N°5 als korrekte Sortenidentifikation, ohne lesbare Kochzeit.\nVermeiden: Packungsrückseite und Uhrsymbol ausblenden; keine Zeitangabe, kein Vergleich mit N°3/N°7.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Die Sortenbezeichnung bleibt erkennbar; Kochzeit und Packungsdaten fehlen bewusst. Vereinfachtes Modellmotiv. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#FOD-0010 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "GEO-0004",
+      "page_id": "425f73ae951f81138de7cba282d0bf8a",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Der Verlauf macht die Flussstrecke vorstellbarer.\nMotiv: Geografisch korrekter Rheinverlauf mit Quelle und Mündung.\nVermeiden: Keine Skala, Streckenwerte, Ländergrenzen oder Hervorhebung des deutschen Abschnitts: dessen Länge nennt H2.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Vereinfachter Verlauf aus Geodaten, ohne Maßstab, Staatsgrenzen oder Markierung des deutschen Teilstücks. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#GEO-0004 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: Grafik.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "GEO-0012",
+      "page_id": "425f73ae951f81e2b845fc5c8f3e5525",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Hilft gegen Verwechslung mit dem Bahn-Basistunnel.\nMotiv: Erkennbares Straßenportal des Gotthard-Straßentunnels.\nVermeiden: Keine Kilometer-, Fahrzeit- oder Ausfahrtstafeln; keine proportional verglichene Tunnellänge.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Architektonische Motivstudie eines Straßenportals, keine dokumentarische Aufnahme. Die genaue Zuordnung zum Gotthard-Portal bleibt vor Spieleinsatz zu bestätigen. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#GEO-0012 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "GEO-0013",
+      "page_id": "425f73ae951f815ba3f0ff1aa4682e57",
+      "after": "Sachlich korrekter Afrika-Umriss ohne Binnen-/Staatsgrenzen, Ländernamen, Nummern oder Flächen-/Länderangaben. Keine Bilder erzeugt/eingebaut. Entscheidung auf Frage+H1+H2 bezogen. Vor Verwendung: konkretes Asset auf sachliche Richtigkeit, Rechte, Daten-/Preislecks, Vergrößerung und Handy-/Großbildschirm prüfen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Kontinentumriss aus Natural-Earth-Geodaten. Keine Staatsgrenzen oder Länder zum Abzählen. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#GEO-0013 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: Grafik.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "GEO-0014",
+      "page_id": "425f73ae951f81c5bb3af3c79858564d",
+      "after": "Umriss Südamerikas ohne Staatsgrenzen, Ländernamen oder Zählmarkierungen; Brasilien nicht als maßstäblichen Teil hervorheben. Keine Bilder erzeugt/eingebaut. Entscheidung auf Frage+H1+H2 bezogen. Vor Verwendung: konkretes Asset auf sachliche Richtigkeit, Rechte, Daten-/Preislecks, Vergrößerung und Handy-/Großbildschirm prüfen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Kontinentumriss aus Natural-Earth-Geodaten. Brasilien wird nicht gesondert hervorgehoben. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#GEO-0014 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: Grafik.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "HIS-0006",
+      "page_id": "425f73ae951f810f83a2caceb64606ce",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Erklärt, warum eine frühe Autofahrt eine andere Alltagserfahrung war.\nMotiv: Benz Patent-Motorwagen bzw. korrektes historisches Fahrzeug von Berthas Fahrt.\nVermeiden: Keine Karte mit Entfernungen; keine Kilometer- oder Fahrtzeitangaben.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Historisch orientierte Illustration eines dreirädrigen Patent-Motorwagens. Keine Route oder Kilometerangabe. Detailtreue bleibt vor Spieleinsatz abzugleichen. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#HIS-0006 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "HIS-0009",
+      "page_id": "425f73ae951f8152ad58e4af13fa598f",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Das konkrete frühe Gerät unterscheidet Kassette und CD-Player.\nMotiv: Sony Walkman TPS-L2.\nVermeiden: Keine Jahreszahl, Produktkartendaten oder Zeitachse.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Motivstudie des TPS-L2 ohne Jahreszahl. Beschriftung und technische Details vor Spieleinsatz mit dem Originalmodell abgleichen. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#HIS-0009 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "SCI-0005",
+      "page_id": "425f73ae951f818494bef4f9002f8392",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Die wenig vertraute Art wird vom üblichen Hai-Bild unterscheidbar.\nMotiv: Zoologisch korrektes Grönlandhai-Porträt.\nVermeiden: Kein Altersplakat, keine Lebenszeitleiste und kein anderes Haiartenmotiv.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Artporträt ohne Alter, Zeitachse oder Größenvergleich. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#SCI-0005 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "SCI-0008",
+      "page_id": "425f73ae951f818f8b0ee0a6793cd547",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt den gefragten Körperteil, ohne die ganze Länge zu zeigen.\nMotiv: Giraffenkopf, allenfalls kurze Zungenspitze.\nVermeiden: Keine vollständig gestreckte Zunge neben Kopf, Blatt, Lineal oder Hand.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Nur der Kopf; die Zunge bleibt verborgen und damit nicht ausmessbar. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#SCI-0008 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "SCI-0009",
+      "page_id": "425f73ae951f81dc9c85d874e2f32880",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Vermeidet Verwechslung mit Leopard und anderen Raubkatzen.\nMotiv: Korrekt erkennbarer Gepard.\nVermeiden: Kein Tacho, Rennen neben Auto oder Zeit-/Streckenmarkierung.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Artmerkmale statt Rennen: keine Geschwindigkeit oder Strecke. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#SCI-0009 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "SCI-0010",
+      "page_id": "425f73ae951f811183a7c02eb1c6e4e0",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Zeigt den wachsenden Pflanzenteil statt bloß eines alten Bambusrohrs.\nMotiv: Junger Bambustrieb ohne bekannten Größenmaßstab.\nVermeiden: Keine Tagesbilder, Vorher-Nachher-Längen, Messlatte oder Person.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Ein einzelner Trieb ohne Wachstumsfolge, Tagesmarkierung oder bekannten Maßstab. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#SCI-0010 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "SCI-0012",
+      "page_id": "425f73ae951f8162b2fff6788548078b",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Die ausdrücklich genannte Art wird von kleineren Kängurus unterschieden.\nMotiv: Rotes Riesenkänguru als korrekte Art.\nVermeiden: Keine Sprungbahn, Abstandspfeile, Bodenraster, Menschen oder Vergleichsbus.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Die genannte Art in ruhiger Haltung; keine Sprungbahn oder Vergleichsstrecke. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#SCI-0012 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "SPO-0010",
+      "page_id": "425f73ae951f8151ad3dc776b3360fbc",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt den Begriff Bullseye gegenüber Außenring.\nMotiv: Dartscheibe mit markiertem Bullseye als Detailausschnitt.\nVermeiden: Keine Bodenlinie, Person, Abwurflinie, Höhe oder Montageanleitung.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Schematischer Ausschnitt des Zentrums, ohne Boden, Person, Montagehöhe oder vollständigen Scheibendurchmesser. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#SPO-0010 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: Grafik.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "TEC-0005",
+      "page_id": "425f73ae951f8196a811cd7142894a06",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Erklärt den frühen Flugapparat statt eines heutigen Flugzeugs.\nMotiv: Wright Flyer von 1903, sachlich korrekt.\nVermeiden: Keine Start-/Landemarken, Flugzeit, Streckenwerte oder proportionale Flugpfadgrafik.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Historisch orientierte Motivstudie ohne Flugpfad, Strecke oder Flugzeit. Details vor Spieleinsatz abgleichen. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#TEC-0005 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "TEC-0008",
+      "page_id": "425f73ae951f8188a704c7f8bfdae57c",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt die Generation; heutige Modelle sind äußerlich und im Gewicht anders.\nMotiv: Das erste iPhone von 2007 ohne Hand oder Zubehör.\nVermeiden: Keine Waage, Packungsspezifikationen, Münzen oder Vergleichstelefone.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. Erkennbare frühe Geräteform ohne Gewicht, Zubehör oder Vergleichstelefon. Modellmotiv. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#TEC-0008 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    },
+    {
+      "id": "TEC-0010",
+      "page_id": "425f73ae951f81bda883ef2e39e45ec9",
+      "after": "Konzeptprüfung Q45–Q50, 27.11.2026. Klärt AAA gegenüber AA und anderer Chemie.\nMotiv: Eine Energizer-E92-AAA-Batterie, Typ lesbar.\nVermeiden: Keine Grammangabe, Waage, Münze, Hand oder Vergleichsbatterie.\nEntscheidung gilt für die aktuelle Frage mit H1 und H2. Kein Bild erzeugt oder eingebaut. Für ein konkretes Bild bleiben Richtigkeit, Herkunft/Rechte, Vergrößerung und Handy-/Großbildschirmtest offen.\n\nNachtrag 27.11.2026: Bildentwurf für die separate 20-Motive-Vorschau erstellt. AAA und E92 bleiben erkennbar; Gewichts-, Kapazitäts- und Spannungsangaben fehlen. Vereinfachtes Modellmotiv. Vorschau vorbereitet: https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/#TEC-0010 . Nicht in die Spielrunden übernommen; keine abschließende Bild-/Modellfreigabe. Frage, Antwortwert und Hinweise unverändert. Motivart: KI-Illustration.\n\nNutzerfreigabe 27.11.2026: „Bau sie ein“. Das zugeordnete Vorschau-Motiv wird ab Spielversion v0.2.4 bereits bei der Frage angezeigt und bleibt bei H1/H2/Auflösung sichtbar. Frage, Hinweise, Antwortwert und redaktionelle Revision unverändert. Die Freigabe betrifft den Einbau dieser Motivstudie; sie ersetzt keine unabhängige Modell-/Fachprüfung."
+    }
+  ]
+}

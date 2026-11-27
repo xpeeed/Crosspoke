@@ -12,3 +12,8 @@ const fields={'Frage':'question','Hinweis 1':'hint1','Hinweis 2':'hint2','Antwor
 for(const q of data.questions){const r=rows.find(r=>r['Fragen-ID']===q.id);assert.ok(r);for(const [a,b] of Object.entries(fields))assert.equal(r[a]??'',q[b]??'',q.id+' '+a);assert.equal(r.Quelle,q.source.url);}
 for(const id of ['CUR-0012','CUR-0013'])assert.ok(!data.questions.some(q=>q.id===id),'Zurückgestellt: '+id);
 console.log('PASS: 188 Notion-Einträge, 186 Testfragen, 30 bestehende Fragen (eine frühere Notion-Hinweisrevision nachgezogen); JSON, HTML und Sites-Artefakte konsistent.');
+
+const images=JSON.parse(read('data/question-images.json'));assert.equal(Object.keys(images).length,20);
+assert.deepEqual(JSON.parse(html.match(/const QUESTION_IMAGES=(\{[\s\S]*?\});\nfunction questionImage/)[1]),images);
+for(const [id,image] of Object.entries(images)){assert.ok(data.questions.some(q=>q.id===id));assert.match(image.src,/^assets\/questions\/[A-Z]{3}-\d{4}\.(jpg|svg)$/);assert.equal(read(image.src),read('site/dist/'+image.src));}
+console.log('PASS: 20 freigegebene Bildzuordnungen und lokale/Sites-Bilddateien konsistent.');

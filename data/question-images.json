@@ -1,0 +1,122 @@
+{
+  "CUR-0010": {
+    "src": "assets/questions/CUR-0010.jpg",
+    "alt": "FRAKTA-Tasche",
+    "width": 1200,
+    "height": 800
+  },
+  "CUR-0011": {
+    "src": "assets/questions/CUR-0011.jpg",
+    "alt": "DIXI B",
+    "width": 1200,
+    "height": 800
+  },
+  "ENT-0008": {
+    "src": "assets/questions/ENT-0008.svg",
+    "alt": "Konzertpedalharfe",
+    "width": 1200,
+    "height": 800
+  },
+  "FOD-0007": {
+    "src": "assets/questions/FOD-0007.jpg",
+    "alt": "Cheeseburger",
+    "width": 1200,
+    "height": 800
+  },
+  "FOD-0010": {
+    "src": "assets/questions/FOD-0010.jpg",
+    "alt": "Spaghetti N°5",
+    "width": 1200,
+    "height": 800
+  },
+  "GEO-0004": {
+    "src": "assets/questions/GEO-0004.svg",
+    "alt": "Rheinverlauf",
+    "width": 1200,
+    "height": 800
+  },
+  "GEO-0012": {
+    "src": "assets/questions/GEO-0012.jpg",
+    "alt": "Gotthard-Straßentunnel",
+    "width": 1200,
+    "height": 800
+  },
+  "GEO-0013": {
+    "src": "assets/questions/GEO-0013.svg",
+    "alt": "Afrika",
+    "width": 1200,
+    "height": 800
+  },
+  "GEO-0014": {
+    "src": "assets/questions/GEO-0014.svg",
+    "alt": "Südamerika",
+    "width": 1200,
+    "height": 800
+  },
+  "HIS-0006": {
+    "src": "assets/questions/HIS-0006.jpg",
+    "alt": "Benz Patent-Motorwagen",
+    "width": 1200,
+    "height": 800
+  },
+  "HIS-0009": {
+    "src": "assets/questions/HIS-0009.jpg",
+    "alt": "Sony Walkman",
+    "width": 1200,
+    "height": 800
+  },
+  "SCI-0005": {
+    "src": "assets/questions/SCI-0005.jpg",
+    "alt": "Grönlandhai",
+    "width": 1200,
+    "height": 800
+  },
+  "SCI-0008": {
+    "src": "assets/questions/SCI-0008.jpg",
+    "alt": "Giraffenkopf",
+    "width": 1200,
+    "height": 800
+  },
+  "SCI-0009": {
+    "src": "assets/questions/SCI-0009.jpg",
+    "alt": "Gepard",
+    "width": 1200,
+    "height": 800
+  },
+  "SCI-0010": {
+    "src": "assets/questions/SCI-0010.jpg",
+    "alt": "Bambustrieb",
+    "width": 1200,
+    "height": 800
+  },
+  "SCI-0012": {
+    "src": "assets/questions/SCI-0012.jpg",
+    "alt": "Rotes Riesenkänguru",
+    "width": 1200,
+    "height": 800
+  },
+  "SPO-0010": {
+    "src": "assets/questions/SPO-0010.svg",
+    "alt": "Bullseye",
+    "width": 1200,
+    "height": 800
+  },
+  "TEC-0005": {
+    "src": "assets/questions/TEC-0005.jpg",
+    "alt": "Wright Flyer",
+    "width": 1200,
+    "height": 800
+  },
+  "TEC-0008": {
+    "src": "assets/questions/TEC-0008.jpg",
+    "alt": "Erstes iPhone",
+    "width": 1200,
+    "height": 800
+  },
+  "TEC-0010": {
+    "src": "assets/questions/TEC-0010.jpg",
+    "alt": "AAA-Batterie",
+    "width": 1200,
+    "height": 800
+  }
+}

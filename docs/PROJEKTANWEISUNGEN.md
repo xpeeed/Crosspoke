@@ -17,7 +17,7 @@ Autorisiert am 26.11.2026: vollständige lokale Übernahme, GitHub-/Notion-Abgle
 - Aktuell 186 Testfragen, zehn Kategorien, v0.9; zwei weitere Notion-Einträge zurückgestellt, keine abschließende Release-/Playtestfreigabe. Keine weiteren Fragen ohne Auftrag; Ziel 300 bleibt Release-Aufgabe.
 - Hinweise einzeln und gemeinsam auf Informationsgewinn, Fakten, Kürze und Lösungslecks prüfen. H1 ungewöhnliche grobe Orientierung, H2 zusätzlicher konkreter Nutzen; keine präzise Berechenbarkeit.
 - Bestehende Tests und gezielte Prüfungen je Änderung; historische Tests nicht als Tests der aktuellen Standalone ausgeben. Browser-, Geräte- und Playtestgrenzen ausdrücklich nennen.
-- Standalone v0.2.3 nutzt MemoryStorage, verliert die Partie bei Reload. Core/Web v0.2.0 besitzt eine andere Persistenz-/UI-Architektur und v0.7-Daten. Das Paket unter development/ bleibt historisch und darf nicht als aktueller Release ausgegeben werden.
+- Standalone v0.2.4 nutzt MemoryStorage, verliert die Partie bei Reload. Core/Web v0.2.0 besitzt eine andere Persistenz-/UI-Architektur und v0.7-Daten. Das Paket unter development/ bleibt historisch und darf nicht als aktueller Release ausgegeben werden.
 - Analytics-Backend, vollständige Geräteprüfung, Quellen-Endprüfung und spätere Zusammenführung der Entwicklungsstände bleiben offen.
 
 

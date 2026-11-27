@@ -1,4 +1,4 @@
-Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T20:17:17.550Z:
+Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7 as of 2026-11-27T20:25:40.844Z:
 <page url="https://app.notion.com/p/424f73ae951f8142944ff6f38e741eb7" icon="♠️">
 <ancestor-path>
 <parent-page url="https://app.notion.com/p/3e5f73ae951f808b91dcdfa9d3932ac0" title="Gamifications"/>
@@ -11,11 +11,11 @@ Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424
 <content>
 ## Aktueller Teststand · <date start="2026-11-27" />
 
-Standalone v0.2.3, Fragenbestand v0.9: <b>186 Testfragen</b>. <mention url="https://app.notion.com/p/424f73ae951f81efab83fcc7c8c0df38" type="database">Crosspoke – Fragenbestand</mention> enthält weiterhin 188 Einträge; CUR-0012 (offener M&M-Hinweis) und CUR-0013 (Papierboot ohne Modell/Zählregel) bleiben zurückgestellt und werden nicht im Spiel gezogen.
+Standalone v0.2.4, Fragenbestand v0.9: <b>186 Testfragen</b>. <mention url="https://app.notion.com/p/424f73ae951f81efab83fcc7c8c0df38" type="database">Crosspoke – Fragenbestand</mention> enthält weiterhin 188 Einträge; CUR-0012 (offener M&M-Hinweis) und CUR-0013 (Papierboot ohne Modell/Zählregel) bleiben zurückgestellt und werden nicht im Spiel gezogen.
 
 156 Einträge aktualisiert und 710 geänderte Eigenschaften zurückgelesen: keine Abweichung. 19 Quellenfelder und 26 Antworterklärungen ergänzt, Spoilerhinweise ersetzt und erforderliche Rundungen präzisiert. Die bisherigen 30 Fragetexte/Lösungen/Einheiten bleiben erhalten; eine bereits dokumentierte Notion-Hinweisrevision der Knochenfrage wurde technisch nachgezogen. Exaktes Vorwissen ist erlaubt. Zugänglichkeit, hilfreiche Hinweise und gezielte statt dekorative Bildkonzepte bleiben maßgeblich.
 
-Die Einheit bleibt immer unter der Frage sichtbar. Bei 22 Zusatzfragen erscheint zusätzlich die erforderliche Nachkommastellenangabe. Kein unnötiger Null-Nachkommastellen-Hinweis. Keine neuen Bildassets eingebaut.
+Die Einheit bleibt immer unter der Frage sichtbar. Bei 22 Zusatzfragen erscheint zusätzlich die erforderliche Nachkommastellenangabe. Kein unnötiger Null-Nachkommastellen-Hinweis. Auf Nutzerfreigabe „Bau sie ein“ werden die 20 Bildmotive ab v0.2.4 bereits bei den zugehörigen Fragen eingeblendet; Bilder bleiben bei H1/H2 und der Auflösung sichtbar. Fragen ohne zugeordnetes Bild bleiben reine Textfragen.
 
 Prüfung: 186 Fragen ohne Wiederholung, 744 geschützte Phasenprojektionen, Import-/Syntax-/Synchronisationsprüfungen bestanden; Browserablauf und Handyansicht 390×844 geprüft. Zusätzlich 31 historische Core/Web-Tests bestanden. Reale Playtests, vollständige Geräteprüfung und unabhängige Quellen-Endprüfung bleiben offen; kein endgültiger Release.
 

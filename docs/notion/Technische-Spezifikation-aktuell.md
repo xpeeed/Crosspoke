@@ -1,4 +1,4 @@
-Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f816f9da0e84530307823 as of 2026-11-27T18:52:09.264Z:
+Here is the result of "fetch" for the Page with URL https://app.notion.com/p/424f73ae951f816f9da0e84530307823 as of 2026-11-27T20:25:40.844Z:
 <page url="https://app.notion.com/p/424f73ae951f816f9da0e84530307823" icon="⚙️">
 <ancestor-path></ancestor-path>
 <properties>
@@ -90,5 +90,13 @@ Wenn eine feste Rundung vorgegeben wird, müssen Fragetext, sichtbare Angabe, ve
 Aktuelle Standalone v0.2.3 mit Fragenbestand v0.9: 186 Testfragen aus 188 redaktionellen Einträgen. CUR-0012 und CUR-0013 bleiben zurückgestellt. Die Einheit steht in jeder Phase direkt unter der Frage. Die bedingte Genauigkeitsanzeige ist jetzt für 22 Zusatzfragen umgesetzt; ganze Zahlen erhalten keine zusätzliche Null-Nachkommastellen-Zeile. Festgelegte Rundung und aufgedeckter Referenzwert stimmen überein; Europreise gegebenenfalls centgenau. Physische Schätzungen und Potverteilung bleiben am Tisch.
 
 Die ersten 30 Fragetexte, Antwortwerte und Einheiten wurden nicht neu bearbeitet; die bereits vorhandene Notion-Hinweisrevision von HUM-0001 wurde synchronisiert. Aktuelle Standalone gesondert auf Import, vollständigen 186-Fragen-Pool und 744 Phasenprojektionen geprüft; Browserablauf und Handyansicht geprüft. Die zusätzlich erneut bestandenen 31 historischen Core/Web-Tests sind keine vollständige Prüfung der aktuellen Standalone. MemoryStorage/Reload-Grenze bleibt bestehen; reale Playtests und unabhängige Endprüfung bleiben offen. Keine Änderungen an Spielregeln, Blinds, Wertung, Analytics oder Render.
+
+## Bildeinbau v0.2.4 · <date start="2026-11-27" />
+
+Nutzerfreigabe: „Bau sie ein“. Die 20 Motive der separaten Vorschau sind den bestehenden Frage-IDs zugeordnet und werden direkt unter Frage und Einheit angezeigt. Das Bild bleibt bei H1/H2 und der Antwort sichtbar; in Pause wird es mit der Frage ausgeblendet. Fragen ohne Bild erzeugen keinen leeren Bildbereich. Bei fehlender Bilddatei erscheint ein kurzer Hinweis, und die Frage bleibt spielbar.
+
+Technische Zuordnung: <code>data/question-images.json</code>, identisch in der Standalone eingebettet; Bilddateien unter <code>assets/questions/</code> und in der Sites-Artefaktkopie. Keine Änderung an Frage, Hinweisen, Antwortwerten oder redaktionellen Fragenrevisionen; Datenbestand bleibt v0.9 mit 186 Testfragen. Separate Bildervorschau bleibt erhalten. Motiv-/Modellstudien werden durch die Nutzerfreigabe nicht zu unabhängigen Fachprüfungen.
+
+Gezielte Prüfung am tatsächlichen Standalone-Bildschirm mit lokaler deterministischer Frageauswahl: 20/20 Bilder geladen; Phasen, Textfrage ohne Bild, fortsetzbarer Ladefehler, Pause und Handy-/Desktopdarstellung geprüft. QA-Datenauswahl und Testserver werden nicht veröffentlicht. Keine Änderung an Engine, Blinds, Wertung oder Render.
 </content>
 </page>
