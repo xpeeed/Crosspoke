@@ -1,0 +1,77 @@
+[
+  {
+    "id": "CUR-0010",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. Asset: one illustration for a German estimation quiz. Landscape 3:2 composition. Consistent elegant realistic natural-history/museum editorial rendering, lightly painterly with accurate material texture, soft directional lighting. Restrained dark navy background (#111d2c), object clearly lit and easy to recognize on a phone. No ornamental frame or decoration. IMPORTANT: no measure, capacity, weight, time or answer information; no watermarks. A single EMPTY large blue IKEA FRAKTA woven-polypropylene shopping bag, wide rectangular open tote, unmistakable bright IKEA blue coarse woven material, two pairs of flexible blue/yellow woven carry straps. Studio three-quarter view, naturally folded sides, empty inside. NO contents, weight labels, capacity, numbers, packaging, scales, people, hands, comparison bags or size references. Do not print any branding text. The bag identifies the object, never its load capacity."
+  },
+  {
+    "id": "CUR-0011",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. Asset: one illustration for a German estimation quiz. Landscape 3:2 composition. Consistent elegant realistic natural-history/museum editorial rendering, lightly painterly with accurate material texture, soft directional lighting. Restrained dark navy background (#111d2c), object clearly lit and easy to recognize on a phone. No ornamental frame or decoration. IMPORTANT: no measure, capacity, weight, time or answer information; no watermarks. One DIXI B style portable toilet cabin: characteristic blue moulded-plastic outer body and BLUE single front door, pale translucent white gently domed roof, dark ventilation opening at top of front, small unobtrusive door handle. Three-quarter frontal studio view, single empty object, no surroundings or persons. NO alternative green TOI Water model, no wheelchair symbol, no sink, no scales, dimensions, weights, signage, advertising, numbers or other objects. This is a model-orientation illustration, not a technical product photograph."
+  },
+  {
+    "id": "FOD-0007",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. Asset: one illustration for a German estimation quiz. Landscape 3:2 composition. Consistent elegant realistic natural-history/museum editorial rendering, lightly painterly with accurate material texture, soft directional lighting. Restrained dark navy background (#111d2c), object clearly lit and easy to recognize on a phone. No ornamental frame or decoration. IMPORTANT: no measure, capacity, weight, time or answer information; no watermarks. Exactly one classic McDonald's UK style single cheeseburger as a restrained product illustration: plain smooth toasted bun WITHOUT sesame seeds, one thin beef patty, one slice melted yellow cheese, subtle pickle/ketchup/mustard/onion. Three-quarter view. No lettuce, tomato, bacon, second patty, fries, drinks, tray, wrapper, labels, calories, nutritional information or any text. Depict a normal modest cheeseburger, not a gourmet tower. No size reference."
+  },
+  {
+    "id": "FOD-0010",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. Asset: one illustration for a German estimation quiz. Landscape 3:2 composition. Consistent elegant realistic natural-history/museum editorial rendering, lightly painterly with accurate material texture, soft directional lighting. Restrained dark navy background (#111d2c), object clearly lit and easy to recognize on a phone. No ornamental frame or decoration. IMPORTANT: no measure, capacity, weight, time or answer information; no watermarks. One upright classic dark blue Barilla Spaghetti No.5 cardboard box as an editorial illustration. Its front carries only small brand word 'Barilla' and legible 'SPAGHETTI' plus 'N°5'. A clear window or plain drawing shows dry straight spaghetti inside; NO loose pasta bundles alongside. No cooking time, clock icon, nutrition, grams, capacity, other numbers or package back. Keep the face deliberately simplified. Exact permitted text: Barilla, SPAGHETTI, N°5. This distinguishes the pasta shape without giving its cooking time."
+  },
+  {
+    "id": "GEO-0012",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. An editorial architectural illustration of the NORTH ROAD portal of the Swiss Gotthard road tunnel near Göschenen, not a railway tunnel: one broad arched concrete entrance with dark road tunnel interior, asphalt road leading inside, Alpine rock and a small amount of conifer forest. No cars needed, no persons, no traffic signs, words, numbers, route markers, clocks, distance, dimensional scale, railway rails or length cutaway. Single quiet realistic scene focused on the ROAD portal. Do not show the other end or comparative tunnel dimensions."
+  },
+  {
+    "id": "HIS-0006",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. Historically informed editorial museum illustration of the Benz Patent-Motorwagen Model III associated with Bertha Benz's long-distance journey: THREE wheels, two large fine-spoked rear wheels and a smaller single front wheel, thin black tubular chassis, wooden floorboard, brown upholstered bench seat, simple tiller steering and exposed rear-mounted early engine. Three-quarter isolated view, no people. NO four-wheel automobile, modern steering wheel, roof, motorbike, road map, route, distance signs, speedometer, text, years or numbers."
+  },
+  {
+    "id": "HIS-0009",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. One authentic early Sony Walkman TPS-L2 cassette player. Rectangular blue metal body with brushed silver top/front accents, small cassette viewing window on the blue front, characteristic dark side transport buttons and small orange talk button. Show it at three-quarter angle, no headphones, cassette outside, packaging or other objects. Very small 'SONY' and 'TPS-L2' text permitted, NO dates, years, timeline, technical specs, sale labels, extra screens or modern digital Walkman. Do not put a year anywhere."
+  },
+  {
+    "id": "SCI-0008",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. Close-up natural-history portrait of a giraffe's HEAD and uppermost neck only, clearly patterned skin, ossicones and large eyes. Mouth closed; absolutely NO extended tongue. No leaves, branches, feeding, humans, rulers, diagrams, measurements, words, numbers or other animals. The image identifies the animal without revealing tongue length. Calm side-three-quarter view."
+  },
+  {
+    "id": "SCI-0009",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. A zoologically accurate single CHEETAH, Acinonyx jubatus: slender long-legged build, small rounded head, black tear marks descending from the inner eyes, solid black spots (not leopard rosettes), long tail. Standing calmly in side-three-quarter view, isolated visual, no running, race, speed effects, clocks, cars, distance marks, other animals, people, text or numbers. Identification only; no speed clue."
+  },
+  {
+    "id": "SCI-0010",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. A single living young BAMBOO SHOOT emerging from a minimally indicated patch of soil: tapering fresh shoot with overlapping dark bronze and green protective sheaths, a few small emerging green tips. Natural-history editorial illustration. NOT a cut bamboo pole or mature bamboo forest. NO before-and-after panels, growth arrows, day markers, multiple growth stages, people, hands, ruler, known-sized objects, measurements, letters or numbers. Nothing should encode a day's growth."
+  },
+  {
+    "id": "SCI-0012",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. One adult MALE RED KANGAROO (Osphranter rufus), zoologically correct: reddish-brown coat, pale underside, long pointed ears, powerful hindquarters, substantial long tail. Calm upright resting pose, side-three-quarter view, isolated. No jumping, flight path, arrows, repeated positions, ground distance, people, vehicles, comparison animals, scale, words or numbers. The image only identifies the species."
+  },
+  {
+    "id": "TEC-0005",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. Historically informed editorial museum illustration of the original WRIGHT FLYER of the first flights: beige unbleached fabric BIPLANE wings, delicate wood struts and fine wire bracing, forward canard elevator, twin rear propellers and rear vertical rudder, skid undercarriage, NO wheels. Isolated three-quarter view; no pilot or spectators, no landscape, takeoff/landing trace, flight path, time, distance, measurement, caption, year or numbers. A quiet aircraft identification image, not a picture of the length or duration of a flight."
+  },
+  {
+    "id": "TEC-0008",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. One FIRST-GENERATION iPhone from 2007 in a three-quarter FRONT view, black glass face, visibly broad black bezel above and below screen, circular physical home button with small rounded-square symbol, polished metal rim and rounded corners, dark unlit screen. Original compact form, not a modern edge-to-edge iPhone: no notch, no dynamic island, no multiple rear cameras. No hand, packaging, charger, other phone, dimensions, scale, weight, apps, dates, digits or words."
+  },
+  {
+    "id": "TEC-0010",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. One landscape 3:2 editorial illustration for a German estimation quiz. Accurate, elegant realistic museum/natural-history rendering, softly lit, subtle painterly texture, restrained dark navy background (#111d2c), clear isolated subject, readable on phone. No ornamental framing, no watermark. No answer, measurements, capacity, weight, date or time. Exactly one Energizer E92 alkaline AAA battery as an isolated editorial product illustration: slender cylindrical silver-and-black cell, small raised positive terminal, small green detail if desired. Three-quarter view. The ONLY readable words are 'Energizer', 'AAA', 'E92', 'ALKALINE' and a plus sign. No voltage, charge capacity, weight, dimensions or any other numbers. No hand, coins, comparison battery, pack or ruler. This clarifies cell type, not weight."
+  },
+  {
+    "id": "SCI-0005",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: scientific-educational. Create ONE landscape editorial wildlife illustration for a German estimation quiz, 3:2 composition. Subject: a zoologically accurate Greenland shark (Somniosus microcephalus), seen from the side in cold dark teal Arctic water: heavy cylindrical body, short rounded snout, small eyes, relatively small fins, mottled grey-brown skin. Calm, realistic natural-history museum illustration with subtle painterly texture, clear silhouette, restrained cool colours; dark navy background suited to a premium dark quiz interface. Show only this one shark. No humans, other species, measuring scales, numbers, labels, dates, rulers, age cues, graphs, timelines, watermarks or borders. This identifies the species; it must give NO clue about its age or size. No white shark triangular teeth or exaggerated dorsal fin. Keep ample breathing room."
+  }
+]

@@ -1,3 +1,7 @@
+## Separate Bildervorschau · 27.11.2026
+
+20 Bildentwürfe (15 KI-Illustrationen, fünf SVG-Grafiken) mit eigener klickbarer Vorschau unter https://crosspoke-test.do-peter.chatgpt.site/bilder-vorschau/ vorbereitet. Frage & Bild oder Nur Bilder; keine Hinweise/Lösungen. Noch keine Übernahme in die 186 Spielrundenfragen. Originales Spiel-HTML und Fragen-JSON bytegleich bewahrt. 20 Notion-Bildprüfungen ergänzt/verifiziert; Prompts und Asset-Hashes dokumentiert. Browser-/Handyprüfung bestanden; Motiv-/Modellfachfreigabe vor Spielübernahme offen. Details: docs/PRUEFBERICHT-BILDER-2026-11-27.md. Bestehende Site und Zugang bleiben erhalten, Render unverändert.
+
 ## Veröffentlichungsnachweis · 27.11.2026
 
 **Umgesetzt:** Crosspoke v0.2.3 / Fragen v0.9 mit 186 Testfragen. Notion enthält 188 Einträge, zwei bleiben zurückgestellt. GitHub-Spielcommit 9732442f23040b62070154e049252eeb5a5ab945; aktive Mac-Kopie inhaltsgleich. Sites-Quellcommit 5b72136b64ca2e1afb397cbfdfcd8bd1f4a568f6; HTML und JSON bytegleich mit dem geprüften Mac-/GitHub-Spielstand.

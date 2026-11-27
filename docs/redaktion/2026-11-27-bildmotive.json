@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-27",
+  "purpose": "Separate Bildervorschau, keine Übernahme in Spielrunden",
+  "selection": "20 Bildempfehlungen aus den Zusatzfragen; fünf weitere Empfehlungen der ersten 30 sind nicht Teil dieses Auftrags.",
+  "builtInImageGen": 15,
+  "ownSVG": 5,
+  "questionIds": [
+    "CUR-0010",
+    "CUR-0011",
+    "ENT-0008",
+    "FOD-0007",
+    "FOD-0010",
+    "GEO-0004",
+    "GEO-0012",
+    "GEO-0013",
+    "GEO-0014",
+    "HIS-0006",
+    "HIS-0009",
+    "SCI-0005",
+    "SCI-0008",
+    "SCI-0009",
+    "SCI-0010",
+    "SCI-0012",
+    "SPO-0010",
+    "TEC-0005",
+    "TEC-0008",
+    "TEC-0010"
+  ],
+  "assets": [
+    {
+      "id": "CUR-0010",
+      "file": "assets/CUR-0010.jpg",
+      "sha256": "61492234072720527d26abe5c8cacabf07c671406137001a0c408fe096386174",
+      "review": "Leere Tasche ohne Traglast oder Vergleichsgegenstand. Modellmotiv; keine technische Produktabbildung."
+    },
+    {
+      "id": "CUR-0011",
+      "file": "assets/CUR-0011.jpg",
+      "sha256": "a72b5d1c5a4e90ef51f2d6939d43bfa021dbaa61885d17c3d1753abcdd3e3d53",
+      "review": "Einzelne Kabine ohne Gewichtsangabe. Form und Modelltreue vor der Spielübernahme nochmals mit DIXI B abgleichen."
+    },
+    {
+      "id": "ENT-0008",
+      "file": "assets/ENT-0008.svg",
+      "sha256": "1bdf959d2cb11d92232bff51e050eef22172c125bdf8638a5d4d264172467134",
+      "review": "Reduzierte Harfenform. Einzelne Saiten sind absichtlich nicht dargestellt und können nicht gezählt werden."
+    },
+    {
+      "id": "FOD-0007",
+      "file": "assets/FOD-0007.jpg",
+      "sha256": "aa008a0ed43ad2df06665fb6b541c78c908e089036d945c320465c294c8c8bc4",
+      "review": "Illustration eines einfachen Cheeseburgers ohne Nährwerte. Die britische Produktvariante muss vor der endgültigen Übernahme nochmals abgeglichen werden."
+    },
+    {
+      "id": "FOD-0010",
+      "file": "assets/FOD-0010.jpg",
+      "sha256": "94a623253e4e99f238e037956745cf56c6772fecf4738d806ba51c635209a7e8",
+      "review": "Die Sortenbezeichnung bleibt erkennbar; Kochzeit und Packungsdaten fehlen bewusst. Vereinfachtes Modellmotiv."
+    },
+    {
+      "id": "GEO-0004",
+      "file": "assets/GEO-0004.svg",
+      "sha256": "fddd80dd14a7a750c9903eed29cbc2f71abefa0d00d0d5960051423e492760c0",
+      "review": "Vereinfachter Verlauf aus Geodaten, ohne Maßstab, Staatsgrenzen oder Markierung des deutschen Teilstücks."
+    },
+    {
+      "id": "GEO-0012",
+      "file": "assets/GEO-0012.jpg",
+      "sha256": "7ef4804ecaa9fca7aef26453ff98be2b6d17153de689517bf4f418451bd1eb23",
+      "review": "Architektonische Motivstudie eines Straßenportals, keine dokumentarische Aufnahme. Die genaue Zuordnung zum Gotthard-Portal bleibt vor Spieleinsatz zu bestätigen."
+    },
+    {
+      "id": "GEO-0013",
+      "file": "assets/GEO-0013.svg",
+      "sha256": "5983a2a65c9360b467fcfaafe2185fc6c72ce1e244de858c0f8db81089fcc596",
+      "review": "Kontinentumriss aus Natural-Earth-Geodaten. Keine Staatsgrenzen oder Länder zum Abzählen."
+    },
+    {
+      "id": "GEO-0014",
+      "file": "assets/GEO-0014.svg",
+      "sha256": "9ee2ea48ea415518873ba840a4856aade2d6a574bb1cd3fe10b5014008f2c3d7",
+      "review": "Kontinentumriss aus Natural-Earth-Geodaten. Brasilien wird nicht gesondert hervorgehoben."
+    },
+    {
+      "id": "HIS-0006",
+      "file": "assets/HIS-0006.jpg",
+      "sha256": "8303546ea09e00d236d4191f36c17400321b7d1bc18d8d815e5e7380f74eaa66",
+      "review": "Historisch orientierte Illustration eines dreirädrigen Patent-Motorwagens. Keine Route oder Kilometerangabe. Detailtreue bleibt vor Spieleinsatz abzugleichen."
+    },
+    {
+      "id": "HIS-0009",
+      "file": "assets/HIS-0009.jpg",
+      "sha256": "c1a1413d510683af5777672cff17dca3516fd0263cf1f828af36ebe90f0fb080",
+      "review": "Motivstudie des TPS-L2 ohne Jahreszahl. Beschriftung und technische Details vor Spieleinsatz mit dem Originalmodell abgleichen."
+    },
+    {
+      "id": "SCI-0005",
+      "file": "assets/SCI-0005.jpg",
+      "sha256": "d6bdc6fa27d44ae5b7c3130fbba0ccc19b3b6e4e1efd826928614f5f9cee6fa6",
+      "review": "Artporträt ohne Alter, Zeitachse oder Größenvergleich."
+    },
+    {
+      "id": "SCI-0008",
+      "file": "assets/SCI-0008.jpg",
+      "sha256": "2afced158729fafb8b7650d28f4b20668902fdda104f4c3993038a8f60a17d6b",
+      "review": "Nur der Kopf; die Zunge bleibt verborgen und damit nicht ausmessbar."
+    },
+    {
+      "id": "SCI-0009",
+      "file": "assets/SCI-0009.jpg",
+      "sha256": "26b12a5421ea778b1ab5aa20a12ce72e4b9415a2e1b959a93830db7eb21f310f",
+      "review": "Artmerkmale statt Rennen: keine Geschwindigkeit oder Strecke."
+    },
+    {
+      "id": "SCI-0010",
+      "file": "assets/SCI-0010.jpg",
+      "sha256": "fa08652d0d9a2e254ced9f6d1170ab387bb690ffe3125e0f45565a445d9bbeef",
+      "review": "Ein einzelner Trieb ohne Wachstumsfolge, Tagesmarkierung oder bekannten Maßstab."
+    },
+    {
+      "id": "SCI-0012",
+      "file": "assets/SCI-0012.jpg",
+      "sha256": "4f190b115e0d915d21265bd7b3cfd74f75de2e5699c795eb66bc449e175434ab",
+      "review": "Die genannte Art in ruhiger Haltung; keine Sprungbahn oder Vergleichsstrecke."
+    },
+    {
+      "id": "SPO-0010",
+      "file": "assets/SPO-0010.svg",
+      "sha256": "c4865b1b2a4d2481fdd2475cf24a027bc0702a08f642ec763c0f0e4510488c7e",
+      "review": "Schematischer Ausschnitt des Zentrums, ohne Boden, Person, Montagehöhe oder vollständigen Scheibendurchmesser."
+    },
+    {
+      "id": "TEC-0005",
+      "file": "assets/TEC-0005.jpg",
+      "sha256": "fc370eb7743d46bcf7e62b9a2f244f4cde9ee6f259957318d943c564c09010e2",
+      "review": "Historisch orientierte Motivstudie ohne Flugpfad, Strecke oder Flugzeit. Details vor Spieleinsatz abgleichen."
+    },
+    {
+      "id": "TEC-0008",
+      "file": "assets/TEC-0008.jpg",
+      "sha256": "32747f8794f9b2b20bcb3f7c5e9d1d3aa08dd71e8a0284250186165e6b0db27a",
+      "review": "Erkennbare frühe Geräteform ohne Gewicht, Zubehör oder Vergleichstelefon. Modellmotiv."
+    },
+    {
+      "id": "TEC-0010",
+      "file": "assets/TEC-0010.jpg",
+      "sha256": "c06437d16d5cb5344b96c3aee3595be4a0117d5370694cda885157c13a281896",
+      "review": "AAA und E92 bleiben erkennbar; Gewichts-, Kapazitäts- und Spannungsangaben fehlen. Vereinfachtes Modellmotiv."
+    }
+  ],
+  "sources": [
+    "https://www.naturalearthdata.com/about/terms-of-use/",
+    "https://github.com/nvkelso/natural-earth-vector",
+    "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-e.html",
+    "https://www.toitoidixi.de/produkte-services/produkt/dixi-b/",
+    "https://data.energizer.com/pdfs/E92_Max_EU.pdf"
+  ],
+  "limits": "Keine abschließende Modell-, zoologische oder redaktionelle Fachfreigabe. Motivstudien zur Durchsicht; gemeinsame Prüfung von Frage, H1 und H2 berücksichtigt, Hinweise/Lösungen aus Vorschau entfernt."
+}
